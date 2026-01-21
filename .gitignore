@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# uv
+.uv/
+uv.lock
+
+# Generated files - don't commit these
+generated/*.json
+generated/*.csv
+generated/*.md
+!generated/.gitkeep
+
+# Reading material (large PDFs)
+reading/
+
+# Spotify reference data
+spotify/
+
+# Lilypond downloads
+lilypond/
+
+# Images
+*.jpg
+*.webp
+
+# Cache
+.cache
+.claude/
+
+# macOS
+.DS_Store

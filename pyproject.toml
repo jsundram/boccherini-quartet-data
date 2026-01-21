@@ -1,0 +1,13 @@
+[project]
+name = "boccherini-quartets"
+version = "0.1.0"
+description = "String quartet catalog data management"
+requires-python = ">=3.10"
+dependencies = [
+    "spotipy>=2.23.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ipython",
+]
