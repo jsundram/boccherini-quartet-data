@@ -1,0 +1,81 @@
+{
+  "book_page": 191,
+  "entries": [
+    {
+      "g_number": 172,
+      "quartet_number": 14,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Minor",
+      "opus": {
+        "number": "9",
+        "work_number": 2,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [],
+      "sources": {},
+      "notes": "Op. 9 no. 2 of 1770 ('opera grande') in Boccherini's autograph catalogue."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 171,
+    "instrumentation": "two violins, viola and 'cello",
+    "sources": {
+      "first_edition": {
+        "date": "December, 1772",
+        "location": "Paris, V\u00e9nier",
+        "opus": "Op. 10",
+        "work_number": 1,
+        "title": "Sei quartetti per due violini, alto e violoncello dedicati alli Signori Diletanti di Madrid da Luigi Boccherini. opera X, libro terzo di quartetti nuovamenti stampati a spese di G. B. Venier. Prix 9. grav\u00e9s par Mme la Veuve Leclair. \u00e0 Paris chez Mr Venier Editeur de plusieurs ouvrages de musique rue Saint Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'eau et aux adresses ordinaires. A Lyon, Aux adresses de musique. APDR."
+      },
+      "later_editions": [
+        {
+          "date": "c. 1780",
+          "location": "London, Brenner",
+          "opus": "Op. 10",
+          "work_number": 1,
+          "title": "Sei quartetti per due violini, alto e violoncello Dedicati alli Sigri Delitanti (sic) di Madrid da Luigi Boccherini opera X libro (sic) terzo di quartetti. Londra presso Roberto Brenner, nello Strand."
+        },
+        {
+          "date": "c. 1785",
+          "location": "Amsterdam, Hummel",
+          "opus": "Op. 7",
+          "work_number": 1,
+          "title": "Six quatuors \u00e0 deux violons, taille et basse oblig\u00e9s compos\u00e9es par Luigi Boccherini. Oeuvre VII. A Amsterdam, chez J. J. Hummel, au grand magazin de musique. Prix f. 5. Plate no. 313."
+        },
+        {
+          "date": "c. 1785",
+          "location": "London, Preston",
+          "opus": "Op. 10",
+          "work_number": 1,
+          "title": "Sei quartetti per due violini, alto e violoncello Dedicati alli Sigri. Delitanti (sic) di Madrid, da Luigi Boccherini. opera X. Libro terzo di quartetti. Pr. 10s 6d: Londra. Presso Tomaso Preston nello Strand dove si trovano pure, le migliori Opere dei Maestri piu celebri."
+        },
+        {
+          "date": "c. 1790",
+          "location": "Paris, Boyer",
+          "opus": "Op. 10",
+          "work_number": 1,
+          "title": "Sei quartetti per due violini, alto e violoncello dedicati alli Signori diletanti di Madrid da Luigi Boccherini opera X. libro terzo di quartetti. mis au jour par Mr Boyer. Prix 9. Grav\u00e9s par Me la Vve Leclair, \u00e0 Paris, chez Mr Boyer, rue de Richelieu, \u00e0 la Clef d'or, passage du caff\u00e9 de foy. \u00e0 Lyon, aux adresses de musique. APDR. Plate no. 517. With the stamp 'Vve Naderman'."
+        }
+      ],
+      "modern_edition": {
+        "date": 1953,
+        "location": "Milan, Ricordi",
+        "opus": "Op. 10 no. 1",
+        "format": "pocket score",
+        "editor": "revised by Enrico Polo"
+      },
+      "arrangements": [
+        {
+          "type": "A",
+          "description": "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778 (see No. 45)."
+        },
+        {
+          "type": "B",
+          "description": "Of the third and fourth movements, as part of a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785 (see No. 46)."
+        }
+      ]
+    }
+  },
+  "partial_notes": "The page shows the end of entry G. 171 and the beginning of entry G. 172. G. 172 appears to be incomplete as it only shows the header information."
+}

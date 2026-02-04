@@ -48,8 +48,8 @@ def merge_entries(pages: List[dict]) -> List[dict]:
         book_page = page_data.get("book_page")
 
         # Handle continuation from previous page
-        if page_data.get("continues_from_previous"):
-            cont = page_data["continues_from_previous"]
+        cont = page_data.get("continues_from_previous")
+        if cont and isinstance(cont, dict):
             g_num = cont.get("g_number")
             if g_num and g_num in all_entries:
                 # Merge continuation data
@@ -188,19 +188,19 @@ def main():
     parser.add_argument(
         "--metadata-dir",
         type=Path,
-        default=Path("generated/metadata"),
+        default=Path("generated/extracted/metadata"),
         help="Directory containing page metadata JSON files"
     )
     parser.add_argument(
         "--incipits-dir",
         type=Path,
-        default=Path("generated/incipits"),
+        default=Path("generated/extracted/incipits"),
         help="Directory containing incipit images"
     )
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("generated/catalog.json"),
+        default=Path("generated/extracted/catalog.json"),
         help="Output path for assembled catalog"
     )
 

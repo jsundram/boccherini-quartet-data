@@ -206,7 +206,7 @@ def main():
     parser.add_argument(
         "--catalog",
         type=Path,
-        default=Path("generated/catalog.json"),
+        default=Path("generated/extracted/catalog.json"),
         help="Path to extracted catalog JSON"
     )
     parser.add_argument(
@@ -218,13 +218,13 @@ def main():
     parser.add_argument(
         "--incipits-dir",
         type=Path,
-        default=Path("generated/incipits"),
+        default=Path("generated/extracted/incipits"),
         help="Directory containing incipit images"
     )
     parser.add_argument(
         "--output",
         type=Path,
-        default=Path("generated/validation_report.json"),
+        default=Path("generated/extracted/validation_report.json"),
         help="Output path for validation report"
     )
 

@@ -1,0 +1,46 @@
+{
+  "book_page": 224,
+  "entries": [
+    {
+      "g_number": 201,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": null,
+      "opus": null,
+      "movements": [
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 436,
+          "instrument": "v1"
+        },
+        {
+          "number": 3,
+          "tempo": "Grave",
+          "incipit_number": 437,
+          "instrument": "v1"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro vivace assai",
+          "incipit_number": 438,
+          "instrument": "v1"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.571, 'Quartetto I\u00b0 per due violini, viola, e violoncello, composto per S.A.Rle Du Luigi Infante di Spagna da Luigi Boccherini, virtuoso di camera e compositore di musica di S.A.Rle. Opera 3a. 1780'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.61. 'Quartetto no. 25...'",
+          "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360, dated 1792"
+        ],
+        "first_edition": "(c. 1782), Vienna, Artaria (Op. 33), no. 1 of Sei quartetti per due violini, viola e violoncello dal Sigr Boccherini. Opera XXXIII. Vienna, presso Artaria Comp. /4. 30. Plate no. 34",
+        "later_editions": [
+          "(c. 1782/1785), London, Kerpen (Op. 33), no. 1 of Sei quartetti per due violini, viola e violoncello dal Signor Boccherini. Opera XXXIII. London. Printed and sold by John Kerpen no 19 Wardour Street. Soho"
+        ]
+      },
+      "continues_from_previous": true
+    }
+  ],
+  "partial_notes": "This page shows only movements 2-4 of G.201, continuing from previous page. First movement not visible."
+}

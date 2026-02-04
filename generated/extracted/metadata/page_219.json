@@ -1,0 +1,46 @@
+{
+  "book_page": 218,
+  "entries": [
+    {
+      "g_number": 195,
+      "instrumentation": "two violins, viola and 'cello",
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato",
+          "incipit_number": 423,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 424,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "(Trio)"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Venice, Conservatorio, Giustinian 15600/O.C.",
+          "Vienna, Bibl. Nat., S.m.11748"
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria (Op. 32), no. 1 of Six quatuors \u00e0 deux violons, viole et basse oblig\u00e9s compos\u00e9s par Luigi Boccherini, musicien de la Chambre de S.A.R. Dom Louis Infant d'Espagne, etc. ... oeuvre XXXII d\u00e9di\u00e9s \u00e0 Monsieur le Baron du Beine de Malchamps Conseiller Aulr de Sa M. I. R. Ap. par ses tr\u00e8s humbles et tr\u00e8s ob\u00e9issants serviteurs Artaria Compag. publi\u00e9s et se vendent chez Artaria Compag. \u00e0 Vienne. Prix 3f30. Plate no. 18",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Schmitt (Op. 32), no. 1 of Six quatuors \u00e0 2 violons, viole et basse oblig\u00e9s compos\u00e9s par Luigi Boccherini, musicien de la Chambre de S.A.R. Dom Louis Infant d'Espagne, oeuvre XXXII, \u00e0 Amsterdam, chez J. Schmitt, compositeur et marchand de musique. Prix f 4.",
+          "(c. 1790), Paris, Le Duc (Op. 32), no. 1 of Six quartetti per due violons, alto et basse compos\u00e9s par Luigi Boccherini, oeuvre 32. \u00e0 Paris, chez Le Duc, Rue Traversiere Saint-Honor\u00e9."
+        ],
+        "arrangements": [
+          "Of the six quartets (Nos. 195-200), as quartets for harpsichord, violin, viola and 'cello, by an unknown arranger of the 18th century (see No. 259)."
+        ]
+      },
+      "opus": {
+        "number": "32",
+        "work_number": 1
+      },
+      "notes": "A catalogue of music published by J. Bland, 45 Holborn, London (bound with the British Museum copy of Jacob Tours' 5 Sonates pour clavecin et violon), mentions an edition of Six Quartets op. 32 by Boccherini. Price 10/6, but no copy is known."
+    }
+  ]
+}

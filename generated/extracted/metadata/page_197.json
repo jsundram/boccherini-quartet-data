@@ -1,0 +1,54 @@
+{
+  "book_page": 196,
+  "entries": [
+    {
+      "g_number": 175,
+      "quartet_number": 17,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": "9",
+        "work_number": 5,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante con moto",
+          "incipit_number": 374,
+          "instrument": "v1"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro assai",
+          "incipit_number": 375,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 3,
+          "tempo": "Rondo Allegro",
+          "incipit_number": 376,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 10...' (separate parts)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 10...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 4...'",
+          "Genoa, Liceo Musicale Paganini, SS/A/2/13",
+          "M\u00fcnster, Priesterseminar-Santinibibliothek, Santini HS. 532, 'Opera III, Concerto quarto...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, and 22.5.2, 'Quartetto no. 3...'",
+          "Stams, Abbey, L.IV.66, 'No. 1. Sonata...'"
+        ]
+      },
+      "notes": "Published editions: (c. 1785), London, Preston: Op. 10 no. 4; (c. 1790), Paris, Boyer: Op. 10 no. 4. Modern edition: 1953, Milan, Ricordi: Op. 10 no. 4 (pocket score; revised by Enrico Polo)."
+    }
+  ],
+  "partial_notes": "This page shows one complete quartet entry (G.175). The page header indicates this is part of a section on string quartets with publication information for the series."
+}

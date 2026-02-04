@@ -1,0 +1,63 @@
+{
+  "book_page": 255,
+  "entries": [
+    {
+      "g_number": 231,
+      "quartet_number": 73,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "48",
+        "work_number": 6,
+        "year": 1794,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 513,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto affettuoso",
+          "incipit_number": 514,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (18). 'Mese di Decembre 1794. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositore di camera di S.M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Mulhouse, Bibl. Municipale, MN.4862",
+          "Paris, Conservatoire, D. 11172, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+        ]
+      },
+      "notes": "Unpublished."
+    },
+    {
+      "g_number": 232,
+      "quartet_number": 74,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "52",
+        "work_number": 1,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con moto",
+          "incipit_number": 515,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ]
+    }
+  ],
+  "partial_notes": "Entry 232 appears to continue on the next page as only one movement is shown"
+}

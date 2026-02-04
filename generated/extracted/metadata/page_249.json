@@ -1,0 +1,55 @@
+{
+  "book_page": 248,
+  "entries": [
+    {
+      "g_number": 223,
+      "quartet_number": 65,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Major",
+      "known_as": "La Tiranna",
+      "opus": {
+        "number": "44",
+        "work_number": 4,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Presto",
+          "incipit_number": 497,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 498,
+          "instrument": "v1",
+          "dynamics": "pp con semplicit\u00e0"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (9). 'Mese di Giugno 1792. Quartettino per due violini, viola e violoncello obbl\u00ba di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.599. Copy made in Berlin for Frederick William II.",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+          "Paris, Conservatoire, D. 11163, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+        ]
+      },
+      "notes": "Unpublished."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 222,
+    "movements": [
+      {
+        "number": 3,
+        "tempo": "Tempo di Minuetto",
+        "incipit_number": 496,
+        "instrument": "v1"
+      }
+    ]
+  },
+  "partial_notes": "Page starts with end of entry 222 showing movement 3, and contains complete entry 223"
+}

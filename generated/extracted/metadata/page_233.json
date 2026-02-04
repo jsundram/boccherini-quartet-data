@@ -1,0 +1,45 @@
+{
+  "book_page": 232,
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 207,
+    "instrumentation": "two violins, viola and cello",
+    "movements": [
+      {
+        "number": 1,
+        "tempo": "Allegro spiritoso",
+        "instrument": "v1",
+        "dynamics": "f"
+      },
+      {
+        "number": 2,
+        "tempo": "Rondeau. Allegretto ma con moto",
+        "instrument": "v1",
+        "dynamics": "pp",
+        "additional_marking": "Con amorfa",
+        "incipit_number": 457
+      }
+    ],
+    "sources": {
+      "autograph": {
+        "location": "Berlin, Deutsche Staatsbibliothek, M.579",
+        "description": "Quartettino I\u00b0 per due violini, viola, e violoncello composto per S.A.R.le Don Luigi Infante di Spagna da Luigi Boccherini, virtuoso di camera, e compositore di musica della Prefata S.A.R.le Opera 1a. 1781"
+      },
+      "ms_copies_parts": [
+        {
+          "location": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2)",
+          "description": "Opera prima, 1781\u2020. Sei quartettini per due violini, viola e violoncello obbligato composti da Luigi Boccherini, professore di musica all'actual servizio di S.M.C., compositore di S.M. Prussiana, e Direttore del Concerto dell Excellentissima Signora Contessa di Benavente, Duchessa di Ossuna, di Gandia, ecc. . . . The viola part is not in the hand of Boccherini."
+        },
+        {
+          "location": "Berlin, Deutsche Staatsbibliothek, M.585 and M.586",
+          "description": "Two copies made in Berlin for Frederick William II"
+        },
+        {
+          "location": "Mulhouse, Bibl. Municipale, MN.4862 (19th century)"
+        }
+      ]
+    },
+    "notes": "In spite of this date the MS. would appear to have been written after 1786, for in 1781 Boccherini was still in the exclusive service of the Infante Don Luis of Spain, who did not die until 1785 (Biography, p. 49). It is true that in 1781 the composer had just entered into relations with Prince Frederick William of Prussia, but the Prince was at this time heir to the throne and did not become King of Prussia until the death of his uncle, Frederick II in 1786 (Biography, p. 52). It was, therefore, only after 1786 that Boccherini could style himself 'composer to the King of Prussia.' Unpublished in Boccherini's life-time."
+  },
+  "partial_notes": "This page shows a continuation of entry G.207 (String Quartets). The entry includes detailed manuscript source information and historical notes about dating discrepancies. Movement 2 shows incipit numbers 457 and 458."
+}

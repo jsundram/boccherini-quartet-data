@@ -1,0 +1,59 @@
+{
+  "book_page": 221,
+  "entries": [
+    {
+      "g_number": 199,
+      "quartet_number": 4,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "26",
+        "work_number": 5,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [],
+      "sources": {},
+      "notes": "Op. 26 no. 5 of 1778 ('quartettino... opera piccola') in Boccherini's autograph catalogue."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 199,
+    "quartet_number": null,
+    "instrumentation": "two violins, viola and cello",
+    "key": null,
+    "opus": {},
+    "movements": [
+      {
+        "number": 1,
+        "tempo": "Larghetto",
+        "incipit_number": 429,
+        "instrument": "v1",
+        "dynamics": "p"
+      },
+      {
+        "number": 2,
+        "tempo": "Minuetto con moto",
+        "incipit_number": 430,
+        "instrument": "v1",
+        "dynamics": "p"
+      }
+    ],
+    "sources": {
+      "autograph": "Lost",
+      "ms_copies_parts": [
+        "Montecatini, Venturi private collection, A 9",
+        "Venice, Conservatorio, Giustinian 13669/O.C.",
+        "Vienna, Bibl. Nat., S.m.11751"
+      ],
+      "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 4 (for title, see No. 195)",
+      "later_editions": [
+        "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 4 (for title, see No. 195)",
+        "(c. 1790), Paris, Le Duc: Op. 32 no. 4 (for title, see No. 195)"
+      ],
+      "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 32 no. 4 (separate parts; revised by R. Hofmann). This edition was re-published c. 1945? by the International Music Co., New York",
+      "arrangements": "See No. 195"
+    }
+  },
+  "partial_notes": "Entry 199 continues from previous page with full publication details, and a new brief entry for the same work appears at bottom of page with key and opus information"
+}

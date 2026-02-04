@@ -1,0 +1,73 @@
+{
+  "book_page": 198,
+  "entries": [
+    {
+      "g_number": 177,
+      "quartet_number": 19,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "15",
+        "work_number": 1,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Presto",
+          "incipit_number": 381,
+          "instrument": "v1"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro rondeau",
+          "incipit_number": 382,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 7 ...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 2 ...'",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 530, 'Opera III?, Concerto secondo ...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, and 22.5.2, 'Quartetto no. 2 ...'"
+        ],
+        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 6",
+        "later_editions": [
+          "(c. 1780), London, Bremner: Op. 10 no. 6",
+          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 6",
+          "(c. 1785?), London, Preston: Op. 10 no. 6",
+          "(c. 1790), Paris, Boyer: Op. 10 no. 6"
+        ],
+        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 10 no. 6 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York."
+      },
+      "is_arrangement": false
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 176,
+    "sources": {
+      "ms_copies_score": [
+        "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 7 ...'"
+      ],
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 2 ...'",
+        "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 530, 'Opera III?, Concerto secondo ...'",
+        "Naples, Conservatorio. Two copies: 22.2.10, and 22.5.2, 'Quartetto no. 2 ...'"
+      ],
+      "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 6",
+      "later_editions": [
+        "(c. 1780), London, Bremner: Op. 10 no. 6",
+        "(c. 1785), Amsterdam, Hummel: Op. 7 no. 6",
+        "(c. 1785?), London, Preston: Op. 10 no. 6",
+        "(c. 1790), Paris, Boyer: Op. 10 no. 6"
+      ],
+      "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 10 no. 6 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York."
+    }
+  },
+  "partial_notes": "Entry 177 appears to be incomplete as only 2 movements are shown"
+}

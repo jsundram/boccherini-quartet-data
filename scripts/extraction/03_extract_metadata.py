@@ -171,7 +171,7 @@ def main():
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("generated/metadata"),
+        default=Path("generated/extracted/metadata"),
         help="Output directory for metadata JSON files"
     )
     parser.add_argument(

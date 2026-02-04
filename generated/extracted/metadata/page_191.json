@@ -1,0 +1,59 @@
+{
+  "book_page": 190,
+  "entries": [
+    {
+      "g_number": 171,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and cello",
+      "key": null,
+      "opus": null,
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro",
+          "incipit_number": 361,
+          "instrument": "v1",
+          "dynamics": null
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 362,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 363,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 4,
+          "tempo": "Presto",
+          "incipit_number": 364,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 9...' Probably a copy, but extremely interesting on account of the detailed accuracy with which the text, the slurs and the expression-marks are recorded. Is it possible that these details are in the hand of Boccherini? In any case, the MS. appears to have been copied from Boccherini's original MS.",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.T.4, 'Sonata a quattro no. 9...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611A, 'Quartetto no. 3...' A most interesting manuscript, of which the text is identical to that of the manuscript in Lucca, although the order of the works is different. The cover has a note 'Per S.A.R. Monsignore il Principe Hereditario di Prussia', i.e. the future Frederick William II.",
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8, 'Sonata...'",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 531, 'Opera III- Concerto terzo...' The viola and 'cello parts are in the hand of an eighteenth-century copyist; the handwriting of the two violin parts resembles that of Boccherini.",
+          "Naples, Conservatorio, 22.5.2, 'Quartetto no. 4...'"
+        ]
+      },
+      "notes": null,
+      "incomplete": false,
+      "is_arrangement": false
+    }
+  ],
+  "continues_from_previous": false,
+  "partial_notes": "This appears to be a complete entry for G.171 string quartets"
+}

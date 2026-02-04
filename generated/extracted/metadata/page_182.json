@@ -1,0 +1,51 @@
+{
+  "book_page": 181,
+  "entries": [
+    {
+      "g_number": 164,
+      "instrumentation": "two violins, viola and cello",
+      "movements": [
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 341,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 1 ...' (for comment, see No. 159)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 1 ...'"
+        ],
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B.1550",
+          "Graz, Di\u00f6zesanarchiv, Ms. 508",
+          "Montecatini, Venturi private collection, A.9",
+          "Paris, Conservatoire, D.10757",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.105",
+          "Stams, Abbey, L.IV.67",
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R",
+          "Venice, Bib. Marciana, It. IV. 1255 (=11162). Two violins parts only"
+        ],
+        "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 6 (for title, see No. 159)",
+        "later_editions": [
+          "(c. 1775), London, Welcker: Op. 1 no. 6 (for title, see No. 159)",
+          "(c. 1804), Amsterdam, Hummel: Op. 1 no. 6 (for title, see No. 159)",
+          "(c. 1852), Paris, Boyer-Nadermann: Op. 1 no. 6 (for title, see No. 159)",
+          "(c. 1853), London, Preston: Op. 1 no. 6 (for title, see No. 159)"
+        ]
+      },
+      "notes": "Almost all the MSS. copies indicate 'Adagio'. Incipit No. 342 shown as trio section."
+    }
+  ],
+  "continues_from_previous": true,
+  "partial_notes": "Entry 164 appears to be a partial continuation showing movements 2-3 and complete source information. The first movement and other details may be on the previous page."
+}

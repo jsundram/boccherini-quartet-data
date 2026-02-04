@@ -1,0 +1,56 @@
+{
+  "book_page": 204,
+  "entries": [
+    {
+      "g_number": 182,
+      "quartet_number": 24,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Minor",
+      "opus": {
+        "number": "15",
+        "work_number": 6,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 391,
+          "instrument": "v1",
+          "dynamics": "dolci."
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro moderato [Menuetto]",
+          "incipit_number": 392,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 3,
+          "tempo": "(Trio)",
+          "instrument": "v2",
+          "dynamics": "tr"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost.",
+        "ms_copies_parts": [
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8.",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLLC-97. 'Num. 3'. The first movement is entitled 'Larchetto alla francese'."
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 6 (for title, see No. 177).",
+        "later_editions": [
+          "(c. 1775), Venice, Marescalchi-Canobbio: no. 3 (for title, see No. 180).",
+          "(c. 1780), Venice, Zatta: no. 3 (for title, see No. 180).",
+          "(c. 1780), London, Preston: Op. 11 no. 3 (for title, see No. 180).",
+          "(c. 1785), Amsterdam, Hummel: Op. 8 no. 6 (for title, see No. 178).",
+          "(c. 1785), London, Welcker: Op. 11 no. 3 (for title, see No. 180).",
+          "(c. 1790?), Paris, Boyer: Op. 11 no. 6 (for title, see No. 177)."
+        ]
+      }
+    }
+  ],
+  "partial_notes": "This appears to be a complete entry for G.182"
+}

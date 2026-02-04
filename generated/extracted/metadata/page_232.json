@@ -1,0 +1,49 @@
+{
+  "book_page": 231,
+  "entries": [
+    {
+      "g_number": 207,
+      "quartet_number": 49,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Major",
+      "opus": {
+        "number": "33",
+        "work_number": 1,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "sources": {
+        "ms_copies_score": [
+          "Leipzig, Musikbibliothek der Stadt, III.12.13 (modern copy)"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
+          "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/12",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.58, 'Quartetto no. 58...'",
+          "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360, dated 1792"
+        ],
+        "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 6 (for title, see No. 201)",
+        "later_editions": [
+          "(c. 1782/1783), London, Kerpen: Op. 33 no. 6 (for title, see No. 201)",
+          "1785, Paris, Sieber: Op. 33 no. 6 (for title, see No. 201)",
+          "1798, Paris, Pleyel: Op. 39 no. 12 (Book 4 no. 3; for title, see No. 234)"
+        ],
+        "modern_editions": [
+          "(c. 1930?), Leipzig, Peters: Op. 33 no. 6 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943: by the International Music Co., New York",
+          "1953, Milan, Ricordi: Op. 33 no. 6 (pocket score; revised by Enrico Polo)"
+        ],
+        "arrangements": [
+          "Of the fourth movement, as part of a quartet (no. 1) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)",
+          "Of the second movement, as part of a quartet (no. 3) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+        ]
+      },
+      "notes": "Op. 33 no. 1 of 1781 ('quartettino... opera piccola') in Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "partial_content": "STRING QUARTETS (TWO VIOLINS, VIOLA AND 'CELLO) with MS. Copy (score) and MS. Copies (separate parts) information",
+    "is_partial": true
+  },
+  "partial_notes": "Page begins with what appears to be the end of a previous entry showing manuscript sources and editions"
+}

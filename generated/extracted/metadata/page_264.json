@@ -1,0 +1,65 @@
+{
+  "book_page": 263,
+  "entries": [
+    {
+      "g_number": 238,
+      "quartet_number": 80,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "53",
+        "work_number": 3,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 535,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto. Allegro",
+          "incipit_number": 536,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 4 (for title and comment, see No. 240)"
+      },
+      "notes": "Both movements are repeated, by Boccherini himself (?), in the quartet Op. 54 no. 3 (No. 252). No MSS. of any kind are known.",
+      "is_arrangement": true
+    },
+    {
+      "g_number": 239,
+      "quartet_number": 81,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "53",
+        "work_number": 4,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 537,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "continues_on_next": true
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 238,
+    "notes": "Arrangement: Of the whole quartet, as a guitar quintet, by Boccherini himself (see No. 449)."
+  },
+  "partial_notes": "Entry 239 is incomplete - appears to continue on next page. Entry 238 includes arrangement information from previous page."
+}

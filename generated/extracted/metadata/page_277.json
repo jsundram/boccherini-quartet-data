@@ -1,0 +1,124 @@
+{
+  "book_page": 276,
+  "entries": [
+    {
+      "g_number": 256,
+      "instrumentation": "two violins, viola and 'cello",
+      "is_arrangement": true,
+      "notes": "SIX QUARTETS for two violins, viola and 'cello (arrangements of the six quintets Op. 10 of 1771). No reference in Boccherini's autograph catalogue. For comment as to authorship, see below.",
+      "quartets": [
+        {
+          "quartet_number": 1,
+          "key": "A Major",
+          "movements": [
+            {
+              "tempo": "Andantino"
+            },
+            {
+              "tempo": "Largo"
+            },
+            {
+              "tempo": "Minuetto"
+            },
+            {
+              "tempo": "Allegro assai"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 1 (No. 265)."
+        },
+        {
+          "quartet_number": 2,
+          "key": "Eb Major",
+          "movements": [
+            {
+              "tempo": "Andantino"
+            },
+            {
+              "tempo": "Allegro"
+            },
+            {
+              "tempo": "Minuetto"
+            },
+            {
+              "tempo": "Presto"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 2 (No. 266)."
+        },
+        {
+          "quartet_number": 3,
+          "key": "C Minor",
+          "movements": [
+            {
+              "tempo": "Allegretto"
+            },
+            {
+              "tempo": "Adagio"
+            },
+            {
+              "tempo": "Minuetto"
+            },
+            {
+              "tempo": "Presto"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 3 (No. 267)."
+        },
+        {
+          "quartet_number": 4,
+          "key": "C Major",
+          "movements": [
+            {
+              "tempo": "Adagio and Allegro con forza"
+            },
+            {
+              "tempo": "Adagio"
+            },
+            {
+              "tempo": "Presto allegro"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 4 (No. 268)."
+        },
+        {
+          "quartet_number": 5,
+          "key": "Eb Major",
+          "movements": [
+            {
+              "tempo": "Andante"
+            },
+            {
+              "tempo": "Allegro assai"
+            },
+            {
+              "tempo": "Allegretto"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 5 (No. 269)."
+        },
+        {
+          "quartet_number": 6,
+          "key": "D Major",
+          "movements": [
+            {
+              "tempo": "Dolce"
+            },
+            {
+              "tempo": "Allegro maestoso"
+            },
+            {
+              "tempo": "Minuetto con variazioni"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 6 (No. 270)."
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "London, British Museum, Additional 34073. 'Quintet's 1st set op. 12 by Boccherini arranged for 2 violini, viola and violoncello'. MS. Copy (score: 18th century)"
+        ]
+      },
+      "additional_notes": "At the beginning of this MS. is the following note (19th century) in English: 'N.B.\u2014This manuscript is very correctly and carefully written, and may possibly be the hand writing of Dr Haydn; 1st from the close resemblance to his style as recorded, and 2ndly from the constant intercourse between these two eminent composers transmission to each other of their works (sic)'. The tradition that close relations existed between Haydn and Boccherini is discussed in the Biography (p. 45). With regard to the present MS. we have consulted two scholars with a special knowledge of Haydn, Messrs. Anthony van Hoboken and Karl Geiringer. The opinion of both is that the handwriting of the score of these six quartets, though very similar to that of Haydn, is not his nor that of any of his regular amanuenses. Moreover, there is no known instance of Haydn having arranged a series of works by another musician, even a friend. Whoever transcribed the score appears to have added certain words (though not the note quoted above) in English, and we are inclined to believe that the arrangements are the work of an English amateur of the beginning of the 19th century. Unpublished."
+    }
+  ]
+}

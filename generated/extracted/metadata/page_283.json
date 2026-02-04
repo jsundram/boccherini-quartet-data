@@ -1,0 +1,83 @@
+{
+  "book_page": 282,
+  "entries": [
+    {
+      "g_number": 262,
+      "title": "THREE QUARTETS (nos. 1 to 3) for clarinet, flute, horn and bassoon",
+      "instrumentation": "clarinet, flute, horn and bassoon",
+      "arranger": "Othon Van den Broek",
+      "is_arrangement": true,
+      "quartets": [
+        {
+          "number": 1,
+          "key": "C Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro vivace assai",
+              "arrangement_of": "first movement of the quartet in D Major Op. 52 no. 2 of 1795 (No. 233, Incipit No. 519)"
+            },
+            {
+              "number": 2,
+              "tempo": "Adagio non tanto",
+              "arrangement_of": "third movement of the quartet in F Minor Op. 52 no. 4 of 1795 (No. 235, Incipit No. 529)"
+            },
+            {
+              "number": 3,
+              "tempo": "Presto assai",
+              "arrangement_of": "fourth movement of the quartet in A Major Op. 32 no. 6 of 1780 (No. 206, Incipit No. 456)"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "key": "F Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro",
+              "arrangement_of": "fourth movement of the quartet in A Major Op. 39 of 1787 (No. 213, Incipit No. 473)"
+            },
+            {
+              "number": 2,
+              "tempo": "Larghetto",
+              "arrangement_of": "second movement of the quartet in C Major Op. 32 no. 4 of 1780 (No. 204, Incipit No. 447)"
+            },
+            {
+              "number": 3,
+              "tempo": "Allegro vivo ma non presto",
+              "arrangement_of": "third movement of the quartet in D Major Op. 32 no. 3 of 1780 (No. 203, Incipit No. 445)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "key": "C Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro con moto",
+              "arrangement_of": "first movement of the quartet in C Major Op. 52 no. 1 of 1795 (No. 232, Incipit No. 515)"
+            },
+            {
+              "number": 2,
+              "tempo": "Andantino lentarello",
+              "arrangement_of": "second movement of the quartet in A Major Op. 32 no. 6 of 1780 (No. 206, Incipit No. 454)"
+            },
+            {
+              "number": 3,
+              "tempo": "Tempo di Minuetto (trio)",
+              "arrangement_of": "second movement of the quartet in C Minor Op. 41 no. 1 of 1788 (No. 214, Incipit No. 475)"
+            },
+            {
+              "number": 4,
+              "tempo": "Finale. Allegro giusto",
+              "arrangement_of": "fourth movement of the quartet in C Major Op. 52 no. 1 of 1795 (No. 232, Incipit No. 518)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "partial_notes": "This page contains wind quartet arrangements rather than standard string quartets"
+}

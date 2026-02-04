@@ -1,0 +1,54 @@
+{
+  "book_page": 178,
+  "entries": [
+    {
+      "g_number": 162,
+      "quartet_number": 4,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": "2",
+        "work_number": 4,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro spiritoso",
+          "incipit_number": 334,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio",
+          "incipit_number": 335,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 336,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 6...' (for comment, see No. 159)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 6...'"
+        ],
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B.1550",
+          "Graz, Di\u00f6zesanarchiv, Ms. 516",
+          "Montecatini, Venturi private collection, A.9",
+          "Paris, Conservatoire. Two copies: D.10757, and D.10761, '... \u00e0 Mr. Dujard (?) officier de dragons'"
+        ]
+      }
+    }
+  ],
+  "partial_notes": "Complete entry for G. 162"
+}

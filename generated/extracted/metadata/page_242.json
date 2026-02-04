@@ -1,0 +1,65 @@
+{
+  "book_page": 241,
+  "entries": [
+    {
+      "g_number": 215,
+      "quartet_number": 57,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "41",
+        "work_number": 2,
+        "year": 1788,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato assai",
+          "incipit_number": 477,
+          "instrument": "v1",
+          "dynamics": null
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto. Allegro",
+          "incipit_number": 478,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 3,
+          "tempo": "Larghetto affettuoso",
+          "incipit_number": 479,
+          "instrument": "v1",
+          "dynamics": null
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "Berlin, Deutsche Staatsbibliothek, M.558 'Mese di Maggio 1788. Quartetto per due violini, viola, e violoncello composto da Luigi Boccherini Professor di musica all' atual servizio di S.M.C. e compositor di camera di S.M. Prussiana'. Copy made in Berlin for Frederick William II from the lost autograph manuscript score sent by Boccherini."
+        ],
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 6 (Book 2 no. 3; for title and comment, see No. 234)",
+        "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 41 (separate parts; revised by Walter Upmeyer), no. 3 in L. Boccherini Ausgew\u00e4hlte Streichquartette",
+        "arrangements": [
+          "Of the second movement, as part of a quartet (no. 3) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+        ]
+      },
+      "notes": "For comment, see note to previous number."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "sources": {
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.558 'Mese di Maggio 1788. Quartetto per due violini, viola, e violoncello composto da Luigi Boccherini Professor di musica all' atual servizio di S.M.C. e compositor di camera di S.M. Prussiana'. Copy made in Berlin for Frederick William II from the lost autograph manuscript score sent by Boccherini."
+      ],
+      "first_edition": "1798, Paris, Pleyel: Op. 39 no. 6 (Book 2 no. 3; for title and comment, see No. 234)",
+      "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 41 (separate parts; revised by Walter Upmeyer), no. 3 in L. Boccherini Ausgew\u00e4hlte Streichquartette",
+      "arrangements": [
+        "Of the second movement, as part of a quartet (no. 3) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+      ]
+    }
+  },
+  "partial_notes": "Page starts with continuation of entry information from previous page, showing sources for what appears to be entry [215]"
+}

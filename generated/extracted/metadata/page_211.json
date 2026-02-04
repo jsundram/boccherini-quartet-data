@@ -1,0 +1,46 @@
+{
+  "book_page": 210,
+  "entries": [
+    {
+      "g_number": 188,
+      "quartet_number": 30,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "22",
+        "work_number": 6,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino",
+          "incipit_number": 403,
+          "instrument": "v2",
+          "dynamics": "soave"
+        },
+        {
+          "number": 2,
+          "tempo": "Non troppo presto",
+          "incipit_number": 404,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.568, 'Quartetto VI' (for title, see No. 183)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II",
+          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+        ],
+        "first_edition": "(1776?), Paris, La Chevardi\u00e8re: Op. 26 no. 6 (for title, see No. 183)",
+        "later_editions": [
+          "(c. 1800), Paris, Imbault: Op. 26 no. 6 (for title and comment, see No. 183)"
+        ],
+        "modern_edition": "The last movement\u2014non troppo presto\u2014has been published as an additional last movement to the quartet Op. 24 no. 4 (No. 192) by E. Polo (Milan, Ricordi, 1953; pocket score)"
+      },
+      "notes": "See note to No. 295."
+    }
+  ]
+}

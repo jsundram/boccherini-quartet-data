@@ -1,0 +1,53 @@
+{
+  "book_page": 212,
+  "entries": [
+    {
+      "g_number": 190,
+      "quartet_number": 32,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "24",
+        "work_number": 2,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 408,
+          "instrument": "v1"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro spiritoso",
+          "incipit_number": 409,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto Amoroso",
+          "incipit_number": 410,
+          "instrument": "v1",
+          "dynamics": "soave, pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost (see No. 189)",
+        "first_edition": "(1778?), Paris, Sieber: Op. 27 no. 5",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 5"
+        ],
+        "modern_edition": "1932, Kassel, B\u00e4renreiter: Op. 24 no. 5 (separate parts, revised by Walter Upmeyer), no. 2 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
+      },
+      "notes": "Op. 24 no. 2 of 1776-1778 ('opera grande') in Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 189,
+    "notes": "the numbers D. 11. 556, D. 10. 587 (score) and D. 10. 588. These copies present many inaccuracies and mistakes. Moreover, they are for the most part fragments of the quartets and not the complete works."
+  },
+  "partial_notes": "Entry 189 continues from previous page with information about manuscript copies and their issues. Entry 190 is complete on this page."
+}

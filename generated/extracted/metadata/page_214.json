@@ -1,0 +1,59 @@
+{
+  "book_page": 213,
+  "entries": [
+    {
+      "g_number": 191,
+      "quartet_number": 33,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "24",
+        "work_number": 3,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato",
+          "incipit_number": 411,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio non tanto",
+          "incipit_number": 412,
+          "instrument": "v2",
+          "dynamics": "dolcis."
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 413,
+          "instrument": "v1",
+          "dynamics": "sotto voce"
+        }
+      ],
+      "sources": {
+        "autograph": "in Boccherini's autograph catalogue"
+      },
+      "notes": "for comment, see No. 189"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 191,
+    "sources": {
+      "ms_copies_parts": [
+        "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6, 'Quartetto no. 4...'",
+        "Paris, Conservatoire, a parcel of copies (see No. 189)"
+      ],
+      "first_edition": "(1778?), Paris, Sieber: Op. 27 no. 4 (for title, see No. 191)",
+      "later_editions": [
+        "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 4 (for title, see No. 191)"
+      ],
+      "modern_edition": "1953, Milan, Ricordi: Op. 27 no. 4 (pocket score; revised by Enrico Polo); The order of the movements is different: Allegro\u2014Larghetto\u2014Minuetto"
+    }
+  },
+  "partial_notes": "Page begins mid-entry for G.191, showing the end of a previous quartet entry with publication information"
+}

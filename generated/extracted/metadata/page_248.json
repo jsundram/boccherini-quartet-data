@@ -1,0 +1,64 @@
+{
+  "book_page": 247,
+  "entries": [
+    {
+      "g_number": 222,
+      "quartet_number": 64,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "44",
+        "work_number": 3,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Lento assai",
+          "incipit_number": 494,
+          "instrument": "v1",
+          "dynamics": "ten."
+        },
+        {
+          "number": 2,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 495,
+          "instrument": null,
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {},
+      "notes": "The above movement follows immediately after the Lento and is followed by a repeat of the same Lento."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 221,
+    "movements": [
+      {
+        "number": 2,
+        "tempo": "Minuetto amoroso (Trio)",
+        "incipit_number": 492,
+        "instrument": "v1",
+        "dynamics": "sempre pp"
+      },
+      {
+        "number": 3,
+        "tempo": "Andante allegretto",
+        "incipit_number": 493,
+        "instrument": "v1",
+        "dynamics": "pp"
+      }
+    ],
+    "sources": {
+      "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (8). 'Mese di Aprile 1792. Quartettino per due violini, viola e violoncello obbt\u00b0 di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.598. Copy made in Berlin for Frederick William II.",
+        "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+        "Paris, Conservatoire, D.11162, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+      ]
+    },
+    "notes": "Unpublished."
+  },
+  "partial_notes": "Entry 221 continues from previous page showing movements 2-3 and source information. Entry 222 shows only first 2 movements."
+}

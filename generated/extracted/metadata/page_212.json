@@ -1,0 +1,49 @@
+{
+  "book_page": 211,
+  "entries": [
+    {
+      "g_number": 189,
+      "quartet_number": 31,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "24",
+        "work_number": 1,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Moderato",
+          "incipit_number": 405,
+          "instrument": "va",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Grave",
+          "incipit_number": 406,
+          "instrument": "v1",
+          "dynamics": "poco f"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro assai",
+          "incipit_number": 407,
+          "instrument": "v2",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Conservatoire, MS. 1292, 'Sei quartetti per due violini, viola e violoncello obbligato composti per S.A.R. Don Luigi Infante di Spagna da Luigi Boccherini, virtuoso di camera e compositore di S. A. Rle, opera 1, 1777' (the second quartet is missing). The MS. bears the stamps of the collections of Louis Picquot and Charles Malherbe.",
+        "ms_copies_parts": [
+          "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6, 'Quartetto no. 3...'",
+          "Paris, Conservatoire, a parcel of copies of the six quartets Op. 24"
+        ]
+      },
+      "notes": "The composition of these quartets, which mark an important date in the evolution of Boccherini's style, must have been spread over a relatively long period. The date on the MS. has been scratched out by Boccherini himself. He first wrote 'op. 111e de 1776' and then altered this to 'op. 12e de 1777'. Eventually, when he drew up a thematic catalogue of his works, he listed these quartets under the year 1778 with the number Op. 24. We do not know the reason for these changes; but the first date makes it clear that the six works were composed\u2014if not in their final form, at least in their general spirit\u2014as early as the middle of the year 1776.",
+      "continues_on_next": true
+    }
+  ]
+}

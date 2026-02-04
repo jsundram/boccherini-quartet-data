@@ -1,0 +1,59 @@
+{
+  "book_page": 182,
+  "entries": [
+    {
+      "g_number": 165,
+      "quartet_number": 7,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "8",
+        "work_number": 1,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro assai",
+          "incipit_number": 343,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio",
+          "incipit_number": 344,
+          "instrument": "v1"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro Rondeau",
+          "incipit_number": 345,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quartetto op. 2...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, 'Quartetto no. 1...' and 22.5.6, 'Quartetto no. 1... per uso di S. E. Abbate de Antonio Giorgio'",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.57, 'Divertimento \u00e0 quattro...' (first two movements only)",
+          "Stams, Abbey, L.IV.69, 'Quartetto op. 2...'"
+        ],
+        "modern_edition": "1953, Milan, Ricordi: Op. 1 no. 6 (pocket score; revised by Enrico Polo)",
+        "arrangements": [
+          "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778",
+          "Of the third movement, for a string orchestra, by Marescalchi(?), c. 1775(?)"
+        ]
+      },
+      "notes": "Listed as Op. 8 no. 1 of 1769 ('opera grande') in Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {
+    "section": "STRING QUARTETS (TWO VIOLINS, VIOLA AND 'CELLO)",
+    "notes": "Page continues from previous string quartet entries with modern edition and arrangements information"
+  },
+  "partial_notes": "Page shows entry 165 in full, with reference to arrangements from previous entries at top of page"
+}

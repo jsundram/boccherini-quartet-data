@@ -1,0 +1,51 @@
+{
+  "book_page": 235,
+  "entries": [
+    {
+      "g_number": 210,
+      "quartet_number": 52,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "B\u266d Major",
+      "opus": {
+        "number": "33",
+        "work_number": 4,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante lentarello",
+          "incipit_number": 463,
+          "instrument": "v1c",
+          "dynamics": "rinf."
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 464,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.582, 'Quartettino IV\u00b0...' (for title, see No. 207)"
+      }
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 210,
+    "sources": {
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.585 and M.586. Two copies made in Berlin for Frederick William II.",
+        "Mulhouse, Bibl. Municipale, MN.4862 (19th century)"
+      ],
+      "first_edition": "1958, Rome, del Turco, in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)",
+      "later_editions": [
+        "1960, Hamburg/London, Simrock (separate parts; revised by W. H\u00f6ckner and H. Mlynarczyk)"
+      ]
+    },
+    "notes": "Unpublished in Boccherini's life-time."
+  },
+  "partial_notes": "Entry 210 appears to continue from previous page with manuscript and publication information, then shows the complete musical details on this page"
+}

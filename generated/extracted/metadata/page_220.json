@@ -1,0 +1,52 @@
+{
+  "book_page": 219,
+  "entries": [
+    {
+      "g_number": 196,
+      "quartet_number": 38,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Minor",
+      "opus": {
+        "number": "26",
+        "work_number": 2,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 425,
+          "instrument": "v1",
+          "dynamics": "dolce"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 426,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "notes": "Trio section marked with 'dolcis.'"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Venice, Conservatorio, Giustinian 15669/O.C.",
+          "Vienna, Bibl. Nat., S.m.11749"
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 2 (for title, see No. 195)",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Schmit: Op. 32 no. 2 (for title, see No. 195)",
+          "(c. 1790), Paris, Le Duc: Op. 32 no. 2 (for title, see No. 195)"
+        ],
+        "arrangements": "See No. 195"
+      },
+      "notes": "Listed as 'quartettino... opera piccola' in Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {
+    "section_note": "Part of section (B) regarding six quartets (Nos. 195-200) as duets for two harpsichords, arranged by unknown 18th century arranger"
+  },
+  "partial_notes": "This entry appears to be complete on this page"
+}

@@ -1,0 +1,52 @@
+{
+  "book_page": 269,
+  "entries": [
+    {
+      "g_number": 246,
+      "quartet_number": 88,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": "58",
+        "work_number": 5,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante sostenuto",
+          "incipit_number": 556,
+          "instrument": "v1",
+          "dynamics": "ff"
+        },
+        {
+          "tempo": "Allegretto Gajo",
+          "incipit_number": 557,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Repeat of the Andante sostenuto",
+          "followed_by": "Presto",
+          "incipit_number": 558,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 5 (for title, see No. 242)",
+        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 5 (pocket score and separate parts; revised by P. Carmirelli)"
+      },
+      "notes": "No MSS. of any kind are known."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "sources": {
+      "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 4 (pocket score and separate parts; revised by P. Carmirelli)"
+    }
+  },
+  "partial_notes": "Page begins with continuation of modern edition info from previous entry"
+}

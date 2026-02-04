@@ -1,0 +1,38 @@
+{
+  "book_page": 238,
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 212,
+    "instrumentation": "two violins, viola and 'cello",
+    "movements": [
+      {
+        "number": 1,
+        "tempo": "Adagio",
+        "incipit_number": 468,
+        "instrument": "v1",
+        "dynamics": "pp"
+      },
+      {
+        "number": 2,
+        "tempo": "Minuetto. Affettuoso",
+        "incipit_number": 469,
+        "instrument": "v1",
+        "dynamics": "dolcissimo"
+      }
+    ],
+    "sources": {
+      "autograph": "Berlin, Deutsche Staatsbibliothek, M.584, 'Quartettino VI' (for title, see No. 207)",
+      "ms_copies_parts": [
+        "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2) (for title and comment, see No. 207)",
+        "Berlin, Deutsche Staatsbibliothek, M.585 and M.586. Two copies made in Berlin for Frederick William II",
+        "Mulhouse, Bibl. Municipale, MN.4862 (19th century)"
+      ],
+      "first_edition": "1958, Rome, del Turco, in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)",
+      "later_editions": [
+        "1960, Hamburg/London, Simrock (separate parts: revised by W. H\u00f6ckner and H. Mlynarczyk)"
+      ]
+    },
+    "notes": "Unpublished in Boccherini's life-time."
+  },
+  "partial_notes": "Page shows the end of G.212 string quartet entry, including manuscript sources and publication information"
+}

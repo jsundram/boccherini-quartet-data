@@ -1,0 +1,86 @@
+{
+  "book_page": 283,
+  "entries": [
+    {
+      "g_number": 263,
+      "is_arrangement": true,
+      "instrumentation": "clarinet, flute, horn and bassoon",
+      "sources": {
+        "first_edition": {
+          "year": 1812,
+          "publisher": "Pleyel",
+          "location": "Paris",
+          "title": "Trois quatuors pour clarinette, fl\u00fbte, cor et basson extraits des oeuvres de Boccherini, par Othon Van den Broek",
+          "price": "9 frs",
+          "address": "Boulevard Bonne-Nouvelle n\u00b0 8, Et au D\u00e9p\u00f4t, Rue Neuve des Petits-Champs, n\u00b0 113"
+        },
+        "later_editions": [
+          {
+            "year": "1823?",
+            "publisher": "Hentz Jouve",
+            "location": "Paris",
+            "title": "Six quatuors extraits des oeuvres de Boccherini, arrang\u00e9s pour fl\u00fbte, clarinette, cor et basson par Othon Van den Broek",
+            "price": "9 fr",
+            "address": "Galerie de Pierre, n\u00b0 96, c\u00f4t\u00e9 du Perron"
+          }
+        ],
+        "arrangements": [
+          {
+            "arranger": "Othon Van den Broek",
+            "description": "Three quartets (nos. 4 to 6) for clarinet, flute, horn and bassoon"
+          }
+        ]
+      },
+      "quartets": [
+        {
+          "number": 1,
+          "key": "E-flat Major",
+          "original_work": "quartet in E Major Op. 2 no. 5 of 1761 (No. 163)",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro assai",
+              "description": "Arrangement of the third movement",
+              "incipit_number": 339
+            },
+            {
+              "number": 2,
+              "tempo": "Amoroso",
+              "description": "Arrangement of the second movement of the quartet in A Major Op. 8 no. 6 of 1769 (No. 170)",
+              "incipit_number": 359
+            },
+            {
+              "number": 3,
+              "tempo": "Allegro",
+              "description": "Arrangement of the second movement of the quartet in E-flat Major Op. 8 no. 3 of 1769 (No. 167)",
+              "incipit_number": 350
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "key": "F Major",
+          "original_work": "quartet in F Major Op. 8 no. 3 of 1769 (No. 169)",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro\u2014Andantino con un poco di moto\u2014Menuetto (trio)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "key": "B-flat Major",
+          "original_work": "quartet in E-flat Major Op. 2 no. 2 of 1761 (No. 160)",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro non tanto\u2014Largo\u2014Fuga con spirito"
+            }
+          ]
+        }
+      ],
+      "notes": "Although the title announces six quartets, only three were published in this edition. The other three are probably those published by Bouillon (see No. 264), since the Bouillon edition is described in the title as 'Livre 3\u00e8me', Books 1 and 2 being presumably Nos. 262 and 263."
+    }
+  ]
+}

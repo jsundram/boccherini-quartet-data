@@ -1,0 +1,5419 @@
+{
+  "metadata": {
+    "title": "G\u00e9rard Catalog - String Quartets",
+    "composer": "Luigi Boccherini",
+    "source": "Yves G\u00e9rard, Thematic, Bibliographical and Critical Catalogue (1969)",
+    "extracted_by": "Automated extraction pipeline",
+    "total_entries": 104,
+    "g_number_range": [
+      159,
+      264
+    ]
+  },
+  "entries": [
+    {
+      "g_number": 159,
+      "quartet_number": 1,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C minor",
+      "opus": {
+        "number": "2",
+        "work_number": 1,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro comodo",
+          "incipit_number": 325,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G159_mvt1_incipit325.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "incipit_number": 326,
+          "instrument": "vlc",
+          "dynamics": "p",
+          "incipit_file": "incipits/G159_mvt2_incipit326.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro",
+          "incipit_number": 327,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G159_mvt3_incipit327.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 4...' Probably a copy, but extremely interesting on account of the detailed accuracy with which the text, the slurs and the expression-marks are recorded. Is it possible that these details are in the hand of Boccherini? In any case, the MS. appears to have been copied from Boccherini's original MS.",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 4...'",
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R"
+        ],
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Cat. 74",
+          "Florence, Conservatorio. Two copies: B.1550, and D.112, 'Quartetto sesto... da Giuseppe Imperial Lercari di Andrea.'"
+        ],
+        "first_edition": {
+          "date": "April, 1767",
+          "publisher": "Paris, V\u00e9nier",
+          "details": "(Op. 1), no. 1 of Sei quartetti per due violini, alto e violoncello obbligati dedicati a veri dilettanti e conoscitori di musica, composti dall Sigr Luigi Boccherini di Lucca, opera I. Nuovamente stampati a spese di G. B. Venier \u00e0 Paris. Prix 9 liv. \u00e0 Paris chez M. Venier \u00e9diteur de plusieurs ouvrages de musique rue St. Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'Eau et aux adresses ordinaires. En Province chez tous les marchands de musique. APDR.",
+          "alternate_title": "Some copies have the following title: Sei Sinfonie o sia Quartetti... dedicate... musica. Opera P. Di Luigi Boccherini. Novamente stampata... ordinaires. A Lyon, M\u1d49 Castau Place de la Com\u00e9die. Avec Privil\u00e9ge du Roy. De l'Imprimerie de Richomme."
+        },
+        "later_editions": [
+          {
+            "date": "c. 1775",
+            "publisher": "London, Welcker",
+            "details": "(Op. 1), no. 1 of Six quartettos for two violins, a tenor and violoncello obligato. Composed by Sigr\u207f Luigi Boccherini. opera prima. London, Printed by J. Welcker. in Gerrard Street St Ann's Soho."
+          },
+          {
+            "date": "c. 1780",
+            "publisher": "Amsterdam, Hummel",
+            "details": "(Op. 1), no. 1 of Six quatuors \u00e0 deux violons, taille et basse oblig\u00e9s compos\u00e9es par Luigi Boccherini. Opera prima. A Amsterdam. Chez J. J. Hummel marchand et imprimeur de musique. Prix 5 Fl. Plate no. 136."
+          },
+          {
+            "date": "c. 1785",
+            "publisher": "Paris, Boyer-Naderman",
+            "details": "(Op. 1), no. 1 of Sei quartetti per due violini, alto e violoncello obbligati dedicati a veri dilettanti e conoscitori di musica composti dall. Sigr Luigi Boccherini di Lucca opera I. mis au jour par Mr Boyer. Prix 9 F. \u00e0 Paris, chez Naderman, rue de Richelieu \u00e0 la Clef d'or Passage du caff\u00e9 de Foy. chez Mad\u1d49 Le Menu, rue du Roule \u00e0 la Clef d'or. A.P.D.R. Plate no. 515."
+          },
+          {
+            "date": "c. 1785",
+            "publisher": "London, Preston",
+            "details": "(Op. 1), no. 1 of Six quartettos for two violins, a tenor and violoncello obligato composed by Sigr. Luigi Boccherini. opera prima. Price 10\u02e2 6\u1d48. London. Printed and sold by Preston and Son at their Wholesale Warehouses 97 Strand."
+          }
+        ],
+        "modern_edition": {
+          "date": "1952",
+          "publisher": "Kassel, B\u00e4renreiter",
+          "details": "Op. 1 no. 1 (separate parts; revised by Walter Upmeyer), no. 1 in L. Boccherini Ausgew\u00e4hlte Streichquartette."
+        }
+      },
+      "notes": "Some MSS. copies have 'Adagio' for second movement.",
+      "page_refs": {
+        "book_pages": [
+          173
+        ],
+        "pdf_pages": []
+      },
+      "first_edition": "1953, Milan, Ricordi: Op. 1 no. 1 (pocket score; revised by Enrico Polo)",
+      "arrangements": [
+        {
+          "description": "Of the whole quartet, as a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778 (see No. 43)"
+        },
+        {
+          "description": "Of the third movement, as part of a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785 (see No. 46)"
+        }
+      ]
+    },
+    {
+      "g_number": 160,
+      "quartet_number": 2,
+      "instrumentation": "two violins, viola and cello",
+      "key": "B-flat Major",
+      "opus": {
+        "number": "2",
+        "work_number": 2,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro non tanto",
+          "incipit_number": 328,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G160_mvt1_incipit328.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "incipit_number": 329,
+          "instrument": "vlc",
+          "dynamics": "p",
+          "incipit_file": "incipits/G160_mvt2_incipit329.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Fuga con spirito",
+          "incipit_number": 330,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G160_mvt3_incipit330.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 3...' (for comment, see No. 159)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I 114, 'Sonata a quattro no. 3...'"
+        ],
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B. 1550",
+          "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/3, 'Quartetto no. 3...'",
+          "Montecatini, Venturi private collection, A.9, 'Quartetto no. 3...'"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          175
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 161,
+      "quartet_number": 3,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "2",
+        "work_number": 3,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato",
+          "incipit_number": 331,
+          "instrument": "v1",
+          "dynamics": "dolc., f, p",
+          "incipit_file": "incipits/G161_mvt1_incipit331.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "incipit_number": 332,
+          "instrument": "v1",
+          "dynamics": "pp, p",
+          "incipit_file": "incipits/G161_mvt2_incipit332.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 333,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G161_mvt3_incipit333.png"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "Paris, Conservatoire, D.10717",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.104",
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R",
+          "Vienna, Bibl. Nat., S.m. 2908"
+        ],
+        "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 2",
+        "later_editions": [
+          "(c. 1775), London, Welcker: Op. 1 no. 2",
+          "(c. 1805), Amsterdam, Hummel: Op. 1 no. 2",
+          "(c. 1785), Paris, Boyer-Naderman: Op. 1 no. 2",
+          "(c. 1785), London, Preston: Op. 1 no. 2"
+        ],
+        "arrangements": [
+          "Of the first and third movements, as a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778",
+          "Of the whole quartet, as a quartet (no. 3) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1820"
+        ],
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 5...' (for comment, see No. 159)",
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B.1550",
+          "Graz, Di\u00f6zesanarchiv, Ms. 515",
+          "Montecatini, Venturi private collection, A.9, 'Quartetto no. 1...'",
+          "Paris, Conservatoire, D.10757",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.101",
+          "Stams, Abbey, L.IV.68, 'Quartetto no. 4...'",
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R",
+          "Vienna, Bibl. Nat., S.m. 2905"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          176
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 162,
+      "quartet_number": 4,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": "2",
+        "work_number": 4,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro spiritoso",
+          "incipit_number": 334,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G162_mvt1_incipit334.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio",
+          "incipit_number": 335,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G162_mvt2_incipit335.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 336,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G162_mvt3_incipit336.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 6...' (for comment, see No. 159)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 6...'"
+        ],
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B.1550",
+          "Graz, Di\u00f6zesanarchiv, Ms. 516",
+          "Montecatini, Venturi private collection, A.9",
+          "Paris, Conservatoire. Two copies: D.10757, and D.10761, '... \u00e0 Mr. Dujard (?) officier de dragons'"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          178
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 163,
+      "quartet_number": 5,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Major",
+      "opus": {
+        "number": "2",
+        "work_number": 5,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato",
+          "incipit_number": 337,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G163_mvt1_incipit337.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio",
+          "incipit_number": 338,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G163_mvt2_incipit338.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro assai",
+          "incipit_number": 339,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G163_mvt3_incipit339.png"
+        }
+      ],
+      "notes": "Some MSS. copies indicate 'Andante' for movement 2. Almost all the MSS. copies indicate 'Presto' for movement 3.",
+      "page_refs": {
+        "book_pages": [
+          179
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 164,
+      "quartet_number": 6,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "2",
+        "work_number": 6,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con spirito",
+          "incipit_number": 340,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G164_mvt1_incipit340.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 341,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G164_mvt3_incipit341.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 1 ...' (for comment, see No. 159)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 1 ...'"
+        ],
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B.1550",
+          "Graz, Di\u00f6zesanarchiv, Ms. 508",
+          "Montecatini, Venturi private collection, A.9",
+          "Paris, Conservatoire, D.10757",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.105",
+          "Stams, Abbey, L.IV.67",
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R",
+          "Venice, Bib. Marciana, It. IV. 1255 (=11162). Two violins parts only"
+        ],
+        "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 6 (for title, see No. 159)",
+        "later_editions": [
+          "(c. 1775), London, Welcker: Op. 1 no. 6 (for title, see No. 159)",
+          "(c. 1804), Amsterdam, Hummel: Op. 1 no. 6 (for title, see No. 159)",
+          "(c. 1852), Paris, Boyer-Nadermann: Op. 1 no. 6 (for title, see No. 159)",
+          "(c. 1853), London, Preston: Op. 1 no. 6 (for title, see No. 159)"
+        ]
+      },
+      "notes": "Op. 2 no. 6 of 1761 ('opera grande') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          180,
+          181
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 165,
+      "quartet_number": 7,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "8",
+        "work_number": 1,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro assai",
+          "incipit_number": 343,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G165_mvt1_incipit343.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio",
+          "incipit_number": 344,
+          "instrument": "v1",
+          "incipit_file": "incipits/G165_mvt2_incipit344.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro Rondeau",
+          "incipit_number": 345,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G165_mvt3_incipit345.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quartetto op. 2...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, 'Quartetto no. 1...' and 22.5.6, 'Quartetto no. 1... per uso di S. E. Abbate de Antonio Giorgio'",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.57, 'Divertimento \u00e0 quattro...' (first two movements only)",
+          "Stams, Abbey, L.IV.69, 'Quartetto op. 2...'"
+        ],
+        "modern_edition": "1953, Milan, Ricordi: Op. 1 no. 6 (pocket score; revised by Enrico Polo)",
+        "arrangements": [
+          "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778",
+          "Of the third movement, for a string orchestra, by Marescalchi(?), c. 1775(?)"
+        ],
+        "first_edition": "STRING QUARTERS (TWO VIOLINS, VIOLA AND 'CELLO)",
+        "later_editions": [
+          "(c. 1770), London, Longman Lukey: Op. 4 no. 2 (for title, see No. 166)",
+          "(c. 1773), London, Bremner: Op. 6 no. 2 (for title, see No. 166)",
+          "(c. 1780), Amsterdam, Hummel: Op. 2 no. 2 (for title, see No. 166)",
+          "(c. 1785?), Paris, Boyer-Naderman (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair opera VI. Libro secondo di quartetti mis au jour par M. Boyer, seul \u00e9diteur des dits ouvrages. Prix 9. \u00e0 Paris, chez Naderman rue de la Loi \u00e0 la Clef d'or, Passage du Caff\u00e9 de Foy, chez Mad^me Le Menu, rue du Roule \u00e0 la Clef d'or. \u00e0 Lyon, Mr. Castaud, Place de la Com\u00e9die. Plate no. 516."
+        ]
+      },
+      "notes": "Listed as Op. 8 no. 1 of 1769 ('opera grande') in Boccherini's autograph catalogue",
+      "page_refs": {
+        "book_pages": [
+          182
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 166,
+      "quartet_number": 8,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Minor",
+      "opus": {
+        "number": "8",
+        "work_number": 2,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Moderato",
+          "incipit_number": 346,
+          "instrument": "v1",
+          "dynamics": "dolce",
+          "incipit_file": "incipits/G166_mvt1_incipit346.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "incipit_number": 347,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G166_mvt2_incipit347.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro",
+          "incipit_number": 348,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G166_mvt3_incipit348.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "December, 1769, Paris, V\u00e9nier (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna, da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair. Opera VI\u00b0. Libro secondo di quartetti, mis au jour par Mr V\u00e9nier seul \u00e9diteur des dits ouvrages. Prix 9 liv. \u00e0 Paris. chez M. V\u00e9nier \u00e9diteur de plusieurs ouvrages de musique \u00e0 l'Entr\u00e9e de la Rue St Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'Eau et aux adresses ordinaires. \u00e0 Lyon, M. Castaud, Place de la Com\u00e9die. Avec Privil\u00e8ge du Roi. Imprim\u00e9e par Richome.",
+        "later_editions": [
+          "(c. 1770), London, Longman Lukey: Op. 4 no. 2",
+          "(c. 1773), London, Bremner: Op. 6 no. 2",
+          "(c. 1780), Amsterdam, Hummel: Op. 2 no. 2",
+          "(c. 1785?), Paris, Boyer-Naderman (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair opera VI. Libro secondo di quartetti mis au jour par M. Boyer, seul \u00e9diteur des dits ouvrages. Prix 9. \u00e0 Paris, chez Naderman rue de la Loi \u00e0 la Clef d'or, Passage du Caff\u00e9 de Foy, chez Mad^me Le Menu, rue du Roule \u00e0 la Clef d'or. \u00e0 Lyon, Mr. Castaud, Place de la Com\u00e9die. Plate no. 516."
+        ],
+        "modern_edition": "1953, Milan, Ricordi: Op. 6 no. 1 (pocket score; revised by Enrico Polo)",
+        "arrangements": [
+          "Of the third movement, as part of a sonata for harpsichord (or pianoforte) and violin, by Thomas Billington, c. 1780(?)",
+          "Of the first and third movements, as a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785"
+        ],
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quartetto op. 2 . . .'",
+          "Naples, Conservatorio, 22.5.6, 'Quartetto no. 2 . . . per uso di S. E. Abbate Don Antonio Giorgio'"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          183,
+          184
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 167,
+      "quartet_number": 9,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": "8",
+        "work_number": 3,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Largo",
+          "incipit_number": 349,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G167_mvt1_incipit349.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro",
+          "incipit_number": 350,
+          "instrument": "v1",
+          "dynamics": "p, f",
+          "incipit_file": "incipits/G167_mvt2_incipit350.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 351,
+          "instrument": "v1",
+          "dynamics": "p, f",
+          "incipit_file": "incipits/G167_mvt3_incipit351.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quatuor op. 2 . . .'",
+          "Naples, Conservatorio. Two copies: 22.2.10, 'Quartetto no. 3 . . .' and 22.5.6, 'Quartetto no. 3 . . . per uso di S. E. Abbate Don Antonio Giorgio'",
+          "Prague, N\u00e1rodni Muzeum. Two copies: XXII. B.56, 'Divertimento a quatro . . .' and XLIX.C.12",
+          "Stams, Abbey, L.IV.73, 'No. 5. Quartetto op. 2 . . .'"
+        ],
+        "first_edition": "December, 1769, Paris, V\u00e9nier: Op. 6 no. 3 (for title, see No. 165)",
+        "later_editions": [
+          "(c. 1770), London, Longman Lukey: Op. 4 no. 3 (for title, see No. 166)"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          185
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 168,
+      "quartet_number": 10,
+      "instrumentation": "two violins, viola and cello",
+      "key": "G Minor",
+      "opus": {
+        "number": "8",
+        "work_number": 4,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro",
+          "incipit_number": 352,
+          "instrument": "v1",
+          "dynamics": "p, f",
+          "incipit_file": "incipits/G168_mvt1_incipit352.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Grave",
+          "incipit_number": 353,
+          "instrument": "v1",
+          "dynamics": "f, p, rf",
+          "incipit_file": "incipits/G168_mvt2_incipit353.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro",
+          "incipit_number": 354,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G168_mvt3_incipit354.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quartetto op. 2...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, 'Quartetto no. 4...' and 22.5.6, 'Quartetto no. 5... per uso di S. E. Abbate Don Antonio Giorgio'"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          186
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 169,
+      "quartet_number": 11,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "F Major",
+      "opus": {
+        "number": "8",
+        "work_number": 5,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino",
+          "incipit_number": 355,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G169_mvt1_incipit355.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro",
+          "incipit_number": 356,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G169_mvt2_incipit356.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 337,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G169_mvt3_incipit337.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost"
+      },
+      "notes": "In Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          187
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 170,
+      "quartet_number": 12,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "8",
+        "work_number": 6,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro brillante",
+          "incipit_number": 338,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G170_mvt1_incipit338.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Amoroso",
+          "incipit_number": 339,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G170_mvt2_incipit339.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro",
+          "incipit_number": 360,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G170_mvt3_incipit360.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost.",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quartetto op. 2...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, 'Quartetto no. 6...' and 22.5.6, 'Quartetto no. 4... per uso di S. E. Abbate Don Antonio Giorgio'",
+          "Stams, Abbey, L.IV.70, 'No. 8. Quartetto op. 2...'"
+        ],
+        "first_edition": "December, 1769, Paris, V\u00e9nier: Op. 6 no. 6 (for title, see No. 165).",
+        "later_editions": [
+          "(c. 1770), London, Longman Lukey: Op. 4 no. 6 (for title, see No. 166).",
+          "(c. 1775), London, Bremner: Op. 6 no. 6 (for title, see No. 166).",
+          "(c. 1780), Amsterdam, Hummel: Op. 2 no. 6 (for title, see No. 166).",
+          "(c. 1785), Paris, Boyer-Naderman: Op. 6 no. 6 (for title, see No. 165)."
+        ],
+        "modern_edition": "(c. 1930), Leipzig, Peters: Op. 6 no. 6 (revised by R. Hofmann; separate parts). This edition was re-published c. 1943 by the International Music Co., New York. 1953, Milan, Ricordi: Op. 6 no. 6 (pocket score; revised by Enrico Polo).",
+        "arrangements": [
+          "Of the second movement, as part of a quartet (no. 1) for flute, clarinet, horn and bassoon, by O. Van den Brock, c. 1820 (see No. 263)."
+        ]
+      },
+      "notes": "Listed as Op. 8 no 6 of 1769 ('opera grande') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          188
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 171,
+      "quartet_number": 13,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Minor",
+      "opus": {
+        "number": "9",
+        "work_number": 1,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro",
+          "incipit_number": 361,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G171_mvt1_incipit361.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 362,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G171_mvt2_incipit362.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 363,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G171_mvt3_incipit363.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Presto",
+          "incipit_number": 364,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G171_mvt4_incipit364.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 9...' Probably a copy, but extremely interesting on account of the detailed accuracy with which the text, the slurs and the expression-marks are recorded. Is it possible that these details are in the hand of Boccherini? In any case, the MS. appears to have been copied from Boccherini's original MS.",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.T.4, 'Sonata a quattro no. 9...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611A, 'Quartetto no. 3...' A most interesting manuscript, of which the text is identical to that of the manuscript in Lucca, although the order of the works is different. The cover has a note 'Per S.A.R. Monsignore il Principe Hereditario di Prussia', i.e. the future Frederick William II.",
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8, 'Sonata...'",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 531, 'Opera III- Concerto terzo...' The viola and 'cello parts are in the hand of an eighteenth-century copyist; the handwriting of the two violin parts resembles that of Boccherini.",
+          "Naples, Conservatorio, 22.5.2, 'Quartetto no. 4...'"
+        ],
+        "first_edition": {
+          "date": "December, 1772",
+          "location": "Paris, V\u00e9nier",
+          "opus": "Op. 10",
+          "work_number": 1,
+          "title": "Sei quartetti per due violini, alto e violoncello dedicati alli Signori Diletanti di Madrid da Luigi Boccherini. opera X, libro terzo di quartetti nuovamenti stampati a spese di G. B. Venier. Prix 9. grav\u00e9s par Mme la Veuve Leclair. \u00e0 Paris chez Mr Venier Editeur de plusieurs ouvrages de musique rue Saint Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'eau et aux adresses ordinaires. A Lyon, Aux adresses de musique. APDR."
+        },
+        "later_editions": [
+          {
+            "date": "c. 1780",
+            "location": "London, Brenner",
+            "opus": "Op. 10",
+            "work_number": 1,
+            "title": "Sei quartetti per due violini, alto e violoncello Dedicati alli Sigri Delitanti (sic) di Madrid da Luigi Boccherini opera X libro (sic) terzo di quartetti. Londra presso Roberto Brenner, nello Strand."
+          },
+          {
+            "date": "c. 1785",
+            "location": "Amsterdam, Hummel",
+            "opus": "Op. 7",
+            "work_number": 1,
+            "title": "Six quatuors \u00e0 deux violons, taille et basse oblig\u00e9s compos\u00e9es par Luigi Boccherini. Oeuvre VII. A Amsterdam, chez J. J. Hummel, au grand magazin de musique. Prix f. 5. Plate no. 313."
+          },
+          {
+            "date": "c. 1785",
+            "location": "London, Preston",
+            "opus": "Op. 10",
+            "work_number": 1,
+            "title": "Sei quartetti per due violini, alto e violoncello Dedicati alli Sigri. Delitanti (sic) di Madrid, da Luigi Boccherini. opera X. Libro terzo di quartetti. Pr. 10s 6d: Londra. Presso Tomaso Preston nello Strand dove si trovano pure, le migliori Opere dei Maestri piu celebri."
+          },
+          {
+            "date": "c. 1790",
+            "location": "Paris, Boyer",
+            "opus": "Op. 10",
+            "work_number": 1,
+            "title": "Sei quartetti per due violini, alto e violoncello dedicati alli Signori diletanti di Madrid da Luigi Boccherini opera X. libro terzo di quartetti. mis au jour par Mr Boyer. Prix 9. Grav\u00e9s par Me la Vve Leclair, \u00e0 Paris, chez Mr Boyer, rue de Richelieu, \u00e0 la Clef d'or, passage du caff\u00e9 de foy. \u00e0 Lyon, aux adresses de musique. APDR. Plate no. 517. With the stamp 'Vve Naderman'."
+          }
+        ],
+        "modern_edition": {
+          "date": 1953,
+          "location": "Milan, Ricordi",
+          "opus": "Op. 10 no. 1",
+          "format": "pocket score",
+          "editor": "revised by Enrico Polo"
+        },
+        "arrangements": [
+          {
+            "type": "A",
+            "description": "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778 (see No. 45)."
+          },
+          {
+            "type": "B",
+            "description": "Of the third and fourth movements, as part of a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785 (see No. 46)."
+          }
+        ]
+      },
+      "notes": "Op. 9 no. 1 of 1770 ('opera grande') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          189,
+          190
+        ],
+        "pdf_pages": []
+      },
+      "incomplete": false,
+      "is_arrangement": false
+    },
+    {
+      "g_number": 172,
+      "quartet_number": 14,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Minor",
+      "opus": {
+        "number": "9",
+        "work_number": 2,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Grave",
+          "incipit_number": 365,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G172_mvt1_incipit365.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 366,
+          "instrument": "v1",
+          "dynamics": "dolce",
+          "incipit_file": "incipits/G172_mvt2_incipit366.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 367,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G172_mvt3_incipit367.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 12...' (for comment, see No. 174)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 12...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.6114, 'Quartetto no. 6...' (for comment, see No. 171)",
+          "Genoa, Liceo Musicale Paganini, SS/A/1/22 (two copies), 'Sonata...'",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 334, 'Opera III, Concerto sesto...' (for comment, see No. 171)",
+          "Naples, Conservatorio, 22.5.2, 'Quartetto no. 6...'",
+          "Venice, Conservatorio, 10.998"
+        ],
+        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 2 (for title, see No. 171)",
+        "later_editions": [
+          "(c. 1780), London, Bremner: Op. 10 no. 2 (for title, see No. 171)",
+          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 2 (for title, see No. 171)"
+        ],
+        "modern_edition": {
+          "year": "c. 1930",
+          "location": "Leipzig, Peters",
+          "opus": "Op. 10 no. 2",
+          "notes": "separate parts; revised by R. Hofmann. This edition was re-published c. 1943? by the International Music Co., New York"
+        },
+        "arrangements": [
+          {
+            "description": "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778",
+            "reference": "see No. 42"
+          }
+        ]
+      },
+      "notes": "Op. 9 no. 2 of 1770 ('opera grande') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          191,
+          192
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 173,
+      "quartet_number": 15,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "9",
+        "work_number": 3,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Largo",
+          "incipit_number": 368,
+          "instrument": "v1",
+          "incipit_file": "incipits/G173_mvt1_incipit368.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro",
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 3,
+          "tempo": "Largo cantabile",
+          "incipit_number": 369,
+          "instrument": "v1",
+          "dynamics": "sf p",
+          "incipit_file": "incipits/G173_mvt3_incipit369.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Minuetto",
+          "incipit_number": 370,
+          "instrument": "v1",
+          "additional_markings": "con grazia",
+          "incipit_file": "incipits/G173_mvt4_incipit370.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Trio",
+          "instrument": "v1",
+          "dynamics": "pp",
+          "additional_markings": "sul ponticello"
+        }
+      ],
+      "notes": "Picquot writes (p. 114): 'This third quartet begins in the V\u00e9nier edition with an Allegro assai, while in the thematic catalogue drawn up by Boccherini the'",
+      "page_refs": {
+        "book_pages": [
+          193
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 174,
+      "quartet_number": 16,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "9",
+        "work_number": 4,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 8...' (for comment, see No. 171)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 8...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 1...' (for comment, see No. 171)",
+          "Genoa, Liceo Musicale Paganini, SS/A/2/13",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS.529, 'Opera III\u00b0, Concerto primo...' (for comment, see No. 171)",
+          "Naples, Conservatorio. Two copies: 22.2.10, and 22.3.2, 'Quartetto no. 1...'"
+        ],
+        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 3 (for title, see No. 171)",
+        "later_editions": [
+          "(c. 1780), London, Brenner: Op. 10 no. 3 (for title, see No. 171)",
+          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 3 (for title, see No. 171)",
+          "(c. 1785), London, Preston: Op. 10 no. 3 (for title, see No. 171)",
+          "(c. 1790), Paris, Boyer: Op. 10 no. 3 (for title, see No. 171)"
+        ]
+      },
+      "notes": "The same quartet begins with a Largo. I presume that the Largo is merely a brief introduction which was suppressed when the work was engraved, without anything being put in its place. The MS. at Lucca (D.I.33) confirms the hypothesis put forward by Picquot. The Allegro assai is certainly by Boccherini, and it is preceded by a Largo of ten bars. A conscientious performance of this quartet should therefore take account of this MS. and not merely play the text of the V\u00e9nier edition, which deprives the work of a lyrical episode forming a natural prelude to the feverish Allegro of the first movement.",
+      "page_refs": {
+        "book_pages": [
+          194,
+          195
+        ],
+        "pdf_pages": []
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Adagio",
+          "incipit_number": 371,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G174_mvt1_incipit371.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro",
+          "incipit_number": 372,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G174_mvt2_incipit372.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 373,
+          "instrument": "v1",
+          "dynamics": "Affettuoso",
+          "incipit_file": "incipits/G174_mvt3_incipit373.png"
+        }
+      ]
+    },
+    {
+      "g_number": 175,
+      "quartet_number": 17,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": "9",
+        "work_number": 5,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante con moto",
+          "incipit_number": 374,
+          "instrument": "v1",
+          "incipit_file": "incipits/G175_mvt1_incipit374.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro assai",
+          "incipit_number": 375,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G175_mvt2_incipit375.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Rondo Allegro",
+          "incipit_number": 376,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G175_mvt3_incipit376.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 10...' (separate parts)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 10...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 4...'",
+          "Genoa, Liceo Musicale Paganini, SS/A/2/13",
+          "M\u00fcnster, Priesterseminar-Santinibibliothek, Santini HS. 532, 'Opera III, Concerto quarto...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, and 22.5.2, 'Quartetto no. 3...'",
+          "Stams, Abbey, L.IV.66, 'No. 1. Sonata...'"
+        ],
+        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 5 (for title, see No. 171)",
+        "later_editions": [
+          "(c. 1780), London, Bremner: Op. 10 no. 5 (for title, see No. 171)",
+          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 5 (for title, see No. 171)",
+          "(c. 1785?), London, Preston: Op. 10 no. 5 (for title, see No. 171)",
+          "(c. 1790), Paris, Boyer: Op. 10 no. 5 (for title, see No. 171)"
+        ]
+      },
+      "notes": "Published editions: (c. 1785), London, Preston: Op. 10 no. 4; (c. 1790), Paris, Boyer: Op. 10 no. 4. Modern edition: 1953, Milan, Ricordi: Op. 10 no. 4 (pocket score; revised by Enrico Polo).",
+      "page_refs": {
+        "book_pages": [
+          196
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 176,
+      "quartet_number": 18,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Major",
+      "opus": {
+        "number": "9",
+        "work_number": 6,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante grazioso",
+          "incipit_number": 377,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G176_mvt1_incipit377.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegretto",
+          "incipit_number": 378,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G176_mvt2_incipit378.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 379,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G176_mvt3_incipit379.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro assai",
+          "incipit_number": 380,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G176_mvt4_incipit380.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 7...' (for comment, see No. 171)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 7 ...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 2 ...'",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 530, 'Opera III?, Concerto secondo ...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, and 22.5.2, 'Quartetto no. 2 ...'"
+        ],
+        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 6",
+        "later_editions": [
+          "(c. 1780), London, Bremner: Op. 10 no. 6",
+          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 6",
+          "(c. 1785?), London, Preston: Op. 10 no. 6",
+          "(c. 1790), Paris, Boyer: Op. 10 no. 6"
+        ],
+        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 10 no. 6 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York."
+      },
+      "page_refs": {
+        "book_pages": [
+          197
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 177,
+      "quartet_number": 19,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "15",
+        "work_number": 1,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Presto",
+          "incipit_number": 381,
+          "instrument": "v1",
+          "incipit_file": "incipits/G177_mvt1_incipit381.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro rondeau",
+          "incipit_number": 382,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G177_mvt2_incipit382.png"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 7 ...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 2 ...'",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 530, 'Opera III?, Concerto secondo ...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, and 22.5.2, 'Quartetto no. 2 ...'"
+        ],
+        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 6",
+        "later_editions": [
+          "(c. 1780), London, Bremner: Op. 10 no. 6",
+          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 6",
+          "(c. 1785?), London, Preston: Op. 10 no. 6",
+          "(c. 1790), Paris, Boyer: Op. 10 no. 6"
+        ],
+        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 10 no. 6 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York."
+      },
+      "is_arrangement": false,
+      "page_refs": {
+        "book_pages": [
+          198
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 179,
+      "quartet_number": 21,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E Major",
+      "opus": {
+        "number": "15",
+        "work_number": 3,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto",
+          "incipit_number": 383,
+          "instrument": "v1",
+          "dynamics": "con grazia",
+          "incipit_file": "incipits/G179_mvt1_incipit383.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro Minuetto",
+          "incipit_number": 384,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G179_mvt2_incipit384.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.98, 'Num. 5'",
+          "Vienna, Bibl. Nat., S.m.2906"
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 2 (for title, see No. 177)",
+        "later_editions": [
+          "(c. 1775), Venice, Marcscalchi-Canobbio: no. 5 (for title, see No. 180)",
+          "(c. 1780), Venice, Zatta: no. 5 (for title, see No. 180)",
+          "(c. 1780), London, Preston: Op. 11 no. 5 (for title, see No. 180)",
+          "(c. 1785), Amsterdam, Hummel (Op. 8), no. 1 of Six Quartetto ou Divertissement pour deux violons, taille et basse compos\u00e9s par Luigi Boccherini, oeuvre VIII, \u00e0 Amsterdam, chez J. J. Hummel au grand magazin de musique. Prix 4 Fl. Plate no. 324",
+          "(c. 1785), London, Welcker: Op. 11 no. 5 (for title, see No. 180)",
+          "(c. 1790?), Paris, Boyer: Op. 11 no. 2 (for title, see No. 177)"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          200
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 180,
+      "quartet_number": 22,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "15",
+        "work_number": 4,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Prestissimo",
+          "incipit_number": 387,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G180_mvt1_incipit387.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 388,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G180_mvt2_incipit388.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Milan, Conservatorio, old collection a 46-13",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.99, 'Num. 1'",
+          "Vienna, Bibl. Nat., S.m.2907"
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 4 (for title, see No. 177)",
+        "later_editions": [
+          "(c. 1775), Venice, Marescalchi-Canobbio, no. 1 of Sei quartetti per due violini, viola e violoncello del Signor Luigi Boccherini, compositor di musica e virtuoso di camera di S.A.R. Don Luigi di Borbone, Infante di Spagna... stampata a spese di Luigi Marescalchi e Carlo Canobbio [catalog de musica strumentale in vendita]. Si vendono da Innocente Alessandri e Pietro Scataglia all'insegna della B.V. della Pace sul Ponte di Rialto in Venezia. Appresso, a quali si trova un assortimento di ogni sorte musica vocale",
+          "(c. 1780), Venice, Zatta, no. 1 of Sei quartetti per due violini, viola e basso del Sig. Luigi Boccherini compositore di musica e virtuoso di camera di S.A.R. D. Luigi di Borbone Infante di Spagna. In Venezia, Presso Antonio Zatta e figli",
+          "(c. 1780), London, Preston (Op. 11), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9es par Luigi Bocherini opera XI. Prix 10/6. London. Printed and sold by Preston and Son at their Wholesale Warehouses 97 Strand where may be had Bocherini's first sett of quartets...",
+          "(c. 1785), Amsterdam, Hummel: Op. 8 no. 4 (for title, see No. 178)",
+          "(c. 1785), London, Welcker (Op. 11), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9es par Luigi Bocherini opera XI. Prix 10/6. London. Printed for and sold by Welcker, Gerrard Street, Soho where may be had Bocherini's first sett of quartets...",
+          "(c. 1790), Paris, Boyer: Op. 11 no. 4 (for title, see No. 177)"
+        ]
+      },
+      "notes": "Op. 15 no. 4 of 1772 ('opera piccola') in Boccherini's autograph catalogue.",
+      "incomplete": false,
+      "is_arrangement": false,
+      "page_refs": {
+        "book_pages": [
+          201,
+          202
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 181,
+      "quartet_number": 21,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "15",
+        "work_number": 5,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Adagio con sordina",
+          "incipit_number": 389,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G181_mvt1_incipit389.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 390,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G181_mvt2_incipit390.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost.",
+        "ms_copies_parts": [
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8.",
+          "Prague, N\u00e1rodni Muzeum, XLI.C.94, 'Quartetto IV'."
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 5 (for title, see No. 177).",
+        "later_editions": [
+          "(c. 1775), Venice, Marescalchi-Canobbio: no. 4 (for title, see No. 180).",
+          "(c. 1780), Venice, Zatta: no. 4 (for title, see No. 180).",
+          "(c. 1780), London, Preston: Op. 11 no. 4 (for title, see No. 180).",
+          "(c. 1785), Amsterdam, Hummel: Op. 8 no. 3 (for title, see No. 178).",
+          "(c. 1785), London, Welcker: Op. 11 no. 4 (for title, see No. 189).",
+          "(c. 1790?), Paris, Boyer: Op. 11 no. 5 (for title, see No. 177)."
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          203
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 182,
+      "quartet_number": 24,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Minor",
+      "opus": {
+        "number": "15",
+        "work_number": 6,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 391,
+          "instrument": "v1",
+          "dynamics": "dolci.",
+          "incipit_file": "incipits/G182_mvt1_incipit391.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro moderato [Menuetto]",
+          "incipit_number": 392,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G182_mvt2_incipit392.png"
+        },
+        {
+          "number": 3,
+          "tempo": "(Trio)",
+          "instrument": "v2",
+          "dynamics": "tr"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost.",
+        "ms_copies_parts": [
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8.",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLLC-97. 'Num. 3'. The first movement is entitled 'Larchetto alla francese'."
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 6 (for title, see No. 177).",
+        "later_editions": [
+          "(c. 1775), Venice, Marescalchi-Canobbio: no. 3 (for title, see No. 180).",
+          "(c. 1780), Venice, Zatta: no. 3 (for title, see No. 180).",
+          "(c. 1780), London, Preston: Op. 11 no. 3 (for title, see No. 180).",
+          "(c. 1785), Amsterdam, Hummel: Op. 8 no. 6 (for title, see No. 178).",
+          "(c. 1785), London, Welcker: Op. 11 no. 3 (for title, see No. 180).",
+          "(c. 1790?), Paris, Boyer: Op. 11 no. 6 (for title, see No. 177)."
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          204
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 183,
+      "quartet_number": 25,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "22",
+        "work_number": 1,
+        "year": "1775",
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro molto",
+          "incipit_number": 393,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G183_mvt1_incipit393.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 394,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G183_mvt2_incipit394.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.563, 'Opera 3a. 1775. Quartetto Io per due violini, viola, e violoncello obbligato fatto per servizio di S.A.Rle Dn Luigi Infante di Spagna da Luigi Boccherini virtuoso di camera, e compositore di musica di S.A.Rle'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II",
+          "Modena, Bibl. Estense, Mus. F. 91, 'Quartetto ... opera 3a 1773'. In another hand: 'presso Chevardi\u00e8re \u00e8 segnate opera 27 [sic]'"
+        ],
+        "first_edition": "(1776?), Paris, La Chevardi\u00e8re (Op. 26), no. 1 of Sei quartetti per due violini, alto e basso composti del Signor Luigi Boccherini di Lucca, Virtuoso di camera e compositore di S.A.R. il Dn Luigi Infante di Spagnia. opera XXVI. Libro quinto di quartetti grav\u00e9 sur Madame Oger \u00e0 Paris, chez M. de la Chevardi\u00e8re, rue du Roule \u00e0 la Croix d'or, \u00e0 Lyon. Mr Castaud vis \u00e0 vis la Com\u00e9die. \u00e0 Bruxelles, Mr Godefroy Ma de musique et en province ch\u00e9s tous les marchands. Avec privil\u00e8ge du Roy."
+      },
+      "notes": "An interesting copy dating from the 18th century of these quartets Op. 22, which were not widely circulated.",
+      "page_refs": {
+        "book_pages": [
+          205
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 184,
+      "quartet_number": 26,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "22",
+        "work_number": 2,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Moderato",
+          "incipit_number": 395,
+          "instrument": "v1",
+          "dynamics": "dolce",
+          "incipit_file": "incipits/G184_mvt1_incipit395.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 396,
+          "instrument": "v1",
+          "dynamics": "soave, dolce",
+          "incipit_file": "incipits/G184_mvt2_incipit396.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.564, 'Quartetto II' (for title, see No. 183)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II",
+          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+        ],
+        "later_editions": [
+          "Paris, Imbault (Op. 26), no. 1 of 'Sei quartetti per due violini, alto e basso composti del Signor Luigi Boccherini di Lucca virtuoso di camera e compositor di S. A. R. Don Luigi Infante di Spagna, Opera XXV1. Libro quinto di quartetti. Prix \u00e0 Paris et la province, port franc par la poste. A Paris, chez Imbault rue Honor\u00e9 au Mont d'or n\u00b0 200 de la section des gardes francaises, entre la Rue des Poulies et la maison d'Aligre et P\u00e9ristile du th\u00e9\u00e2tre de l'Op\u00e9ra Comique rue Favart n\u00b0 461.'"
+        ],
+        "first_edition": "(1763), Paris, La Chevardi\u00e8re: Op. 26 no. 2 (for title, see No. 183)"
+      },
+      "notes": "Some copies have the name and address of Imbault pasted over the name and address of another publisher (Le Duc). The edition was perhaps produced by Le Duc and then immediately taken over by Imbault.",
+      "page_refs": {
+        "book_pages": [
+          206
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 185,
+      "quartet_number": 27,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E\u266d Major",
+      "opus": {
+        "number": "22",
+        "work_number": 3,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Adagio",
+          "incipit_number": 397,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G185_mvt1_incipit397.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Rondeau Allegro",
+          "incipit_number": 398,
+          "instrument": "v1",
+          "dynamics": "f, p",
+          "incipit_file": "incipits/G185_mvt2_incipit398.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.565, 'Quartetto III\u00b0...' (for title, see No. 183)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and 570. Two copies made in Berlin for Frederick William II.",
+          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+        ],
+        "first_edition": "(1763), Paris, La Chevardi\u00e8re: Op. 26 no. 3 (for title, see No. 183)",
+        "later_editions": [
+          "(c. 1800), Paris, Imbault: Op. 26 no. 3 (for title and comment, see No. 183)"
+        ]
+      },
+      "notes": "Op. 22 no. 3 of 1775 ('quartettino ... opera piccola') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          207
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 186,
+      "quartet_number": 28,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "B\u266d Major",
+      "opus": {
+        "number": "22",
+        "work_number": 4,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato",
+          "incipit_number": 399,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G186_mvt1_incipit399.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro vivace",
+          "incipit_number": 400,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G186_mvt2_incipit400.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.566, 'Quartetto IV\u00b0...' (for title, see No. 183)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II.",
+          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+        ],
+        "first_edition": "(1776?), Paris, La Chevardi\u00e8re: Op. 26 no. 4 (for title, see No. 183)",
+        "later_editions": [
+          "(1786?), Offenbach am Main, Andr\u00e9, no. 8: Quatuor p\u00e9riodique N\u00b0 VIII Pour deux Violons, Alto et Violoncelle, compos\u00e9 par Mr Boccherini. \u00e0 Offenbach sur le Mein chez I. Andr\u00e9 et aux adresses ordinaires. Plate no. 115 (Copies: Dresden, Landesbibliothek and Copenhagen, K\u00f6nigl. Konservatorium)",
+          "(c. 1800), Paris, Imbault: Op. 26 no. 4 (for title and comment, see No. 183)"
+        ],
+        "modern_edition": "(1963?), New York, International Music Co. (separate parts: revised by H. Sitt), 'Quartetto no. 8'"
+      },
+      "notes": "See note to No. 295.",
+      "page_refs": {
+        "book_pages": [
+          208
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 187,
+      "quartet_number": 29,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "A Minor",
+      "opus": {
+        "number": "22",
+        "work_number": 5,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto con molto",
+          "incipit_number": 401,
+          "instrument": "v1",
+          "dynamics": "a mezza voce",
+          "incipit_file": "incipits/G187_mvt1_incipit401.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto Amoroso",
+          "incipit_number": 402,
+          "instrument": "v1",
+          "dynamics": "sotto voce, poco f",
+          "incipit_file": "incipits/G187_mvt2_incipit402.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.567, 'Quartetto V\u00b0...' (for title, see No. 183)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II.",
+          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+        ],
+        "first_edition": "(1776?), Paris, La Chevardi\u00e8re: Op. 26 no. 5 (for title, see No. 183)",
+        "later_editions": [
+          "(c. 1800), Paris, Imbault: Op. 26 no. 5 (for title and comment, see No. 184)"
+        ]
+      },
+      "notes": "See note 1 to No. 295.",
+      "page_refs": {
+        "book_pages": [
+          309
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 188,
+      "quartet_number": 30,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "22",
+        "work_number": 6,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino",
+          "incipit_number": 403,
+          "instrument": "v2",
+          "dynamics": "soave",
+          "incipit_file": "incipits/G188_mvt1_incipit403.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Non troppo presto",
+          "incipit_number": 404,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G188_mvt2_incipit404.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.568, 'Quartetto VI' (for title, see No. 183)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II",
+          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+        ],
+        "first_edition": "(1776?), Paris, La Chevardi\u00e8re: Op. 26 no. 6 (for title, see No. 183)",
+        "later_editions": [
+          "(c. 1800), Paris, Imbault: Op. 26 no. 6 (for title and comment, see No. 183)"
+        ],
+        "modern_edition": "The last movement\u2014non troppo presto\u2014has been published as an additional last movement to the quartet Op. 24 no. 4 (No. 192) by E. Polo (Milan, Ricordi, 1953; pocket score)"
+      },
+      "notes": "See note to No. 295.",
+      "page_refs": {
+        "book_pages": [
+          210
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 189,
+      "quartet_number": 31,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "24",
+        "work_number": 1,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Moderato",
+          "incipit_number": 405,
+          "instrument": "va",
+          "dynamics": "f",
+          "incipit_file": "incipits/G189_mvt1_incipit405.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Grave",
+          "incipit_number": 406,
+          "instrument": "v1",
+          "dynamics": "poco f",
+          "incipit_file": "incipits/G189_mvt2_incipit406.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro assai",
+          "incipit_number": 407,
+          "instrument": "v2",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G189_mvt3_incipit407.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Conservatoire, MS. 1292, 'Sei quartetti per due violini, viola e violoncello obbligato composti per S.A.R. Don Luigi Infante di Spagna da Luigi Boccherini, virtuoso di camera e compositore di S. A. Rle, opera 1, 1777' (the second quartet is missing). The MS. bears the stamps of the collections of Louis Picquot and Charles Malherbe.",
+        "ms_copies_parts": [
+          "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6, 'Quartetto no. 3...'",
+          "Paris, Conservatoire, a parcel of copies of the six quartets Op. 24"
+        ]
+      },
+      "notes": "The composition of these quartets, which mark an important date in the evolution of Boccherini's style, must have been spread over a relatively long period. The date on the MS. has been scratched out by Boccherini himself. He first wrote 'op. 111e de 1776' and then altered this to 'op. 12e de 1777'. Eventually, when he drew up a thematic catalogue of his works, he listed these quartets under the year 1778 with the number Op. 24. We do not know the reason for these changes; but the first date makes it clear that the six works were composed\u2014if not in their final form, at least in their general spirit\u2014as early as the middle of the year 1776.",
+      "page_refs": {
+        "book_pages": [
+          211
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 190,
+      "quartet_number": 32,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "24",
+        "work_number": 2,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 408,
+          "instrument": "v1",
+          "incipit_file": "incipits/G190_mvt1_incipit408.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro spiritoso",
+          "incipit_number": 409,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G190_mvt2_incipit409.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto Amoroso",
+          "incipit_number": 410,
+          "instrument": "v1",
+          "dynamics": "soave, pp",
+          "incipit_file": "incipits/G190_mvt3_incipit410.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost (see No. 189)",
+        "first_edition": "(1778?), Paris, Sieber: Op. 27 no. 5",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 5"
+        ],
+        "modern_edition": "1932, Kassel, B\u00e4renreiter: Op. 24 no. 5 (separate parts, revised by Walter Upmeyer), no. 2 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
+      },
+      "notes": "Op. 24 no. 2 of 1776-1778 ('opera grande') in Boccherini's autograph catalogue",
+      "page_refs": {
+        "book_pages": [
+          212
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 191,
+      "quartet_number": 33,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "24",
+        "work_number": 3,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato",
+          "incipit_number": 411,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G191_mvt1_incipit411.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio non tanto",
+          "incipit_number": 412,
+          "instrument": "v2",
+          "dynamics": "dolcis.",
+          "incipit_file": "incipits/G191_mvt2_incipit412.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 413,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "incipit_file": "incipits/G191_mvt3_incipit413.png"
+        }
+      ],
+      "sources": {
+        "autograph": "in Boccherini's autograph catalogue"
+      },
+      "notes": "for comment, see No. 189",
+      "page_refs": {
+        "book_pages": [
+          213
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 192,
+      "quartet_number": 34,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "24",
+        "work_number": 4,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Moderato",
+          "incipit_number": 414,
+          "instrument": "v1",
+          "dynamics": "dolcis",
+          "incipit_file": "incipits/G192_mvt1_incipit414.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Boccherini's autograph catalogue",
+        "ms_copies_score": [
+          "Paris, Conservatoire, MS. 1292"
+        ],
+        "ms_copies_parts": [
+          "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6. 'Quartetto no. 1...'",
+          "Paris, Conservatoire, a parcel of copies"
+        ],
+        "first_edition": "(1778?), Paris, Sieber (Op. 27), no. 1 of Sei quartetti concertanti per due violini alto e violoncello composti da Luigi Boccherini, compositore e virtuoso di camera di S.A.R. Don Luigi Infante d'Ispagna. op. 27. Prix 9. \u00e0 Paris, chez le Sr Sieber musicien rue St Honor\u00e9, vis \u00e0 vis l'H\u00f4tel d'Aligre Ancien Grand Conseil o\u00f9 l'on trouve plusieurs nouveaux ouvrages. A.P.D.R. Plate no. 436. Some later copies (c. 1791) have the address ... H\u00f4tel d'Aligre chez l'Apothicaire n\u00b085. A.P.D.R.",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Hummel (Op. 11), no. 1 of Six quatuors concertants \u00e0 deux violons, alto et basse compos\u00e9s par Luigi Boccherini oeuvre XI. Chez J. J. Hummel, \u00e0 Berlin avec privil\u00e8ge du Roi, \u00e0 Amsterdam au Grand Magazin de Musique et aux adresses ordinaires. Prix F. 5. Plate no. 170."
+        ],
+        "arrangements": [
+          "Of the third movement for flute or violin, by an unknown musician, published c. 1785 in L. Lavenu's Musical Journal or Pocket Companion containing a great variety of Opera dances Single airs ... arrang'd for the flute or violin. London. Printed and Sold by L. Lavenu ... (vol. 2, p. 557) [Copy: London, British Museum]."
+        ]
+      },
+      "notes": "Op. 24 no. 4 of 1776-1778 ('opera grande') in Boccherini's autograph catalogue",
+      "page_refs": {
+        "book_pages": [
+          214
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 193,
+      "quartet_number": 35,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Minor",
+      "opus": {
+        "number": "24",
+        "work_number": 5,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 415,
+          "instrument": "v1",
+          "dynamics": "sotto voce assai",
+          "incipit_file": "incipits/G193_mvt2_incipit415.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 416,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G193_mvt3_incipit416.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Conservatoire, MS. 1292 (for title and comment, see No. 189)",
+        "ms_copies_parts": [
+          "Naples, Conservatorio. Two copies: 22.3.2, and 22.3.6, 'Quartetto no. 3 . . .'",
+          "Paris, Conservatoire, a parcel of copies (see No. 189)"
+        ],
+        "first_edition": "(1778?), Paris, Sieber: Op. 27 no. 3 (for title, see No. 191)",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 3 (for title, see No. 191)"
+        ],
+        "modern_edition": "1953, Milan, Ricordi: Op. 27 no. 3 (pocket score: revised by Enrico Polo). Polo has added a fourth movement taken from the quartet Op. 22 no. 6 (see No. 188)"
+      },
+      "notes": "Op. 24 no. 5 of 1776-1778 ('opera grande') in Boccherini's autograph catalogue (for comment, see No. 189)",
+      "page_refs": {
+        "book_pages": [
+          215
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 194,
+      "quartet_number": 36,
+      "instrumentation": "two violins, viola and cello",
+      "key": "G Minor",
+      "opus": {
+        "number": "24",
+        "work_number": 6,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivo assai",
+          "incipit_number": 420,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G194_mvt1_incipit420.png"
+        }
+      ],
+      "sources": {},
+      "notes": "for comment, see No. 189",
+      "page_refs": {
+        "book_pages": [
+          216
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 195,
+      "quartet_number": 37,
+      "instrumentation": "two violins, viola and cello",
+      "key": "B\u266d Major",
+      "opus": {
+        "number": "26",
+        "work_number": 1,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato",
+          "incipit_number": 423,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G195_mvt1_incipit423.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 424,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "(Trio)",
+          "incipit_file": "incipits/G195_mvt2_incipit424.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Venice, Conservatorio, Giustinian 15600/O.C.",
+          "Vienna, Bibl. Nat., S.m.11748"
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria (Op. 32), no. 1 of Six quatuors \u00e0 deux violons, viole et basse oblig\u00e9s compos\u00e9s par Luigi Boccherini, musicien de la Chambre de S.A.R. Dom Louis Infant d'Espagne, etc. ... oeuvre XXXII d\u00e9di\u00e9s \u00e0 Monsieur le Baron du Beine de Malchamps Conseiller Aulr de Sa M. I. R. Ap. par ses tr\u00e8s humbles et tr\u00e8s ob\u00e9issants serviteurs Artaria Compag. publi\u00e9s et se vendent chez Artaria Compag. \u00e0 Vienne. Prix 3f30. Plate no. 18",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Schmitt (Op. 32), no. 1 of Six quatuors \u00e0 2 violons, viole et basse oblig\u00e9s compos\u00e9s par Luigi Boccherini, musicien de la Chambre de S.A.R. Dom Louis Infant d'Espagne, oeuvre XXXII, \u00e0 Amsterdam, chez J. Schmitt, compositeur et marchand de musique. Prix f 4.",
+          "(c. 1790), Paris, Le Duc (Op. 32), no. 1 of Six quartetti per due violons, alto et basse compos\u00e9s par Luigi Boccherini, oeuvre 32. \u00e0 Paris, chez Le Duc, Rue Traversiere Saint-Honor\u00e9."
+        ],
+        "arrangements": [
+          "Of the six quartets (Nos. 195-200), as quartets for harpsichord, violin, viola and 'cello, by an unknown arranger of the 18th century (see No. 259)."
+        ]
+      },
+      "notes": "('quartettino ... opera piccola') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          217,
+          218
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 196,
+      "quartet_number": 38,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Minor",
+      "opus": {
+        "number": "26",
+        "work_number": 2,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 425,
+          "instrument": "v1",
+          "dynamics": "dolce",
+          "incipit_file": "incipits/G196_mvt1_incipit425.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 426,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "notes": "Trio section marked with 'dolcis.'",
+          "incipit_file": "incipits/G196_mvt2_incipit426.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Venice, Conservatorio, Giustinian 15669/O.C.",
+          "Vienna, Bibl. Nat., S.m.11749"
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 2 (for title, see No. 195)",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Schmit: Op. 32 no. 2 (for title, see No. 195)",
+          "(c. 1790), Paris, Le Duc: Op. 32 no. 2 (for title, see No. 195)"
+        ],
+        "arrangements": "See No. 195"
+      },
+      "notes": "Listed as 'quartettino... opera piccola' in Boccherini's autograph catalogue",
+      "page_refs": {
+        "book_pages": [
+          219
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 197,
+      "quartet_number": 39,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "26",
+        "work_number": 3,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 427,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "incipit_file": "incipits/G197_mvt1_incipit427.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 428,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "(Trio) (V1) sotto voce",
+          "incipit_file": "incipits/G197_mvt2_incipit428.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Montecatini, Venturi private collection, A 9",
+          "Venice, Conservatorio, Giustinian 13669/O.C.",
+          "Vienna, Bibl. Nat., S.m.11750"
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 3 (for title, see No. 195)",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 3 (for title, see No. 195)",
+          "(c. 1790), Paris, Le Duc: Op. 32 no. 3 (for title, see No. 195)"
+        ],
+        "arrangements": "See No. 195"
+      },
+      "page_refs": {
+        "book_pages": [
+          220
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 198,
+      "quartet_number": 40,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "26",
+        "work_number": 4,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "page_refs": {
+        "book_pages": [
+          220
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 199,
+      "quartet_number": 4,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "26",
+        "work_number": 5,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto",
+          "incipit_number": 431,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G199_mvt1_incipit431.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto Allegro",
+          "incipit_number": 432,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G199_mvt2_incipit432.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Montecatini, Venturi private collection, A 9",
+          "Venice, Conservatorio, Giustinian 15669/O.C",
+          "Vienna, Bibl. Nat., S.m.11752"
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 5 (for title, see No. 195)",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 5 (for title, see No. 195)",
+          "(c. 1790), Paris, Le Duc: Op. 32 no. 5 (for title, see No. 195)"
+        ],
+        "arrangements": "See No. 195"
+      },
+      "notes": "Op. 26 no. 5 of 1778 ('quartettino... opera piccola') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          221
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 200,
+      "quartet_number": 42,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Minor",
+      "opus": {
+        "number": "26",
+        "work_number": 6,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante appassionato ma non lento",
+          "incipit_number": 433,
+          "instrument": "v1",
+          "dynamics": "mezza voce",
+          "incipit_file": "incipits/G200_mvt1_incipit433.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 434,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "additional_markings": "(Trio)",
+          "incipit_file": "incipits/G200_mvt2_incipit434.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost.",
+        "ms_copies_parts": [
+          "Montecatini, Venturi private collection, A 9.",
+          "Venice, Conservatorio, Giustinian 15669/O.C.",
+          "Vienna, Bibl. Nat., S.m.11753."
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 6 (for title, see No. 195).",
+        "later_editions": [
+          "(c. 1783:), Amsterdam, Schmitt: Op. 32 no. 6 (for title, see No. 195).",
+          "(c. 1790), Paris, Le Duc: Op. 32 no. 6 (for title, see No. 195)."
+        ],
+        "arrangements": "See No. 195."
+      },
+      "notes": "Op. 26 no. 6 of 1778 ('quartettino ... opera piccola') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          222
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 201,
+      "quartet_number": 43,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": "32",
+        "work_number": 1,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto lentarello e affettuoso",
+          "incipit_number": 435,
+          "instrument": "v1",
+          "dynamics": "dolcis.",
+          "incipit_file": "incipits/G201_mvt1_incipit435.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 436,
+          "instrument": "v1",
+          "incipit_file": "incipits/G201_mvt2_incipit436.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Grave",
+          "incipit_number": 437,
+          "instrument": "v1",
+          "incipit_file": "incipits/G201_mvt3_incipit437.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro vivace assai",
+          "incipit_number": 438,
+          "instrument": "v1",
+          "incipit_file": "incipits/G201_mvt4_incipit438.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost.",
+        "ms_copies_parts": [
+          "Montecatini, Venturi private collection, A 9.",
+          "Venice, Conservatorio, Giustinian 15669/O.C.",
+          "Vienna, Bibl. Nat., S.m.11753."
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 6 (for title, see No. 195).",
+        "later_editions": [
+          "(c. 1783:), Amsterdam, Schmitt: Op. 32 no. 6 (for title, see No. 195).",
+          "(c. 1790), Paris, Le Duc: Op. 32 no. 6 (for title, see No. 195)."
+        ],
+        "arrangements": "See No. 195."
+      },
+      "notes": "('opera grande') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          223,
+          224
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 202,
+      "quartet_number": 44,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Minor",
+      "opus": {
+        "number": "32",
+        "work_number": 2,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Largo sostenuto",
+          "incipit_number": 439,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G202_mvt1_incipit439.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 440,
+          "instrument": "v1",
+          "incipit_file": "incipits/G202_mvt2_incipit440.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Larghetto",
+          "incipit_number": 441,
+          "instrument": "v1",
+          "incipit_file": "incipits/G202_mvt3_incipit441.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Rondeau comodo assai",
+          "incipit_number": 442,
+          "instrument": "v1",
+          "incipit_file": "incipits/G202_mvt4_incipit442.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "1785, Paris, Sieber: (Op. 33), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9s par L. Boccherini oeuvre XXXIII. Prix 9s. \u00e0 Paris, chez Sieber musicien, rue Honor\u00e9, la Porte Cochere entre les rues des vieilles Etuves et d'Orl\u00e9ans, n\u00b0 85. Plate no. 445.",
+        "later_editions": [
+          "1798, Paris, Pleyel: Op. 39 no. 2 (Book 1 no. 2; for title, see No. 234)."
+        ]
+      },
+      "notes": "The first two bars are repeated in the Berlin and Rome MSS. Movement 4 is repeat of the minuetto followed by: Rondeau comodo assai sotto voce",
+      "page_refs": {
+        "book_pages": [
+          225
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 203,
+      "quartet_number": 45,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": "32",
+        "work_number": 3,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivo",
+          "incipit_number": 443,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G203_mvt1_incipit443.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio",
+          "incipit_number": 444,
+          "instrument": "v1",
+          "dynamics": "poco f",
+          "incipit_file": "incipits/G203_mvt2_incipit444.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro vivo ma non presto",
+          "incipit_number": 445,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G203_mvt3_incipit445.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.572, 'Quartetto II\u00b0 ...' (for title, see No. 201)",
+        "ms_copies_score": [
+          "Leipzig, Musikbibliothek der Stadt, III.2.4, dated 1835"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
+          "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/16, signed 'F. W. Rust'",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.62, 'Quartetto no. 22...'",
+          "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360, dated 1792"
+        ],
+        "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 2 (for title, see No. 201)",
+        "later_editions": [
+          "(c. 1782/1785), London, Kerpen: Op. 33 no. 2 (for title, see No. 201)",
+          "1785, Paris, Sieber: Op. 33 no. 2 (for title, see No. 201)"
+        ],
+        "arrangements": "Of the third movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810"
+      },
+      "notes": "See note to No. 295",
+      "page_refs": {
+        "book_pages": [
+          226
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 204,
+      "quartet_number": 46,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "32",
+        "work_number": 4,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro bizarro",
+          "incipit_number": 446,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G204_mvt1_incipit446.png"
+        }
+      ],
+      "sources": {},
+      "notes": "Op. 32 no. 4 of 1780 ('opera grande') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          227
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 205,
+      "quartet_number": 47,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Minor",
+      "opus": {
+        "number": "32",
+        "work_number": 5,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro comodo",
+          "incipit_number": 449,
+          "instrument": "v1",
+          "dynamics": "tr",
+          "incipit_file": "incipits/G205_mvt1_incipit449.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 447,
+          "instrument": "v1",
+          "dynamics": "soave",
+          "incipit_file": "incipits/G205_mvt2_incipit447.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro con brio",
+          "incipit_number": 448,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G205_mvt3_incipit448.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro giusto",
+          "incipit_number": 452,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G205_mvt4_incipit452.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.574. 'Quartetto IV\u00b0' (for title, see No. 201)",
+        "ms_copies_score": [
+          "Leipzig, Musikbibliothek der Stadt, III.12.4, dated 1835"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
+          "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/8, signed 'F. W. Rust'",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.59, 'Quartetto no. 39'",
+          "Rome, Accademia Santa Cecilia, G. MSS. 337 to 360, dated 1792"
+        ],
+        "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 4 (for title, see No. 201)",
+        "later_editions": [
+          "(c. 1782/1785), London, Kerpen: Op. 33 no. 4 (for title, see No. 201)",
+          "1785, Paris, Sieber: Op. 33 no. 4 (for title, see No. 201)",
+          "1798, Paris, Pleyel: Op. 39 no. 10 (Book 4 no. 1; for title, see No. 234)"
+        ],
+        "arrangements": [
+          "Of the second movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+        ]
+      },
+      "notes": "See note to No. 295.",
+      "page_refs": {
+        "book_pages": [
+          228,
+          229
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 206,
+      "quartet_number": 48,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "A Major",
+      "opus": {
+        "number": "32",
+        "work_number": 6,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro",
+          "incipit_number": 453,
+          "instrument": "v1",
+          "dynamics": "mf",
+          "incipit_file": "incipits/G206_mvt1_incipit453.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Andantino lentarello",
+          "incipit_number": 454,
+          "instrument": "v1",
+          "dynamics": "dolciss",
+          "incipit_file": "incipits/G206_mvt2_incipit454.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 455,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "notes": "sotto voce (Trio)",
+          "incipit_file": "incipits/G206_mvt3_incipit455.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Presto assai",
+          "incipit_number": 456,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G206_mvt4_incipit456.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.576, 'Quartetto VI' (for title, see No. 201)",
+        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 33 no. 5 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York."
+      },
+      "page_refs": {
+        "book_pages": [
+          230
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 207,
+      "quartet_number": 49,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Major",
+      "opus": {
+        "number": "33",
+        "work_number": 1,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "sources": {
+        "ms_copies_score": [
+          "Leipzig, Musikbibliothek der Stadt, III.12.13 (modern copy)"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
+          "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/12",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.58, 'Quartetto no. 58...'",
+          "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360, dated 1792"
+        ],
+        "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 6 (for title, see No. 201)",
+        "later_editions": [
+          "(c. 1782/1783), London, Kerpen: Op. 33 no. 6 (for title, see No. 201)",
+          "1785, Paris, Sieber: Op. 33 no. 6 (for title, see No. 201)",
+          "1798, Paris, Pleyel: Op. 39 no. 12 (Book 4 no. 3; for title, see No. 234)"
+        ],
+        "modern_editions": [
+          "(c. 1930?), Leipzig, Peters: Op. 33 no. 6 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943: by the International Music Co., New York",
+          "1953, Milan, Ricordi: Op. 33 no. 6 (pocket score; revised by Enrico Polo)"
+        ],
+        "arrangements": [
+          "Of the fourth movement, as part of a quartet (no. 1) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)",
+          "Of the second movement, as part of a quartet (no. 3) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+        ],
+        "autograph": {
+          "location": "Berlin, Deutsche Staatsbibliothek, M.579",
+          "description": "Quartettino I\u00b0 per due violini, viola, e violoncello composto per S.A.R.le Don Luigi Infante di Spagna da Luigi Boccherini, virtuoso di camera, e compositore di musica della Prefata S.A.R.le Opera 1a. 1781"
+        }
+      },
+      "notes": "Op. 33 no. 1 of 1781 ('quartettino... opera piccola') in Boccherini's autograph catalogue",
+      "page_refs": {
+        "book_pages": [
+          231
+        ],
+        "pdf_pages": []
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro spiritoso",
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Rondeau. Allegretto ma con moto",
+          "instrument": "v1",
+          "dynamics": "pp",
+          "additional_marking": "Con amorfa",
+          "incipit_number": 457,
+          "incipit_file": "incipits/G207_mvt2_incipit457.png"
+        }
+      ]
+    },
+    {
+      "g_number": 208,
+      "quartet_number": 50,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "33",
+        "work_number": 2,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto",
+          "incipit_number": 459,
+          "instrument": "v1",
+          "dynamics": "p e stacc.",
+          "incipit_file": "incipits/G208_mvt1_incipit459.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto - Flautato",
+          "incipit_number": 460,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G208_mvt2_incipit460.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.580, 'Quartettino II' (for title, see No. 207)",
+        "ms_copies_parts": [
+          "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2) (for title and comment, see No. 207)"
+        ],
+        "first_edition": "1958, Rome, del Turco, in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)",
+        "later_editions": [
+          "1960, Hamburg/London, Simrock (separate parts; revised by W. H\u00f6ckner and H. M\u0142ynarczyk)"
+        ]
+      },
+      "notes": "Repeat of the Minuetto and Trio 2 mentioned",
+      "page_refs": {
+        "book_pages": [
+          233
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 209,
+      "quartet_number": 51,
+      "instrumentation": "two violins, viola and cello",
+      "key": "G Major",
+      "opus": {
+        "number": "33",
+        "work_number": 3,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante con moto",
+          "incipit_number": 461,
+          "instrument": "v1",
+          "dynamics": "dolce",
+          "incipit_file": "incipits/G209_mvt1_incipit461.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Presto assai",
+          "incipit_number": 462,
+          "instrument": "v1",
+          "dynamics": "Flautato dolce",
+          "incipit_file": "incipits/G209_mvt2_incipit462.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.581, 'Quartettino III\u00b0...' (for title, see No. 207)",
+        "ms_copies_parts": [
+          "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2) (for title and comment, see No. 207)"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          234
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 210,
+      "quartet_number": 52,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "B\u266d Major",
+      "opus": {
+        "number": "33",
+        "work_number": 4,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante lentarello",
+          "incipit_number": 463,
+          "instrument": "v1c",
+          "dynamics": "rinf.",
+          "incipit_file": "incipits/G210_mvt1_incipit463.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 464,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G210_mvt2_incipit464.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.582, 'Quartettino IV\u00b0...' (for title, see No. 207)"
+      },
+      "page_refs": {
+        "book_pages": [
+          235
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 211,
+      "quartet_number": 53,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Minor",
+      "opus": {
+        "number": "33",
+        "work_number": 5,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro brillante",
+          "incipit_number": 465,
+          "instrument": "v1",
+          "dynamics": "mezza voce",
+          "incipit_file": "incipits/G211_mvt1_incipit465.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro vivo assai",
+          "incipit_number": 466,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G211_mvt2_incipit466.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2) (for title and comment, see No. 207)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.585 and M.586. Two copies made in Berlin for Frederick William II",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)"
+        ],
+        "first_edition": "1958, Rome, del Turco, in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)",
+        "later_editions": [
+          "1960, Hamburg/London, Simrock (separate parts; revised by W. H\u00f6ckner and H. Mlynarczyk)"
+        ]
+      },
+      "notes": "Unpublished in Boccherini's life-time",
+      "page_refs": {
+        "book_pages": [
+          236
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 212,
+      "quartet_number": 54,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "33",
+        "work_number": 6,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Minuetto",
+          "incipit_number": 467,
+          "instrument": "v1",
+          "dynamics": "dolce",
+          "incipit_file": "incipits/G212_mvt1_incipit467.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto. Affettuoso",
+          "incipit_number": 469,
+          "instrument": "v1",
+          "dynamics": "dolcissimo",
+          "incipit_file": "incipits/G212_mvt2_incipit469.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.583, 'Quartettino V\u00b0...' (for title, see No. 207)",
+        "ms_copies_parts": [
+          "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2) (for title and comment, see No. 207)",
+          "Berlin, Deutsche Staatsbibliothek, M.585 and M.586. Two copies made in Berlin for Frederick William II",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)"
+        ],
+        "first_edition": "1958, Rome, del Turco, in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)",
+        "later_editions": [
+          "1960, Hamburg/London, Simrock (separate parts: revised by W. H\u00f6ckner and H. Mlynarczyk)"
+        ]
+      },
+      "notes": "The minuetto is incorporated in the Allegro vivo assai, a part of which is repeated after it. Unpublished in Boccherini's life-time.",
+      "page_refs": {
+        "book_pages": [
+          237
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 213,
+      "quartet_number": 55,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "39",
+        "year": 1787,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato",
+          "incipit_number": 470,
+          "instrument": "v1",
+          "notes": "sotto voce e con smorfia",
+          "incipit_file": "incipits/G213_mvt1_incipit470.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 471,
+          "instrument": "v1",
+          "dynamics": "f",
+          "notes": "(Trio) - (vi) soave assai con semplicit\u00e0",
+          "incipit_file": "incipits/G213_mvt2_incipit471.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Grave",
+          "incipit_number": 472,
+          "instrument": "v1",
+          "notes": "soave assai",
+          "incipit_file": "incipits/G213_mvt3_incipit472.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro giusto",
+          "incipit_number": 473,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G213_mvt4_incipit473.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.587, 'Mese di Novembre 1787. Quartetto per due violini, viola, e violoncello obbligato composto da Luigi Boccherini Professor di Musica all' attual servizio di S.M. Cattolica e compositor di camera di S.M. Prussiana'. Copy made in Berlin for Frederick William II from the lost autograph manuscript score sent by Boccherini."
+        ],
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 8 (Book 3 no. 2; for title and comment, see No. 234)",
+        "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 39 (separate parts; revised by Walter Upmeyer), no. 4 in L. Boccherini Ausgew\u00e4hlte Streichquartette",
+        "arrangements": "Of the fourth movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+      },
+      "notes": "According to Boccherini's autograph catalogue as printed by Alfredo Boccherini, op. 39 comprises only three quintets (Nos. 337 to 339). Picquot, however, describes the present quartet as part of op. 39 and the work appears in the year 1787 in the thematic catalogue sent by Boccherini to Pleyel (see Bibliography).",
+      "page_refs": {
+        "book_pages": [
+          239
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 214,
+      "quartet_number": 56,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Minor",
+      "opus": {
+        "number": "41",
+        "work_number": 1,
+        "year": "[May] 1788",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Prestissimo",
+          "incipit_number": 474,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G214_mvt1_incipit474.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto (Trio)",
+          "incipit_number": 475,
+          "instrument": "v1",
+          "dynamics": "sotto voce, f, pp",
+          "incipit_file": "incipits/G214_mvt2_incipit475.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Andante Flebile",
+          "incipit_number": 476,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G214_mvt3_incipit476.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Repeat of the second part of the Prestissimo"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost"
+      },
+      "notes": "According to Boccherini's autograph catalogue as printed by Alfredo Boccherini, op. 41 comprises only two quintets (Nos. 346 and 347), a symphony (No. 519) and the minuets for a ball (No. 525). Picquot, however, describes this and the following quartet (No. 215) as parts of op. 41 and the works appear in the year 1788 in the thematic catalogue sent by Boccherini to Pleyel (see Bibliography).",
+      "page_refs": {
+        "book_pages": [
+          240
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 215,
+      "quartet_number": 57,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "41",
+        "work_number": 2,
+        "year": 1788,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato assai",
+          "incipit_number": 477,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G215_mvt1_incipit477.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto. Allegro",
+          "incipit_number": 478,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G215_mvt2_incipit478.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Larghetto affettuoso",
+          "incipit_number": 479,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G215_mvt3_incipit479.png"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "Berlin, Deutsche Staatsbibliothek, M.558 'Mese di Maggio 1788. Quartetto per due violini, viola, e violoncello composto da Luigi Boccherini Professor di musica all' atual servizio di S.M.C. e compositor di camera di S.M. Prussiana'. Copy made in Berlin for Frederick William II from the lost autograph manuscript score sent by Boccherini."
+        ],
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 6 (Book 2 no. 3; for title and comment, see No. 234)",
+        "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 41 (separate parts; revised by Walter Upmeyer), no. 3 in L. Boccherini Ausgew\u00e4hlte Streichquartette",
+        "arrangements": [
+          "Of the second movement, as part of a quartet (no. 3) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+        ]
+      },
+      "notes": "For comment, see note to previous number.",
+      "page_refs": {
+        "book_pages": [
+          241
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 216,
+      "quartet_number": 58,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "42",
+        "work_number": 1,
+        "year": 1789,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato",
+          "incipit_number": 481,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G216_mvt1_incipit481.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto. Allegro",
+          "incipit_number": 482,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G216_mvt2_incipit482.png"
+        }
+      ],
+      "sources": {
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.589, 'Mese di Giugno 1788. Quartetto...' (for title and comment, see No. 214)"
+        ],
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 5 (Book 2 no. 2; for title and comment, see No. 234)",
+        "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 41 (separate parts; revised by Walter Upmeyer), no. 5 in L. Boccherini Ausgew\u00e4hlte Streichquartette",
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (5). 'Mese di Febbraio 1789. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S. M. Prussiana'."
+      },
+      "notes": "Op. 42 comprises two quartettini (Nos. 216, 217), three double 'cello quintets (Nos. 348-350) and a quintettino (No. 351), a symphony (No. 520), and an octet (No. 473).",
+      "page_refs": {
+        "book_pages": [
+          242
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 217,
+      "quartet_number": 59,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "42",
+        "work_number": 2,
+        "year": 1789,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante",
+          "incipit_number": 483,
+          "instrument": "v1",
+          "dynamics": "dolce, f",
+          "incipit_file": "incipits/G217_mvt1_incipit483.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 484,
+          "instrument": "v1",
+          "dynamics": "sotto voce, f, p",
+          "incipit_file": "incipits/G217_mvt2_incipit484.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (4). 'Mese di Aprile 1789. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'."
+      },
+      "notes": "Op. 42 comprises various works (see note to No. 216).",
+      "page_refs": {
+        "book_pages": [
+          243
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 218,
+      "quartet_number": 60,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "43",
+        "work_number": 1,
+        "year": 1700,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato",
+          "incipit_number": 485,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G218_mvt1_incipit485.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 486,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "Trio, sotto voce",
+          "incipit_file": "incipits/G218_mvt2_incipit486.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (5). 'Mese di Marzo 1700. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositore di camera di S. M. il Re di Prussia'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.594. Copy made in Berlin for Frederick William II",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+          "Paris, Conservatoire, D. 11139, in the hand of Picquot"
+        ]
+      },
+      "notes": "Unpublished",
+      "page_refs": {
+        "book_pages": [
+          244
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 219,
+      "quartet_number": 61,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "A Major",
+      "opus": {
+        "number": "43",
+        "work_number": 2,
+        "year": 1790,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 487,
+          "instrument": "v1",
+          "dynamics": null,
+          "incipit_file": "incipits/G219_mvt1_incipit487.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 488,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G219_mvt2_incipit488.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 597 (6). 'Mese di Novembre 1790. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.595. Copy made in Berlin for Frederick William II.",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+          "Paris, Conservatoire, D. 11160, in the hand of Picquot."
+        ]
+      },
+      "notes": "Unpublished.",
+      "page_refs": {
+        "book_pages": [
+          245
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 220,
+      "quartet_number": 62,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "B\u266d Major",
+      "opus": {
+        "number": "44",
+        "work_number": 1,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Maestoso assai",
+          "incipit_number": 489,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G220_mvt1_incipit489.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 490,
+          "instrument": "v1",
+          "dynamics": "dolci",
+          "incipit_file": "incipits/G220_mvt2_incipit490.png"
+        }
+      ],
+      "sources": {
+        "autograph": {
+          "score": "Berlin, Deutsche Staatsbibliothek, M.596. Same title as the MS. in Paris.",
+          "parts": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (7). 'Mese di Febbraro 1792. Quartettino per due violini, viola e violoncello di Luigi Boccherini compositor di camera di S. M. il Re di Prussia'."
+        },
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.597. Copy made in Berlin for Frederick William II.",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+          "Paris, Conservatoire, D. 11161, in the hand of Picquot."
+        ]
+      },
+      "notes": "Op. 43 comprises various works (see note 1 to No. 218).",
+      "page_refs": {
+        "book_pages": [
+          245
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 221,
+      "quartet_number": 63,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Minor",
+      "opus": {
+        "number": "44",
+        "work_number": 2,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante larghetto",
+          "incipit_number": 491,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "incipit_file": "incipits/G221_mvt1_incipit491.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto amoroso (Trio)",
+          "incipit_number": 492,
+          "instrument": "v1",
+          "dynamics": "sempre pp",
+          "incipit_file": "incipits/G221_mvt2_incipit492.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Andante allegretto",
+          "incipit_number": 493,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G221_mvt3_incipit493.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (8). 'Mese di Aprile 1792. Quartettino per due violini, viola e violoncello obbt\u00b0 di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.598. Copy made in Berlin for Frederick William II.",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+          "Paris, Conservatoire, D.11162, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+        ]
+      },
+      "notes": "Op. 44 no. 2 of [April] 1792 ('quartettino... opera piccola') in Boccherini's autograph catalogue.",
+      "page_refs": {
+        "book_pages": [
+          246
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 222,
+      "quartet_number": 64,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "44",
+        "work_number": 3,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Lento assai",
+          "incipit_number": 494,
+          "instrument": "v1",
+          "dynamics": "ten.",
+          "incipit_file": "incipits/G222_mvt1_incipit494.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 495,
+          "instrument": null,
+          "dynamics": "pp",
+          "incipit_file": "incipits/G222_mvt2_incipit495.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 496,
+          "instrument": "v1",
+          "incipit_file": "incipits/G222_mvt3_incipit496.png"
+        }
+      ],
+      "sources": {},
+      "notes": "The above movement follows immediately after the Lento and is followed by a repeat of the same Lento.",
+      "page_refs": {
+        "book_pages": [
+          247
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 223,
+      "quartet_number": 65,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Major",
+      "known_as": "La Tiranna",
+      "opus": {
+        "number": "44",
+        "work_number": 4,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Presto",
+          "incipit_number": 497,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G223_mvt1_incipit497.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 498,
+          "instrument": "v1",
+          "dynamics": "pp con semplicit\u00e0",
+          "incipit_file": "incipits/G223_mvt2_incipit498.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (9). 'Mese di Giugno 1792. Quartettino per due violini, viola e violoncello obbl\u00ba di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.599. Copy made in Berlin for Frederick William II.",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+          "Paris, Conservatoire, D. 11163, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+        ]
+      },
+      "notes": "Unpublished.",
+      "page_refs": {
+        "book_pages": [
+          248
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 224,
+      "quartet_number": 66,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "44",
+        "work_number": 5,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino lento",
+          "incipit_number": 499,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G224_mvt1_incipit499.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro non tanto",
+          "incipit_number": 500,
+          "instrument": "v1",
+          "incipit_file": "incipits/G224_mvt2_incipit500.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (10). 'La Tiranna. Mese di Agosto 1792. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositor di camera di S. M. il R\u00e9 di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.600. Copy made in Berlin for Frederick William II, with the title: 'La Tiranna Spagnola'",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+          "Paris, Conservatoire, D. 11164, in the hand of Picquot"
+        ],
+        "first_edition": "1952, Kassel, B\u00e4renreiter: Op. 44 no. 4 (separate parts; revised by Walter Upmeyer), no. 6 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
+      },
+      "notes": "The origin of the title 'La Tiranna' is unknown. There is no doubt that the words are in the hand of Boccherini. Titles of this kind are so rare that we may be sure that they denote a precise intention on the part of the composer. Two or three explanations have been suggested for the present title. Some say that it is borrowed from a work by Goya, the portrait (now in the Academia de Bellas Artes in Madrid) of the actress Rosario Fernandez, who was known as 'La Tirana'. According to others, it is a reference to 'la tirana', the name of a popular dance and also of a slow melody; the trio of the minuet corresponds well to this last explanation. What is certain is the very Spanish character of the work, with a strong contrast between the nervous vivacity of the Presto and the sombre melancholy of the minuet. Unpublished in Boccherini's life-time.",
+      "page_refs": {
+        "book_pages": [
+          224
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 225,
+      "quartet_number": 67,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "44",
+        "work_number": 6,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino",
+          "incipit_number": 501,
+          "instrument": "v1",
+          "dynamics": "sotto voce assai",
+          "incipit_file": "incipits/G225_mvt1_incipit501.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 502,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "special_notes": "(Trio)",
+          "incipit_file": "incipits/G225_mvt2_incipit502.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (12). 'Mese di Decembre 1792. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.601. Copy made in Berlin for Frederick William II",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+          "Paris, Conservatoire, D. 11166, in the hand of Picquot, with a note: 'tr\u00e8s beau'"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          250
+        ],
+        "pdf_pages": []
+      },
+      "notes": "Unpublished"
+    },
+    {
+      "g_number": 226,
+      "quartet_number": 68,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "F Major",
+      "opus": {
+        "number": "48",
+        "work_number": 1,
+        "year": 1794,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante moderato",
+          "incipit_number": 503,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G226_mvt1_incipit503.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 504,
+          "instrument": "v1",
+          "dynamics": "f",
+          "notes": "Trio marked as 'sotto voce assai'",
+          "incipit_file": "incipits/G226_mvt2_incipit504.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve, 507 (13). 'Mese di Febrajo 1794. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.602. Copy made in Berlin for Frederick William II",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+          "Paris, Conservatoire, D. 11167, in the hand of Picquot"
+        ]
+      },
+      "notes": "Unpublished",
+      "page_refs": {
+        "book_pages": [
+          251
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 227,
+      "quartet_number": 69,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "A Major",
+      "opus": {
+        "number": "48",
+        "work_number": 2,
+        "year": 1794,
+        "month": "April",
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante lento",
+          "incipit_number": 505,
+          "instrument": "v1",
+          "dynamics": null,
+          "notes": "sotto voce sempre",
+          "incipit_file": "incipits/G227_mvt1_incipit505.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto (Trio)",
+          "incipit_number": 506,
+          "instrument": "v1",
+          "dynamics": "f, pp",
+          "incipit_file": "incipits/G227_mvt2_incipit506.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (15). 'Mese di Aprile 1794. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.603. Copy made in Berlin for Frederick William II.",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+          "Paris, Conservatoire, D. 11168, in the hand of Picquot."
+        ]
+      },
+      "notes": "Unpublished.",
+      "page_refs": {
+        "book_pages": [
+          252
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 228,
+      "quartet_number": 70,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "B Minor",
+      "opus": {
+        "number": "48",
+        "work_number": 3,
+        "year": 1794,
+        "month": "June",
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato",
+          "incipit_number": 507,
+          "instrument": "v1",
+          "dynamics": null,
+          "notes": "sotto voce",
+          "incipit_file": "incipits/G228_mvt1_incipit507.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 508,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G228_mvt2_incipit508.png"
+        }
+      ],
+      "sources": {},
+      "page_refs": {
+        "book_pages": [
+          252
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 229,
+      "quartet_number": 71,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "48",
+        "work_number": 4,
+        "year": 1794,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino lento",
+          "incipit_number": 509,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G229_mvt1_incipit509.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con un poco di moto (Trio)",
+          "incipit_number": 510,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G229_mvt2_incipit510.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (14). 'Mese di Giugno 1794. Quartettino [per due violini, viola e violoncello di Luigi] Boccherini [compositor di camera di S.M. il Re di Prussia]'. The first violin and 'cello parts are not in the hand of Boccherini.",
+        "ms_copies_parts": [
+          "Mulhouse, Bibl. Municipale, MN.4862",
+          "Paris, Conservatoire, D. 11169, in the hand of Picquot, with a note: 'beau'"
+        ],
+        "first_edition": "1932, Kassel, B\u00e4renreiter (separate parts; revised by Walter Upmeyer), with the erroneous number Op. 48 no. 2, no. 7 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
+      },
+      "notes": "Unpublished in Boccherini's life-time.",
+      "page_refs": {
+        "book_pages": [
+          253
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 230,
+      "quartet_number": 72,
+      "instrumentation": "two violins, viola and cello",
+      "key": "G Major",
+      "opus": {
+        "number": "48",
+        "work_number": 5,
+        "year": 1794,
+        "month": "October",
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": null,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con un poco di moto",
+          "incipit_number": 511,
+          "instrument": "v1",
+          "dynamics": "dolciss",
+          "additional_marking": "Trio",
+          "incipit_file": "incipits/G230_mvt2_incipit511.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (17). 'Mese di Ottobre 1794. Quartettino [per due violini, viola e violoncello di Luigi] Boccherini [compositor di camera di S.M. il Re di Prussia]'. The first violin and 'cello parts are not in the hand of Boccherini.",
+        "ms_copies_parts": [
+          "Mulhouse, Bibl. Municipale, MN.4862",
+          "Paris, Conservatoire, D. 11171, in the hand of Picquot"
+        ]
+      },
+      "notes": "Unpublished",
+      "page_refs": {
+        "book_pages": [
+          254
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 231,
+      "quartet_number": 73,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "48",
+        "work_number": 6,
+        "year": 1794,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 513,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G231_mvt1_incipit513.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto affettuoso",
+          "incipit_number": 514,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G231_mvt2_incipit514.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (18). 'Mese di Decembre 1794. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositore di camera di S.M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Mulhouse, Bibl. Municipale, MN.4862",
+          "Paris, Conservatoire, D. 11172, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+        ]
+      },
+      "notes": "Unpublished.",
+      "page_refs": {
+        "book_pages": [
+          255
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 232,
+      "quartet_number": 74,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "52",
+        "work_number": 1,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con moto",
+          "incipit_number": 515,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G232_mvt1_incipit515.png"
+        }
+      ],
+      "page_refs": {
+        "book_pages": [
+          255
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 233,
+      "quartet_number": 75,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "52",
+        "work_number": 2,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace assai",
+          "incipit_number": 519,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G233_mvt1_incipit519.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 516,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G233_mvt2_incipit516.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Adagio",
+          "incipit_number": 517,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "additional_marking": "Trio, sotto voce assai",
+          "incipit_file": "incipits/G233_mvt3_incipit517.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale. Allegro giusto",
+          "incipit_number": 518,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G233_mvt4_incipit518.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 7 (Book 3 no. 1; for title and comment, see No. 234).",
+        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 39 no. 1 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York.",
+        "arrangements": [
+          "Of the first and fourth movements, as part of a quartet (no. 3) for clarinet, flute, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262).",
+          "Of the fourth movement, as part of a guitar quintet, by Boccherini himself (see No. 449)."
+        ],
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.604. 'Mese di Maggio 1795. Quartetto per due violini, viola, e violoncello di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.605. Copy made in Berlin for Frederick William II."
+        ]
+      },
+      "notes": "No MSS. of any kind are known.",
+      "page_refs": {
+        "book_pages": [
+          256,
+          257
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 234,
+      "quartet_number": 76,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Major",
+      "opus": {
+        "number": "52",
+        "work_number": 3,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 523,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G234_mvt1_incipit523.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 524,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G234_mvt2_incipit524.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Adagio",
+          "incipit_number": 525,
+          "instrument": "v1",
+          "additional_marking": "sotto voce",
+          "incipit_file": "incipits/G234_mvt3_incipit525.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Rondeau. Allegro giusto",
+          "incipit_number": 526,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G234_mvt4_incipit526.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.606. 'Mese di Luglio 1795. Quartetto per due violini, viola, e violoncello di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.607. Copy made in Berlin for Frederick William II"
+        ]
+      },
+      "notes": "See note to No. 340",
+      "page_refs": {
+        "book_pages": [
+          258
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 235,
+      "quartet_number": 77,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Minor",
+      "opus": {
+        "number": "52",
+        "work_number": 4,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto appassionato",
+          "incipit_number": 527,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G235_mvt1_incipit527.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 528,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G235_mvt2_incipit528.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Adagio non tanto",
+          "incipit_number": 529,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G235_mvt3_incipit529.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale. Allegro assai",
+          "incipit_number": 530,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G235_mvt4_incipit530.png"
+        }
+      ],
+      "sources": {
+        "autograph": "September 1795 ('opera grande') in Boccherini's autograph catalogue"
+      },
+      "notes": "Op. 52 comprises four quartets only",
+      "page_refs": {
+        "book_pages": [
+          260
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 236,
+      "quartet_number": 78,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "53",
+        "work_number": 1,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro (che appena si senta)",
+          "incipit_number": 531,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G236_mvt1_incipit531.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 532,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G236_mvt2_incipit532.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.608. 'Mese di Settembre 1795. Quartetto per due violini, viola, e violoncello di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.609. Copy made in Berlin for Frederick William II"
+        ],
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 9 (Book 1 no. 3; for title and comment, see No. 234)",
+        "arrangements": [
+          "Of the third movement, as part of a quartet (no. 1) for clarinet, flute, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+        ]
+      },
+      "notes": "No MSS. of any kind are known.",
+      "page_refs": {
+        "book_pages": [
+          261
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 237,
+      "quartet_number": 79,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "53",
+        "work_number": 2,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino Pausato",
+          "incipit_number": 533,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G237_mvt1_incipit533.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto Allegro (Trio Minore)",
+          "incipit_number": 534,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G237_mvt2_incipit534.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.610. 'Mese di Marzo 1796. Quartettino per due violini, viola, e violoncello obbl.o di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.611. Copy made in Berlin for Frederick William II."
+        ],
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 3 (for title and comment, see No. 249)",
+        "modern_editions": [
+          "(1960?), Hamburg, Marbot: Op. 40 no. 3 (separate parts; revised by W. H\u00f6ckner)",
+          "1963, Wilhelmshaven, Heinrichshofen's, in the series Pegasus Kammermusik Ausgaben: Op. 40 no. 3 (separate parts; revised by H. Mlynarczyk)"
+        ]
+      },
+      "notes": "The above theme is also used by Boccherini in the piano quintet in D Major Op. 56 no. 5 of 1797 (see No. 411).",
+      "page_refs": {
+        "book_pages": [
+          262
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 238,
+      "quartet_number": 80,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "53",
+        "work_number": 3,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 535,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G238_mvt1_incipit535.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto. Allegro",
+          "incipit_number": 536,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G238_mvt2_incipit536.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 4 (for title and comment, see No. 240)"
+      },
+      "notes": "Both movements are repeated, by Boccherini himself (?), in the quartet Op. 54 no. 3 (No. 252). No MSS. of any kind are known.",
+      "is_arrangement": true,
+      "page_refs": {
+        "book_pages": [
+          263
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 239,
+      "quartet_number": 81,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "53",
+        "work_number": 4,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 537,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G239_mvt1_incipit537.png"
+        }
+      ],
+      "page_refs": {
+        "book_pages": [
+          263
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 240,
+      "quartet_number": 82,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "53",
+        "work_number": 5,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino lento",
+          "incipit_number": 539,
+          "instrument": "v1",
+          "incipit_file": "incipits/G240_mvt1_incipit539.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 540,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "(Trio)",
+          "incipit_file": "incipits/G240_mvt2_incipit540.png"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [],
+        "ms_copies_parts": [],
+        "first_edition": "1798, Paris, Pleyel (Op. 40), no. 1 of Six quartettino pour deux violons, alto et basse compos\u00e9s par Luigi Boccherini, oeuvre 40, Prix 9 liv., grav\u00e9s par Richomme, \u00e0 Paris, Chez Ignace Pleyel, Rue Neuve des Petits Champs n\u00b0 1286 vis-\u00e0-vis la Tr\u00e9sorerie. Propri\u00e9t\u00e9 de l'\u00e9diteur. Enregistr\u00e9 \u00e0 la Biblioth\u00e8que Nationale. Plate no. 132."
+      },
+      "notes": "No MSS. of any kind are known. Some copies, probably the earliest, have the address ... Petits Champs n\u00b0 728 entre les Rues de la Loi et Helv\u00e9tius. F\u00e9tis (op. cit.), not having seen this Op. 40, assumed that it was a new edition of Artaria Op. 32 (Nos. 195 to 200). An examination of the contract signed by",
+      "page_refs": {
+        "book_pages": [
+          264
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 241,
+      "quartet_number": 83,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "53",
+        "work_number": 6,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino amoroso",
+          "incipit_number": 541,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G241_mvt1_incipit541.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto, Allegro",
+          "incipit_number": 542,
+          "instrument": "v1",
+          "dynamics": "f, p, pp",
+          "incipit_file": "incipits/G241_mvt2_incipit542.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 5 (for title and comment, see No. 240)",
+        "modern_edition": "1960, Hamburg, Simrock, in the series Das Streichquartett (vol. ii no. 1): Op. 40 no. 5 (separate parts; revised by W. H\u00f6ckner and H. Mlynarczyk)"
+      },
+      "notes": "No MSS. of any kind are known.",
+      "page_refs": {
+        "book_pages": [
+          265
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 242,
+      "quartet_number": 84,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "58",
+        "work_number": 1,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "page_refs": {
+        "book_pages": [
+          265
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 243,
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro",
+          "incipit_number": 543,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G243_mvt1_incipit543.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 544,
+          "instrument": "v1",
+          "dynamics": "p soave assai",
+          "incipit_file": "incipits/G243_mvt2_incipit544.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro vivo assai",
+          "incipit_number": 545,
+          "instrument": "v1",
+          "dynamics": "ff sempre",
+          "incipit_file": "incipits/G243_mvt3_incipit545.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale. Allegro vivo assai",
+          "incipit_number": 549,
+          "instrument": "v1",
+          "incipit_file": "incipits/G243_mvt4_incipit549.png"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "No MSS. of any kind are known"
+        ],
+        "first_edition": "(c. 1803), Paris, Sieber (Op. 58), no. 1 of Six quartetti \u00e0 deux violons, alto et violoncello compos\u00e9 par Luigi Boccherini op. 58 en deux livraisons, 1\u00e8re [2e] partie, Prix 7 liv. 10 s. \u00e0 Paris, chez Sieber p\u00e8re, artiste et \u00e9diteur de musique rue St. Honor\u00e9, H\u00f4tel d'Aligre n\u00b0 199. Plate nos. 1634/1635",
+        "later_editions": [
+          "op. 38 (grav\u00e9s sur le manuscrit de l'auteur) ... chez Sieber P\u00e8re, \u00c9diteur et Md de Musique, rue Coquilliere n\u00b0 22 pr\u00e8s celle J. J. Rousseau (ci-devant rue St Honor\u00e9, h\u00f4tel d'Aligre)"
+        ],
+        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 1 (pocket score and separate parts; revised by P. Carmirelli)",
+        "modern_editions": [
+          "1952, Kassel, B\u00e4renreiter: Op. 58 no. 2 (separate parts; revised by Walter Upmeyer), no. 8 in L. Boccherini Ausgew\u00e4hlte Streichquartette.",
+          "1961, Milan, Ricordi: Op. 58 no. 2 (pocket score and separate parts; revised by P. Carmirelli)."
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          266
+        ],
+        "pdf_pages": []
+      },
+      "quartet_number": 85,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "58",
+        "work_number": 2,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "notes": "No MSS. of any kind are known."
+    },
+    {
+      "g_number": 244,
+      "quartet_number": 86,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "Bb Major",
+      "opus": {
+        "number": "58",
+        "work_number": 3,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 550,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G244_mvt1_incipit550.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro vivo assai",
+          "incipit_number": 551,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G244_mvt2_incipit551.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Rondeau. Allegro giusto",
+          "incipit_number": 552,
+          "instrument": "v1",
+          "dynamics": "con semplicit\u00e0",
+          "incipit_file": "incipits/G244_mvt3_incipit552.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 3 (for title, see No. 242)",
+        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 3 (pocket score and separate parts; revised by P. Carmirelli)"
+      },
+      "page_refs": {
+        "book_pages": [
+          267
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 245,
+      "quartet_number": 87,
+      "instrumentation": "two violins, viola and cello",
+      "key": "B Minor",
+      "opus": {
+        "number": "58",
+        "work_number": 4,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro molto",
+          "incipit_number": 553,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G245_mvt1_incipit553.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Andantino lento",
+          "incipit_number": 554,
+          "instrument": "v1",
+          "dynamics": "poco f",
+          "incipit_file": "incipits/G245_mvt2_incipit554.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Rondeau. Allegro",
+          "incipit_number": 555,
+          "instrument": "v1",
+          "dynamics": "pp che appena si senta",
+          "incipit_file": "incipits/G245_mvt3_incipit555.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 4 (for title, see No. 242)"
+      },
+      "page_refs": {
+        "book_pages": [
+          268
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 246,
+      "quartet_number": 88,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": "58",
+        "work_number": 5,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante sostenuto",
+          "incipit_number": 556,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G246_mvt1_incipit556.png"
+        },
+        {
+          "tempo": "Allegretto Gajo",
+          "incipit_number": 557,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G246_mvtNone_incipit557.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Repeat of the Andante sostenuto",
+          "followed_by": "Presto",
+          "incipit_number": 558,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G246_mvt2_incipit558.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 5 (for title, see No. 242)",
+        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 5 (pocket score and separate parts; revised by P. Carmirelli)"
+      },
+      "notes": "No MSS. of any kind are known.",
+      "page_refs": {
+        "book_pages": [
+          269
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 247,
+      "quartet_number": 89,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "58",
+        "work_number": 6,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato",
+          "incipit_number": 559,
+          "instrument": "v1",
+          "dynamics": "p",
+          "incipit_file": "incipits/G247_mvt1_incipit559.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 560,
+          "instrument": "v1",
+          "dynamics": "pp sempre",
+          "incipit_file": "incipits/G247_mvt2_incipit560.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro giusto e sostenuto",
+          "incipit_number": 561,
+          "instrument": "v1",
+          "dynamics": "fp",
+          "incipit_file": "incipits/G247_mvt3_incipit561.png"
+        }
+      ],
+      "sources": {
+        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 6 (for title, see No. 242)",
+        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 6 (pocket score and separate parts; revised by P. Carmirelli)"
+      },
+      "notes": "No MSS. of any kind are known.",
+      "page_refs": {
+        "book_pages": [
+          270
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 248,
+      "quartet_number": 90,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "64",
+        "work_number": 1,
+        "year": 1804,
+        "type": "opera grande"
+      },
+      "page_refs": {
+        "book_pages": [
+          270,
+          271
+        ],
+        "pdf_pages": []
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro molto",
+          "incipit_number": 562,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "incipit_file": "incipits/G248_mvt1_incipit562.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio non tanto",
+          "incipit_number": 563,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G248_mvt2_incipit563.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro vivo ma non presto",
+          "incipit_number": 564,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G248_mvt3_incipit564.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress, M432. A2. B68. Op. 64 Case. '1804. Opera 64. Sei quartetti per due violini, viola e violoncello composti espressamente per il cittadino Luciano Bonaparte da Luigi Boccherini. Quartetto primo'."
+      },
+      "notes": "The Washington MS. with the above number is described as a copy, but this is incorrect. There is no doubt whatever that this is the autograph MS., not recognised as such since 1832, the year in which Picquot saw it for the last time in the collection of the successor of Janet et Cotelle. Although the title speaks of six quartets, only the first quartet was completed and the first movement of the second. Boccherini, already very ill, had not the strength to proceed further. After his death his sons failed to find any draft of the quartets which should have followed.",
+      "incomplete": true
+    },
+    {
+      "g_number": 249,
+      "quartet_number": 9,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": "64",
+        "work_number": 2,
+        "year": 1804,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con brio",
+          "incipit_number": 565,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G249_mvt1_incipit565.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress, ' 1804. Opera 64. Quartetto secondo ' (for reference number, title and comment, see No. 248)",
+        "ms_copies_parts": [
+          "Mulhouse, Bibl. Municipale, MN.4862"
+        ]
+      },
+      "incomplete": true,
+      "notes": "The quarter was never completed.",
+      "page_refs": {
+        "book_pages": [
+          272
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 250,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": "54",
+        "work_number": 1
+      },
+      "movements": [
+        {
+          "tempo": "Andantino\u2014Maestoso assai\u2014Allegro giusto"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress, M452. A2. B68. Op. 54. ' Opera 54",
+        "ms_copies_parts": [
+          "Mulhouse, Bibl. Municipale, MN.4862"
+        ]
+      },
+      "is_arrangement": true,
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see below. Arrangement of the whole of the trio in D Major Op. 54 no. 1 (of 1796) (No. 113).",
+      "page_refs": {
+        "book_pages": [
+          272
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 251,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Major",
+      "opus": {
+        "number": "54",
+        "work_number": 2,
+        "year": 1796,
+        "type": null
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con moto",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di minuetto",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
+        },
+        {
+          "number": 3,
+          "tempo": "Rondeau allegro",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (separate parts)"
+      },
+      "notes": "Arrangement of the whole of the trio in G Major Op. 54 no. 2 of 1796 (No. 114). No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250.",
+      "incomplete": false,
+      "is_arrangement": true,
+      "page_refs": {
+        "book_pages": [
+          273
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 252,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "54",
+        "work_number": 3
+      },
+      "is_arrangement": true,
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro maestoso",
+          "notes": "Repeat (transposed to C Major) of the first movement of the quartet in D Major Op. 52 no. 2 of 1795 (No. 233, Incipit No. 519)"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "notes": "Repeat of the second movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 536)"
+        },
+        {
+          "number": 3,
+          "tempo": "Grave",
+          "notes": "Arrangement of the first movement of the double 'cello quintet in C Minor Op. 51 no. 2 of 1795 (No. 377, Incipit No. 943)"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale\u2014presto assai",
+          "notes": "Repeat of the first movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 535)"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (for reference number, title and comment, see No. 250)"
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Unpublished.",
+      "page_refs": {
+        "book_pages": [
+          274
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 253,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "A Major",
+      "opus": {
+        "number": "54",
+        "work_number": 4
+      },
+      "is_arrangement": true,
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Presto"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro vivo"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (for reference number, title and comment, see No. 250)"
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of the whole of the trio in A Major Op. 54 no. 6 of 1796 (No. 118). Unpublished.",
+      "page_refs": {
+        "book_pages": [
+          274
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 254,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": "54",
+        "work_number": 5,
+        "year": null
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con spirito"
+        },
+        {
+          "number": 2,
+          "tempo": "Andantino"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegretto moderato"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (separate parts)"
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of the whole of the trio in C Major Op. 54 no. 4 of 1796 (No. 116).",
+      "is_arrangement": true,
+      "incomplete": false,
+      "page_refs": {
+        "book_pages": [
+          275
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 255,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "54",
+        "work_number": 6,
+        "year": null
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro moderato"
+        },
+        {
+          "number": 2,
+          "tempo": "Andantino"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro assai"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (separate parts)"
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of movements from trio Op. 14: first movement from trio in F Major Op. 14 no. 1 of 1772 (No. 95, Incipit No. 168), second movement from trio in D Major Op. 14 no. 4 of 1772 (No. 98, Incipit No. 180), third movement from trio in C Minor Op. 14 no. 2 of 1772 (No. 96, Incipit No. 173), fourth movement from trio in D Major Op. 14 no. 4 of 1772 (No. 98, Incipit No. 181).",
+      "is_arrangement": true,
+      "incomplete": false,
+      "page_refs": {
+        "book_pages": [
+          275
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 256,
+      "instrumentation": "two violins, viola and 'cello",
+      "is_arrangement": true,
+      "notes": "SIX QUARTETS for two violins, viola and 'cello (arrangements of the six quintets Op. 10 of 1771). No reference in Boccherini's autograph catalogue. For comment as to authorship, see below.",
+      "quartets": [
+        {
+          "quartet_number": 1,
+          "key": "A Major",
+          "movements": [
+            {
+              "tempo": "Andantino"
+            },
+            {
+              "tempo": "Largo"
+            },
+            {
+              "tempo": "Minuetto"
+            },
+            {
+              "tempo": "Allegro assai"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 1 (No. 265)."
+        },
+        {
+          "quartet_number": 2,
+          "key": "Eb Major",
+          "movements": [
+            {
+              "tempo": "Andantino"
+            },
+            {
+              "tempo": "Allegro"
+            },
+            {
+              "tempo": "Minuetto"
+            },
+            {
+              "tempo": "Presto"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 2 (No. 266)."
+        },
+        {
+          "quartet_number": 3,
+          "key": "C Minor",
+          "movements": [
+            {
+              "tempo": "Allegretto"
+            },
+            {
+              "tempo": "Adagio"
+            },
+            {
+              "tempo": "Minuetto"
+            },
+            {
+              "tempo": "Presto"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 3 (No. 267)."
+        },
+        {
+          "quartet_number": 4,
+          "key": "C Major",
+          "movements": [
+            {
+              "tempo": "Adagio and Allegro con forza"
+            },
+            {
+              "tempo": "Adagio"
+            },
+            {
+              "tempo": "Presto allegro"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 4 (No. 268)."
+        },
+        {
+          "quartet_number": 5,
+          "key": "Eb Major",
+          "movements": [
+            {
+              "tempo": "Andante"
+            },
+            {
+              "tempo": "Allegro assai"
+            },
+            {
+              "tempo": "Allegretto"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 5 (No. 269)."
+        },
+        {
+          "quartet_number": 6,
+          "key": "D Major",
+          "movements": [
+            {
+              "tempo": "Dolce"
+            },
+            {
+              "tempo": "Allegro maestoso"
+            },
+            {
+              "tempo": "Minuetto con variazioni"
+            }
+          ],
+          "notes": "Arrangement of the whole of the quintet Op. 10 no. 6 (No. 270)."
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "London, British Museum, Additional 34073. 'Quintet's 1st set op. 12 by Boccherini arranged for 2 violini, viola and violoncello'. MS. Copy (score: 18th century)"
+        ]
+      },
+      "additional_notes": "At the beginning of this MS. is the following note (19th century) in English: 'N.B.\u2014This manuscript is very correctly and carefully written, and may possibly be the hand writing of Dr Haydn; 1st from the close resemblance to his style as recorded, and 2ndly from the constant intercourse between these two eminent composers transmission to each other of their works (sic)'. The tradition that close relations existed between Haydn and Boccherini is discussed in the Biography (p. 45). With regard to the present MS. we have consulted two scholars with a special knowledge of Haydn, Messrs. Anthony van Hoboken and Karl Geiringer. The opinion of both is that the handwriting of the score of these six quartets, though very similar to that of Haydn, is not his nor that of any of his regular amanuenses. Moreover, there is no known instance of Haydn having arranged a series of works by another musician, even a friend. Whoever transcribed the score appears to have added certain words (though not the note quoted above) in English, and we are inclined to believe that the arrangements are the work of an English amateur of the beginning of the 19th century. Unpublished.",
+      "page_refs": {
+        "book_pages": [
+          276
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 257,
+      "instrumentation": "two violins, viola and cello",
+      "is_arrangement": true,
+      "notes": "TWO QUARTETS for two violins, viola and 'cello (arrangements of two quintets). No reference in Boccherini's autograph catalogue. These two quartets cannot be considered authentic. The arrangement, which is very correctly done, is the work of an unknown musician of the 18th century.",
+      "quartets": [
+        {
+          "number": 1,
+          "key": "D Minor",
+          "movements": [
+            "Allegro moderato",
+            "Lento",
+            "Allegro"
+          ],
+          "source_quintet": "Op. 18 no. 5 of 1774 (No. 287)"
+        },
+        {
+          "number": 2,
+          "key": "Bb Major",
+          "movements": [
+            "Allegro giusto",
+            "Adagio assai cantabile",
+            "Minuetto con moto",
+            "Prestissimo"
+          ],
+          "source_quintet": "Op. 20 no. 2 of 1775 (No. 290)"
+        }
+      ],
+      "sources": {
+        "ms_copies_parts": [
+          "Naples, Conservatorio, 22.5.6, 'Quartetto in re min . . .' and 'Quartetto in Si bem. Mag . . .'"
+        ]
+      },
+      "page_refs": {
+        "book_pages": [
+          277
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 258,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Minor",
+      "notes": "Incorrectly attributed to Boccherini? Lost. Described by Picquot (p. 167) in the following words, which are our only source of information for this quartet: 'Quite recently, I received information of a quartet attributed to this composer, of which the motif is as follows:'",
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante lento",
+          "incipit_number": 566,
+          "incipit_file": "incipits/G258_mvt1_incipit566.png"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": [
+          "Lost"
+        ],
+        "modern_edition": "Unpublished."
+      },
+      "page_refs": {
+        "book_pages": [
+          277
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
+      "g_number": 259,
+      "instrumentation": "harpsichord (or pianoforte), violin, viola and 'cello",
+      "title": "SIX QUARTETS for harpsichord (or pianoforte), violin, viola and 'cello",
+      "subtitle": "(arrangements of the six string quartets Op. 26 of 1778)",
+      "is_arrangement": true,
+      "notes": "No reference in Boccherini's autograph catalogue. The author of these remarkable arrangements is unknown (see No. 76).",
+      "quartets": [
+        {
+          "number": 1,
+          "key": "Bb Major",
+          "movements": "Allegro moderato\u2014Minuetto con moto",
+          "arrangement_of": "string quartet Op. 26 no. 1 (No. 195)"
+        },
+        {
+          "number": 2,
+          "key": "G Minor",
+          "movements": "Larghetto\u2014Minuetto",
+          "arrangement_of": "string quartet Op. 26 no. 2 (No. 196)"
+        },
+        {
+          "number": 3,
+          "key": "Eb Major",
+          "movements": "Allegro vivace\u2014Minuetto",
+          "arrangement_of": "string quartet Op. 26 no. 3 (No. 197)"
+        },
+        {
+          "number": 4,
+          "key": "A Major",
+          "movements": "Larghetto\u2014Minuetto con moto",
+          "arrangement_of": "string quartet Op. 26 no. 4 (No. 198)"
+        },
+        {
+          "number": 5,
+          "key": "F Major",
+          "movements": "Allegretto\u2014Minuetto Allegro",
+          "arrangement_of": "string quartet Op. 26 no. 5 (No. 199)"
+        },
+        {
+          "number": 6,
+          "key": "F Minor",
+          "movements": "Andante appassionato ma non lento\u2014Minuetto",
+          "arrangement_of": "string quartet Op. 26 no. 6 (No. 200)"
+        }
+      ],
+      "sources": {
+        "ms_copies_parts": [
+          {
+            "location": "Dresden, S\u00e4chsische Landesbibliothek",
+            "call_number": "Mus. 3490/Q/1",
+            "title": "Six quatuors pour le clavecin ou pianoforte, violon, viola et basse oblig\u00e9 compos\u00e9s par Luigi Boccherini",
+            "century": "18th",
+            "type": "separate parts"
+          }
+        ]
+      },
+      "publication_status": "Unpublished",
+      "page_refs": {
+        "book_pages": [
+          279
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 261,
+      "title": "SIX QUARTETS for flute, violin, viola and 'cello",
+      "instrumentation": "flute, violin, viola and 'cello",
+      "is_arrangement": true,
+      "sources": {
+        "first_edition": "(n.d.), Paris, Boyer-Naderman"
+      },
+      "notes": "Arrangements. No reference in Boccherini's autograph catalogue. For comment as to authenticity, see below. It appears that Boyer-Naderman published two books of three quartets for flute, violin, viola and 'cello, but no copy of this edition has been found. We can only refer to the comment of Picquot (p. 142): 'The early quartets of Boccherini have furnished the framework for these works without merit, in which a flute part has been substituted, by way of transposition, for the part of the first violin. This completely distorts the character and effect of the works'.",
+      "page_refs": {
+        "book_pages": [
+          281
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 262,
+      "title": "THREE QUARTETS (nos. 1 to 3) for clarinet, flute, horn and bassoon",
+      "instrumentation": "clarinet, flute, horn and bassoon",
+      "arranger": "Othon Van den Broek",
+      "is_arrangement": true,
+      "quartets": [
+        {
+          "number": 1,
+          "key": "C Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro vivace assai",
+              "arrangement_of": "first movement of the quartet in D Major Op. 52 no. 2 of 1795 (No. 233, Incipit No. 519)"
+            },
+            {
+              "number": 2,
+              "tempo": "Adagio non tanto",
+              "arrangement_of": "third movement of the quartet in F Minor Op. 52 no. 4 of 1795 (No. 235, Incipit No. 529)"
+            },
+            {
+              "number": 3,
+              "tempo": "Presto assai",
+              "arrangement_of": "fourth movement of the quartet in A Major Op. 32 no. 6 of 1780 (No. 206, Incipit No. 456)"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "key": "F Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro",
+              "arrangement_of": "fourth movement of the quartet in A Major Op. 39 of 1787 (No. 213, Incipit No. 473)"
+            },
+            {
+              "number": 2,
+              "tempo": "Larghetto",
+              "arrangement_of": "second movement of the quartet in C Major Op. 32 no. 4 of 1780 (No. 204, Incipit No. 447)"
+            },
+            {
+              "number": 3,
+              "tempo": "Allegro vivo ma non presto",
+              "arrangement_of": "third movement of the quartet in D Major Op. 32 no. 3 of 1780 (No. 203, Incipit No. 445)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "key": "C Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro con moto",
+              "arrangement_of": "first movement of the quartet in C Major Op. 52 no. 1 of 1795 (No. 232, Incipit No. 515)"
+            },
+            {
+              "number": 2,
+              "tempo": "Andantino lentarello",
+              "arrangement_of": "second movement of the quartet in A Major Op. 32 no. 6 of 1780 (No. 206, Incipit No. 454)"
+            },
+            {
+              "number": 3,
+              "tempo": "Tempo di Minuetto (trio)",
+              "arrangement_of": "second movement of the quartet in C Minor Op. 41 no. 1 of 1788 (No. 214, Incipit No. 475)"
+            },
+            {
+              "number": 4,
+              "tempo": "Finale. Allegro giusto",
+              "arrangement_of": "fourth movement of the quartet in C Major Op. 52 no. 1 of 1795 (No. 232, Incipit No. 518)"
+            }
+          ]
+        }
+      ],
+      "page_refs": {
+        "book_pages": [
+          282
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 263,
+      "is_arrangement": true,
+      "instrumentation": "clarinet, flute, horn and bassoon",
+      "sources": {
+        "first_edition": {
+          "year": 1812,
+          "publisher": "Pleyel",
+          "location": "Paris",
+          "title": "Trois quatuors pour clarinette, fl\u00fbte, cor et basson extraits des oeuvres de Boccherini, par Othon Van den Broek",
+          "price": "9 frs",
+          "address": "Boulevard Bonne-Nouvelle n\u00b0 8, Et au D\u00e9p\u00f4t, Rue Neuve des Petits-Champs, n\u00b0 113"
+        },
+        "later_editions": [
+          {
+            "year": "1823?",
+            "publisher": "Hentz Jouve",
+            "location": "Paris",
+            "title": "Six quatuors extraits des oeuvres de Boccherini, arrang\u00e9s pour fl\u00fbte, clarinette, cor et basson par Othon Van den Broek",
+            "price": "9 fr",
+            "address": "Galerie de Pierre, n\u00b0 96, c\u00f4t\u00e9 du Perron"
+          }
+        ],
+        "arrangements": [
+          {
+            "arranger": "Othon Van den Broek",
+            "description": "Three quartets (nos. 4 to 6) for clarinet, flute, horn and bassoon"
+          }
+        ]
+      },
+      "quartets": [
+        {
+          "number": 1,
+          "key": "E-flat Major",
+          "original_work": "quartet in E Major Op. 2 no. 5 of 1761 (No. 163)",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro assai",
+              "description": "Arrangement of the third movement",
+              "incipit_number": 339
+            },
+            {
+              "number": 2,
+              "tempo": "Amoroso",
+              "description": "Arrangement of the second movement of the quartet in A Major Op. 8 no. 6 of 1769 (No. 170)",
+              "incipit_number": 359
+            },
+            {
+              "number": 3,
+              "tempo": "Allegro",
+              "description": "Arrangement of the second movement of the quartet in E-flat Major Op. 8 no. 3 of 1769 (No. 167)",
+              "incipit_number": 350
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "key": "F Major",
+          "original_work": "quartet in F Major Op. 8 no. 3 of 1769 (No. 169)",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro\u2014Andantino con un poco di moto\u2014Menuetto (trio)"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "key": "B-flat Major",
+          "original_work": "quartet in E-flat Major Op. 2 no. 2 of 1761 (No. 160)",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro non tanto\u2014Largo\u2014Fuga con spirito"
+            }
+          ]
+        }
+      ],
+      "notes": "Although the title announces six quartets, only three were published in this edition. The other three are probably those published by Bouillon (see No. 264), since the Bouillon edition is described in the title as 'Livre 3\u00e8me', Books 1 and 2 being presumably Nos. 262 and 263.",
+      "page_refs": {
+        "book_pages": [
+          283
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    },
+    {
+      "g_number": 264,
+      "title": "THREE QUARTETS (nos. 7 to 9) for clarinet, flute, horn and bassoon",
+      "instrumentation": "clarinet, flute, horn and bassoon",
+      "arrangements_by": "Othon Van den Broek",
+      "quartets": [
+        {
+          "number": 1,
+          "key": "F Major",
+          "movements": [
+            "Allegro moderato",
+            "Andante",
+            "Rondo"
+          ]
+        },
+        {
+          "number": 2,
+          "key": "C Major",
+          "movements": [
+            "Allegro moderato",
+            "Andantino",
+            "Rondo"
+          ]
+        },
+        {
+          "number": 3,
+          "key": "D Minor",
+          "movements": [
+            "Allegro maestoso",
+            "Andante con variazioni",
+            "Tempo di minuetto (trio)"
+          ]
+        }
+      ],
+      "sources": {
+        "first_edition": {
+          "year": "c. 1825",
+          "publisher": "Paris, Bouillon",
+          "book": "3",
+          "title": "Trois quatuors pour fl\u00fbte, clarinette, cor et basson extraits des oeuvres de Boccherini d\u00e9di\u00e9s \u00e0 Monsieur Camille Canuel, Avocat, par Othon Van den Broek pensionnaire de la Chapelle du Roi et de l'Acad\u00e9mie Royale de musique, Livre 3\u00e8me, \u00e0 Paris, chez Bouillon, rue du Doyenn\u00e9 n\u00ba 12"
+        }
+      },
+      "notes": "None of these movements corresponds to any movement of a known work by Boccherini. It is impossible to reach any conclusion as to the origin of these arrangements. Were they derived by Van den Broek from manuscripts or editions of works by Boccherini\u2014or falsely attributed to Boccherini\u2014which are unknown to us? Or did he perhaps wish to give the prestige of Boccherini's name to works of his own production? In any case, it may be remarked that the musical value of this third collection is very inferior to that of the two preceding books (Nos. 262 and 263).",
+      "is_arrangement": true,
+      "page_refs": {
+        "book_pages": [
+          284
+        ],
+        "pdf_pages": []
+      },
+      "movements": []
+    }
+  ]
+}

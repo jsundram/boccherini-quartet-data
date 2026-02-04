@@ -177,7 +177,7 @@ def main():
     parser.add_argument(
         "--output-dir",
         type=Path,
-        default=Path("generated/incipits"),
+        default=Path("generated/extracted/incipits"),
         help="Output directory for incipit images"
     )
     parser.add_argument(

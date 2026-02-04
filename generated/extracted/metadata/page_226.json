@@ -1,0 +1,53 @@
+{
+  "book_page": 225,
+  "entries": [
+    {
+      "g_number": 202,
+      "quartet_number": 44,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Minor",
+      "opus": {
+        "number": "32",
+        "work_number": 2,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Largo sostenuto",
+          "incipit_number": 439,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 440,
+          "instrument": "v1"
+        },
+        {
+          "number": 3,
+          "tempo": "Larghetto",
+          "incipit_number": 441,
+          "instrument": "v1"
+        },
+        {
+          "number": 4,
+          "tempo": "Rondeau comodo assai",
+          "incipit_number": 442,
+          "instrument": "v1"
+        }
+      ],
+      "sources": {
+        "first_edition": "1785, Paris, Sieber: (Op. 33), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9s par L. Boccherini oeuvre XXXIII. Prix 9s. \u00e0 Paris, chez Sieber musicien, rue Honor\u00e9, la Porte Cochere entre les rues des vieilles Etuves et d'Orl\u00e9ans, n\u00b0 85. Plate no. 445.",
+        "later_editions": [
+          "1798, Paris, Pleyel: Op. 39 no. 2 (Book 1 no. 2; for title, see No. 234)."
+        ]
+      },
+      "notes": "The first two bars are repeated in the Berlin and Rome MSS. Movement 4 is repeat of the minuetto followed by: Rondeau comodo assai sotto voce"
+    }
+  ],
+  "continues_from_previous": true,
+  "partial_notes": "Page shows complete entry 202 with footnote about Le Mercure de France February 1785 publication announcement"
+}

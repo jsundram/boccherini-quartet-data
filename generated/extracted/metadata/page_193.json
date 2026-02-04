@@ -1,0 +1,51 @@
+{
+  "book_page": 192,
+  "entries": [
+    {
+      "g_number": 172,
+      "instrumentation": "two violins, viola and 'cello",
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Grave",
+          "incipit_number": 365,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto",
+          "incipit_number": 366,
+          "instrument": "v1",
+          "dynamics": "dolce"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 367,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 12...' (for comment, see No. 174)",
+        "ms_copies_score": [
+          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 12...'"
+        ],
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.6114, 'Quartetto no. 6...' (for comment, see No. 171)",
+          "Genoa, Liceo Musicale Paganini, SS/A/1/22 (two copies), 'Sonata...'",
+          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 334, 'Opera III, Concerto sesto...' (for comment, see No. 171)",
+          "Naples, Conservatorio, 22.5.2, 'Quartetto no. 6...'",
+          "Venice, Conservatorio, 10.998"
+        ],
+        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 2 (for title, see No. 171)",
+        "later_editions": [
+          "(c. 1780), London, Bremner: Op. 10 no. 2 (for title, see No. 171)",
+          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 2 (for title, see No. 171)"
+        ]
+      }
+    }
+  ],
+  "partial_notes": "This appears to be a complete entry for G. 172"
+}

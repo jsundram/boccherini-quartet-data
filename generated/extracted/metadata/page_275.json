@@ -1,0 +1,73 @@
+{
+  "book_page": 274,
+  "entries": [
+    {
+      "g_number": 252,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": "54",
+        "work_number": 3
+      },
+      "is_arrangement": true,
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro maestoso",
+          "notes": "Repeat (transposed to C Major) of the first movement of the quartet in D Major Op. 52 no. 2 of 1795 (No. 233, Incipit No. 519)"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "notes": "Repeat of the second movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 536)"
+        },
+        {
+          "number": 3,
+          "tempo": "Grave",
+          "notes": "Arrangement of the first movement of the double 'cello quintet in C Minor Op. 51 no. 2 of 1795 (No. 377, Incipit No. 943)"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale\u2014presto assai",
+          "notes": "Repeat of the first movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 535)"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (for reference number, title and comment, see No. 250)"
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Unpublished."
+    },
+    {
+      "g_number": 253,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "A Major",
+      "opus": {
+        "number": "54",
+        "work_number": 4
+      },
+      "is_arrangement": true,
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Presto"
+        },
+        {
+          "number": 2,
+          "tempo": "Larghetto"
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto"
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro vivo"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (for reference number, title and comment, see No. 250)"
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of the whole of the trio in A Major Op. 54 no. 6 of 1796 (No. 118). Unpublished."
+    }
+  ]
+}

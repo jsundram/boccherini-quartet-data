@@ -1,0 +1,43 @@
+{
+  "book_page": 202,
+  "entries": [
+    {
+      "g_number": 180,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": null,
+      "opus": null,
+      "movements": [
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 388,
+          "instrument": "v1",
+          "dynamics": null
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Milan, Conservatorio, old collection a 46-13",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.99, 'Num. 1'",
+          "Vienna, Bibl. Nat., S.m.2907"
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 4 (for title, see No. 177)",
+        "later_editions": [
+          "(c. 1775), Venice, Marescalchi-Canobbio, no. 1 of Sei quartetti per due violini, viola e violoncello del Signor Luigi Boccherini, compositor di musica e virtuoso di camera di S.A.R. Don Luigi di Borbone, Infante di Spagna... stampata a spese di Luigi Marescalchi e Carlo Canobbio [catalog de musica strumentale in vendita]. Si vendono da Innocente Alessandri e Pietro Scataglia all'insegna della B.V. della Pace sul Ponte di Rialto in Venezia. Appresso, a quali si trova un assortimento di ogni sorte musica vocale",
+          "(c. 1780), Venice, Zatta, no. 1 of Sei quartetti per due violini, viola e basso del Sig. Luigi Boccherini compositore di musica e virtuoso di camera di S.A.R. D. Luigi di Borbone Infante di Spagna. In Venezia, Presso Antonio Zatta e figli",
+          "(c. 1780), London, Preston (Op. 11), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9es par Luigi Bocherini opera XI. Prix 10/6. London. Printed and sold by Preston and Son at their Wholesale Warehouses 97 Strand where may be had Bocherini's first sett of quartets...",
+          "(c. 1785), Amsterdam, Hummel: Op. 8 no. 4 (for title, see No. 178)",
+          "(c. 1785), London, Welcker (Op. 11), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9es par Luigi Bocherini opera XI. Prix 10/6. London. Printed for and sold by Welcker, Gerrard Street, Soho where may be had Bocherini's first sett of quartets...",
+          "(c. 1790), Paris, Boyer: Op. 11 no. 4 (for title, see No. 177)"
+        ]
+      },
+      "notes": null,
+      "incomplete": false,
+      "is_arrangement": false,
+      "continues_from_previous": true
+    }
+  ],
+  "partial_notes": "This entry appears to be a continuation from the previous page, showing only movement 2 and source information for string quartet G.180"
+}

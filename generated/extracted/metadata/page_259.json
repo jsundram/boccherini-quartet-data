@@ -1,0 +1,54 @@
+{
+  "book_page": 258,
+  "entries": [
+    {
+      "g_number": 234,
+      "quartet_number": 76,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Major",
+      "opus": {
+        "number": "52",
+        "work_number": 3,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 523,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 524,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 3,
+          "tempo": "Adagio",
+          "incipit_number": 525,
+          "instrument": "v1",
+          "additional_marking": "sotto voce"
+        },
+        {
+          "number": 4,
+          "tempo": "Rondeau. Allegro giusto",
+          "incipit_number": 526,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.606. 'Mese di Luglio 1795. Quartetto per due violini, viola, e violoncello di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.607. Copy made in Berlin for Frederick William II"
+        ]
+      },
+      "notes": "See note to No. 340"
+    }
+  ]
+}

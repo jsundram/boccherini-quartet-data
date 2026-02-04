@@ -1,0 +1,62 @@
+{
+  "book_page": 220,
+  "entries": [
+    {
+      "g_number": 197,
+      "quartet_number": 39,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E-flat Major",
+      "opus": {
+        "number": "26",
+        "work_number": 3,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 427,
+          "instrument": "v1",
+          "dynamics": "sotto voce"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 428,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "(Trio) (V1) sotto voce"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Montecatini, Venturi private collection, A 9",
+          "Venice, Conservatorio, Giustinian 13669/O.C.",
+          "Vienna, Bibl. Nat., S.m.11750"
+        ],
+        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 3 (for title, see No. 195)",
+        "later_editions": [
+          "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 3 (for title, see No. 195)",
+          "(c. 1790), Paris, Le Duc: Op. 32 no. 3 (for title, see No. 195)"
+        ],
+        "arrangements": "See No. 195"
+      }
+    },
+    {
+      "g_number": 198,
+      "quartet_number": 40,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "26",
+        "work_number": 4,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "continues_on_next": true
+    }
+  ],
+  "partial_notes": "Entry 198 is incomplete, continuing on next page"
+}

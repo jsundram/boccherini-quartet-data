@@ -1,0 +1,55 @@
+{
+  "book_page": 207,
+  "entries": [
+    {
+      "g_number": 185,
+      "quartet_number": 27,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E\u266d Major",
+      "opus": {
+        "number": "22",
+        "work_number": 3,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Adagio",
+          "incipit_number": 397,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Rondeau Allegro",
+          "incipit_number": 398,
+          "instrument": "v1",
+          "dynamics": "f, p"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.565, 'Quartetto III\u00b0...' (for title, see No. 183)",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.569 and 570. Two copies made in Berlin for Frederick William II.",
+          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+        ],
+        "first_edition": "(1763), Paris, La Chevardi\u00e8re: Op. 26 no. 3 (for title, see No. 183)",
+        "later_editions": [
+          "(c. 1800), Paris, Imbault: Op. 26 no. 3 (for title and comment, see No. 183)"
+        ]
+      },
+      "notes": "Op. 22 no. 3 of 1775 ('quartettino ... opera piccola') in Boccherini's autograph catalogue."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 184,
+    "sources": {
+      "first_edition": "(1763), Paris, La Chevardi\u00e8re: Op. 26 no. 2 (for title, see No. 183)",
+      "later_editions": [
+        "(c. 1800), Paris, Imbault: Op. 26 no. 2 (for title and comment, see No. 183)"
+      ]
+    }
+  },
+  "partial_notes": "Page begins with continuation of entry 184's publication information. Entry 185 appears complete on this page."
+}

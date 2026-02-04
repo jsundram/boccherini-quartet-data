@@ -1,0 +1,55 @@
+{
+  "book_page": 244,
+  "entries": [
+    {
+      "g_number": 218,
+      "quartet_number": 60,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": "43",
+        "work_number": 1,
+        "year": 1700,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto moderato",
+          "incipit_number": 485,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 486,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "Trio, sotto voce"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (5). 'Mese di Marzo 1700. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositore di camera di S. M. il Re di Prussia'",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.594. Copy made in Berlin for Frederick William II",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+          "Paris, Conservatoire, D. 11139, in the hand of Picquot"
+        ]
+      },
+      "notes": "Unpublished"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 218,
+    "sources": {
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.592 and M.593. Two copies made in Berlin for Frederick William II",
+        "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+        "Paris, Conservatoire, D. 11138, in the hand of Picquot"
+      ]
+    },
+    "notes": "Unpublished"
+  },
+  "partial_notes": "Page begins with manuscript sources for entry 218 from previous page. Op. 43 comprises two quartettini (Nos. 218, 219), two double 'cello quintets (Nos. 353, 354) and a quintettino (No. 352), and a symphony (No. 521)."
+}

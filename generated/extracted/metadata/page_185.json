@@ -1,0 +1,43 @@
+{
+  "book_page": 184,
+  "entries": [
+    {
+      "g_number": 166,
+      "quartet_number": 2,
+      "instrumentation": "two violins, viola and cello",
+      "movements": [
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "incipit_number": 347,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro",
+          "incipit_number": 348,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quartetto op. 2 . . .'",
+          "Naples, Conservatorio, 22.5.6, 'Quartetto no. 2 . . . per uso di S. E. Abbate Don Antonio Giorgio'"
+        ],
+        "first_edition": "December, 1769, Paris, V\u00e9nier: Op. 6 no. 2 (for title, see No. 165)",
+        "later_editions": [
+          "(c. 1770), London, Longman Lukey and Co. (Op. 4), no. 1 of Six quartettos for two violins, tenor and violoncello obligato, composed by Sigr Luigi Boccherini opera IV. Prix 8. London. Printed and sold by Longman Lukey and Co. No 26 Cheapside where may be had [. . .] Boccherini's Trios for the Harp'd. 1096.",
+          "(c. 1775), London, Bremner (Op. 6), no. 1 of Six quartettos for two violins tenor and violoncello obligato composed by Sigr. Luigi Boccherini Opera VI Pr. 10/6. London. Printed and sold by R. Bremner, opposite Somerset House Strand. The frontispiece is identical with that of the Longman edition.",
+          "(c. 1780), Amsterdam, Hummel (Op. 2), no. 1 of Six quatuor \u00e0 deux violons, taille e basse oblig\u00e9s d\u00e9di\u00e9s \u00e0 Monsieur Patrick Alstr\u00f6mer, conseiller du commerce de Sa Majest\u00e9 le Roi de Su\u00e8de par Jean-Julien Hummel compos\u00e9s par Luigi Boccherini opera seconda. A Amsterdam, chez. J. J. Hummel, marchand et imprimeur de musique. Prix Fl. 5. Plate no. 107.",
+          "(c. 1785?), Paris, Boyer-Naderman: Op. 6 no. 2 (for title, see No. 165)"
+        ],
+        "modern_edition": "1933, Milan, Ricordi: Op. 6 no. 2 (pocket score; revised by Enrico Polo)"
+      }
+    }
+  ],
+  "continues_from_previous": true,
+  "partial_notes": "This appears to be a continuation of G.166 showing movements 2 and 3, with complete source information"
+}

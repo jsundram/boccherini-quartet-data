@@ -1,0 +1,57 @@
+{
+  "book_page": 189,
+  "entries": [
+    {
+      "g_number": 171,
+      "quartet_number": 13,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Minor",
+      "opus": {
+        "number": "9",
+        "work_number": 1,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [],
+      "sources": {},
+      "notes": "Op. 9 no. 1 of 1770 ('opera grande') in Boccherini's autograph catalogue."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 170,
+    "quartet_number": null,
+    "instrumentation": "two violins, viola and 'cello",
+    "key": null,
+    "opus": null,
+    "movements": [
+      {
+        "number": 3,
+        "tempo": "Allegro",
+        "incipit_number": 360,
+        "instrument": "v1",
+        "dynamics": "f"
+      }
+    ],
+    "sources": {
+      "autograph": "Lost.",
+      "ms_copies_parts": [
+        "Brussels, Conservatoire, V.6430, 'Quartetto op. 2...'",
+        "Naples, Conservatorio. Two copies: 22.2.10, 'Quartetto no. 6...' and 22.5.6, 'Quartetto no. 4... per uso di S. E. Abbate Don Antonio Giorgio'",
+        "Stams, Abbey, L.IV.70, 'No. 8. Quartetto op. 2...'"
+      ],
+      "first_edition": "December, 1769, Paris, V\u00e9nier: Op. 6 no. 6 (for title, see No. 165).",
+      "later_editions": [
+        "(c. 1770), London, Longman Lukey: Op. 4 no. 6 (for title, see No. 166).",
+        "(c. 1775), London, Bremner: Op. 6 no. 6 (for title, see No. 166).",
+        "(c. 1780), Amsterdam, Hummel: Op. 2 no. 6 (for title, see No. 166).",
+        "(c. 1785), Paris, Boyer-Naderman: Op. 6 no. 6 (for title, see No. 165)."
+      ],
+      "modern_edition": "(c. 1930), Leipzig, Peters: Op. 6 no. 6 (revised by R. Hofmann; separate parts). This edition was re-published c. 1943 by the International Music Co., New York. 1953, Milan, Ricordi: Op. 6 no. 6 (pocket score; revised by Enrico Polo).",
+      "arrangements": [
+        "Of the second movement, as part of a quartet (no. 1) for flute, clarinet, horn and bassoon, by O. Van den Brock, c. 1820 (see No. 263)."
+      ]
+    },
+    "notes": null
+  },
+  "partial_notes": "Page starts with continuation of G.170 entry showing movement 3 and complete source information. G.171 entry begins but appears to continue on next page."
+}

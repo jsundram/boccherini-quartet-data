@@ -1,0 +1,52 @@
+{
+  "book_page": 260,
+  "entries": [
+    {
+      "g_number": 235,
+      "quartet_number": 77,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Minor",
+      "opus": {
+        "number": "52",
+        "work_number": 4,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto appassionato",
+          "incipit_number": 527,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 528,
+          "instrument": "v1",
+          "dynamics": "ff"
+        },
+        {
+          "number": 3,
+          "tempo": "Adagio non tanto",
+          "incipit_number": 529,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale. Allegro assai",
+          "incipit_number": 530,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "autograph": "September 1795 ('opera grande') in Boccherini's autograph catalogue"
+      },
+      "notes": "Op. 52 comprises four quartets only"
+    }
+  ],
+  "partial_notes": "Page shows complete quartet No. 235 entry, with reference table at top showing opus correspondence for quartets 213-235"
+}

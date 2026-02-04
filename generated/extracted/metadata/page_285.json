@@ -1,0 +1,51 @@
+{
+  "book_page": 284,
+  "entries": [
+    {
+      "g_number": 264,
+      "title": "THREE QUARTETS (nos. 7 to 9) for clarinet, flute, horn and bassoon",
+      "instrumentation": "clarinet, flute, horn and bassoon",
+      "arrangements_by": "Othon Van den Broek",
+      "quartets": [
+        {
+          "number": 1,
+          "key": "F Major",
+          "movements": [
+            "Allegro moderato",
+            "Andante",
+            "Rondo"
+          ]
+        },
+        {
+          "number": 2,
+          "key": "C Major",
+          "movements": [
+            "Allegro moderato",
+            "Andantino",
+            "Rondo"
+          ]
+        },
+        {
+          "number": 3,
+          "key": "D Minor",
+          "movements": [
+            "Allegro maestoso",
+            "Andante con variazioni",
+            "Tempo di minuetto (trio)"
+          ]
+        }
+      ],
+      "sources": {
+        "first_edition": {
+          "year": "c. 1825",
+          "publisher": "Paris, Bouillon",
+          "book": "3",
+          "title": "Trois quatuors pour fl\u00fbte, clarinette, cor et basson extraits des oeuvres de Boccherini d\u00e9di\u00e9s \u00e0 Monsieur Camille Canuel, Avocat, par Othon Van den Broek pensionnaire de la Chapelle du Roi et de l'Acad\u00e9mie Royale de musique, Livre 3\u00e8me, \u00e0 Paris, chez Bouillon, rue du Doyenn\u00e9 n\u00ba 12"
+        }
+      },
+      "notes": "None of these movements corresponds to any movement of a known work by Boccherini. It is impossible to reach any conclusion as to the origin of these arrangements. Were they derived by Van den Broek from manuscripts or editions of works by Boccherini\u2014or falsely attributed to Boccherini\u2014which are unknown to us? Or did he perhaps wish to give the prestige of Boccherini's name to works of his own production? In any case, it may be remarked that the musical value of this third collection is very inferior to that of the two preceding books (Nos. 262 and 263).",
+      "is_arrangement": true
+    }
+  ],
+  "partial_notes": "This entry contains arrangements of questionable authenticity by Othon Van den Broek. The footnote mentions Mademoiselle Annick Devri\u00e8s' research assistance and references to Sieber editions."
+}

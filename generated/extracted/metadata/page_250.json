@@ -1,0 +1,36 @@
+{
+  "book_page": 224,
+  "entries": [
+    {
+      "g_number": 224,
+      "quartet_number": 66,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": "44",
+        "work_number": 5,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino lento",
+          "incipit_number": 499,
+          "instrument": "v1",
+          "dynamics": "ff"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (10). 'La Tiranna. Mese di Agosto 1792. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositor di camera di S. M. il R\u00e9 di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.600. Copy made in Berlin for Frederick William II, with the title: 'La Tiranna Spagnola'",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+          "Paris, Conservatoire, D. 11164, in the hand of Picquot"
+        ],
+        "first_edition": "1952, Kassel, B\u00e4renreiter: Op. 44 no. 4 (separate parts; revised by Walter Upmeyer), no. 6 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
+      },
+      "notes": "The origin of the title 'La Tiranna' is unknown. There is no doubt that the words are in the hand of Boccherini. Titles of this kind are so rare that we may be sure that they denote a precise intention on the part of the composer. Two or three explanations have been suggested for the present title. Some say that it is borrowed from a work by Goya, the portrait (now in the Academia de Bellas Artes in Madrid) of the actress Rosario Fernandez, who was known as 'La Tirana'. According to others, it is a reference to 'la tirana', the name of a popular dance and also of a slow melody; the trio of the minuet corresponds well to this last explanation. What is certain is the very Spanish character of the work, with a strong contrast between the nervous vivacity of the Presto and the sombre melancholy of the minuet. Unpublished in Boccherini's life-time."
+    }
+  ]
+}

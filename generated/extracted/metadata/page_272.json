@@ -1,0 +1,39 @@
+{
+  "book_page": 271,
+  "entries": [
+    {
+      "g_number": 248,
+      "instrumentation": "two violins, viola and 'cello",
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro molto",
+          "incipit_number": 562,
+          "instrument": "v1",
+          "dynamics": "ff"
+        },
+        {
+          "number": 2,
+          "tempo": "Adagio non tanto",
+          "incipit_number": 563,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro vivo ma non presto",
+          "incipit_number": 564,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress, M432. A2. B68. Op. 64 Case. '1804. Opera 64. Sei quartetti per due violini, viola e violoncello composti espressamente per il cittadino Luciano Bonaparte da Luigi Boccherini. Quartetto primo'."
+      },
+      "notes": "The Washington MS. with the above number is described as a copy, but this is incorrect. There is no doubt whatever that this is the autograph MS., not recognised as such since 1832, the year in which Picquot saw it for the last time in the collection of the successor of Janet et Cotelle. Although the title speaks of six quartets, only the first quartet was completed and the first movement of the second. Boccherini, already very ill, had not the strength to proceed further. After his death his sons failed to find any draft of the quartets which should have followed.",
+      "incomplete": true,
+      "continues_on_next": true
+    }
+  ],
+  "partial_notes": "Entry continues on next page with additional information about the dedication to Lucien Bonaparte"
+}
