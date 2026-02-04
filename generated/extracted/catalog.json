@@ -4,11 +4,12 @@
     "composer": "Luigi Boccherini",
     "source": "Yves G\u00e9rard, Thematic, Bibliographical and Critical Catalogue (1969)",
     "extracted_by": "Automated extraction pipeline",
-    "total_entries": 104,
+    "total_entries": 105,
     "g_number_range": [
       159,
       264
-    ]
+    ],
+    "notes": "Fixed off-by-one movement attribution errors for G.178/179 and G.232/233"
   },
   "entries": [
     {
@@ -1269,6 +1270,52 @@
       }
     },
     {
+      "g_number": 178,
+      "quartet_number": 20,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": "15",
+        "work_number": 2,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto",
+          "incipit_number": 383,
+          "instrument": "v1",
+          "dynamics": "con grazia",
+          "incipit_file": "incipits/G178_mvt1_incipit383.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro Minuetto",
+          "incipit_number": 384,
+          "instrument": "v1",
+          "dynamics": "f",
+          "incipit_file": "incipits/G178_mvt2_incipit384.png"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.96, 'Num. 6'",
+          "Vienna, Bibl. Nat., S.m.2904"
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier (Op. 11), no. 1"
+      },
+      "page_refs": {
+        "book_pages": [
+          199,
+          200
+        ],
+        "pdf_pages": []
+      }
+    },
+    {
       "g_number": 179,
       "quartet_number": 21,
       "instrumentation": "two violins, viola and 'cello",
@@ -1282,19 +1329,17 @@
       "movements": [
         {
           "number": 1,
-          "tempo": "Allegretto",
-          "incipit_number": 383,
+          "tempo": "Andantino",
+          "incipit_number": 385,
           "instrument": "v1",
-          "dynamics": "con grazia",
-          "incipit_file": "incipits/G179_mvt1_incipit383.png"
+          "incipit_file": "incipits/G179_mvt1_incipit385.png"
         },
         {
           "number": 2,
-          "tempo": "Allegro Minuetto",
-          "incipit_number": 384,
+          "tempo": "Prestissimo",
+          "incipit_number": 386,
           "instrument": "v1",
-          "dynamics": "f",
-          "incipit_file": "incipits/G179_mvt2_incipit384.png"
+          "incipit_file": "incipits/G179_mvt2_incipit386.png"
         }
       ],
       "sources": {
@@ -3874,11 +3919,36 @@
       "movements": [
         {
           "number": 1,
-          "tempo": "Allegro con moto",
-          "incipit_number": 515,
+          "tempo": "Allegro vivace assai",
+          "incipit_number": 519,
           "instrument": "v1",
           "dynamics": "pp",
-          "incipit_file": "incipits/G232_mvt1_incipit515.png"
+          "incipit_file": "incipits/G232_mvt1_incipit519.png"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 516,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G232_mvt2_incipit516.png"
+        },
+        {
+          "number": 3,
+          "tempo": "Adagio",
+          "incipit_number": 517,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "additional_marking": "Trio, sotto voce assai",
+          "incipit_file": "incipits/G232_mvt3_incipit517.png"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale. Allegro giusto",
+          "incipit_number": 518,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "incipit_file": "incipits/G232_mvt4_incipit518.png"
         }
       ],
       "page_refs": {
@@ -3903,35 +3973,30 @@
         {
           "number": 1,
           "tempo": "Allegro vivace assai",
-          "incipit_number": 519,
+          "incipit_number": 521,
           "instrument": "v1",
-          "dynamics": "pp",
-          "incipit_file": "incipits/G233_mvt1_incipit519.png"
+          "incipit_file": "incipits/G233_mvt1_incipit521.png"
         },
         {
           "number": 2,
-          "tempo": "Minuetto",
-          "incipit_number": 516,
+          "tempo": "Andantino Patetico",
+          "incipit_number": 522,
           "instrument": "v1",
-          "dynamics": "pp",
-          "incipit_file": "incipits/G233_mvt2_incipit516.png"
+          "incipit_file": "incipits/G233_mvt2_incipit522.png"
         },
         {
           "number": 3,
-          "tempo": "Adagio",
-          "incipit_number": 517,
+          "tempo": "Minuetto",
+          "incipit_number": 523,
           "instrument": "v1",
-          "dynamics": "sotto voce",
-          "additional_marking": "Trio, sotto voce assai",
-          "incipit_file": "incipits/G233_mvt3_incipit517.png"
+          "incipit_file": "incipits/G233_mvt3_incipit523.png"
         },
         {
           "number": 4,
-          "tempo": "Finale. Allegro giusto",
-          "incipit_number": 518,
+          "tempo": "Rondeau. Allegretto",
+          "incipit_number": 524,
           "instrument": "v1",
-          "dynamics": "pp",
-          "incipit_file": "incipits/G233_mvt4_incipit518.png"
+          "incipit_file": "incipits/G233_mvt4_incipit524.png"
         }
       ],
       "sources": {

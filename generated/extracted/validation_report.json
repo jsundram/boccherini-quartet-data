@@ -1,18 +1,16 @@
 {
   "summary": {
-    "total_entries_extracted": 104,
-    "coverage_of_expected_quartets": "98.9%",
+    "total_entries_extracted": 105,
+    "coverage_of_expected_quartets": "100.0%",
     "key_accuracy": "95.6%",
     "movements_with_tempo": "100.0%",
     "status": "PASS"
   },
   "coverage": {
-    "extracted_count": 104,
+    "extracted_count": 105,
     "reference_count": 91,
     "expected_quartet_range": "G.159-G.249",
-    "missing_from_expected": [
-      178
-    ],
+    "missing_from_expected": [],
     "extra_entries": [
       250,
       251,
@@ -29,10 +27,10 @@
       263,
       264
     ],
-    "coverage_percentage": 98.9010989010989
+    "coverage_percentage": 100.0
   },
   "key_validation": {
-    "matches": 86,
+    "matches": 87,
     "mismatches": [
       {
         "g_number": 162,
@@ -55,18 +53,18 @@
         "reference": "B-Flat Major"
       }
     ],
-    "accuracy": 95.55555555555556
+    "accuracy": 95.6043956043956
   },
   "movement_validation": {
-    "total_movements": 246,
-    "with_tempo": 246,
-    "with_incipit_number": 219,
+    "total_movements": 251,
+    "with_tempo": 251,
+    "with_incipit_number": 224,
     "tempo_coverage": 100.0,
-    "incipit_coverage": 89.02439024390245
+    "incipit_coverage": 89.2430278884462
   },
   "incipit_validation": {
     "existing_files": 203,
-    "referenced_files": 219,
+    "referenced_files": 224,
     "missing_files": [
       {
         "g_number": 159,
@@ -169,11 +167,9 @@
         "expected_file": "G165_mvt3_incipit345.png"
       }
     ],
-    "total_missing": 219
+    "total_missing": 224
   },
-  "missing_entries": [
-    178
-  ],
+  "missing_entries": [],
   "extra_entries": [],
   "errors": []
 }
