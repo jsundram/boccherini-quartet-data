@@ -17,6 +17,9 @@ uv.lock
 generated/*.json
 generated/*.csv
 generated/*.md
+generated/pages/
+generated/incipits/
+generated/metadata/
 !generated/.gitkeep
 
 # Reading material (large PDFs)

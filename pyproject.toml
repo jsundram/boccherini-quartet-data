@@ -11,3 +11,9 @@ dependencies = [
 dev = [
     "ipython",
 ]
+extraction = [
+    "pymupdf>=1.23.0",
+    "pillow>=10.0.0",
+    "opencv-python-headless>=4.8.0",
+    "anthropic>=0.18.0",
+]
