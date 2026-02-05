@@ -39,15 +39,34 @@ def merge_entries(pages: List[dict]) -> List[dict]:
     Merge entries across pages.
 
     Handles cases where an entry spans multiple pages by combining
-    partial entries based on g_number.
+    partial entries based on g_number. Also handles movements_for_previous_entry
+    which contains movements that appear at the top of a page but belong to
+    the entry whose header was on the previous page.
     """
     all_entries = {}  # g_number -> entry
     entry_order = []  # Track order of first appearance
+    last_entry_g_num = None  # Track the last entry we processed
 
     for page_data in pages:
         book_page = page_data.get("book_page")
 
-        # Handle continuation from previous page
+        # Handle movements_for_previous_entry - these movements belong to the
+        # last entry from the previous page
+        movements_for_prev = page_data.get("movements_for_previous_entry", [])
+        if movements_for_prev and last_entry_g_num and last_entry_g_num in all_entries:
+            prev_entry = all_entries[last_entry_g_num]
+            if "movements" not in prev_entry:
+                prev_entry["movements"] = []
+            # Add these movements to the previous entry
+            for mvt in movements_for_prev:
+                # Check if movement already exists
+                existing_nums = [m.get("number") for m in prev_entry["movements"]]
+                if mvt.get("number") not in existing_nums:
+                    prev_entry["movements"].append(mvt)
+            # Sort movements by number
+            prev_entry["movements"].sort(key=lambda m: m.get("number", 999))
+
+        # Handle continuation from previous page (source info, etc.)
         cont = page_data.get("continues_from_previous")
         if cont and isinstance(cont, dict):
             g_num = cont.get("g_number")
@@ -74,6 +93,9 @@ def merge_entries(pages: List[dict]) -> List[dict]:
                 # New entry
                 all_entries[g_num] = entry.copy()
                 entry_order.append(g_num)
+
+            # Track this as the last entry for movements_for_previous_entry handling
+            last_entry_g_num = g_num
 
     # Return entries in order of appearance
     return [all_entries[g_num] for g_num in entry_order if g_num in all_entries]

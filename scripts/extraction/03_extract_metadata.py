@@ -2,14 +2,13 @@
 """
 Extract structured metadata from book pages using Claude Vision API.
 
-Sends each book page image to Claude and extracts:
-- G. catalog numbers
-- Quartet titles, keys, opus info
-- Movement details (tempo, incipit numbers)
-- Source information
+Uses mvmts.md reference data to validate extractions and detect/fix
+off-by-one movement attribution errors that occur when movements at
+the top of a page are incorrectly attributed to the entry whose header
+appears later on that page.
 
 Usage:
-    python 03_extract_metadata.py [--pages-dir generated/pages] [--output-dir generated/metadata]
+    python 03_extract_metadata.py [--pages-dir generated/pages] [--output-dir generated/extracted/metadata]
 
 Environment:
     ANTHROPIC_API_KEY: Required for Claude API access
@@ -19,10 +18,11 @@ import argparse
 import base64
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
-from typing import Optional
+from typing import Dict, List, Optional, Tuple
 
 try:
     import anthropic
@@ -31,60 +31,148 @@ except ImportError:
     sys.exit(1)
 
 
-EXTRACTION_PROMPT = """Analyze this page from the Gérard catalog of Boccherini's works and extract ALL catalog entries visible.
+EXTRACTION_PROMPT = """Analyze this page from the Gérard catalog of Boccherini's string quartets.
 
-For EACH entry on this page, extract:
+CRITICAL LAYOUT RULES - READ CAREFULLY:
+1. Each catalog entry STARTS with a LARGE centered G. NUMBER (e.g., "159", "178")
+2. Below the large number is the title: "QUARTET No. X for two violins, viola and 'cello, in [KEY]"
+3. Below that is opus info: "Op. X no. Y of [YEAR]..."
+4. MOVEMENTS with musical staff notation (incipits) appear AFTER the title/opus info
+5. SOURCE information (Autograph MS., MS. Copies, First edition, etc.) comes AFTER movements
 
-1. **g_number**: The large catalog number (e.g., 159, 160, 165)
-2. **quartet_number**: From "QUARTET No. X" (e.g., 1, 2, 30)
+KEY INSIGHT FOR MOVEMENT ATTRIBUTION:
+- If you see "Movements:" with musical incipits at the TOP of a page, BEFORE any large G. number,
+  these movements belong to the PREVIOUS entry (whose large number/title was on the previous page)
+- Put such movements in "movements_for_previous_entry", NOT in any entry on this page
+- Only include movements in an entry's "movements" array if they appear AFTER that entry's
+  large G. number and title ON THIS SAME PAGE
+
+For EACH complete or partial entry visible, extract:
+1. **g_number**: The large catalog number
+2. **quartet_number**: From "QUARTET No. X"
 3. **instrumentation**: Usually "two violins, viola and cello"
-4. **key**: The key signature (e.g., "C minor", "B-flat Major")
-5. **opus**: Object with:
-   - number: Opus number (e.g., "2", "22")
-   - work_number: Number within opus (e.g., 1, 2, 3)
-   - year: Year of composition
-   - type: "opera grande" or "opera piccola" if mentioned
-6. **movements**: Array of objects, each with:
-   - number: Movement number (1, 2, 3, 4)
-   - tempo: Tempo marking (e.g., "Allegro comodo", "Largo", "Minuetto")
-   - incipit_number: The "Incipit No." value (e.g., 325, 326)
-   - instrument: Starting instrument shown (v1, v2, va, vlc)
-   - dynamics: Any dynamics marked (p, f, pp, etc.)
-7. **sources**: Object with any of these if present:
-   - autograph: Autograph manuscript info
-   - ms_copies_score: Array of manuscript copy (score) locations
-   - ms_copies_parts: Array of manuscript copy (parts) locations
-   - first_edition: First edition publication info
-   - later_editions: Array of later editions
-   - modern_edition: Modern edition info
-   - arrangements: Array of arrangement info
-8. **notes**: Any additional notes or comments about the work
-9. **incomplete**: true if the work was never completed
-10. **is_arrangement**: true if this is an arrangement
+4. **key**: Key signature (e.g., "C minor", "F Major")
+5. **opus**: {number, work_number, year, type: "opera grande"/"opera piccola"}
+6. **movements**: Array of {number, tempo, incipit_number, instrument, dynamics}
+   - ONLY include movements that appear AFTER this entry's header on THIS page
+7. **sources**: {autograph, ms_copies_score, ms_copies_parts, first_edition, later_editions, modern_edition}
+8. **notes**: Additional notes
+9. **incomplete**: true if work was never completed
 
-IMPORTANT:
-- Extract ALL entries visible on this page, even if they're partial (started on previous page or continue on next)
-- For partial entries, extract whatever fields are visible
-- Mark entries as "continues_from_previous": true if they start mid-entry
-- Mark entries as "continues_on_next": true if they're cut off
-- Be precise with incipit numbers - they're crucial for matching
-
-Return a JSON object with this structure:
+Return JSON:
 {
-  "book_page": <page number from bottom of page>,
-  "entries": [
-    {
-      "g_number": 160,
-      "quartet_number": 2,
-      "key": "B-flat Major",
-      ... (all fields)
-    }
+  "book_page": <page number from bottom>,
+  "movements_for_previous_entry": [
+    {"number": 1, "tempo": "Allegretto", "incipit_number": 383, "instrument": "v1"}
   ],
-  "continues_from_previous": <entry object if page starts mid-entry>,
-  "partial_notes": "any notes about incomplete data"
+  "entries": [
+    {"g_number": 179, "quartet_number": 21, "key": "E Major", "movements": [...], ...}
+  ],
+  "continues_from_previous": {"g_number": 178, "sources": {...}},
+  "partial_notes": "..."
 }
 
-Return ONLY valid JSON, no markdown formatting."""
+Return ONLY valid JSON, no markdown."""
+
+
+def parse_reference_movements(mvmts_path: Path) -> Dict[int, List[str]]:
+    """Parse mvmts.md into {g_number: [tempo1, tempo2, ...]}"""
+    reference = {}
+    current_g = None
+
+    if not mvmts_path.exists():
+        return reference
+
+    with open(mvmts_path) as f:
+        for line in f:
+            line = line.strip()
+            g_match = re.match(r'\* G(\d+)', line)
+            if g_match:
+                current_g = int(g_match.group(1))
+                reference[current_g] = []
+            elif line.startswith('*') and current_g:
+                tempo = line.lstrip('* ').strip()
+                reference[current_g].append(tempo.lower())
+
+    return reference
+
+
+def normalize_tempo(tempo: str) -> str:
+    """Normalize tempo for comparison - extract first word."""
+    if not tempo:
+        return ""
+    tempo = tempo.lower().strip()
+    return tempo.split()[0] if tempo else ""
+
+
+def movements_match_reference(
+    extracted_tempos: List[str],
+    reference_tempos: List[str]
+) -> Tuple[bool, float]:
+    """
+    Check if extracted movements match reference.
+    Returns (is_match, match_score).
+    """
+    if not extracted_tempos or not reference_tempos:
+        return False, 0.0
+
+    ext_first = [normalize_tempo(t) for t in extracted_tempos]
+    ref_first = [normalize_tempo(t) for t in reference_tempos]
+
+    # Count matches
+    matches = 0
+    for e in ext_first:
+        if any(e == r or (e and r and (e in r or r in e)) for r in ref_first):
+            matches += 1
+
+    score = matches / max(len(ext_first), len(ref_first))
+    return score >= 0.5, score
+
+
+def validate_extraction(
+    result: dict,
+    reference: Dict[int, List[str]]
+) -> List[str]:
+    """
+    Validate extracted data against reference and report issues.
+    Returns list of warnings/issues found.
+    """
+    issues = []
+
+    # Check movements_for_previous_entry
+    mvts_for_prev = result.get("movements_for_previous_entry", [])
+    if mvts_for_prev:
+        tempos = [m.get("tempo", "") for m in mvts_for_prev]
+        issues.append(f"Found {len(mvts_for_prev)} movements for previous entry: {tempos}")
+
+    # Check each entry's movements against reference
+    for entry in result.get("entries", []):
+        g_num = entry.get("g_number")
+        movements = entry.get("movements", [])
+
+        if not g_num or not movements:
+            continue
+
+        extracted_tempos = [m.get("tempo", "") for m in movements]
+
+        # Check against current G number
+        if g_num in reference:
+            is_match, score = movements_match_reference(extracted_tempos, reference[g_num])
+            if is_match:
+                continue  # Good match
+
+            # Check if it matches previous G number (off-by-one)
+            prev_g = g_num - 1
+            if prev_g in reference:
+                prev_match, prev_score = movements_match_reference(extracted_tempos, reference[prev_g])
+                if prev_match and prev_score > score:
+                    issues.append(
+                        f"WARNING: G.{g_num} movements [{', '.join(extracted_tempos)}] "
+                        f"match G.{prev_g} better (score {prev_score:.1%} vs {score:.1%}). "
+                        f"Expected: {reference[g_num]}"
+                    )
+
+    return issues
 
 
 def encode_image(image_path: Path) -> str:
@@ -215,8 +303,16 @@ def main():
     project_root = Path(__file__).parent.parent.parent
     pages_dir = project_root / args.pages_dir
     output_dir = project_root / args.output_dir
+    mvmts_path = project_root / "src" / "mvmts.md"
 
     output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Load reference data for validation
+    reference = parse_reference_movements(mvmts_path)
+    if reference:
+        print(f"Loaded {len(reference)} reference entries from mvmts.md for validation")
+    else:
+        print("No reference data loaded (mvmts.md not found)")
 
     # Initialize client
     client = anthropic.Anthropic()
@@ -237,6 +333,7 @@ def main():
         "skipped": 0,
         "failed": 0,
         "entries_found": 0,
+        "validation_warnings": 0,
     }
 
     for page_file in page_files:
@@ -261,12 +358,24 @@ def main():
         result = extract_page_metadata(client, page_file, args.model)
 
         if result:
+            # Validate against reference
+            if reference:
+                issues = validate_extraction(result, reference)
+                if issues:
+                    for issue in issues:
+                        print(f"\n    {issue}")
+                    results_summary["validation_warnings"] += len(issues)
+
             # Save result
             with open(output_file, "w") as f:
                 json.dump(result, f, indent=2)
 
             num_entries = len(result.get("entries", []))
-            print(f"found {num_entries} entries")
+            mvts_for_prev = len(result.get("movements_for_previous_entry", []))
+            status = f"found {num_entries} entries"
+            if mvts_for_prev:
+                status += f", {mvts_for_prev} movements for prev"
+            print(status)
             results_summary["processed"] += 1
             results_summary["entries_found"] += num_entries
         else:
@@ -282,6 +391,8 @@ def main():
     print(f"  Skipped: {results_summary['skipped']}")
     print(f"  Failed: {results_summary['failed']}")
     print(f"  Total entries found: {results_summary['entries_found']}")
+    if reference:
+        print(f"  Validation warnings: {results_summary['validation_warnings']}")
 
 
 if __name__ == "__main__":
