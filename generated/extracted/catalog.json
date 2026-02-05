@@ -367,7 +367,8 @@
           "number": 2,
           "tempo": "Largo",
           "instrument": "v1",
-          "dynamics": "p"
+          "dynamics": "p",
+          "incipit_file": "incipits/G164_mvt2.png"
         },
         {
           "number": 3,
@@ -981,7 +982,8 @@
           "number": 2,
           "tempo": "Allegro",
           "instrument": "v1",
-          "dynamics": "f"
+          "dynamics": "f",
+          "incipit_file": "incipits/G173_mvt2.png"
         },
         {
           "number": 3,
@@ -1004,7 +1006,8 @@
           "tempo": "Trio",
           "instrument": "v1",
           "dynamics": "pp",
-          "additional_markings": "sul ponticello"
+          "additional_markings": "sul ponticello",
+          "incipit_file": "incipits/G173_mvt4.png"
         }
       ],
       "notes": "Picquot writes (p. 114): 'This third quartet begins in the V\u00e9nier edition with an Allegro assai, while in the thematic catalogue drawn up by Boccherini the'",
@@ -1506,7 +1509,8 @@
           "number": 3,
           "tempo": "(Trio)",
           "instrument": "v2",
-          "dynamics": "tr"
+          "dynamics": "tr",
+          "incipit_file": "incipits/G182_mvt3.png"
         }
       ],
       "sources": {
@@ -2773,7 +2777,8 @@
           "number": 1,
           "tempo": "Allegro spiritoso",
           "instrument": "v1",
-          "dynamics": "f"
+          "dynamics": "f",
+          "incipit_file": "incipits/G207_mvt1.png"
         },
         {
           "number": 2,
@@ -3111,7 +3116,8 @@
         },
         {
           "number": 4,
-          "tempo": "Repeat of the second part of the Prestissimo"
+          "tempo": "Repeat of the second part of the Prestissimo",
+          "incipit_file": "incipits/G214_mvt4.png"
         }
       ],
       "sources": {
@@ -3834,7 +3840,8 @@
           "tempo": "Larghetto",
           "incipit_number": null,
           "instrument": "v1",
-          "dynamics": "pp"
+          "dynamics": "pp",
+          "incipit_file": "incipits/G230_mvt1.png"
         },
         {
           "number": 2,
@@ -4791,21 +4798,24 @@
           "tempo": "Allegro con moto",
           "incipit_number": null,
           "instrument": null,
-          "dynamics": null
+          "dynamics": null,
+          "incipit_file": "incipits/G251_mvt1.png"
         },
         {
           "number": 2,
           "tempo": "Tempo di minuetto",
           "incipit_number": null,
           "instrument": null,
-          "dynamics": null
+          "dynamics": null,
+          "incipit_file": "incipits/G251_mvt2.png"
         },
         {
           "number": 3,
           "tempo": "Rondeau allegro",
           "incipit_number": null,
           "instrument": null,
-          "dynamics": null
+          "dynamics": null,
+          "incipit_file": "incipits/G251_mvt3.png"
         }
       ],
       "sources": {
@@ -4834,22 +4844,26 @@
         {
           "number": 1,
           "tempo": "Allegro maestoso",
-          "notes": "Repeat (transposed to C Major) of the first movement of the quartet in D Major Op. 52 no. 2 of 1795 (No. 233, Incipit No. 519)"
+          "notes": "Repeat (transposed to C Major) of the first movement of the quartet in D Major Op. 52 no. 2 of 1795 (No. 233, Incipit No. 519)",
+          "incipit_file": "incipits/G252_mvt1.png"
         },
         {
           "number": 2,
           "tempo": "Minuetto",
-          "notes": "Repeat of the second movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 536)"
+          "notes": "Repeat of the second movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 536)",
+          "incipit_file": "incipits/G252_mvt2.png"
         },
         {
           "number": 3,
           "tempo": "Grave",
-          "notes": "Arrangement of the first movement of the double 'cello quintet in C Minor Op. 51 no. 2 of 1795 (No. 377, Incipit No. 943)"
+          "notes": "Arrangement of the first movement of the double 'cello quintet in C Minor Op. 51 no. 2 of 1795 (No. 377, Incipit No. 943)",
+          "incipit_file": "incipits/G252_mvt3.png"
         },
         {
           "number": 4,
           "tempo": "Finale\u2014presto assai",
-          "notes": "Repeat of the first movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 535)"
+          "notes": "Repeat of the first movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 535)",
+          "incipit_file": "incipits/G252_mvt4.png"
         }
       ],
       "sources": {
@@ -4875,19 +4889,23 @@
       "movements": [
         {
           "number": 1,
-          "tempo": "Presto"
+          "tempo": "Presto",
+          "incipit_file": "incipits/G253_mvt1.png"
         },
         {
           "number": 2,
-          "tempo": "Larghetto"
+          "tempo": "Larghetto",
+          "incipit_file": "incipits/G253_mvt2.png"
         },
         {
           "number": 3,
-          "tempo": "Minuetto"
+          "tempo": "Minuetto",
+          "incipit_file": "incipits/G253_mvt3.png"
         },
         {
           "number": 4,
-          "tempo": "Allegro vivo"
+          "tempo": "Allegro vivo",
+          "incipit_file": "incipits/G253_mvt4.png"
         }
       ],
       "sources": {
@@ -4913,19 +4931,23 @@
       "movements": [
         {
           "number": 1,
-          "tempo": "Allegro con spirito"
+          "tempo": "Allegro con spirito",
+          "incipit_file": "incipits/G254_mvt1.png"
         },
         {
           "number": 2,
-          "tempo": "Andantino"
+          "tempo": "Andantino",
+          "incipit_file": "incipits/G254_mvt2.png"
         },
         {
           "number": 3,
-          "tempo": "Minuetto"
+          "tempo": "Minuetto",
+          "incipit_file": "incipits/G254_mvt3.png"
         },
         {
           "number": 4,
-          "tempo": "Allegretto moderato"
+          "tempo": "Allegretto moderato",
+          "incipit_file": "incipits/G254_mvt4.png"
         }
       ],
       "sources": {
@@ -4953,19 +4975,23 @@
       "movements": [
         {
           "number": 1,
-          "tempo": "Allegro moderato"
+          "tempo": "Allegro moderato",
+          "incipit_file": "incipits/G255_mvt1.png"
         },
         {
           "number": 2,
-          "tempo": "Andantino"
+          "tempo": "Andantino",
+          "incipit_file": "incipits/G255_mvt2.png"
         },
         {
           "number": 3,
-          "tempo": "Minuetto"
+          "tempo": "Minuetto",
+          "incipit_file": "incipits/G255_mvt3.png"
         },
         {
           "number": 4,
-          "tempo": "Allegro assai"
+          "tempo": "Allegro assai",
+          "incipit_file": "incipits/G255_mvt4.png"
         }
       ],
       "sources": {

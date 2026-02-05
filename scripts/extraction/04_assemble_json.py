@@ -15,8 +15,9 @@ Usage:
 import argparse
 import json
 import re
+import shutil
 from pathlib import Path
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
 
 def load_page_metadata(metadata_dir: Path) -> List[dict]:
@@ -155,24 +156,186 @@ def merge_movements(base_movements: List[dict], new_movements: List[dict]):
     base_movements.sort(key=lambda m: m.get("number", 999))
 
 
-def associate_incipits(entries: List[dict], incipits_dir: Path) -> None:
+def build_page_to_movements_map(
+    entries: List[dict], pages: List[dict]
+) -> Dict[int, List[dict]]:
     """
-    Associate incipit image files with movements.
+    Build a map of book_page -> list of movements on that page.
 
-    This uses the incipit_number from each movement to find or generate
-    the appropriate filename.
+    This processes the page metadata to track which movements appear on each page,
+    including movements_for_previous_entry.
+    """
+    page_movements = {}
+
+    # Track the last entry's g_number for movements_for_previous_entry
+    last_g_number = None
+
+    for page_data in pages:
+        book_page = page_data.get("book_page")
+        if not book_page:
+            continue
+
+        movements_on_page = []
+
+        # Handle movements_for_previous_entry (these appear at TOP of page)
+        mvts_for_prev = page_data.get("movements_for_previous_entry", [])
+        if mvts_for_prev and last_g_number:
+            for mvt in mvts_for_prev:
+                movements_on_page.append({
+                    "g_number": last_g_number,
+                    "number": mvt.get("number"),
+                    "incipit_number": mvt.get("incipit_number"),
+                    "tempo": mvt.get("tempo"),
+                })
+
+        # Handle regular entries
+        for entry in page_data.get("entries", []):
+            g_num = entry.get("g_number")
+            if not g_num:
+                continue
+
+            for mvt in entry.get("movements", []):
+                movements_on_page.append({
+                    "g_number": g_num,
+                    "number": mvt.get("number"),
+                    "incipit_number": mvt.get("incipit_number"),
+                    "tempo": mvt.get("tempo"),
+                })
+
+            # Update last_g_number for next page's movements_for_previous_entry
+            last_g_number = g_num
+
+        if movements_on_page:
+            page_movements[book_page] = movements_on_page
+
+    return page_movements
+
+
+def associate_and_rename_incipits(
+    entries: List[dict],
+    incipits_dir: Path,
+    pages: List[dict],
+    rename_files: bool = True
+) -> Tuple[int, int, int]:
+    """
+    Associate incipit image files with movements and rename them.
+
+    Returns (renamed_count, skipped_count, error_count).
     """
     # Load incipits metadata if available
     metadata_file = incipits_dir / "incipits_metadata.json"
     incipits_by_page_pos = {}
+    incipits_metadata = {"total_incipits": 0, "incipits": []}
 
     if metadata_file.exists():
         with open(metadata_file) as f:
-            data = json.load(f)
-            for inc in data.get("incipits", []):
+            incipits_metadata = json.load(f)
+            for inc in incipits_metadata.get("incipits", []):
                 key = (inc["book_page"], inc["position"])
-                incipits_by_page_pos[key] = inc["file"]
+                incipits_by_page_pos[key] = inc
 
+    # Build page-to-movements map from page metadata
+    page_movements = build_page_to_movements_map(entries, pages)
+
+    # Track renames
+    renamed = 0
+    skipped = 0
+    errors = 0
+    renames_map = {}  # old_filename -> new_filename
+
+    # Process each page/position combination
+    for (book_page, position), inc_info in sorted(incipits_by_page_pos.items()):
+        old_filename = inc_info["file"]
+        old_path = incipits_dir / old_filename
+
+        if book_page not in page_movements:
+            skipped += 1
+            continue
+
+        movements = page_movements[book_page]
+
+        # Position is 1-indexed and corresponds to movement order on page
+        if position > len(movements):
+            skipped += 1
+            continue
+
+        mvt = movements[position - 1]  # Convert to 0-indexed
+
+        g_num = mvt.get("g_number")
+        mvt_num = mvt.get("number")
+        inc_num = mvt.get("incipit_number")
+
+        if not all([g_num, mvt_num]):
+            skipped += 1
+            continue
+
+        # Create the new filename
+        if inc_num:
+            new_filename = f"G{g_num}_mvt{mvt_num}_incipit{inc_num}.png"
+        else:
+            new_filename = f"G{g_num}_mvt{mvt_num}.png"
+
+        new_path = incipits_dir / new_filename
+
+        # Perform rename if needed
+        if rename_files and old_path.exists() and old_filename != new_filename:
+            if new_path.exists() and old_path != new_path:
+                skipped += 1
+                continue
+
+            try:
+                old_path.rename(new_path)
+                renames_map[old_filename] = new_filename
+                renamed += 1
+            except Exception as e:
+                print(f"  Error renaming {old_filename}: {e}")
+                errors += 1
+                continue
+
+        # Track the mapping for later use
+        if old_filename != new_filename:
+            renames_map[old_filename] = new_filename
+
+    # Update incipits_metadata.json
+    if renames_map and rename_files:
+        for inc in incipits_metadata.get("incipits", []):
+            old_name = inc.get("file")
+            if old_name in renames_map:
+                inc["original_file"] = old_name
+                inc["file"] = renames_map[old_name]
+
+        with open(metadata_file, "w") as f:
+            json.dump(incipits_metadata, f, indent=2)
+
+    # Set incipit_file in entry movements
+    for entry in entries:
+        g_num = entry.get("g_number")
+        if not g_num:
+            continue
+
+        for mvt in entry.get("movements", []):
+            mvt_num = mvt.get("number")
+            incipit_num = mvt.get("incipit_number")
+
+            if incipit_num:
+                filename = f"G{g_num}_mvt{mvt_num}_incipit{incipit_num}.png"
+            elif mvt_num:
+                filename = f"G{g_num}_mvt{mvt_num}.png"
+            else:
+                continue
+
+            mvt["incipit_file"] = f"incipits/{filename}"
+
+    return renamed, skipped, errors
+
+
+def associate_incipits(entries: List[dict], incipits_dir: Path) -> None:
+    """
+    Associate incipit image files with movements (legacy function).
+
+    This uses the incipit_number from each movement to find or generate
+    the appropriate filename.
+    """
     # For each entry, try to match movements to incipit files
     for entry in entries:
         g_num = entry.get("g_number")
@@ -225,6 +388,16 @@ def main():
         default=Path("generated/extracted/catalog.json"),
         help="Output path for assembled catalog"
     )
+    parser.add_argument(
+        "--rename-incipits",
+        action="store_true",
+        help="Rename incipit files to G-number format"
+    )
+    parser.add_argument(
+        "--no-rename",
+        action="store_true",
+        help="Skip incipit file renaming (just associate)"
+    )
 
     args = parser.parse_args()
 
@@ -247,8 +420,17 @@ def main():
     entries = merge_entries(pages)
     print(f"Found {len(entries)} unique entries")
 
-    print("Associating incipit images...")
-    associate_incipits(entries, incipits_dir)
+    # Associate and optionally rename incipit images
+    do_rename = args.rename_incipits and not args.no_rename
+    if do_rename:
+        print("Associating and renaming incipit images...")
+        renamed, skipped, errors = associate_and_rename_incipits(
+            entries, incipits_dir, pages, rename_files=True
+        )
+        print(f"  Renamed: {renamed}, Skipped: {skipped}, Errors: {errors}")
+    else:
+        print("Associating incipit images...")
+        associate_incipits(entries, incipits_dir)
 
     # Clean entries
     entries = [clean_entry(e) for e in entries]

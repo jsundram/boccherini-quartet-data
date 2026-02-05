@@ -64,7 +64,7 @@
   },
   "incipit_validation": {
     "existing_files": 203,
-    "referenced_files": 224,
+    "referenced_files": 250,
     "missing_files": [
       {
         "g_number": 159,
@@ -98,11 +98,6 @@
       },
       {
         "g_number": 161,
-        "movement": 1,
-        "expected_file": "G161_mvt1_incipit331.png"
-      },
-      {
-        "g_number": 161,
         "movement": 2,
         "expected_file": "G161_mvt2_incipit332.png"
       },
@@ -110,11 +105,6 @@
         "g_number": 161,
         "movement": 3,
         "expected_file": "G161_mvt3_incipit333.png"
-      },
-      {
-        "g_number": 162,
-        "movement": 1,
-        "expected_file": "G162_mvt1_incipit334.png"
       },
       {
         "g_number": 162,
@@ -127,47 +117,57 @@
         "expected_file": "G162_mvt3_incipit336.png"
       },
       {
-        "g_number": 163,
-        "movement": 1,
-        "expected_file": "G163_mvt1_incipit337.png"
+        "g_number": 166,
+        "movement": 3,
+        "expected_file": "G166_mvt3_incipit348.png"
       },
       {
-        "g_number": 163,
+        "g_number": 167,
+        "movement": 1,
+        "expected_file": "G167_mvt1_incipit349.png"
+      },
+      {
+        "g_number": 167,
         "movement": 2,
-        "expected_file": "G163_mvt2_incipit338.png"
+        "expected_file": "G167_mvt2_incipit350.png"
       },
       {
-        "g_number": 163,
+        "g_number": 167,
         "movement": 3,
-        "expected_file": "G163_mvt3_incipit339.png"
+        "expected_file": "G167_mvt3_incipit351.png"
       },
       {
-        "g_number": 164,
-        "movement": 1,
-        "expected_file": "G164_mvt1_incipit340.png"
-      },
-      {
-        "g_number": 164,
+        "g_number": 171,
         "movement": 3,
-        "expected_file": "G164_mvt3_incipit341.png"
+        "expected_file": "G171_mvt3_incipit363.png"
       },
       {
-        "g_number": 165,
+        "g_number": 171,
+        "movement": 4,
+        "expected_file": "G171_mvt4_incipit364.png"
+      },
+      {
+        "g_number": 173,
         "movement": 1,
-        "expected_file": "G165_mvt1_incipit343.png"
+        "expected_file": "G173_mvt1_incipit368.png"
       },
       {
-        "g_number": 165,
+        "g_number": 173,
         "movement": 2,
-        "expected_file": "G165_mvt2_incipit344.png"
+        "expected_file": "G173_mvt2.png"
       },
       {
-        "g_number": 165,
+        "g_number": 173,
         "movement": 3,
-        "expected_file": "G165_mvt3_incipit345.png"
+        "expected_file": "G173_mvt3_incipit369.png"
+      },
+      {
+        "g_number": 173,
+        "movement": 4,
+        "expected_file": "G173_mvt4_incipit370.png"
       }
     ],
-    "total_missing": 224
+    "total_missing": 109
   },
   "missing_entries": [],
   "extra_entries": [],

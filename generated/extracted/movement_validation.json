@@ -146,6 +146,20 @@
       ]
     },
     {
+      "g_number": 178,
+      "tempos": [
+        "allegretto",
+        "allegro minuetto"
+      ]
+    },
+    {
+      "g_number": 179,
+      "tempos": [
+        "andantino",
+        "prestissimo"
+      ]
+    },
+    {
       "g_number": 180,
       "tempos": [
         "prestissimo",
@@ -422,6 +436,24 @@
       ]
     },
     {
+      "g_number": 232,
+      "tempos": [
+        "allegro vivace assai",
+        "minuetto",
+        "adagio",
+        "finale. allegro giusto"
+      ]
+    },
+    {
+      "g_number": 233,
+      "tempos": [
+        "allegro vivace assai",
+        "andantino patetico",
+        "minuetto",
+        "rondeau. allegretto"
+      ]
+    },
+    {
       "g_number": 234,
       "tempos": [
         "allegretto con moto",
@@ -532,25 +564,6 @@
         "largo",
         "largo",
         "minuetto"
-      ]
-    },
-    {
-      "g_number": 179,
-      "extracted": [
-        "allegretto",
-        "allegro minuetto"
-      ],
-      "reference": [
-        "andantino",
-        "prestissimo"
-      ],
-      "extracted_first": [
-        "allegretto",
-        "allegro"
-      ],
-      "reference_first": [
-        "andantino",
-        "prestissimo"
       ]
     },
     {
@@ -842,54 +855,6 @@
       "reference_first": [
         "andante",
         "moderato"
-      ]
-    },
-    {
-      "g_number": 232,
-      "extracted": [
-        "allegro con moto"
-      ],
-      "reference": [
-        "allegro con moto",
-        "minuetto",
-        "adagio",
-        "finale. allegro giusto"
-      ],
-      "extracted_first": [
-        "allegro"
-      ],
-      "reference_first": [
-        "allegro",
-        "minuetto",
-        "adagio",
-        "finale."
-      ]
-    },
-    {
-      "g_number": 233,
-      "extracted": [
-        "allegro vivace assai",
-        "minuetto",
-        "adagio",
-        "finale. allegro giusto"
-      ],
-      "reference": [
-        "allegro vivace assai",
-        "andantino patetico",
-        "minuetto",
-        "rondeau. allegretto"
-      ],
-      "extracted_first": [
-        "allegro",
-        "minuetto",
-        "adagio",
-        "finale."
-      ],
-      "reference_first": [
-        "allegro",
-        "andantino",
-        "minuetto",
-        "rondeau."
       ]
     },
     {
