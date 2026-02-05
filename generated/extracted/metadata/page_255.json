@@ -1,5 +1,6 @@
 {
   "book_page": 254,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 230,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "G Major",
       "opus": {
-        "number": "48",
+        "number": 48,
         "work_number": 5,
         "year": 1794,
         "month": "October",
@@ -26,15 +27,26 @@
           "tempo": "Minuetto con un poco di moto",
           "incipit_number": 511,
           "instrument": "v1",
-          "dynamics": "dolciss",
-          "additional_marking": "Trio"
+          "dynamics": null,
+          "section": "Trio"
         }
       ],
       "sources": {
-        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (17). 'Mese di Ottobre 1794. Quartettino [per due violini, viola e violoncello di Luigi] Boccherini [compositor di camera di S.M. il Re di Prussia]'. The first violin and 'cello parts are not in the hand of Boccherini.",
+        "autograph": {
+          "location": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (17)",
+          "date": "Mese di Ottobre 1794",
+          "description": "Quartettino [per due violini, viola e violoncello di Luigi] Boccherini [compositor di camera di S.M. il Re di Prussia]",
+          "notes": "The first violin and 'cello parts are not in the hand of Boccherini"
+        },
         "ms_copies_parts": [
-          "Mulhouse, Bibl. Municipale, MN.4862",
-          "Paris, Conservatoire, D. 11171, in the hand of Picquot"
+          {
+            "location": "Mulhouse, Bibl. Municipale, MN.4862",
+            "century": "19th"
+          },
+          {
+            "location": "Paris, Conservatoire, D. 11171",
+            "copyist": "Picquot"
+          }
         ]
       },
       "notes": "Unpublished"
@@ -42,15 +54,24 @@
   ],
   "continues_from_previous": {
     "g_number": 230,
-    "instrumentation": "two violins, viola and cello",
     "sources": {
-      "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (16). 'Mese di Agosto 1794. Quartettino [per due violini, viola e violoncello di Luigi] Boccherini [compositor di camera di S.M. il Re di Prussia]'",
+      "autograph": {
+        "location": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (16)",
+        "date": "Mese di Agosto 1794",
+        "description": "Quartettino [per due violini, viola e violoncello di Luigi] Boccherini [compositor di camera di S.M. il Re di Prussia]"
+      },
       "ms_copies_parts": [
-        "Mulhouse, Bibl. Municipale, MN.4862",
-        "Paris, Conservatoire, D. 11170, in the hand of Picquot, with a note: 'tr\u00e8s beau'"
+        {
+          "location": "Mulhouse, Bibl. Municipale, MN.4862",
+          "century": "19th"
+        },
+        {
+          "location": "Paris, Conservatoire, D. 11170",
+          "copyist": "Picquot",
+          "notes": "tr\u00e8s beau"
+        }
       ]
     },
     "notes": "Unpublished"
-  },
-  "partial_notes": "First entry appears to be continuation from previous page showing string quarters entry. Movement 2 shows incomplete incipit number 512 reference."
+  }
 }

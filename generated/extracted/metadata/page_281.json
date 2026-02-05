@@ -1,6 +1,26 @@
 {
   "book_page": 280,
-  "entries": [],
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 260,
+      "quartet_number": null,
+      "instrumentation": "flute, violin, viola and cello",
+      "key": null,
+      "opus": null,
+      "movements": [],
+      "sources": {
+        "autograph": null,
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": "1798, Paris, Pleyel (Op. 5): Trois quatuors pour fl\u00fbte, violon, alto et violoncelle par Luigi Boccherini, oeuvre 5 pour fl\u00fbte. A Paris. Chez Pleyel, rue Neuve des Petits Champs. Enregistr\u00e9 \u00e0 la Biblioth\u00e8que Nationale. Plate no. 159.",
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "THREE QUARTETS (Op. 5) for flute, violin, viola and 'cello. No reference in Boccherini's autograph catalogue. Arrangements by Pleyel (?) or Cambini (?) of three double 'cello quintets. No. 1: Quartet in D Major: Allegro vivace\u2014Tempo di Minuetto\u2014Larghetto\u2014Finale presto. Arrangement of the whole of the quintet in Eb Major Op. 49 no. 5 of 1794 (No. 369). No. 2: Quartet in G Major: Andante lento\u2014Minuetto\u2014Allegro con brio\u2014Andante lento and Allegro. Arrangement of the whole of the quintet in F Major Op. 46 no. 5 of 1793 (No. 363). No. 3: Quartet in D Minor: Moderato assai\u2014Minuetto\u2014Adagio non tanto\u2014Finale presto. Arrangement of the whole of the quintet in D Minor Op. 49 no 4 of 1794 (No. 368). No MSS. of any kind are known.",
+      "incomplete": false
+    }
+  ],
   "continues_from_previous": null,
-  "partial_notes": "This page contains catalog entry 260 which describes arrangements of three Boccherini quintets for flute, violin, viola and cello, published by Pleyel in 1798. These are not original Boccherini quartets but arrangements of his quintets Op. 49 nos. 5 and 4, and Op. 46 no. 5."
+  "partial_notes": "This entry describes arrangements of Boccherini quintets for flute quartet, published by Pleyel in Paris in 1798. The arrangements were possibly made by Pleyel or Cambini, not by Boccherini himself."
 }

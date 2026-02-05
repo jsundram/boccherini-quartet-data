@@ -1,51 +1,95 @@
 {
   "book_page": 192,
-  "entries": [
+  "movements_for_previous_entry": [
     {
-      "g_number": 172,
-      "instrumentation": "two violins, viola and 'cello",
-      "movements": [
-        {
-          "number": 1,
-          "tempo": "Grave",
-          "incipit_number": 365,
-          "instrument": "v1",
-          "dynamics": "f"
-        },
-        {
-          "number": 2,
-          "tempo": "Larghetto",
-          "incipit_number": 366,
-          "instrument": "v1",
-          "dynamics": "dolce"
-        },
-        {
-          "number": 3,
-          "tempo": "Allegretto con moto",
-          "incipit_number": 367,
-          "instrument": "v1",
-          "dynamics": "p"
-        }
-      ],
-      "sources": {
-        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 12...' (for comment, see No. 174)",
-        "ms_copies_score": [
-          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 12...'"
-        ],
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.6114, 'Quartetto no. 6...' (for comment, see No. 171)",
-          "Genoa, Liceo Musicale Paganini, SS/A/1/22 (two copies), 'Sonata...'",
-          "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 334, 'Opera III, Concerto sesto...' (for comment, see No. 171)",
-          "Naples, Conservatorio, 22.5.2, 'Quartetto no. 6...'",
-          "Venice, Conservatorio, 10.998"
-        ],
-        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 2 (for title, see No. 171)",
-        "later_editions": [
-          "(c. 1780), London, Bremner: Op. 10 no. 2 (for title, see No. 171)",
-          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 2 (for title, see No. 171)"
-        ]
-      }
+      "number": 1,
+      "tempo": "Grave",
+      "incipit_number": 365,
+      "instrument": "v1",
+      "dynamics": "f"
+    },
+    {
+      "number": 2,
+      "tempo": "Larghetto",
+      "incipit_number": 366,
+      "instrument": "v1",
+      "dynamics": "dolce"
+    },
+    {
+      "number": 3,
+      "tempo": "Allegretto con moto",
+      "incipit_number": 367,
+      "instrument": "v1",
+      "dynamics": "p"
     }
   ],
-  "partial_notes": "This appears to be a complete entry for G. 172"
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 172,
+    "sources": {
+      "autograph": {
+        "location": "Lucca, Istituto Musicale Boccherini",
+        "shelfmark": "D.I.33",
+        "description": "Sonata a quattro no. 12 (separate parts)",
+        "note": "for comment, see No. 174"
+      },
+      "ms_copies_score": [
+        {
+          "location": "Lucca, Istituto Musicale Boccherini",
+          "shelfmark": "B.I.114",
+          "description": "Sonata a quattro no. 12"
+        }
+      ],
+      "ms_copies_parts": [
+        {
+          "location": "Berlin, Deutsche Staatsbibliothek",
+          "shelfmark": "M.6114",
+          "description": "Quartetto no. 6",
+          "note": "for comment, see No. 171"
+        },
+        {
+          "location": "Genoa, Liceo Musicale Paganini",
+          "shelfmark": "SS/A/1/22",
+          "description": "Sonata (two copies)"
+        },
+        {
+          "location": "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 334",
+          "description": "Opera III, Concerto sesto",
+          "note": "for comment, see No. 171"
+        },
+        {
+          "location": "Naples, Conservatorio",
+          "shelfmark": "22.5.2",
+          "description": "Quartetto no. 6"
+        },
+        {
+          "location": "Venice, Conservatorio",
+          "shelfmark": "10.998"
+        }
+      ],
+      "first_edition": {
+        "date": "December, 1772",
+        "location": "Paris",
+        "publisher": "V\u00e9nier",
+        "opus": "Op. 10 no. 2",
+        "note": "for title, see No. 171"
+      },
+      "later_editions": [
+        {
+          "date": "c. 1780",
+          "location": "London",
+          "publisher": "Bremner",
+          "opus": "Op. 10 no. 2",
+          "note": "for title, see No. 171"
+        },
+        {
+          "date": "c. 1785",
+          "location": "Amsterdam",
+          "publisher": "Hummel",
+          "opus": "Op. 7 no. 2",
+          "note": "for title, see No. 171"
+        }
+      ]
+    }
+  }
 }

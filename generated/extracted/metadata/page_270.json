@@ -1,5 +1,6 @@
 {
   "book_page": 269,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 246,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and 'cello",
       "key": "D Major",
       "opus": {
-        "number": "58",
+        "number": 58,
         "work_number": 5,
         "year": 1799,
         "type": "opera grande"
@@ -36,17 +37,12 @@
         }
       ],
       "sources": {
+        "autograph": "Op. 58 no. 5 of 1799 ('opera grande') in Boccherini's autograph catalogue",
+        "ms_copies_score": "No MSS. of any kind are known",
+        "ms_copies_parts": "No MSS. of any kind are known",
         "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 5 (for title, see No. 242)",
         "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 5 (pocket score and separate parts; revised by P. Carmirelli)"
-      },
-      "notes": "No MSS. of any kind are known."
+      }
     }
-  ],
-  "continues_from_previous": {
-    "g_number": null,
-    "sources": {
-      "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 4 (pocket score and separate parts; revised by P. Carmirelli)"
-    }
-  },
-  "partial_notes": "Page begins with continuation of modern edition info from previous entry"
+  ]
 }

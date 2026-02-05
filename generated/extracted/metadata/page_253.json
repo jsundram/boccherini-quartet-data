@@ -1,13 +1,14 @@
 {
   "book_page": 252,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 227,
       "quartet_number": 69,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "A Major",
       "opus": {
-        "number": "48",
+        "number": 48,
         "work_number": 2,
         "year": 1794,
         "month": "April",
@@ -19,8 +20,7 @@
           "tempo": "Andante lento",
           "incipit_number": 505,
           "instrument": "v1",
-          "dynamics": null,
-          "notes": "sotto voce sempre"
+          "dynamics": "sotto voce sempre"
         },
         {
           "number": 2,
@@ -31,22 +31,22 @@
         }
       ],
       "sources": {
-        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (15). 'Mese di Aprile 1794. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'.",
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (15). 'Mese di Aprile 1794. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
         "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.603. Copy made in Berlin for Frederick William II.",
-          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
-          "Paris, Conservatoire, D. 11168, in the hand of Picquot."
+          "Berlin, Deutsche Staatsbibliothek, M.603. Copy made in Berlin for Frederick William II",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+          "Paris, Conservatoire, D. 11168, in the hand of Picquot"
         ]
       },
-      "notes": "Unpublished."
+      "notes": "Unpublished"
     },
     {
       "g_number": 228,
       "quartet_number": 70,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "B Minor",
       "opus": {
-        "number": "48",
+        "number": 48,
         "work_number": 3,
         "year": 1794,
         "month": "June",
@@ -58,12 +58,11 @@
           "tempo": "Allegretto moderato",
           "incipit_number": 507,
           "instrument": "v1",
-          "dynamics": null,
-          "notes": "sotto voce"
+          "dynamics": "sotto voce"
         }
       ],
       "sources": {},
-      "continues_on_next": true
+      "notes": "Entry continues on next page"
     }
   ]
 }

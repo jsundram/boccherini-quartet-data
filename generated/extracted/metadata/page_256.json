@@ -1,5 +1,6 @@
 {
   "book_page": 255,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 231,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and 'cello",
       "key": "C Major",
       "opus": {
-        "number": "48",
+        "number": 48,
         "work_number": 6,
         "year": 1794,
         "type": "opera piccola"
@@ -18,7 +19,7 @@
           "tempo": "Allegro vivace",
           "incipit_number": 513,
           "instrument": "v1",
-          "dynamics": "p"
+          "dynamics": "f"
         },
         {
           "number": 2,
@@ -29,13 +30,13 @@
         }
       ],
       "sources": {
-        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (18). 'Mese di Decembre 1794. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositore di camera di S.M. il Re di Prussia'.",
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (18). 'Mese di Decembre 1794. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositore di camera di S.M. il Re di Prussia'",
         "ms_copies_parts": [
           "Mulhouse, Bibl. Municipale, MN.4862",
-          "Paris, Conservatoire, D. 11172, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+          "Paris, Conservatoire, D. 11172, in the hand of Picquot, with a note: 'tr\u00e8s beau'"
         ]
       },
-      "notes": "Unpublished."
+      "notes": "Unpublished"
     },
     {
       "g_number": 232,
@@ -43,7 +44,7 @@
       "instrumentation": "two violins, viola and 'cello",
       "key": "C Major",
       "opus": {
-        "number": "52",
+        "number": 52,
         "work_number": 1,
         "year": 1795,
         "type": "opera grande"
@@ -56,8 +57,11 @@
           "instrument": "v1",
           "dynamics": "pp"
         }
-      ]
+      ],
+      "sources": {},
+      "incomplete": true
     }
   ],
-  "partial_notes": "Entry 232 appears to continue on the next page as only one movement is shown"
+  "continues_from_previous": null,
+  "partial_notes": "Entry 232 appears to continue beyond this page as only one movement is shown"
 }

@@ -1,60 +1,52 @@
 {
   "book_page": 277,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 257,
+      "quartet_number": null,
       "instrumentation": "two violins, viola and cello",
-      "is_arrangement": true,
-      "notes": "TWO QUARTETS for two violins, viola and 'cello (arrangements of two quintets). No reference in Boccherini's autograph catalogue. These two quartets cannot be considered authentic. The arrangement, which is very correctly done, is the work of an unknown musician of the 18th century.",
-      "quartets": [
-        {
-          "number": 1,
-          "key": "D Minor",
-          "movements": [
-            "Allegro moderato",
-            "Lento",
-            "Allegro"
-          ],
-          "source_quintet": "Op. 18 no. 5 of 1774 (No. 287)"
-        },
-        {
-          "number": 2,
-          "key": "Bb Major",
-          "movements": [
-            "Allegro giusto",
-            "Adagio assai cantabile",
-            "Minuetto con moto",
-            "Prestissimo"
-          ],
-          "source_quintet": "Op. 20 no. 2 of 1775 (No. 290)"
-        }
-      ],
+      "key": null,
+      "opus": null,
+      "movements": [],
       "sources": {
-        "ms_copies_parts": [
-          "Naples, Conservatorio, 22.5.6, 'Quartetto in re min . . .' and 'Quartetto in Si bem. Mag . . .'"
-        ]
-      }
+        "autograph": null,
+        "ms_copies_score": null,
+        "ms_copies_parts": "Naples, Conservatorio, 22.5.6, 'Quartetto in re min...' and 'Quartetto in Si bem. Mag...'",
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "TWO QUARTETS for two violins, viola and 'cello (arrangements of two quintets). No reference in Boccherini's autograph catalogue. These two quartets cannot be considered authentic. The arrangement, which is very correctly done, is the work of an unknown musician of the 18th century. No. 1. Quartet in D Minor: Allegro moderato\u2014Lento\u2014Allegro. Arrangement of the whole of the quintet Op. 18 no. 5 of 1774 (No. 287). No. 2. Quartet in Bb Major: Allegro giusto\u2014Adagio assai cantabile\u2014Minuetto con moto\u2014Prestissimo. Arrangement of the whole of the quintet Op. 20 no. 2 of 1775 (No. 290). Unpublished.",
+      "incomplete": false
     },
     {
       "g_number": 258,
+      "quartet_number": null,
       "instrumentation": "two violins, viola and cello",
       "key": "F Minor",
-      "notes": "Incorrectly attributed to Boccherini? Lost. Described by Picquot (p. 167) in the following words, which are our only source of information for this quartet: 'Quite recently, I received information of a quartet attributed to this composer, of which the motif is as follows:'",
+      "opus": null,
       "movements": [
         {
           "number": 1,
           "tempo": "Andante lento",
-          "incipit_number": 566
+          "incipit_number": 566,
+          "instrument": "v1",
+          "dynamics": null
         }
       ],
       "sources": {
-        "ms_copies_score": [
-          "Lost"
-        ]
-      }
+        "autograph": null,
+        "ms_copies_score": "Lost",
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "Incorrectly attributed to Boccherini? Described by Picquot (p. 167) in the following words, which are our only source of information for this quartet: 'Quite recently, I received information of a quartet attributed to this composer, of which the motif is as follows:' As all the manuscripts of this author, without exception, bear the date of their composition, I did not doubt that the date on the manuscript would put me on the path of truth, if it corresponded to the year 1795. I did not rest, therefore, until I had got possession of this manuscript, which was in the hands of an amateur",
+      "incomplete": true
     }
   ],
-  "continues_from_previous": false,
-  "continues_on_next": true,
-  "partial_notes": "Entry 258 appears to continue on next page with additional information about the manuscript date and possession."
+  "continues_from_previous": null,
+  "partial_notes": "Entry 258 appears to continue on the next page as the text cuts off mid-sentence."
 }

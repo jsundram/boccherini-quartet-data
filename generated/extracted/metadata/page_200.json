@@ -1,51 +1,37 @@
 {
   "book_page": 199,
-  "entries": [],
-  "continues_from_previous": {
-    "g_number": 178,
-    "quartet_number": null,
-    "instrumentation": "two violins, viola and 'cello",
-    "key": null,
-    "opus": null,
-    "movements": [],
-    "sources": {
-      "autograph": "Lost",
-      "ms_copies_parts": [
-        "Genoa, Liceo Musicale Paganini, SS/A/1/8",
-        "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.96, 'Num. 6'",
-        "Vienna, Bibl. Nat., S.m.2904"
-      ],
-      "first_edition": "April, 1773, Paris, V\u00e9nier (Op. 11), no. 1 of Sei Divertimenti per due violini alto e violoncello composti da Luigi Boccherini compositore e virtuoso di camera di S.A.R. Don Luigi Infante d'Ispagnia. opera XI, libro primo de quartetti. Nuovamente stampata a spese di G.B. V\u00e9nier. Prix 9. \u00e0 Paris, chez Mr V\u00e9nier, \u00e9diteur de plusieurs ouvrages de musique rue St Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'Eau et aux adresses ordinaires. \u00e0 Lyon Aux adresses de musique. A.P.D.R.",
-      "later_editions": [
-        "(c. 1775), Venice, Marescalchi-Canobbio: no. 6 (for title, see No. 180)",
-        "(c. 1780), Venice, Zatta: no. 6 (for title, see No. 180)",
-        "(c. 1780), London, Preston: Op. 11 no. 6 (for title, see No. 180)",
-        "(c. 1785), Amsterdam, Hummel: Op. 8 no. 5 (for title, see No. 198)",
-        "(c. 1785), London, Welcker: Op. 11 no. 6 (for title, see No. 180)",
-        "(c. 1790?), Paris, Boyer (Op. 11), no. 1 of Sei divertimenti per due violini, alto e violoncello composti da Luigi Boccherini compositore e virtuoso di camera di S.A.R. Don Luigi Infante d'Ispagnia. opera XI. Libro quarto di quartetti. Mis au jour par Mr Boyer. Prix 9. \u00e0 Paris, chez M. Boyer rue de Richelieu \u00e0 la Clef d'or Passage du Caff\u00e9 de Foy, \u00e0 Lyon aux adresses de musique. A.P.D.R. Plate no. 518. With the stamp 'Vve Naderman'"
-      ],
-      "modern_edition": "(c. 1930), Leipzig, Peters: Op. 8 no. 5 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943 by the International Music Co., New York"
-    },
-    "notes": null,
-    "incomplete": false,
-    "is_arrangement": false
-  },
-  "continues_on_next": {
-    "g_number": 178,
-    "quartet_number": 20,
-    "instrumentation": "two violins, viola and 'cello",
-    "key": "F Major",
-    "opus": {
-      "number": "15",
-      "work_number": 2,
-      "year": 1772,
-      "type": "opera piccola"
-    },
-    "movements": [],
-    "sources": {},
-    "notes": "Op. 15 no. 2 of 1772 ('opera piccola') in Boccherini's autograph catalogue",
-    "incomplete": false,
-    "is_arrangement": false
-  },
-  "partial_notes": "Page shows the continuation of catalog entry 178, which appears to be a string quartet. The entry includes detailed publication information and later ends with the beginning of quartet no. 20 information."
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 178,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and cello",
+      "key": null,
+      "opus": null,
+      "movements": [],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_score": null,
+        "ms_copies_parts": [
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.96, 'Num. 6'",
+          "Vienna, Bibl. Nat., S.m.2904"
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier (Op. 11), no. 1 of Sei Divertimenti per due violini alto e violoncello composti da Luigi Boccherini compositore e virtuoso di camera di S.A.R. Don Luigi Infante d'Ispagnia. opera XI, libro secondo di quartetti. Nuovamente stampata a spese di G.B. Venier. Prix 9. \u00e0 Paris, chez Mr V\u00e9nier, Editeur de plusieurs ouvrages de musique rue St Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'Eau et aux adresses ordinaires. \u00e0 Lyon Aux adresses de musique. A.P.D.R.",
+        "later_editions": [
+          "(c. 1775), Venice, Marescalchi-Canobbio: no. 6 (for title, see No. 180)",
+          "(c. 1780), Venice, Zatta: no. 6 (for title, see No. 180)",
+          "(c. 1780), London, Preston: Op. 11 no. 6 (for title, see No. 180)",
+          "(c. 1785), Amsterdam, Hummel: Op. 8 no. 5 (for title, see No. 198)",
+          "(c. 1785), London, Welcker: Op. 11 no. 6 (for title, see No. 180)",
+          "(c. 1790?), Paris, Boyer (Op. 11), no. 1 of Sei divertimenti per due violini, alto e violoncello composti da Luigi Boccherini compositore e virtuoso di camera di S.A.R. Don Luigi Infante d'Ispagnia. opera XI. Libro quarto di quartetti. Mis au jour par Mr Boyer. Prix 9. \u00e0 Paris, chez M. Boyer rue de Richelieu \u00e0 la Clef d'or Passage du Caff\u00e9 de Foy, \u00e0 Lyon aux adresses de musique. A.P.D.R. Plate no. 518. With the stamp 'Vve Naderman'"
+        ],
+        "modern_edition": "(c. 1930), Leipzig, Peters: Op. 8 no. 5 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943 by the International Music Co., New York"
+      },
+      "notes": null,
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": "Entry 178 appears to be a header section with detailed source information, but the actual quartet details (number 20, F Major key, Op. 15 no. 2 of 1772) are mentioned at the bottom, suggesting this is primarily bibliographic information for the string quartet series."
 }

@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
 """
-Fix off-by-one movement attribution errors in the catalog.
+Fix off-by-one movement attribution errors and missing entries in the catalog.
 
 Identified issues:
 1. G.179 has G.178's movements (Allegretto, Allegro Minuetto / incipits 383, 384)
    - G.178 is missing entirely
    - G.179 should have: Andantino, Prestissimo
 
-2. G.233 has G.232's movements
+2. G.213 is missing entirely (only appears in continues_from_previous)
+   - Reconstructed from continuation data on pages 239-240
+
+3. G.233 has G.232's movements
    - G.232 should have: Allegro con moto, Minuetto, Adagio, Finale. Allegro giusto
    - G.233 should have: Allegro vivace assai, Andantino Patetico, Minuetto, Rondeau. Allegretto
 """
@@ -87,7 +90,70 @@ def fix_catalog(catalog_path: Path) -> dict:
         print(f"Added G.178 with movements from G.179")
         print(f"Fixed G.179 movements to: Andantino, Prestissimo")
 
-    # Fix 2: G.232 / G.233
+    # Fix 2: G.213 missing
+    # G.213 appears only in continues_from_previous but never as an entry header
+    g213 = entries_by_g.get(213)
+    g212 = entries_by_g.get(212)
+
+    if not g213 and g212:
+        # Create G.213 entry from available data
+        g213 = {
+            "g_number": 213,
+            "quartet_number": 55,
+            "instrumentation": "two violins, viola and cello",
+            "key": "A Major",
+            "opus": {
+                "number": 39,
+                "work_number": 4,
+                "year": 1787,
+                "type": "opera piccola"
+            },
+            "movements": [
+                {
+                    "number": 1,
+                    "tempo": "Allegro moderato",
+                    "incipit_number": 470,
+                    "instrument": "v1",
+                    "incipit_file": "incipits/G213_mvt1_incipit470.png"
+                },
+                {
+                    "number": 2,
+                    "tempo": "Minuetto",
+                    "incipit_number": 471,
+                    "instrument": "v1",
+                    "incipit_file": "incipits/G213_mvt2_incipit471.png"
+                },
+                {
+                    "number": 3,
+                    "tempo": "Grave",
+                    "incipit_number": 472,
+                    "instrument": "v1",
+                    "incipit_file": "incipits/G213_mvt3_incipit472.png"
+                },
+                {
+                    "number": 4,
+                    "tempo": "Allegro giusto",
+                    "incipit_number": 473,
+                    "instrument": "v1",
+                    "incipit_file": "incipits/G213_mvt4_incipit473.png"
+                }
+            ],
+            "sources": {
+                "autograph": "Lost",
+                "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.587",
+                "first_edition": "1798, Paris, Pleyel: Op. 39 no. 8",
+                "modern_edition": "1952, Kassel, Barenreiter: Op. 39"
+            },
+            "page_refs": {"book_pages": [239, 240], "pdf_pages": []}
+        }
+
+        # Insert G.213 after G.212
+        g212_idx = next(i for i, e in enumerate(entries) if e["g_number"] == 212)
+        entries.insert(g212_idx + 1, g213)
+        entries_by_g[213] = g213
+        print(f"Added G.213 (was missing, reconstructed from continuation data)")
+
+    # Fix 3: G.232 / G.233
     g232 = entries_by_g.get(232)
     g233 = entries_by_g.get(233)
 

@@ -1,5 +1,14 @@
 {
   "book_page": 227,
+  "movements_for_previous_entry": [
+    {
+      "number": 3,
+      "tempo": "Allegro vivo ma non presto",
+      "incipit_number": 445,
+      "instrument": "v1",
+      "dynamics": "f"
+    }
+  ],
   "entries": [
     {
       "g_number": 204,
@@ -7,7 +16,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "C Major",
       "opus": {
-        "number": "32",
+        "number": 32,
         "work_number": 4,
         "year": 1780,
         "type": "opera grande"
@@ -27,30 +36,20 @@
   ],
   "continues_from_previous": {
     "g_number": 203,
-    "movements": [
-      {
-        "number": 3,
-        "tempo": "Allegro vivo ma non presto",
-        "incipit_number": 445,
-        "instrument": "v1",
-        "dynamics": "f"
-      }
-    ],
     "sources": {
-      "autograph": "Berlin, Deutsche Staatsbibliothek, M.573, 'Quartetto III'",
+      "autograph": "Berlin, Deutsche Staatsbibliothek, M.573, 'Quartetto III\u00ba...' (for title, see No. 201)",
       "ms_copies_parts": [
         "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II.",
-        "Prague, N\u00e1rodn\u00ed Muzeum, XXII, B 66, 'Quartetto XVII, B no. 20'",
-        "Rome, Accademia Santa Cecilia, G. MSS. 337 to 360, dated 1792"
+        "Prague, N\u00e1rodn\u00ed Muzeum, XXII, B 66, 'Quartetto...', no. 20...",
+        "Rome, Accademia Santa Cecilia, G. MSS. 337 to 360, dated 1792."
       ],
-      "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 3",
+      "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 3 (for title, see No. 201).",
       "later_editions": [
-        "(c. 1782/1783), London, Kerpen: Op. 33 no. 3",
-        "1785, Paris, Sieber: Op. 33 no. 3",
-        "1798, Paris, Pleyel: Op. 39 no. 3 (Book 1 no. 3)"
-      ],
-      "arrangements": "Of the third movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810"
-    }
-  },
-  "partial_notes": "Entry 203 continues from previous page with movement 3 and complete source information. Entry 204 shows only the first movement."
+        "(c. 1782/1783), London, Kerpen: Op. 33 no. 3 (for title, see No. 201).",
+        "1785, Paris, Sieber: Op. 33 no. 3 (for title, see No. 201).",
+        "1798, Paris, Pleyel: Op. 39 no. 3 (Book 1 no. 3; for title, see No. 234)."
+      ]
+    },
+    "arrangements": "Of the third movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)."
+  }
 }

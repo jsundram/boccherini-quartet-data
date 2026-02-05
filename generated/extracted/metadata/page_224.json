@@ -1,13 +1,14 @@
 {
   "book_page": 223,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 201,
       "quartet_number": 43,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "Eb Major",
       "opus": {
-        "number": "32",
+        "number": 32,
         "work_number": 1,
         "year": 1780,
         "type": "opera grande"
@@ -21,50 +22,26 @@
           "dynamics": "dolcis."
         }
       ],
-      "sources": {
-        "autograph": "Lost.",
-        "ms_copies_parts": [
-          "Montecatini, Venturi private collection, A 9.",
-          "Venice, Conservatorio, Giustinian 15669/O.C.",
-          "Vienna, Bibl. Nat., S.m.11753."
-        ],
-        "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 6 (for title, see No. 195).",
-        "later_editions": [
-          "(c. 1783:), Amsterdam, Schmitt: Op. 32 no. 6 (for title, see No. 195).",
-          "(c. 1790), Paris, Le Duc: Op. 32 no. 6 (for title, see No. 195)."
-        ],
-        "arrangements": "See No. 195."
-      },
-      "notes": "('opera grande') in Boccherini's autograph catalogue."
+      "sources": {},
+      "notes": "from Boccherini's autograph catalogue",
+      "incomplete": false
     }
   ],
   "continues_from_previous": {
     "g_number": 200,
-    "movements": [
-      {
-        "number": 2,
-        "tempo": "Minuetto",
-        "incipit_number": 434,
-        "instrument": "v1",
-        "dynamics": "sotto voce",
-        "additional_markings": "(Trio)"
-      }
-    ],
     "sources": {
-      "autograph": "Lost.",
+      "autograph": "Lost",
       "ms_copies_parts": [
-        "Montecatini, Venturi private collection, A 9.",
-        "Venice, Conservatorio, Giustinian 15669/O.C.",
-        "Vienna, Bibl. Nat., S.m.11753."
+        "Montecatini, Venturi private collection, A 9",
+        "Venice, Conservatorio, Giustinian 15609/O.C.",
+        "Vienna, Bibl. Nat., S.m.11753"
       ],
-      "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 6 (for title, see No. 195).",
+      "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 6",
       "later_editions": [
-        "(c. 1783:), Amsterdam, Schmitt: Op. 32 no. 6 (for title, see No. 195).",
-        "(c. 1790), Paris, Le Duc: Op. 32 no. 6 (for title, see No. 195)."
-      ],
-      "arrangements": "See No. 195."
+        "c. 1785, Amsterdam, Schmitt: Op. 32 no. 6",
+        "c. 1790, Paris, Le Duc: Op. 32 no. 6"
+      ]
     }
   },
-  "continues_on_next": true,
-  "partial_notes": "Entry 201 appears to continue beyond this page with additional movements"
+  "partial_notes": "Entry 201 appears to be starting with just the first movement shown"
 }

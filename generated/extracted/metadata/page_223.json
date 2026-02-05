@@ -1,5 +1,21 @@
 {
   "book_page": 222,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegretto",
+      "incipit_number": 431,
+      "instrument": "v1",
+      "dynamics": "dolcis, rinf, p"
+    },
+    {
+      "number": 2,
+      "tempo": "Minuetto Allegro",
+      "incipit_number": 432,
+      "instrument": "v1",
+      "dynamics": "p, f, tr (Trio)"
+    }
+  ],
   "entries": [
     {
       "g_number": 200,
@@ -7,7 +23,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "F Minor",
       "opus": {
-        "number": "26",
+        "number": 26,
         "work_number": 6,
         "year": 1778,
         "type": "opera piccola"
@@ -18,7 +34,7 @@
           "tempo": "Andante appassionato ma non lento",
           "incipit_number": 433,
           "instrument": "v1",
-          "dynamics": "mezza voce"
+          "dynamics": "mezza voce, dolcis"
         }
       ],
       "sources": {},
@@ -27,36 +43,18 @@
   ],
   "continues_from_previous": {
     "g_number": 199,
-    "movements": [
-      {
-        "number": 1,
-        "tempo": "Allegretto",
-        "incipit_number": 431,
-        "instrument": "v1",
-        "dynamics": "p"
-      },
-      {
-        "number": 2,
-        "tempo": "Minuetto Allegro",
-        "incipit_number": 432,
-        "instrument": "v1",
-        "dynamics": "p"
-      }
-    ],
     "sources": {
       "autograph": "Lost",
       "ms_copies_parts": [
         "Montecatini, Venturi private collection, A 9",
-        "Venice, Conservatorio, Giustinian 15669/O.C",
+        "Venice, Conservatorio, Giustinian 15669/O.C.",
         "Vienna, Bibl. Nat., S.m.11752"
       ],
       "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 5 (for title, see No. 195)",
       "later_editions": [
         "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 5 (for title, see No. 195)",
         "(c. 1790), Paris, Le Duc: Op. 32 no. 5 (for title, see No. 195)"
-      ],
-      "arrangements": "See No. 195"
+      ]
     }
-  },
-  "partial_notes": "Entry 199 appears to continue from previous page with only movements and sources visible. Entry 200 appears to continue on next page as only first movement is shown."
+  }
 }

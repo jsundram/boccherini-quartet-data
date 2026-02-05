@@ -1,54 +1,46 @@
 {
   "book_page": 239,
-  "entries": [
+  "movements_for_previous_entry": [
     {
-      "g_number": 213,
-      "quartet_number": 55,
-      "instrumentation": "two violins, viola and cello",
-      "key": "A Major",
-      "opus": {
-        "number": "39",
-        "year": 1787,
-        "type": "opera grande"
-      },
-      "movements": [
-        {
-          "number": 1,
-          "tempo": "Allegro moderato",
-          "incipit_number": 470,
-          "instrument": "v1",
-          "notes": "sotto voce e con smorfia"
-        },
-        {
-          "number": 2,
-          "tempo": "Minuetto",
-          "incipit_number": 471,
-          "instrument": "v1",
-          "dynamics": "f",
-          "notes": "(Trio) - (vi) soave assai con semplicit\u00e0"
-        },
-        {
-          "number": 3,
-          "tempo": "Grave",
-          "incipit_number": 472,
-          "instrument": "v1",
-          "notes": "soave assai"
-        },
-        {
-          "number": 4,
-          "tempo": "Allegro giusto",
-          "incipit_number": 473,
-          "instrument": "v1",
-          "dynamics": "pp"
-        }
-      ],
-      "sources": {
-        "autograph": "Lost",
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.587, 'Mese di Novembre 1787. Quartetto per due violini, viola, e violoncello obbligato composto da Luigi Boccherini Professor di Musica all' attual servizio di S.M. Cattolica e compositor di camera di S.M. Prussiana'. Copy made in Berlin for Frederick William II from the lost autograph manuscript score sent by Boccherini."
-        ]
-      },
-      "notes": "According to Boccherini's autograph catalogue as printed by Alfredo Boccherini, op. 39 comprises only three quintets (Nos. 337 to 339). Picquot, however, describes the present quartet as part of op. 39 and the work appears in the year 1787 in the thematic catalogue sent by Boccherini to Pleyel (see Bibliography)."
+      "number": 1,
+      "tempo": "Allegro moderato",
+      "incipit_number": 470,
+      "instrument": "v1",
+      "dynamics": null
+    },
+    {
+      "number": 2,
+      "tempo": "Minuetto",
+      "incipit_number": 471,
+      "instrument": "v1",
+      "dynamics": "f"
+    },
+    {
+      "number": 3,
+      "tempo": "Grave",
+      "incipit_number": 472,
+      "instrument": "v1",
+      "dynamics": null
+    },
+    {
+      "number": 4,
+      "tempo": "Allegro giusto",
+      "incipit_number": 473,
+      "instrument": "v1",
+      "dynamics": "pp"
     }
-  ]
+  ],
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 213,
+    "sources": {
+      "autograph": "Lost",
+      "ms_copies_score": null,
+      "ms_copies_parts": "Berlin. Deutsche Staatsbibliothek, M.587, 'Mese di Novembre 1787. Quartetto per due violini, viola, e violoncello obbligato composto da Luigi Boccherini Professor di Musica all' attual servizio di S.M. Cattolica e compositor di camera di S.M. Prussiana'. Copy made in Berlin for Frederick William II from the lost autograph manuscript score sent by Boccherini.",
+      "first_edition": null,
+      "later_editions": null,
+      "modern_edition": null
+    }
+  },
+  "partial_notes": "According to Boccherini's autograph catalogue as printed by Alfredo Boccherini, op. 39 comprises only three quintets (Nos. 337 to 339). Picquot, however, describes the present quartet as part of op. 39 and the work appears in the year 1787 in the thematic catalogue sent by Boccherini to Pleyel (see Bibliography)."
 }

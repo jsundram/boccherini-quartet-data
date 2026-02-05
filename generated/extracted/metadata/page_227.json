@@ -1,13 +1,14 @@
 {
   "book_page": 226,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 203,
       "quartet_number": 45,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "D Major",
       "opus": {
-        "number": "32",
+        "number": 32,
         "work_number": 3,
         "year": 1780,
         "type": "opera grande"
@@ -25,31 +26,65 @@
           "tempo": "Adagio",
           "incipit_number": 444,
           "instrument": "v1",
-          "dynamics": "poco f"
+          "dynamics": "sotto voce, poco f"
         }
       ],
-      "sources": {
-        "autograph": "Berlin, Deutsche Staatsbibliothek, M.572, 'Quartetto II\u00b0 ...' (for title, see No. 201)",
-        "ms_copies_score": [
-          "Leipzig, Musikbibliothek der Stadt, III.2.4, dated 1835"
-        ],
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
-          "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/16, signed 'F. W. Rust'",
-          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.62, 'Quartetto no. 22...'",
-          "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360, dated 1792"
-        ],
-        "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 2 (for title, see No. 201)",
-        "later_editions": [
-          "(c. 1782/1785), London, Kerpen: Op. 33 no. 2 (for title, see No. 201)",
-          "1785, Paris, Sieber: Op. 33 no. 2 (for title, see No. 201)"
-        ]
-      },
-      "notes": "See note to No. 295"
+      "sources": {},
+      "notes": "",
+      "incomplete": false
     }
   ],
   "continues_from_previous": {
-    "partial_text": "String quarters (two violins, viola and 'cello) information with autograph, manuscript copies, and first/later editions data for what appears to be a previous entry"
+    "g_number": 202,
+    "sources": {
+      "autograph": {
+        "location": "Berlin, Deutsche Staatsbibliothek, M.572",
+        "title": "Quartetto II",
+        "notes": "for title, see No. 201"
+      },
+      "ms_copies_score": {
+        "location": "Leipzig, Musikbibliothek der Stadt, III.12.4",
+        "date": "1835"
+      },
+      "ms_copies_parts": [
+        {
+          "location": "Berlin, Deutsche Staatsbibliothek, M.577 and M.578",
+          "notes": "Two copies made in Berlin for Frederick William II"
+        },
+        {
+          "location": "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/16",
+          "signature": "F. W. Rust"
+        },
+        {
+          "location": "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.62",
+          "title": "Quartetto no. 22"
+        },
+        {
+          "location": "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360",
+          "date": "1792"
+        }
+      ],
+      "first_edition": {
+        "date": "c. 1782",
+        "publisher": "Vienna, Artaria",
+        "opus": "Op. 33 no. 2",
+        "notes": "for title, see No. 201"
+      },
+      "later_editions": [
+        {
+          "date": "c. 1782/1785",
+          "publisher": "London, Kerpen",
+          "opus": "Op. 33 no. 2",
+          "notes": "for title, see No. 201"
+        },
+        {
+          "date": "1785",
+          "publisher": "Paris, Sieber",
+          "opus": "Op. 33 no. 2",
+          "notes": "for title, see No. 201"
+        }
+      ]
+    }
   },
-  "partial_notes": "Page shows the end of a previous entry at the top, followed by complete entry G.203"
+  "partial_notes": "See note to No. 295."
 }

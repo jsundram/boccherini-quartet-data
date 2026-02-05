@@ -1,5 +1,6 @@
 {
   "book_page": 183,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 166,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "C Minor",
       "opus": {
-        "number": "8",
+        "number": 8,
         "work_number": 2,
         "year": 1769,
         "type": "opera grande"
@@ -22,37 +23,22 @@
         }
       ],
       "sources": {
-        "first_edition": "December, 1769, Paris, V\u00e9nier (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna, da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair. Opera VI\u00b0. Libro secondo di quartetti, mis au jour par Mr V\u00e9nier seul \u00e9diteur des dits ouvrages. Prix 9 liv. \u00e0 Paris. chez M. V\u00e9nier \u00e9diteur de plusieurs ouvrages de musique \u00e0 l'Entr\u00e9e de la Rue St Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'Eau et aux adresses ordinaires. \u00e0 Lyon, M. Castaud, Place de la Com\u00e9die. Avec Privil\u00e8ge du Roi. Imprim\u00e9e par Richome.",
+        "first_edition": "December, 1769, Paris, V\u00e9nier (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna, da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair",
         "later_editions": [
           "(c. 1770), London, Longman Lukey: Op. 4 no. 2",
-          "(c. 1773), London, Bremner: Op. 6 no. 2",
+          "(c. 1775), London, Bremner: Op. 6 no. 2",
           "(c. 1780), Amsterdam, Hummel: Op. 2 no. 2",
-          "(c. 1785?), Paris, Boyer-Naderman (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair opera VI. Libro secondo di quartetti mis au jour par M. Boyer, seul \u00e9diteur des dits ouvrages. Prix 9. \u00e0 Paris, chez Naderman rue de la Loi \u00e0 la Clef d'or, Passage du Caff\u00e9 de Foy, chez Mad^me Le Menu, rue du Roule \u00e0 la Clef d'or. \u00e0 Lyon, Mr. Castaud, Place de la Com\u00e9die. Plate no. 516."
+          "(c. 1785?), Paris, Boyer-Naderman (Op. 6), no. 1 of VI Quartetti"
         ],
-        "modern_edition": "1953, Milan, Ricordi: Op. 6 no. 1 (pocket score; revised by Enrico Polo)",
-        "arrangements": [
-          "Of the third movement, as part of a sonata for harpsichord (or pianoforte) and violin, by Thomas Billington, c. 1780(?)",
-          "Of the first and third movements, as a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785"
-        ]
-      }
+        "modern_edition": "1953, Milan, Ricordi: Op. 6 no. 1 (pocket score; revised by Enrico Polo)"
+      },
+      "notes": "Op. 8 no. 2 of 1769 ('opera grande') in Boccherini's autograph catalogue. Arrangements: (A) Of the third movement, as part of a sonata for harpsichord (or pianoforte) and violin, by Thomas Billington, c. 1780(?). (B) Of the first and third movements, as a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785."
     }
   ],
   "continues_from_previous": {
-    "g_number": 165,
+    "g_number": null,
     "sources": {
-      "first_edition": "STRING QUARTERS (TWO VIOLINS, VIOLA AND 'CELLO)",
-      "later_editions": [
-        "(c. 1770), London, Longman Lukey: Op. 4 no. 2 (for title, see No. 166)",
-        "(c. 1773), London, Bremner: Op. 6 no. 2 (for title, see No. 166)",
-        "(c. 1780), Amsterdam, Hummel: Op. 2 no. 2 (for title, see No. 166)",
-        "(c. 1785?), Paris, Boyer-Naderman (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair opera VI. Libro secondo di quartetti mis au jour par M. Boyer, seul \u00e9diteur des dits ouvrages. Prix 9. \u00e0 Paris, chez Naderman rue de la Loi \u00e0 la Clef d'or, Passage du Caff\u00e9 de Foy, chez Mad^me Le Menu, rue du Roule \u00e0 la Clef d'or. \u00e0 Lyon, Mr. Castaud, Place de la Com\u00e9die. Plate no. 516."
-      ],
-      "modern_edition": "1953, Milan, Ricordi: Op. 6 no. 1 (pocket score; revised by Enrico Polo)",
-      "arrangements": [
-        "Of the third movement, as part of a sonata for harpsichord (or pianoforte) and violin, by Thomas Billington, c. 1780(?)",
-        "Of the first and third movements, as a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785"
-      ]
+      "first_edition": "STRING QUARTERS (TWO VIOLINS, VIOLA AND 'CELLO) - First edition and later editions information continues from previous page"
     }
-  },
-  "partial_notes": "Entry 166 shows only the first movement; other movements likely continue on next page. Entry 165 continues from previous page with publication information only."
+  }
 }

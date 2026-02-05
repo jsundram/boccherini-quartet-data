@@ -1,13 +1,14 @@
 {
   "book_page": 258,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 234,
       "quartet_number": 76,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "G Major",
       "opus": {
-        "number": "52",
+        "number": 52,
         "work_number": 3,
         "year": 1795,
         "type": "opera grande"
@@ -32,7 +33,7 @@
           "tempo": "Adagio",
           "incipit_number": 525,
           "instrument": "v1",
-          "additional_marking": "sotto voce"
+          "special_marking": "sotto voce"
         },
         {
           "number": 4,
@@ -43,12 +44,10 @@
         }
       ],
       "sources": {
-        "autograph": "Berlin, Deutsche Staatsbibliothek, M.606. 'Mese di Luglio 1795. Quartetto per due violini, viola, e violoncello di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.607. Copy made in Berlin for Frederick William II"
-        ]
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.606. 'Mese di Luglio 1795'. Quartetto per due violini, viola, e violoncello di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'.",
+        "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.607. Copy made in Berlin for Frederick William II."
       },
-      "notes": "See note to No. 340"
+      "notes": "See note to No. 340."
     }
   ]
 }

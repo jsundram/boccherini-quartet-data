@@ -1,13 +1,14 @@
 {
   "book_page": 230,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 206,
       "quartet_number": 48,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "A Major",
       "opus": {
-        "number": "32",
+        "number": 32,
         "work_number": 6,
         "year": 1780,
         "type": "opera grande"
@@ -25,15 +26,15 @@
           "tempo": "Andantino lentarello",
           "incipit_number": 454,
           "instrument": "v1",
-          "dynamics": "dolciss"
+          "dynamics": "dolcit."
         },
         {
           "number": 3,
           "tempo": "Minuetto con moto",
           "incipit_number": 455,
           "instrument": "v1",
-          "dynamics": "pp",
-          "notes": "sotto voce (Trio)"
+          "dynamics": "sotto voce",
+          "notes": "(Trio) pp"
         },
         {
           "number": 4,
@@ -44,10 +45,11 @@
         }
       ],
       "sources": {
-        "autograph": "Berlin, Deutsche Staatsbibliothek, M.576, 'Quartetto VI' (for title, see No. 201)",
-        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 33 no. 5 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York."
-      }
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.576, 'Quartetto VI' ... (for title, see No. 201)"
+      },
+      "notes": "See note to No. 295."
     }
   ],
-  "partial_notes": "Page shows complete entry for G.206"
+  "continues_from_previous": null,
+  "partial_notes": null
 }

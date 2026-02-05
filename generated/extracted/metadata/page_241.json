@@ -1,5 +1,6 @@
 {
   "book_page": 240,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 214,
@@ -7,9 +8,9 @@
       "instrumentation": "two violins, viola and 'cello",
       "key": "C Minor",
       "opus": {
-        "number": "41",
+        "number": 41,
         "work_number": 1,
-        "year": "[May] 1788",
+        "year": 1788,
         "type": "opera grande"
       },
       "movements": [
@@ -22,10 +23,11 @@
         },
         {
           "number": 2,
-          "tempo": "Tempo di Minuetto (Trio)",
+          "tempo": "Tempo di Minuetto",
           "incipit_number": 475,
           "instrument": "v1",
-          "dynamics": "sotto voce, f, pp"
+          "dynamics": "sotto voce, f, pp",
+          "notes": "(Trio)"
         },
         {
           "number": 3,
@@ -36,7 +38,10 @@
         },
         {
           "number": 4,
-          "tempo": "Repeat of the second part of the Prestissimo"
+          "tempo": "Repeat of the second part of the Prestissimo",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         }
       ],
       "sources": {
@@ -49,9 +54,8 @@
     "g_number": 213,
     "sources": {
       "first_edition": "1798, Paris, Pleyel: Op. 39 no. 8 (Book 3 no. 2; for title and comment, see No. 234)",
-      "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 39 (separate parts; revised by Walter Upmeyer), no. 4 in L. Boccherini Ausgew\u00e4hlte Streichquartette",
-      "arrangements": "Of the fourth movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
-    }
-  },
-  "partial_notes": "Page contains end of entry 213 (sources only) and complete entry 214"
+      "modern_edition": "1952, Kassel, Barenreiter: Op. 39 (separate parts; revised by Walter Upmeyer), no. 4 in L. Boccherini Ausgewahlte Streichquartette"
+    },
+    "notes": "Arrangement: Of the fourth movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)."
+  }
 }

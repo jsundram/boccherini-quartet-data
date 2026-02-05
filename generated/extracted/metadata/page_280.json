@@ -1,63 +1,17 @@
 {
   "book_page": 279,
-  "entries": [
-    {
-      "g_number": 259,
-      "instrumentation": "harpsichord (or pianoforte), violin, viola and 'cello",
-      "title": "SIX QUARTETS for harpsichord (or pianoforte), violin, viola and 'cello",
-      "subtitle": "(arrangements of the six string quartets Op. 26 of 1778)",
-      "is_arrangement": true,
-      "notes": "No reference in Boccherini's autograph catalogue. The author of these remarkable arrangements is unknown (see No. 76).",
-      "quartets": [
-        {
-          "number": 1,
-          "key": "Bb Major",
-          "movements": "Allegro moderato\u2014Minuetto con moto",
-          "arrangement_of": "string quartet Op. 26 no. 1 (No. 195)"
-        },
-        {
-          "number": 2,
-          "key": "G Minor",
-          "movements": "Larghetto\u2014Minuetto",
-          "arrangement_of": "string quartet Op. 26 no. 2 (No. 196)"
-        },
-        {
-          "number": 3,
-          "key": "Eb Major",
-          "movements": "Allegro vivace\u2014Minuetto",
-          "arrangement_of": "string quartet Op. 26 no. 3 (No. 197)"
-        },
-        {
-          "number": 4,
-          "key": "A Major",
-          "movements": "Larghetto\u2014Minuetto con moto",
-          "arrangement_of": "string quartet Op. 26 no. 4 (No. 198)"
-        },
-        {
-          "number": 5,
-          "key": "F Major",
-          "movements": "Allegretto\u2014Minuetto Allegro",
-          "arrangement_of": "string quartet Op. 26 no. 5 (No. 199)"
-        },
-        {
-          "number": 6,
-          "key": "F Minor",
-          "movements": "Andante appassionato ma non lento\u2014Minuetto",
-          "arrangement_of": "string quartet Op. 26 no. 6 (No. 200)"
-        }
-      ],
-      "sources": {
-        "ms_copies_parts": [
-          {
-            "location": "Dresden, S\u00e4chsische Landesbibliothek",
-            "call_number": "Mus. 3490/Q/1",
-            "title": "Six quatuors pour le clavecin ou pianoforte, violon, viola et basse oblig\u00e9 compos\u00e9s par Luigi Boccherini",
-            "century": "18th",
-            "type": "separate parts"
-          }
-        ]
-      },
-      "publication_status": "Unpublished"
+  "movements_for_previous_entry": [],
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 259,
+    "sources": {
+      "autograph": null,
+      "ms_copies_score": null,
+      "ms_copies_parts": "Dresden, S\u00e4chsische Landesbibliothek, Mus. 3490/Q/1. 'Six quatuors pour le clavecin ou pianoforte, violon, viola et basse oblig\u00e9 compos\u00e9s par Luigi Boccherini'. (18th century)",
+      "first_edition": null,
+      "later_editions": null,
+      "modern_edition": "Unpublished"
     }
-  ]
+  },
+  "partial_notes": "This page shows entry 259 which contains six quartets for harpsichord (or pianoforte), violin, viola and 'cello as arrangements of the six string quartets Op. 26 of 1778. No reference in Boccherini's autograph catalogue. The author of these remarkable arrangements is unknown. All six quartets are listed with their keys and tempos, referencing the original string quartet numbers (Nos. 195-200)."
 }

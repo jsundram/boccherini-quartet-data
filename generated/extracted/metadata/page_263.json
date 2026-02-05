@@ -1,13 +1,14 @@
 {
   "book_page": 262,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 237,
       "quartet_number": 79,
-      "instrumentation": "two violins, viola and cello",
+      "instrumentation": "two violins, viola and 'cello",
       "key": "D Major",
       "opus": {
-        "number": "53",
+        "number": 53,
         "work_number": 2,
         "year": 1796,
         "type": "opera piccola"
@@ -25,26 +26,24 @@
           "tempo": "Minuetto Allegro (Trio Minore)",
           "incipit_number": 534,
           "instrument": "v1",
-          "dynamics": "f"
+          "dynamics": "f",
+          "notes": "sotto voce assai"
         }
       ],
       "sources": {
-        "autograph": "Berlin, Deutsche Staatsbibliothek, M.610. 'Mese di Marzo 1796. Quartettino per due violini, viola, e violoncello obbl.o di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.611. Copy made in Berlin for Frederick William II."
-        ],
-        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 3 (for title and comment, see No. 249)",
-        "modern_editions": [
-          "(1960?), Hamburg, Marbot: Op. 40 no. 3 (separate parts; revised by W. H\u00f6ckner)",
-          "1963, Wilhelmshaven, Heinrichshofen's, in the series Pegasus Kammermusik Ausgaben: Op. 40 no. 3 (separate parts; revised by H. Mlynarczyk)"
-        ]
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.610. 'Mese di Marzo 1796. Quartettino per due violini, viola, e violoncello obbl.\u00b0 di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'.",
+        "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.611. Copy made in Berlin for Frederick William II.",
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 3 (for title and comment, see No. 240)",
+        "modern_edition": "(1960?), Hamburg, Marbot: Op. 40 no. 3 (separate parts; revised by W. H\u00f6ckner). 1963, Wilhelmshaven, Heinrichshofen's, in the series Pegasus Kammermusik Ausgaben: Op. 40 no. 3 (separate parts; revised by H. Mlynarczyk)."
       },
       "notes": "The above theme is also used by Boccherini in the piano quintet in D Major Op. 56 no. 5 of 1797 (see No. 411)."
     }
   ],
   "continues_from_previous": {
-    "g_number": 237,
-    "first_edition": "1798, Paris, Pleyel: Op. 40 no. 2 (for title and comment, see No. 249)"
+    "g_number": null,
+    "sources": {
+      "first_edition": "1798, Paris, Pleyel: Op. 40 no. 2 (for title and comment, see No. 240)"
+    }
   },
-  "partial_notes": "Page shows the continuation of entry 237 from previous page and the complete entry 237 with its quartet information"
+  "partial_notes": "Page shows continuation of first edition information from previous entry."
 }

@@ -1,5 +1,6 @@
 {
   "book_page": 179,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 163,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "E Major",
       "opus": {
-        "number": "2",
+        "number": 2,
         "work_number": 5,
         "year": 1761,
         "type": "opera grande"
@@ -35,29 +36,28 @@
           "dynamics": "f"
         }
       ],
-      "notes": "Some MSS. copies indicate 'Andante' for movement 2. Almost all the MSS. copies indicate 'Presto' for movement 3."
+      "sources": {
+        "autograph": null,
+        "ms_copies_score": [
+          "Prague, N\u00e1rodn\u00ed Muzeum. Two copies: XLI.C.103 and XLII.F.478, 'Concertino no. 1...'. The presentation of the theme of the second movement is slightly different in the Prague MS."
+        ],
+        "ms_copies_parts": [
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R",
+          "Venice, Bib. Marciana, It. IV. 1255 (= 11.162). Two violins parts only."
+        ],
+        "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 4 (for title, see No. 159)",
+        "later_editions": [
+          "(c. 1775), London, Welcker: Op. 1 no. 4 (for title, see No. 159)",
+          "(c. 1803), Amsterdam, Hummel: Op. 1 no. 4 (for title, see No. 159)",
+          "(c. 1853), Paris, Boyer-Naderman: Op. 1 no. 4 (for title, see No. 159)",
+          "(c. 1853), London, Preston: Op. 1 no. 4 (for title, see No. 159)"
+        ],
+        "modern_edition": null
+      },
+      "notes": "Listed as Op. 2 no. 5 of 1761 ('opera grande') in Boccherini's autograph catalogue. Some MSS. copies indicate 'Andante' for movement 2. Almost all the MSS. copies indicate 'Presto' for movement 3.",
+      "incomplete": false
     }
   ],
-  "continues_from_previous": {
-    "g_number": 163,
-    "instrumentation": "two violins, viola and 'cello",
-    "sources": {
-      "ms_copies_score": [
-        "Prague, N\u00e1rodn\u00ed Muzeum. Two copies: XLI.C.103 and XLII.F.478, 'Concertino no. 1...'. The presentation of the theme of the second movement is slightly different in the Prague MS.",
-        "Stockholm, Kungl. Musik Akad. Bibl., W4-R.",
-        "Venice, Bib. Marciana, It. IV. 1255 (= 11.162). Two violins parts only."
-      ],
-      "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 4 (for title, see No. 159).",
-      "later_editions": [
-        "(c. 1773), London, Welcker: Op. 1 no. 4 (for title, see No. 159).",
-        "(c. 1805), Amsterdam, Hummel: Op. 1 no. 4 (for title, see No. 159).",
-        "(c. 1835), Paris, Boyer-Naderman: Op. 1 no. 4 (for title, see No. 159).",
-        "(c. 1835), London, Preston: Op. 1 no. 4 (for title, see No. 159)."
-      ],
-      "arrangements": [
-        "Of the first two movements, as part of a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785 (see No. 50)."
-      ]
-    }
-  },
-  "partial_notes": "Page starts with continuation of entry 163 from previous page, showing manuscript sources and publication history."
+  "continues_from_previous": null,
+  "partial_notes": "The page shows an arrangement note: 'Of the first two movements, as part of a sonata for harpsichord (or pianoforte) and violin, by Mlle Le Jeune, c. 1785 (see No. 59).'"
 }

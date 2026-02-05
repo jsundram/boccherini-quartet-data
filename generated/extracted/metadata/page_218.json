@@ -1,13 +1,29 @@
 {
   "book_page": 217,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Adagio",
+      "incipit_number": 421,
+      "instrument": "v1",
+      "dynamics": "soave"
+    },
+    {
+      "number": 3,
+      "tempo": "Minuetto",
+      "incipit_number": 422,
+      "instrument": "v1",
+      "dynamics": "dolci."
+    }
+  ],
   "entries": [
     {
       "g_number": 195,
       "quartet_number": 37,
-      "instrumentation": "two violins, viola and cello",
+      "instrumentation": "two violins, viola and 'cello",
       "key": "B\u266d Major",
       "opus": {
-        "number": "26",
+        "number": 26,
         "work_number": 1,
         "year": 1778,
         "type": "opera piccola"
@@ -18,35 +34,13 @@
     }
   ],
   "continues_from_previous": {
-    "g_number": 195,
-    "movements": [
-      {
-        "number": 2,
-        "tempo": "Adagio",
-        "incipit_number": 421,
-        "instrument": "v1",
-        "dynamics": "soave"
-      },
-      {
-        "number": 3,
-        "tempo": "Minuetto",
-        "incipit_number": 422,
-        "instrument": "v1",
-        "dynamics": "dolci. f"
-      }
-    ],
+    "g_number": null,
     "sources": {
       "autograph": "Paris, Conservatoire, MS. 1292 (with a note 'Laus Deo'; for title and comment, see No. 189)",
-      "ms_copies_parts": [
-        "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6, 'Quartetto no. 2...'",
-        "Paris, Conservatoire, a parcel of copies (see No. 189)"
-      ],
+      "ms_copies_parts": "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6, 'Quartetto no. 2 ...'; Paris, Conservatoire, a parcel of copies (see No. 189)",
       "first_edition": "(1778?), Paris, Sieber: Op. 27 no. 2 (for title, see No. 191)",
-      "later_editions": [
-        "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 2 (for title, see No. 191)"
-      ],
-      "modern_edition": "(c. 1930), Leipzig, Peters: Op. 27 no. 2 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943 by the International Music Co., New York"
+      "later_editions": "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 2 (for title, see No. 191)",
+      "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 27 no. 2 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York"
     }
-  },
-  "partial_notes": "Page shows continuation of entry 195 from previous page, with movements and sources information, plus the beginning of the same entry's catalog information at bottom"
+  }
 }

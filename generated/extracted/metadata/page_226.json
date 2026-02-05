@@ -1,5 +1,6 @@
 {
   "book_page": 225,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 202,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "E Minor",
       "opus": {
-        "number": "32",
+        "number": 32,
         "work_number": 2,
         "year": 1780,
         "type": "opera grande"
@@ -30,24 +31,23 @@
           "number": 3,
           "tempo": "Larghetto",
           "incipit_number": 441,
-          "instrument": "v1"
+          "instrument": "v1",
+          "notes": "dolcts. The first two bars are repeated in the Berlin and Rome MSS."
         },
         {
           "number": 4,
           "tempo": "Rondeau comodo assai",
           "incipit_number": 442,
-          "instrument": "v1"
+          "instrument": "v1",
+          "dynamics": "tr.",
+          "notes": "sotto voce. Repeat of the minuetto followed by:"
         }
       ],
       "sources": {
-        "first_edition": "1785, Paris, Sieber: (Op. 33), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9s par L. Boccherini oeuvre XXXIII. Prix 9s. \u00e0 Paris, chez Sieber musicien, rue Honor\u00e9, la Porte Cochere entre les rues des vieilles Etuves et d'Orl\u00e9ans, n\u00b0 85. Plate no. 445.",
-        "later_editions": [
-          "1798, Paris, Pleyel: Op. 39 no. 2 (Book 1 no. 2; for title, see No. 234)."
-        ]
+        "first_edition": "1785, Paris, Sieber: (Op. 33), no. 1 of Six quatuors pour deux violons, alto et basse compos\u00e9s par L. Boccherini oeuvre XXXIII. Prix 9s. \u00e0 Paris, chez Sieber musicien, rue Honor\u00e9, la Porte Cochere entre les rues des vieilles Etuves et d'Orleans, n\u00b0 85. Plate no. 445.",
+        "later_editions": "1798, Paris, Pleyel: Op. 39 no. 2 (Book 1 no. 2; for title, see No. 234)."
       },
-      "notes": "The first two bars are repeated in the Berlin and Rome MSS. Movement 4 is repeat of the minuetto followed by: Rondeau comodo assai sotto voce"
+      "notes": "Le Mercure de France for February 1785 announces the publication of Six Quatuors... del Signor Boccherini, oeuvre trente-troisi\u00e8me. Prix 9 liv. A Lyon, chez Castaud, Libraire et Marchand de Musique, place de la Com\u00e9die, et \u00e0 Paris, chez Carcanouilles, rue Saint Julien le Pauvre n\u00b0 3. Is this an independent edition of which we have no knowledge, or is it, as we consider more probable, the Sieber edition, with an indication of the addresses where it may be obtained?"
     }
-  ],
-  "continues_from_previous": true,
-  "partial_notes": "Page shows complete entry 202 with footnote about Le Mercure de France February 1785 publication announcement"
+  ]
 }

@@ -1,5 +1,6 @@
 {
   "book_page": 180,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 164,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "C Major",
       "opus": {
-        "number": "2",
+        "number": 2,
         "work_number": 6,
         "year": 1761,
         "type": "opera grande"
@@ -17,44 +18,34 @@
           "number": 1,
           "tempo": "Allegro con spirito",
           "incipit_number": 340,
-          "instrument": "v1",
-          "dynamics": "f"
+          "instrument": "v1"
         }
       ],
-      "sources": {},
-      "notes": "Op. 2 no. 6 of 1761 ('opera grande') in Boccherini's autograph catalogue."
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 2...' (for comment, see No. 159)",
+        "ms_copies_score": "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 2...'",
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B.1550",
+          "Graz, Di\u00f6zesanarchiv, Ms. 514",
+          "Milan, Conservatorio, old collection a 46-13",
+          "Montecatini, Venturi private collection, A.9, 'Quartetto no. 2...'",
+          "Paris, Conservatoire, D.10757",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.102",
+          "Siams, Abbey, L.IV.71, 'Quartetto no. 2...'",
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R"
+        ],
+        "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 5 (for title, see No. 159)",
+        "later_editions": [
+          "(c. 1778), London, Welcker: Op. 1 no. 5 (for title, see No. 159)",
+          "(c. 1780?), Amsterdam, Hummel: Op. 1 no. 5 (for title, see No. 159)",
+          "(c. 1785?), Paris, Boyer-Naderman: Op. 1 no. 5 (for title, see No. 159)",
+          "(c. 1785?), London, Preston: Op. 1 no. 5 (for title, see No. 159)"
+        ]
+      },
+      "notes": "Of the third movement, as part of a quartet (no. 1) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1820 (see No. 263)."
     }
   ],
-  "continues_from_previous": {
-    "g_number": 164,
-    "instrumentation": "two violins, viola and cello",
-    "sources": {
-      "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 2...' (separate parts)",
-      "ms_copies_score": [
-        "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 2...'"
-      ],
-      "ms_copies_parts": [
-        "Burgos, Archivo Catedral, Car. 74",
-        "Florence, Conservatorio, B.1550",
-        "Graz, Di\u00f6zesanarchiv, Ms. 514",
-        "Milan, Conservatorio, old collection a 46-13",
-        "Montecatini, Venturi private collection, A.9, 'Quartetto no. 2...'",
-        "Paris, Conservatoire, D.10757",
-        "Prague, N\u00e1rodni Muzeum, XLI.C.102",
-        "Siams, Abbey, L.IV.71, 'Quartetto no. 2...'",
-        "Stockholm, Kungl. Musik Akad. Bibl., W4-R"
-      ],
-      "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 5 (for title, see No. 159)",
-      "later_editions": [
-        "(c. 1778), London, Welcker: Op. 1 no. 5 (for title, see No. 159)",
-        "(c. 1780?), Amsterdam, Hummel: Op. 1 no. 5 (for title, see No. 159)",
-        "(c. 1785?), Paris, Boyer-Naderman: Op. 1 no. 5 (for title, see No. 159)",
-        "(c. 1785?), London, Preston: Op. 1 no. 5 (for title, see No. 159)"
-      ],
-      "arrangements": [
-        "Of the third movement, as part of a quartet (no. 1) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1820 (see No. 263)"
-      ]
-    }
-  },
-  "partial_notes": "Page shows continuation of entry 164 from previous page, with only the first movement visible, and entry appears to continue beyond what's shown"
+  "continues_from_previous": null,
+  "partial_notes": "Entry continues from page header with string quartets listing"
 }

@@ -1,5 +1,6 @@
 {
   "book_page": 210,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 188,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "C Major",
       "opus": {
-        "number": "22",
+        "number": 22,
         "work_number": 6,
         "year": 1775,
         "type": "opera piccola"
@@ -17,8 +18,7 @@
           "number": 1,
           "tempo": "Andantino",
           "incipit_number": 403,
-          "instrument": "v2",
-          "dynamics": "soave"
+          "instrument": "v2"
         },
         {
           "number": 2,
@@ -29,16 +29,39 @@
         }
       ],
       "sources": {
-        "autograph": "Berlin, Deutsche Staatsbibliothek, M.568, 'Quartetto VI' (for title, see No. 183)",
+        "autograph": {
+          "location": "Berlin, Deutsche Staatsbibliothek, M.568",
+          "title": "Quartetto VI",
+          "notes": "for title, see No. 183"
+        },
         "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II",
-          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
+          {
+            "location": "Berlin, Deutsche Staatsbibliothek, M.569 and M.570",
+            "notes": "Two copies made in Berlin for Frederick William II"
+          },
+          {
+            "location": "Modena, Bibl. Estense, Mus. F. 91",
+            "notes": "for title and comment, see No. 183"
+          }
         ],
-        "first_edition": "(1776?), Paris, La Chevardi\u00e8re: Op. 26 no. 6 (for title, see No. 183)",
+        "first_edition": {
+          "year": 1776,
+          "publisher": "Paris, La Chevardi\u00e8re",
+          "opus": "Op. 26 no. 6",
+          "notes": "for title, see No. 183"
+        },
         "later_editions": [
-          "(c. 1800), Paris, Imbault: Op. 26 no. 6 (for title and comment, see No. 183)"
+          {
+            "year": "c. 1800",
+            "publisher": "Paris, Imbault",
+            "opus": "Op. 26 no. 6",
+            "notes": "for title and comment, see No. 183"
+          }
         ],
-        "modern_edition": "The last movement\u2014non troppo presto\u2014has been published as an additional last movement to the quartet Op. 24 no. 4 (No. 192) by E. Polo (Milan, Ricordi, 1953; pocket score)"
+        "modern_edition": {
+          "publisher": "E. Polo (Milan, Ricordi, 1953; pocket score)",
+          "notes": "The last movement\u2014non troppo presto\u2014has been published as an additional last movement to the quartet Op. 24 no. 4 (No. 192)"
+        }
       },
       "notes": "See note to No. 295."
     }

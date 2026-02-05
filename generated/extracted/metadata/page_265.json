@@ -1,5 +1,6 @@
 {
   "book_page": 264,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 240,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "C Major",
       "opus": {
-        "number": "53",
+        "number": 53,
         "work_number": 5,
         "year": 1796,
         "type": "opera piccola"
@@ -25,35 +26,14 @@
           "incipit_number": 540,
           "instrument": "v1",
           "dynamics": "p",
-          "notes": "(Trio)"
+          "notes": "Trio"
         }
       ],
       "sources": {
-        "ms_copies_score": [],
-        "ms_copies_parts": [],
-        "first_edition": "1798, Paris, Pleyel (Op. 40), no. 1 of Six quartettino pour deux violons, alto et basse compos\u00e9s par Luigi Boccherini, oeuvre 40, Prix 9 liv., grav\u00e9s par Richomme, \u00e0 Paris, Chez Ignace Pleyel, Rue Neuve des Petits Champs n\u00b0 1286 vis-\u00e0-vis la Tr\u00e9sorerie. Propri\u00e9t\u00e9 de l'\u00e9diteur. Enregistr\u00e9 \u00e0 la Biblioth\u00e8que Nationale. Plate no. 132."
+        "autograph": "No MSS. of any kind are known",
+        "first_edition": "1798, Paris, Pleyel (Op. 40), no. 1 of Six quartettino pour deux violons, alto et basse compos\u00e9s par Luigi Boccherini, \u0153uvre 40. Prix 9 liv., grav\u00e9s par Richomme, \u00e0 Paris, Chez Ignace Pleyel, Rue Neuve des Petits Champs n\u00b0 1286 vis-\u00e0-vis la Tr\u00e9sorerie. Propri\u00e9t\u00e9 de l'\u00e9diteur. Enregistr\u00e9 \u00e0 la Biblioth\u00e8que Nationale. Plate no. 132."
       },
-      "notes": "No MSS. of any kind are known. Some copies, probably the earliest, have the address ... Petits Champs n\u00b0 728 entre les Rues de la Loi et Helv\u00e9tius. F\u00e9tis (op. cit.), not having seen this Op. 40, assumed that it was a new edition of Artaria Op. 32 (Nos. 195 to 200). An examination of the contract signed by",
-      "continues_on_next": true
+      "notes": "Some copies, probably the earliest, have the address ... Petits Champs n\u00b0 728 entre les Rues de la Loi et Helv\u00e9tius. F\u00e9tis (op. cit.), not having seen this Op. 40, assumed that it was a new edition of Artaria Op. 32 (Nos. 195 to 200). An examination of the contract signed by"
     }
-  ],
-  "continues_from_previous": {
-    "g_number": 240,
-    "movements": [
-      {
-        "number": 2,
-        "tempo": "Rondeau. Allegro",
-        "incipit_number": 538,
-        "instrument": "v1",
-        "dynamics": "p"
-      }
-    ],
-    "sources": {
-      "ms_copies_score": [],
-      "ms_copies_parts": [],
-      "first_edition": "1798, Paris, Pleyel: Op. 40 no. 6 (for title and comment, see No. 240)."
-    },
-    "notes": "No MSS. of any kind are known."
-  },
-  "partial_notes": "Entry 240 appears to continue from a previous page with movement 2, and continues onto the next page with incomplete notes section."
+  ]
 }

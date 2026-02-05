@@ -1,5 +1,28 @@
 {
   "book_page": 256,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Minuetto",
+      "incipit_number": 516,
+      "instrument": "v1",
+      "dynamics": "pp"
+    },
+    {
+      "number": 3,
+      "tempo": "Adagio",
+      "incipit_number": 517,
+      "instrument": "v1",
+      "dynamics": "sotto voce"
+    },
+    {
+      "number": 4,
+      "tempo": "Finale. Allegro giusto",
+      "incipit_number": 518,
+      "instrument": "v1",
+      "dynamics": "pp"
+    }
+  ],
   "entries": [
     {
       "g_number": 233,
@@ -7,45 +30,30 @@
       "instrumentation": "two violins, viola and cello",
       "key": "D Major",
       "opus": {
-        "number": "52",
+        "number": 52,
         "work_number": 2,
         "year": 1795,
         "type": "opera grande"
       },
-      "movements": [
-        {
-          "number": 2,
-          "tempo": "Minuetto",
-          "incipit_number": 516,
-          "instrument": "v1",
-          "dynamics": "pp"
-        },
-        {
-          "number": 3,
-          "tempo": "Adagio",
-          "incipit_number": 517,
-          "instrument": "v1",
-          "dynamics": "sotto voce"
-        },
-        {
-          "number": 4,
-          "tempo": "Finale. Allegro giusto",
-          "incipit_number": 518,
-          "instrument": "v1",
-          "dynamics": "pp"
-        }
-      ],
+      "movements": [],
       "sources": {
-        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 7 (Book 3 no. 1; for title and comment, see No. 234).",
-        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 39 no. 1 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York.",
-        "arrangements": [
-          "Of the first and fourth movements, as part of a quartet (no. 3) for clarinet, flute, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262).",
-          "Of the fourth movement, as part of a guitar quintet, by Boccherini himself (see No. 449)."
-        ]
+        "autograph": "Op. 52 no. 2 of [May] 1795 ('opera grande') in Boccherini's autograph catalogue",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 7 (Book 3 no. 1; for title and comment, see No. 234)",
+        "later_editions": null,
+        "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 39 no. 1 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York"
       },
-      "notes": "No MSS. of any kind are known."
+      "notes": "MSS.: No MSS. of any kind are known.",
+      "incomplete": false
     }
   ],
-  "continues_from_previous": true,
-  "partial_notes": "Entry appears to be continuation from previous page showing only movements 2-4"
+  "arrangements": [
+    {
+      "description": "Of the first and fourth movements, as part of a quartet (no. 3) for clarinet, flute, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262)"
+    },
+    {
+      "description": "Of the fourth movement, as part of a guitar quintet, by Boccherini himself (see No. 449)"
+    }
+  ]
 }

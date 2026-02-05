@@ -1,14 +1,22 @@
 {
   "book_page": 248,
+  "movements_for_previous_entry": [
+    {
+      "number": 3,
+      "tempo": "Tempo di Minuetto",
+      "incipit_number": 496,
+      "instrument": "v1"
+    }
+  ],
   "entries": [
     {
       "g_number": 223,
       "quartet_number": 65,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "G Major",
-      "known_as": "La Tiranna",
+      "nickname": "La Tiranna",
       "opus": {
-        "number": "44",
+        "number": 44,
         "work_number": 4,
         "year": 1792,
         "type": "opera piccola"
@@ -39,17 +47,5 @@
       },
       "notes": "Unpublished."
     }
-  ],
-  "continues_from_previous": {
-    "g_number": 222,
-    "movements": [
-      {
-        "number": 3,
-        "tempo": "Tempo di Minuetto",
-        "incipit_number": 496,
-        "instrument": "v1"
-      }
-    ]
-  },
-  "partial_notes": "Page starts with end of entry 222 showing movement 3, and contains complete entry 223"
+  ]
 }

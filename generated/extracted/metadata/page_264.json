@@ -1,5 +1,6 @@
 {
   "book_page": 263,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 238,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "C Major",
       "opus": {
-        "number": "53",
+        "number": 53,
         "work_number": 3,
         "year": 1796,
         "type": "opera piccola"
@@ -25,14 +26,15 @@
           "tempo": "Minuetto. Allegro",
           "incipit_number": 536,
           "instrument": "v1",
-          "dynamics": "f"
+          "dynamics": "f",
+          "notes": "includes Trio section marked dolcis."
         }
       ],
       "sources": {
-        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 4 (for title and comment, see No. 240)"
+        "autograph": "No MSS. of any kind are known",
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 4"
       },
-      "notes": "Both movements are repeated, by Boccherini himself (?), in the quartet Op. 54 no. 3 (No. 252). No MSS. of any kind are known.",
-      "is_arrangement": true
+      "notes": "Arrangement: Of the whole quartet, as a guitar quintet, by Boccherini himself (see No. 449). Both movements are repeated, by Boccherini himself (?), in the quartet Op. 54 no. 3 (No. 252)."
     },
     {
       "g_number": 239,
@@ -40,7 +42,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "A Major",
       "opus": {
-        "number": "53",
+        "number": 53,
         "work_number": 4,
         "year": 1796,
         "type": "opera piccola"
@@ -54,12 +56,8 @@
           "dynamics": "p"
         }
       ],
-      "continues_on_next": true
+      "sources": {},
+      "incomplete": true
     }
-  ],
-  "continues_from_previous": {
-    "g_number": 238,
-    "notes": "Arrangement: Of the whole quartet, as a guitar quintet, by Boccherini himself (see No. 449)."
-  },
-  "partial_notes": "Entry 239 is incomplete - appears to continue on next page. Entry 238 includes arrangement information from previous page."
+  ]
 }

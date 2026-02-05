@@ -1,5 +1,6 @@
 {
   "book_page": 206,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 184,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "D Major",
       "opus": {
-        "number": "22",
+        "number": 22,
         "work_number": 2,
         "year": 1775,
         "type": "opera piccola"
@@ -25,22 +26,40 @@
           "tempo": "Minuetto",
           "incipit_number": 396,
           "instrument": "v1",
-          "dynamics": "soave, dolce"
+          "dynamics": "soave dolce",
+          "notes": "Trio marked as Solo"
         }
       ],
       "sources": {
-        "autograph": "Berlin, Deutsche Staatsbibliothek, M.564, 'Quartetto II' (for title, see No. 183)",
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II",
-          "Modena, Bibl. Estense, Mus. F. 91 (for title and comment, see No. 183)"
-        ],
-        "later_editions": [
-          "Paris, Imbault (Op. 26), no. 1 of 'Sei quartetti per due violini, alto e basso composti del Signor Luigi Boccherini di Lucca virtuoso di camera e compositor di S. A. R. Don Luigi Infante di Spagna, Opera XXV1. Libro quinto di quartetti. Prix \u00e0 Paris et la province, port franc par la poste. A Paris, chez Imbault rue Honor\u00e9 au Mont d'or n\u00b0 200 de la section des gardes francaises, entre la Rue des Poulies et la maison d'Aligre et P\u00e9ristile du th\u00e9\u00e2tre de l'Op\u00e9ra Comique rue Favart n\u00b0 461.'"
-        ]
+        "autograph": {
+          "location": "Berlin, Deutsche Staatsbibliothek",
+          "shelf_mark": "M.564",
+          "notes": "score, title 'Quartetto II'"
+        },
+        "ms_copies_parts": {
+          "location": "Berlin, Deutsche Staatsbibliothek",
+          "shelf_marks": [
+            "M.569",
+            "M.570"
+          ],
+          "notes": "Two copies made in Berlin for Frederick William II"
+        },
+        "ms_copies_score": {
+          "location": "Modena, Bibl. Estense",
+          "shelf_mark": "Mus. F. 91"
+        },
+        "later_editions": {
+          "year": "c. 1800",
+          "publisher": "Imbault",
+          "location": "Paris",
+          "opus_designation": "Op. 26, no. 1 of Sei quartetti per due violini, alto e basso",
+          "title": "composti del Signor Luigi Boccherini di Lucca virtuoso di camera e compositor di S. A. R. Don Luigi Infante di Spagna",
+          "notes": "Some copies have the name and address of Imbault pasted over the name and address of another publisher (Le Duc). The edition was perhaps produced by Le Duc and then immediately taken over by Imbault."
+        }
       },
-      "notes": "Some copies have the name and address of Imbault pasted over the name and address of another publisher (Le Duc). The edition was perhaps produced by Le Duc and then immediately taken over by Imbault."
+      "notes": "Op. 22 no. 2 of 1775 ('quartettino ... opera piccola') in Boccherini's autograph catalogue."
     }
   ],
-  "continues_from_previous": true,
-  "partial_notes": "Page starts with continuation of general information about string quartets and later edition details for Op. 26"
+  "continues_from_previous": null,
+  "partial_notes": "See note to No. 295."
 }

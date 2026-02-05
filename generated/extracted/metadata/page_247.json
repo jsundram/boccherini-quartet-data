@@ -1,13 +1,28 @@
 {
   "book_page": 246,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Maestoso assai",
+      "incipit_number": 489,
+      "instrument": "v1"
+    },
+    {
+      "number": 2,
+      "tempo": "Tempo di Minuetto",
+      "incipit_number": 490,
+      "instrument": "v1",
+      "dynamics": "dolci"
+    }
+  ],
   "entries": [
     {
       "g_number": 221,
       "quartet_number": 63,
-      "instrumentation": "two violins, viola and cello",
+      "instrumentation": "two violins, viola and 'cello",
       "key": "E Minor",
       "opus": {
-        "number": "44",
+        "number": 44,
         "work_number": 2,
         "year": 1792,
         "type": "opera piccola"
@@ -22,32 +37,15 @@
         }
       ],
       "sources": {},
-      "notes": "Op. 44 no. 2 of [April] 1792 ('quartettino... opera piccola') in Boccherini's autograph catalogue.",
-      "continues_on_next": true
+      "notes": "Op. 44 no. 2 of [April] 1792 ('quartettino ... opera piccola') in Boccherini's autograph catalogue."
     }
   ],
   "continues_from_previous": {
     "g_number": 220,
-    "movements": [
-      {
-        "number": 1,
-        "tempo": "Maestoso assai",
-        "incipit_number": 489,
-        "instrument": "v1",
-        "dynamics": "ff"
-      },
-      {
-        "number": 2,
-        "tempo": "Tempo di Minuetto",
-        "incipit_number": 490,
-        "instrument": "v1",
-        "dynamics": "dolci"
-      }
-    ],
     "sources": {
       "autograph": {
         "score": "Berlin, Deutsche Staatsbibliothek, M.596. Same title as the MS. in Paris.",
-        "parts": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (7). 'Mese di Febbraro 1792. Quartettino per due violini, viola e violoncello di Luigi Boccherini compositor di camera di S. M. il Re di Prussia'."
+        "parts": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (7). 'Mese di Febbraio 1792. Quartettino per due violini, viola e violoncello di Luigi Boccherini compositor di camera di S. M. il Re di Prussia'."
       },
       "ms_copies_parts": [
         "Berlin, Deutsche Staatsbibliothek, M.597. Copy made in Berlin for Frederick William II.",
@@ -56,6 +54,5 @@
       ]
     },
     "notes": "Unpublished."
-  },
-  "partial_notes": "Entry 220 completes from previous page with movements and source information. Entry 221 begins but continues on next page."
+  }
 }

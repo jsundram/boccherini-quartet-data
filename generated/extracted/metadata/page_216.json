@@ -1,65 +1,44 @@
 {
   "book_page": 215,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Larghetto",
+      "incipit_number": 415,
+      "instrument": "v1",
+      "dynamics": "sotto voce assai"
+    },
+    {
+      "number": 3,
+      "tempo": "Minuetto",
+      "incipit_number": 416,
+      "instrument": "v1",
+      "dynamics": "pp"
+    }
+  ],
   "entries": [
     {
       "g_number": 193,
       "quartet_number": 35,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "C Minor",
       "opus": {
-        "number": "24",
+        "number": 24,
         "work_number": 5,
         "year": "1776-1778",
         "type": "opera grande"
       },
-      "movements": [
-        {
-          "number": 2,
-          "tempo": "Larghetto",
-          "incipit_number": 415,
-          "instrument": "v1",
-          "dynamics": "sotto voce assai"
-        },
-        {
-          "number": 3,
-          "tempo": "Minuetto",
-          "incipit_number": 416,
-          "instrument": "v1",
-          "dynamics": "pp"
-        }
-      ],
+      "movements": [],
       "sources": {
         "autograph": "Paris, Conservatoire, MS. 1292 (for title and comment, see No. 189)",
-        "ms_copies_parts": [
-          "Naples, Conservatorio. Two copies: 22.3.2, and 22.3.6, 'Quartetto no. 3 . . .'",
-          "Paris, Conservatoire, a parcel of copies (see No. 189)"
-        ],
+        "ms_copies_parts": "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6, 'Quartetto no. 3...'; Paris, Conservatoire, a parcel of copies (see No. 189)",
         "first_edition": "(1778?), Paris, Sieber: Op. 27 no. 3 (for title, see No. 191)",
         "later_editions": [
           "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 3 (for title, see No. 191)"
         ],
-        "modern_edition": "1953, Milan, Ricordi: Op. 27 no. 3 (pocket score: revised by Enrico Polo). Polo has added a fourth movement taken from the quartet Op. 22 no. 6 (see No. 188)"
+        "modern_edition": "1953, Milan, Ricordi: Op. 27 no. 1 (pocket score; revised by Enrico Polo). Polo has added a fourth movement taken from the quartet Op. 22 no. 6 (see No. 188)"
       },
-      "notes": "Op. 24 no. 5 of 1776-1778 ('opera grande') in Boccherini's autograph catalogue (for comment, see No. 189)"
+      "notes": "Boccherini's autograph catalogue entry"
     }
-  ],
-  "continues_from_previous": {
-    "movements": [
-      {
-        "number": 2,
-        "tempo": "Larghetto",
-        "incipit_number": 415,
-        "instrument": "v1",
-        "dynamics": "sotto voce assai"
-      },
-      {
-        "number": 3,
-        "tempo": "Minuetto",
-        "incipit_number": 416,
-        "instrument": "v1",
-        "dynamics": "pp"
-      }
-    ]
-  },
-  "partial_notes": "Page shows continuation of string quartets entry with movements 2 and 3, plus full bibliographic information for G.193"
+  ]
 }

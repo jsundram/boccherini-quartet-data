@@ -1,13 +1,7 @@
 {
   "book_page": 278,
+  "movements_for_previous_entry": [],
   "entries": [],
-  "continues_from_previous": {
-    "g_number": 258,
-    "instrumentation": "two violins, viola and 'cello",
-    "notes": "in Madrid. But what was my disappointment! The manuscript was undated and bore no other title than: \"Quartetto. Boccherini.\" A careful examination of the quartet convinced me, moreover, that it was spurious: nothing in it reveals the touch, so easily recognizable, of Boccherini'.",
-    "sources": {
-      "modern_edition": "Unpublished."
-    }
-  },
-  "partial_notes": "This page appears to be the conclusion of entry G.258, containing only final notes about a spurious quartet manuscript found in Madrid and its unpublished status."
+  "continues_from_previous": null,
+  "partial_notes": "This page contains only a brief note about string quartets found in Madrid. The author describes finding a manuscript titled 'Quartetto. Boccherini' but determined upon examination that it was spurious and did not reveal Boccherini's recognizable touch. The work is listed as unpublished. No catalog entries with G numbers are present on this page."
 }

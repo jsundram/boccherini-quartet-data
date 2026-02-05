@@ -1,13 +1,14 @@
 {
   "book_page": 213,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 191,
       "quartet_number": 33,
-      "instrumentation": "two violins, viola and 'cello",
-      "key": "E-flat Major",
+      "instrumentation": "two violins, viola and cello",
+      "key": "Eb Major",
       "opus": {
-        "number": "24",
+        "number": 24,
         "work_number": 3,
         "year": "1776-1778",
         "type": "opera grande"
@@ -24,8 +25,8 @@
           "number": 2,
           "tempo": "Adagio non tanto",
           "incipit_number": 412,
-          "instrument": "v2",
-          "dynamics": "dolcis."
+          "instrument": "v1a",
+          "dynamics": "dolciss"
         },
         {
           "number": 3,
@@ -35,10 +36,8 @@
           "dynamics": "sotto voce"
         }
       ],
-      "sources": {
-        "autograph": "in Boccherini's autograph catalogue"
-      },
-      "notes": "for comment, see No. 189"
+      "sources": {},
+      "notes": "in Boccherini's autograph catalogue (for comment, see No. 189). Third movement includes (Trio) section for Va with dol. marking"
     }
   ],
   "continues_from_previous": {
@@ -54,6 +53,5 @@
       ],
       "modern_edition": "1953, Milan, Ricordi: Op. 27 no. 4 (pocket score; revised by Enrico Polo); The order of the movements is different: Allegro\u2014Larghetto\u2014Minuetto"
     }
-  },
-  "partial_notes": "Page begins mid-entry for G.191, showing the end of a previous quartet entry with publication information"
+  }
 }

@@ -1,46 +1,76 @@
 {
   "book_page": 224,
-  "entries": [
+  "movements_for_previous_entry": [
     {
-      "g_number": 201,
-      "quartet_number": null,
-      "instrumentation": "two violins, viola and 'cello",
-      "key": null,
-      "opus": null,
-      "movements": [
-        {
-          "number": 2,
-          "tempo": "Minuetto",
-          "incipit_number": 436,
-          "instrument": "v1"
-        },
-        {
-          "number": 3,
-          "tempo": "Grave",
-          "incipit_number": 437,
-          "instrument": "v1"
-        },
-        {
-          "number": 4,
-          "tempo": "Allegro vivace assai",
-          "incipit_number": 438,
-          "instrument": "v1"
-        }
-      ],
-      "sources": {
-        "autograph": "Berlin, Deutsche Staatsbibliothek, M.571, 'Quartetto I\u00b0 per due violini, viola, e violoncello, composto per S.A.Rle Du Luigi Infante di Spagna da Luigi Boccherini, virtuoso di camera e compositore di musica di S.A.Rle. Opera 3a. 1780'",
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
-          "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.61. 'Quartetto no. 25...'",
-          "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360, dated 1792"
-        ],
-        "first_edition": "(c. 1782), Vienna, Artaria (Op. 33), no. 1 of Sei quartetti per due violini, viola e violoncello dal Sigr Boccherini. Opera XXXIII. Vienna, presso Artaria Comp. /4. 30. Plate no. 34",
-        "later_editions": [
-          "(c. 1782/1785), London, Kerpen (Op. 33), no. 1 of Sei quartetti per due violini, viola e violoncello dal Signor Boccherini. Opera XXXIII. London. Printed and sold by John Kerpen no 19 Wardour Street. Soho"
-        ]
-      },
-      "continues_from_previous": true
+      "number": 2,
+      "tempo": "Minuetto",
+      "incipit_number": 436,
+      "instrument": "v1"
+    },
+    {
+      "number": 3,
+      "tempo": "Grave",
+      "incipit_number": 437,
+      "instrument": "v1"
+    },
+    {
+      "number": 4,
+      "tempo": "Allegro vivace assai",
+      "incipit_number": 438,
+      "instrument": "v1"
     }
   ],
-  "partial_notes": "This page shows only movements 2-4 of G.201, continuing from previous page. First movement not visible."
+  "entries": [],
+  "continues_from_previous": {
+    "sources": {
+      "autograph": {
+        "location": "Berlin, Deutsche Staatsbibliothek",
+        "shelfmark": "M.571",
+        "title": "Quartetto I\u00b0 per due violini, viola, e violoncello, composto per S.A.Rle Du Luigi Infante di Spagna da Luigi Boccherini, virtuoso di camera e compositore di musica di S.A.Rle",
+        "work_number": "Opera 3a",
+        "date": "1780"
+      },
+      "ms_copies_score": [
+        {
+          "location": "Berlin, Deutsche Staatsbibliothek",
+          "shelfmarks": "M.577 and M.578",
+          "notes": "Two copies made in Berlin for Frederick William II"
+        },
+        {
+          "location": "Prague, N\u00e1rodn\u00ed Muzeum",
+          "shelfmark": "XXII. B.61",
+          "title": "Quartetto no. 25"
+        },
+        {
+          "location": "Rome, Accademia Santa Cecilia",
+          "shelfmark": "G. MSS. 357 to 360",
+          "date": "1792"
+        }
+      ],
+      "first_edition": {
+        "date": "c. 1782",
+        "publisher": "Vienna, Artaria",
+        "opus": "Op. 33",
+        "number": "no. 1",
+        "series": "Sei quartetti per due violini, viola e violoncello dal Sigr Boccherini",
+        "work_designation": "Opera XXXIII",
+        "publisher_address": "Vienna, presso Artaria Comp.",
+        "price": "f. 30",
+        "plate_number": "34"
+      },
+      "later_editions": [
+        {
+          "date": "c. 1782/1785",
+          "publisher": "London, Kerpen",
+          "opus": "Op. 33",
+          "number": "no. 1",
+          "series": "Sei quartetti per due violini, viola e violoncello dal Signor Boccherini",
+          "work_designation": "Opera XXXIII",
+          "location": "London",
+          "note": "Printed and sold by John Kerpen no 19 Wardour Street. Soho."
+        }
+      ]
+    }
+  },
+  "partial_notes": "See note to No. 295."
 }

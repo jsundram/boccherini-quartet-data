@@ -89,14 +89,6 @@
       ]
     },
     {
-      "g_number": 170,
-      "tempos": [
-        "allegro brillante",
-        "amoroso",
-        "allegro"
-      ]
-    },
-    {
       "g_number": 171,
       "tempos": [
         "allegro",
@@ -233,10 +225,34 @@
       ]
     },
     {
+      "g_number": 192,
+      "tempos": [
+        "moderato",
+        "larghetto",
+        "minuetto"
+      ]
+    },
+    {
+      "g_number": 193,
+      "tempos": [
+        "allegro moderato",
+        "larghetto",
+        "allegro molto"
+      ]
+    },
+    {
+      "g_number": 194,
+      "tempos": [
+        "allegro vivo assai",
+        "adagio",
+        "minuetto"
+      ]
+    },
+    {
       "g_number": 195,
       "tempos": [
         "allegro moderato",
-        "minuetto con moto"
+        "minuetto con moto (trio)"
       ]
     },
     {
@@ -254,17 +270,17 @@
       ]
     },
     {
+      "g_number": 198,
+      "tempos": [
+        "larghetto",
+        "minuetto con moto"
+      ]
+    },
+    {
       "g_number": 199,
       "tempos": [
         "allegretto",
         "minuetto allegro"
-      ]
-    },
-    {
-      "g_number": 200,
-      "tempos": [
-        "andante appassionato ma non lento",
-        "minuetto"
       ]
     },
     {
@@ -282,6 +298,23 @@
         "allegro vivo",
         "adagio",
         "allegro vivo ma non presto"
+      ]
+    },
+    {
+      "g_number": 204,
+      "tempos": [
+        "allegro bizarro",
+        "larghetto",
+        "allegro con brio"
+      ]
+    },
+    {
+      "g_number": 205,
+      "tempos": [
+        "allegro comodo",
+        "andantino",
+        "minuetto con moto",
+        "allegro giusto"
       ]
     },
     {
@@ -320,12 +353,12 @@
       ]
     },
     {
-      "g_number": 213,
+      "g_number": 215,
       "tempos": [
-        "allegro moderato",
-        "minuetto",
-        "grave",
-        "allegro giusto"
+        "allegretto moderato assai",
+        "minuetto. allegro",
+        "larghetto affettuoso",
+        "rondeau. allegro moderato"
       ]
     },
     {
@@ -353,7 +386,7 @@
       "g_number": 219,
       "tempos": [
         "allegretto con moto",
-        "minuetto"
+        "minuetto (trio)"
       ]
     },
     {
@@ -367,7 +400,7 @@
       "g_number": 221,
       "tempos": [
         "andante larghetto",
-        "minuetto amoroso (trio)",
+        "minuetto amoroso",
         "andante allegretto"
       ]
     },
@@ -411,7 +444,7 @@
       "g_number": 228,
       "tempos": [
         "allegretto moderato",
-        "minuetto con moto"
+        "minuetto con moto (trio)"
       ]
     },
     {
@@ -438,7 +471,7 @@
     {
       "g_number": 232,
       "tempos": [
-        "allegro vivace assai",
+        "allegro con moto",
         "minuetto",
         "adagio",
         "finale. allegro giusto"
@@ -500,6 +533,23 @@
       ]
     },
     {
+      "g_number": 242,
+      "tempos": [
+        "allegro",
+        "larghetto",
+        "allegro vivo assai"
+      ]
+    },
+    {
+      "g_number": 243,
+      "tempos": [
+        "allegretto lento",
+        "minuetto. allegro (trio)",
+        "larghetto malincolico",
+        "finale. allegro vivo assai"
+      ]
+    },
+    {
       "g_number": 244,
       "tempos": [
         "larghetto",
@@ -540,13 +590,34 @@
   ],
   "mismatches": [
     {
+      "g_number": 170,
+      "extracted": [
+        "allegro brillante",
+        "amoroso"
+      ],
+      "reference": [
+        "allegro brillante",
+        "amoroso",
+        "allegro"
+      ],
+      "extracted_first": [
+        "allegro",
+        "amoroso"
+      ],
+      "reference_first": [
+        "allegro",
+        "amoroso",
+        "allegro"
+      ]
+    },
+    {
       "g_number": 173,
       "extracted": [
         "largo",
         "allegro",
         "largo cantabile",
         "minuetto",
-        "trio"
+        "(trio)"
       ],
       "reference": [
         "largo - allegro",
@@ -558,7 +629,7 @@
         "allegro",
         "largo",
         "minuetto",
-        "trio"
+        "(trio)"
       ],
       "reference_first": [
         "largo",
@@ -570,8 +641,7 @@
       "g_number": 182,
       "extracted": [
         "larghetto",
-        "allegro moderato [menuetto]",
-        "(trio)"
+        "allegro moderato [menuetto]"
       ],
       "reference": [
         "larghetto",
@@ -579,8 +649,7 @@
       ],
       "extracted_first": [
         "larghetto",
-        "allegro",
-        "(trio)"
+        "allegro"
       ],
       "reference_first": [
         "larghetto",
@@ -607,61 +676,19 @@
       ]
     },
     {
-      "g_number": 192,
+      "g_number": 200,
       "extracted": [
-        "moderato"
+        "andante appassionato ma non lento"
       ],
       "reference": [
-        "moderato",
-        "larghetto",
+        "andante appassionato ma con lento",
         "minuetto"
       ],
       "extracted_first": [
-        "moderato"
+        "andante"
       ],
       "reference_first": [
-        "moderato",
-        "larghetto",
-        "minuetto"
-      ]
-    },
-    {
-      "g_number": 193,
-      "extracted": [
-        "larghetto",
-        "minuetto"
-      ],
-      "reference": [
-        "allegro moderato",
-        "larghetto",
-        "allegro molto"
-      ],
-      "extracted_first": [
-        "larghetto",
-        "minuetto"
-      ],
-      "reference_first": [
-        "allegro",
-        "larghetto",
-        "allegro"
-      ]
-    },
-    {
-      "g_number": 194,
-      "extracted": [
-        "allegro vivo assai"
-      ],
-      "reference": [
-        "allegro vivo assai",
-        "adagio",
-        "minuetto"
-      ],
-      "extracted_first": [
-        "allegro"
-      ],
-      "reference_first": [
-        "allegro",
-        "adagio",
+        "andante",
         "minuetto"
       ]
     },
@@ -695,52 +722,6 @@
       ]
     },
     {
-      "g_number": 204,
-      "extracted": [
-        "allegro bizarro"
-      ],
-      "reference": [
-        "allegro bizarro",
-        "larghetto",
-        "allegro con brio"
-      ],
-      "extracted_first": [
-        "allegro"
-      ],
-      "reference_first": [
-        "allegro",
-        "larghetto",
-        "allegro"
-      ]
-    },
-    {
-      "g_number": 205,
-      "extracted": [
-        "allegro comodo",
-        "larghetto",
-        "allegro con brio",
-        "allegro giusto"
-      ],
-      "reference": [
-        "allegro comodo",
-        "andantino",
-        "minuetto con moto",
-        "allegro giusto"
-      ],
-      "extracted_first": [
-        "allegro",
-        "larghetto",
-        "allegro",
-        "allegro"
-      ],
-      "reference_first": [
-        "allegro",
-        "andantino",
-        "minuetto",
-        "allegro"
-      ]
-    },
-    {
       "g_number": 206,
       "extracted": [
         "allegro",
@@ -771,7 +752,9 @@
       "g_number": 212,
       "extracted": [
         "minuetto",
-        "minuetto. affettuoso"
+        "minuetto. affettuoso",
+        "grave",
+        "allegro giusto"
       ],
       "reference": [
         "adagio",
@@ -779,7 +762,9 @@
       ],
       "extracted_first": [
         "minuetto",
-        "minuetto."
+        "minuetto.",
+        "grave",
+        "allegro"
       ],
       "reference_first": [
         "adagio",
@@ -790,7 +775,7 @@
       "g_number": 214,
       "extracted": [
         "prestissimo",
-        "tempo di minuetto (trio)",
+        "tempo di minuetto",
         "andante flebile",
         "repeat of the second part of the prestissimo"
       ],
@@ -811,50 +796,6 @@
         "tempo",
         "andante",
         "prestissimo"
-      ]
-    },
-    {
-      "g_number": 215,
-      "extracted": [
-        "allegretto moderato assai",
-        "minuetto. allegro",
-        "larghetto affettuoso"
-      ],
-      "reference": [
-        "allegretto moderato assai",
-        "minuetto. allegro.",
-        "larghetto affettuoso",
-        "rondeau. allegro moderato"
-      ],
-      "extracted_first": [
-        "allegretto",
-        "minuetto.",
-        "larghetto"
-      ],
-      "reference_first": [
-        "allegretto",
-        "minuetto.",
-        "larghetto",
-        "rondeau."
-      ]
-    },
-    {
-      "g_number": 226,
-      "extracted": [
-        "andante moderato",
-        "minuetto con moto"
-      ],
-      "reference": [
-        "andante moderato",
-        "moderato con moto"
-      ],
-      "extracted_first": [
-        "andante",
-        "minuetto"
-      ],
-      "reference_first": [
-        "andante",
-        "moderato"
       ]
     },
     {
@@ -891,33 +832,6 @@
       "reference_first": [
         "andantino",
         "minuetto."
-      ]
-    },
-    {
-      "g_number": 243,
-      "extracted": [
-        "allegro",
-        "larghetto",
-        "allegro vivo assai",
-        "finale. allegro vivo assai"
-      ],
-      "reference": [
-        "allegretto lento",
-        "minuetto. allegro",
-        "larghetto malincolico",
-        "finale. allegro vivo assai"
-      ],
-      "extracted_first": [
-        "allegro",
-        "larghetto",
-        "allegro",
-        "finale."
-      ],
-      "reference_first": [
-        "allegretto",
-        "minuetto.",
-        "larghetto",
-        "finale."
       ]
     },
     {
@@ -969,10 +883,7 @@
     {
       "g_number": 253,
       "extracted_tempos": [
-        "presto",
-        "larghetto",
-        "minuetto",
-        "allegro vivo"
+        "presto\u2014larghetto\u2014minuetto\u2014allegro vivo"
       ]
     },
     {
@@ -1008,7 +919,7 @@
       ]
     },
     {
-      "g_number": 259,
+      "g_number": 260,
       "extracted_tempos": []
     },
     {
@@ -1020,28 +931,16 @@
       "extracted_tempos": []
     },
     {
-      "g_number": 263,
-      "extracted_tempos": []
-    },
-    {
       "g_number": 264,
       "extracted_tempos": []
     }
   ],
   "missing_extracted": [
     {
-      "g_number": 198,
+      "g_number": 226,
       "reference_tempos": [
-        "larghetto",
-        "minuetto con moto"
-      ]
-    },
-    {
-      "g_number": 242,
-      "reference_tempos": [
-        "allegro",
-        "larghetto",
-        "allegro vivo assai"
+        "andante moderato",
+        "moderato con moto"
       ]
     }
   ]

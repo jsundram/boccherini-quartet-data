@@ -1,75 +1,112 @@
 {
   "book_page": 275,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 254,
+      "quartet_number": null,
       "instrumentation": "two violins, viola and cello",
       "key": "C Major",
       "opus": {
-        "number": "54",
+        "number": 54,
         "work_number": 5,
-        "year": null
+        "year": null,
+        "type": null
       },
       "movements": [
         {
           "number": 1,
-          "tempo": "Allegro con spirito"
+          "tempo": "Allegro con spirito",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         },
         {
           "number": 2,
-          "tempo": "Andantino"
+          "tempo": "Andantino",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         },
         {
           "number": 3,
-          "tempo": "Minuetto"
+          "tempo": "Minuetto",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         },
         {
           "number": 4,
-          "tempo": "Allegretto moderato"
+          "tempo": "Allegretto moderato",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         }
       ],
       "sources": {
-        "autograph": "Washington, Library of Congress (separate parts)"
+        "autograph": "Washington, Library of Congress (separate parts)",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
       },
-      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of the whole of the trio in C Major Op. 54 no. 4 of 1796 (No. 116).",
-      "is_arrangement": true,
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of the whole of the trio in C Major Op. 54 no. 4 of 1796 (No. 116). Unpublished.",
       "incomplete": false
     },
     {
       "g_number": 255,
+      "quartet_number": null,
       "instrumentation": "two violins, viola and cello",
       "key": "D Major",
       "opus": {
-        "number": "54",
+        "number": 54,
         "work_number": 6,
-        "year": null
+        "year": null,
+        "type": null
       },
       "movements": [
         {
           "number": 1,
-          "tempo": "Allegro moderato"
+          "tempo": "Allegro moderato",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         },
         {
           "number": 2,
-          "tempo": "Andantino"
+          "tempo": "Andantino",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         },
         {
           "number": 3,
-          "tempo": "Minuetto"
+          "tempo": "Minuetto",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         },
         {
           "number": 4,
-          "tempo": "Allegro assai"
+          "tempo": "Allegro assai",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
         }
       ],
       "sources": {
-        "autograph": "Washington, Library of Congress (separate parts)"
+        "autograph": "Washington, Library of Congress (separate parts)",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
       },
-      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of movements from trio Op. 14: first movement from trio in F Major Op. 14 no. 1 of 1772 (No. 95, Incipit No. 168), second movement from trio in D Major Op. 14 no. 4 of 1772 (No. 98, Incipit No. 180), third movement from trio in C Minor Op. 14 no. 2 of 1772 (No. 96, Incipit No. 173), fourth movement from trio in D Major Op. 14 no. 4 of 1772 (No. 98, Incipit No. 181).",
-      "is_arrangement": true,
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Movements are arrangements of various trio movements from Op. 14: 1st movement from trio in F Major Op. 14 no. 1 of 1772 (No. 95), 2nd movement from trio in D Major Op. 14 no. 4 of 1772 (No. 98), 3rd movement from trio in C Minor Op. 14 no. 2 of 1772 (No. 96), 4th movement from trio in D Major Op. 14 no. 4 of 1772 (No. 98). Unpublished.",
       "incomplete": false
     }
   ],
   "continues_from_previous": null,
-  "partial_notes": "Both entries are marked as unpublished arrangements with questionable attribution to Boccherini himself"
+  "partial_notes": null
 }

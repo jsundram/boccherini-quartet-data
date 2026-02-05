@@ -1,13 +1,14 @@
 {
   "book_page": 245,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 219,
       "quartet_number": 61,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "A Major",
       "opus": {
-        "number": "43",
+        "number": 43,
         "work_number": 2,
         "year": 1790,
         "type": "opera piccola"
@@ -18,14 +19,14 @@
           "tempo": "Allegretto con moto",
           "incipit_number": 487,
           "instrument": "v1",
-          "dynamics": null
+          "dynamics": "sotto voce"
         },
         {
           "number": 2,
-          "tempo": "Minuetto",
+          "tempo": "Minuetto (Trio)",
           "incipit_number": 488,
           "instrument": "v1",
-          "dynamics": "pp"
+          "dynamics": "sotto voce assai, pp"
         }
       ],
       "sources": {
@@ -41,19 +42,19 @@
     {
       "g_number": 220,
       "quartet_number": 62,
-      "instrumentation": "two violins, viola and 'cello",
-      "key": "B\u266d Major",
+      "instrumentation": "two violins, viola and cello",
+      "key": "Bb Major",
       "opus": {
-        "number": "44",
+        "number": 44,
         "work_number": 1,
         "year": 1792,
         "type": "opera piccola"
       },
       "movements": [],
       "sources": {},
-      "notes": "Op. 43 comprises various works (see note 1 to No. 218)."
+      "notes": "Op. 43 comprises various works (see note to No. 218)."
     }
   ],
-  "continues_from_previous": false,
-  "partial_notes": "Entry 220 is incomplete - only header information is visible on this page"
+  "continues_from_previous": null,
+  "partial_notes": "Entry 220 appears to continue onto the next page as only the header information is visible."
 }

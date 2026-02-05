@@ -1,42 +1,43 @@
 {
   "book_page": 194,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 174,
       "quartet_number": 16,
-      "instrumentation": "two violins, viola and 'cello",
-      "key": "E-flat Major",
+      "instrumentation": "two violins, viola and cello",
+      "key": "E\u266d Major",
       "opus": {
-        "number": "9",
+        "number": 9,
         "work_number": 4,
         "year": 1770,
         "type": "opera grande"
       },
-      "sources": {
-        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 8...' (for comment, see No. 171)",
-        "ms_copies_score": [
-          "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 8...'"
-        ],
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 1...' (for comment, see No. 171)",
-          "Genoa, Liceo Musicale Paganini, SS/A/2/13",
-          "M\u00fcnster, Priesterseminarbibliothek, Santini HS.529, 'Opera III\u00b0, Concerto primo...' (for comment, see No. 171)",
-          "Naples, Conservatorio. Two copies: 22.2.10, and 22.3.2, 'Quartetto no. 1...'"
-        ],
-        "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 3 (for title, see No. 171)",
-        "later_editions": [
-          "(c. 1780), London, Brenner: Op. 10 no. 3 (for title, see No. 171)",
-          "(c. 1785), Amsterdam, Hummel: Op. 7 no. 3 (for title, see No. 171)",
-          "(c. 1785), London, Preston: Op. 10 no. 3 (for title, see No. 171)",
-          "(c. 1790), Paris, Boyer: Op. 10 no. 3 (for title, see No. 171)"
-        ]
-      },
-      "notes": "The same quartet begins with a Largo. I presume that the Largo is merely a brief introduction which was suppressed when the work was engraved, without anything being put in its place. The MS. at Lucca (D.I.33) confirms the hypothesis put forward by Picquot. The Allegro assai is certainly by Boccherini, and it is preceded by a Largo of ten bars. A conscientious performance of this quartet should therefore take account of this MS. and not merely play the text of the V\u00e9nier edition, which deprives the work of a lyrical episode forming a natural prelude to the feverish Allegro of the first movement."
+      "movements": [],
+      "sources": {},
+      "notes": "Op. 9 no. 4 of 1770 ('opera grande') in Boccherini's autograph catalogue.",
+      "incomplete": false
     }
   ],
   "continues_from_previous": {
-    "g_number": 173,
-    "notes": "STRING QUARTETS (TWO VIOLINS, VIOLA AND 'CELLO) - partial text visible discussing Largo introduction and manuscript sources"
+    "g_number": null,
+    "sources": {
+      "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 8...' (for comment, see No. 171)",
+      "ms_copies_score": "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 8...'",
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 1...' (for comment, see No. 171)",
+        "Genoa, Liceo Musicale Paganini, SS/A/2/13",
+        "M\u00fcnster, Priesterseminarbibliothek, Santini HS.529, 'Opera III\u00b0, Concerto primo...' (for comment, see No. 171)",
+        "Naples, Conservatorio. Two copies: 22.2.10, and 22.3.2, 'Quartetto no. 1...'"
+      ],
+      "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 3 (for title, see No. 171)",
+      "later_editions": [
+        "(c. 1780), London, Brenner: Op. 10 no. 3 (for title, see No. 171)",
+        "(c. 1785), Amsterdam, Hummel: Op. 7 no. 3 (for title, see No. 171)",
+        "(c. 1785), London, Preston: Op. 10 no. 3 (for title, see No. 171)",
+        "(c. 1790), Paris, Boyer: Op. 10 no. 3 (for title, see No. 171)"
+      ]
+    }
   },
-  "partial_notes": "Page shows end of entry 173 and complete entry 174"
+  "partial_notes": "The page continues with detailed source information for the previous entry, discussing that the quartet begins with a Largo that was likely a brief introduction suppressed when the work was engraved. Reference is made to MS. at Lucca (D.I.33) and Picquot's hypothesis about Boccherini's performance practice."
 }

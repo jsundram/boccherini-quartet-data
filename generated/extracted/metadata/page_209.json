@@ -1,13 +1,14 @@
 {
   "book_page": 208,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 186,
       "quartet_number": 28,
       "instrumentation": "two violins, viola and 'cello",
-      "key": "B\u266d Major",
+      "key": "Bb Major",
       "opus": {
-        "number": "22",
+        "number": 22,
         "work_number": 4,
         "year": 1775,
         "type": "opera piccola"
@@ -18,7 +19,7 @@
           "tempo": "Allegretto moderato",
           "incipit_number": 399,
           "instrument": "v1",
-          "dynamics": "p"
+          "dynamics": "dolcis."
         },
         {
           "number": 2,
@@ -36,13 +37,14 @@
         ],
         "first_edition": "(1776?), Paris, La Chevardi\u00e8re: Op. 26 no. 4 (for title, see No. 183)",
         "later_editions": [
-          "(1786?), Offenbach am Main, Andr\u00e9, no. 8: Quatuor p\u00e9riodique N\u00b0 VIII Pour deux Violons, Alto et Violoncelle, compos\u00e9 par Mr Boccherini. \u00e0 Offenbach sur le Mein chez I. Andr\u00e9 et aux adresses ordinaires. Plate no. 115 (Copies: Dresden, Landesbibliothek and Copenhagen, K\u00f6nigl. Konservatorium)",
+          "(1786?), Offenbach am Main, Andr\u00e9, no. 8: Quatuor p\u00e9riodique N\u00b0 VIII Pour deux Violons, Alto et Violoncelle, compos\u00e9 par Mr Boccherini. \u00e0 Offenbach sur le Mein chez I. Andr\u00e9 et aux adresses ordinaires. Plate no. 115 (Copies: Dresden, Landesbibliothek and Copenhagen, Kongelin Konservatorium)",
           "(c. 1800), Paris, Imbault: Op. 26 no. 4 (for title and comment, see No. 183)"
         ],
-        "modern_edition": "(1963?), New York, International Music Co. (separate parts: revised by H. Sitt), 'Quartetto no. 8'"
+        "modern_edition": "(1964?), New York, International Music Co. (separate parts: revised by H. Sitt), 'Quartetto no. 8'"
       },
       "notes": "See note to No. 295."
     }
   ],
-  "partial_notes": "Complete entry for G. 186"
+  "continues_from_previous": null,
+  "partial_notes": null
 }

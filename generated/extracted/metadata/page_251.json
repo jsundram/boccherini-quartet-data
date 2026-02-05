@@ -1,13 +1,21 @@
 {
   "book_page": 250,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Allegro non tanto",
+      "incipit_number": 500,
+      "instrument": "v1"
+    }
+  ],
   "entries": [
     {
       "g_number": 225,
       "quartet_number": 67,
       "instrumentation": "two violins, viola and cello",
-      "key": "E-flat Major",
+      "key": "Eb Major",
       "opus": {
-        "number": "44",
+        "number": 44,
         "work_number": 6,
         "year": 1792,
         "type": "opera piccola"
@@ -26,7 +34,7 @@
           "incipit_number": 502,
           "instrument": "v1",
           "dynamics": "pp",
-          "special_notes": "(Trio)"
+          "notes": "Trio"
         }
       ],
       "sources": {
@@ -35,23 +43,11 @@
     }
   ],
   "continues_from_previous": {
-    "g_number": 224,
-    "movements": [
-      {
-        "number": 2,
-        "tempo": "Allegro non tanto",
-        "incipit_number": 500,
-        "instrument": "v1"
-      }
-    ],
+    "g_number": null,
     "sources": {
-      "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (11). 'Mese di Ottobre 1792. Quartettino per due violini, viola e violoncello obbo di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
-      "ms_copies_parts": [
-        "Mulhouse, Bibl. Municipale, MN.4862.",
-        "Paris, Conservatoire, D. 11165, in the hand of Picquot."
-      ]
+      "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (11). 'Mese di Ottobre 1792. Quartettino per due violini, viola e violoncello obb\u00ba di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+      "ms_copies_parts": "Mulhouse, Bibl. Municipale, MN.4862. Paris, Conservatoire, D. 11165, in the hand of Picquot."
     },
     "notes": "Unpublished."
-  },
-  "partial_notes": "Entry 224 continues from previous page showing only movement 2 and source information. Entry 225 appears complete."
+  }
 }

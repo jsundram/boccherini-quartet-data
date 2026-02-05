@@ -1,55 +1,56 @@
 {
   "book_page": 251,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Andante moderato",
+      "incipit_number": 503,
+      "instrument": "v1"
+    },
+    {
+      "number": 2,
+      "tempo": "Minuetto con moto",
+      "incipit_number": 504,
+      "instrument": "v1",
+      "notes": "Trio, sotto voce assai"
+    }
+  ],
   "entries": [
     {
       "g_number": 226,
       "quartet_number": 68,
-      "instrumentation": "two violins, viola and 'cello",
+      "instrumentation": "two violins, viola and cello",
       "key": "F Major",
       "opus": {
-        "number": "48",
+        "number": 48,
         "work_number": 1,
         "year": 1794,
+        "month": "February",
         "type": "opera piccola"
       },
-      "movements": [
-        {
-          "number": 1,
-          "tempo": "Andante moderato",
-          "incipit_number": 503,
-          "instrument": "v1",
-          "dynamics": "f"
-        },
-        {
-          "number": 2,
-          "tempo": "Minuetto con moto",
-          "incipit_number": 504,
-          "instrument": "v1",
-          "dynamics": "f",
-          "notes": "Trio marked as 'sotto voce assai'"
-        }
-      ],
+      "movements": [],
       "sources": {
-        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve, 507 (13). 'Mese di Febrajo 1794. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia'",
+        "autograph": {
+          "location": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve, 507 (13)",
+          "date": "February 1794",
+          "description": "Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia"
+        },
         "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.602. Copy made in Berlin for Frederick William II",
-          "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
-          "Paris, Conservatoire, D. 11167, in the hand of Picquot"
+          {
+            "location": "Berlin, Deutsche Staatsbibliothek, M.602",
+            "description": "Copy made in Berlin for Frederick William II"
+          },
+          {
+            "location": "Mulhouse, Bibl. Municipale, MN.4862",
+            "date": "19th century"
+          },
+          {
+            "location": "Paris, Conservatoire, D. 11167",
+            "description": "in the hand of Picquot"
+          }
         ]
       },
       "notes": "Unpublished"
     }
-  ],
-  "continues_from_previous": {
-    "g_number": 225,
-    "sources": {
-      "ms_copies_parts": [
-        "Berlin, Deutsche Staatsbibliothek, M.601. Copy made in Berlin for Frederick William II",
-        "Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
-        "Paris, Conservatoire, D. 11166, in the hand of Picquot, with a note: 'tr\u00e8s beau'"
-      ]
-    },
-    "notes": "Unpublished"
-  },
-  "partial_notes": "Entry 225 continues from previous page with only source information visible. Entry 226 appears complete."
+  ]
 }

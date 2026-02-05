@@ -1,13 +1,14 @@
 {
   "book_page": 220,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 197,
       "quartet_number": 39,
       "instrumentation": "two violins, viola and cello",
-      "key": "E-flat Major",
+      "key": "E\u266d Major",
       "opus": {
-        "number": "26",
+        "number": 26,
         "work_number": 3,
         "year": 1778,
         "type": "opera piccola"
@@ -26,7 +27,7 @@
           "incipit_number": 428,
           "instrument": "v1",
           "dynamics": "p",
-          "notes": "(Trio) (V1) sotto voce"
+          "additional_info": "(Trio) sotto voce"
         }
       ],
       "sources": {
@@ -40,9 +41,9 @@
         "later_editions": [
           "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 3 (for title, see No. 195)",
           "(c. 1790), Paris, Le Duc: Op. 32 no. 3 (for title, see No. 195)"
-        ],
-        "arrangements": "See No. 195"
-      }
+        ]
+      },
+      "notes": "Arrangements: See No. 195"
     },
     {
       "g_number": 198,
@@ -50,13 +51,14 @@
       "instrumentation": "two violins, viola and cello",
       "key": "A Major",
       "opus": {
-        "number": "26",
+        "number": 26,
         "work_number": 4,
         "year": 1778,
         "type": "opera piccola"
       },
-      "continues_on_next": true
+      "movements": [],
+      "sources": {},
+      "incomplete": true
     }
-  ],
-  "partial_notes": "Entry 198 is incomplete, continuing on next page"
+  ]
 }

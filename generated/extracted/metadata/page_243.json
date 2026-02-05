@@ -1,5 +1,13 @@
 {
   "book_page": 242,
+  "movements_for_previous_entry": [
+    {
+      "number": 4,
+      "tempo": "Rondeau. Allegro moderato",
+      "incipit_number": 480,
+      "instrument": "v1"
+    }
+  ],
   "entries": [
     {
       "g_number": 216,
@@ -7,7 +15,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "A Major",
       "opus": {
-        "number": "42",
+        "number": 42,
         "work_number": 1,
         "year": 1789,
         "type": "opera piccola"
@@ -17,45 +25,23 @@
           "number": 1,
           "tempo": "Allegretto moderato",
           "incipit_number": 481,
-          "instrument": "v1",
-          "dynamics": "p"
+          "instrument": "v1"
         },
         {
           "number": 2,
           "tempo": "Minuetto. Allegro",
           "incipit_number": 482,
           "instrument": "v1",
-          "dynamics": "p"
+          "trio": true
         }
       ],
       "sources": {
-        "ms_copies_parts": [
-          "Berlin, Deutsche Staatsbibliothek, M.589, 'Mese di Giugno 1788. Quartetto...' (for title and comment, see No. 214)"
-        ],
+        "autograph": "Lost",
+        "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.589, 'Mese di Giugno 1788. Quartetto...' (for title and comment, see No. 214)",
         "first_edition": "1798, Paris, Pleyel: Op. 39 no. 5 (Book 2 no. 2; for title and comment, see No. 234)",
         "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 41 (separate parts; revised by Walter Upmeyer), no. 5 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
       },
-      "notes": "Op. 42 comprises two quartettini (Nos. 216, 217), three double 'cello quintets (Nos. 348-350) and a quintettino (No. 351), a symphony (No. 520), and an octet (No. 473)."
+      "incomplete": false
     }
-  ],
-  "continues_from_previous": {
-    "g_number": 4,
-    "movements": [
-      {
-        "tempo": "Rondeau. Allegro moderato",
-        "incipit_number": 480,
-        "instrument": "v1",
-        "dynamics": "p"
-      }
-    ],
-    "sources": {
-      "autograph": "Lost",
-      "ms_copies_parts": [
-        "Berlin, Deutsche Staatsbibliothek, M.589, 'Mese di Giugno 1788. Quartetto...' (for title and comment, see No. 214)"
-      ],
-      "first_edition": "1798, Paris, Pleyel: Op. 39 no. 5 (Book 2 no. 2; for title and comment, see No. 234)",
-      "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 41 (separate parts; revised by Walter Upmeyer), no. 5 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
-    }
-  },
-  "partial_notes": "Entry 4 appears to be the continuation of a quartet from the previous page, showing only the final movement and source information"
+  ]
 }

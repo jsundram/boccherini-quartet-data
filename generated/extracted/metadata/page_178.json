@@ -1,45 +1,119 @@
 {
   "book_page": 177,
+  "movements_for_previous_entry": [
+    {
+      "number": 3,
+      "tempo": "Minuetto",
+      "incipit_number": 161,
+      "instrument": "v1",
+      "dynamics": "f"
+    }
+  ],
   "entries": [],
   "continues_from_previous": {
-    "g_number": 161,
-    "instrumentation": "two violins, viola and cello",
-    "movements": [
-      {
-        "number": 3,
-        "tempo": "Minuetto",
-        "incipit_number": 333,
-        "instrument": "v1",
-        "dynamics": "f"
-      }
-    ],
+    "g_number": null,
     "sources": {
-      "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 5...' (for comment, see No. 159)",
+      "autograph": {
+        "location": "Lucca, Istituto Musicale Boccherini",
+        "classification": "D.I.33",
+        "title": "Sonata a quattro no. 5",
+        "note": "separate parts, for comment see No. 159"
+      },
       "ms_copies_score": [
-        "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 5...'"
+        {
+          "location": "Lucca, Istituto Musicale Boccherini",
+          "classification": "B.I.114",
+          "title": "Sonata a quattro no. 5"
+        }
       ],
       "ms_copies_parts": [
-        "Burgos, Archivo Catedral, Car. 74",
-        "Florence, Conservatorio, B.1550",
-        "Graz, Di\u00f6zesanarchiv, Ms. 515",
-        "Montecatini, Venturi private collection, A.9, 'Quartetto no. 1...'",
-        "Paris, Conservatoire, D.10757",
-        "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.101",
-        "Stams, Abbey, L.IV.68, 'Quartetto no. 4...'",
-        "Stockholm, Kungl. Musik Akad. Bibl., W4-R",
-        "Vienna, Bibl. Nat., S.m. 2905"
+        {
+          "location": "Burgos, Archivo Catedral",
+          "classification": "Car. 74"
+        },
+        {
+          "location": "Florence, Conservatorio",
+          "classification": "B.1550"
+        },
+        {
+          "location": "Graz, Di\u00f6zesanarchiv",
+          "classification": "Ms. 515"
+        },
+        {
+          "location": "Montecatini, Venturi private collection",
+          "classification": "A.9",
+          "title": "Quartetto no. 1"
+        },
+        {
+          "location": "Paris, Conservatoire",
+          "classification": "D.10757"
+        },
+        {
+          "location": "Prague, N\u00e1rodn\u00ed Muzeum",
+          "classification": "XLI.C.101"
+        },
+        {
+          "location": "Stams, Abbey",
+          "classification": "L.IV.68",
+          "title": "Quartetto no. 4"
+        },
+        {
+          "location": "Stockholm, Kungl. Musik Akad. Bibl.",
+          "classification": "W4-R"
+        },
+        {
+          "location": "Vienna, Bibl. Nat.",
+          "classification": "S.m. 2905"
+        }
       ],
-      "first_edition": "April, 1767, Paris, V\u00e9nier: Op. 1 no. 3 (for title, see No. 159)",
+      "first_edition": [
+        {
+          "date": "April, 1767",
+          "location": "Paris",
+          "publisher": "V\u00e9nier",
+          "opus": "Op. 1 no. 3",
+          "note": "for title, see No. 159"
+        }
+      ],
       "later_editions": [
-        "(c. 1775), London, Welcker: Op. 1 no. 3 (for title, see No. 159)",
-        "(c. 1780), Amsterdam, Hummel: Op. 1 no. 3 (for title, see No. 159)",
-        "(c. 1785?), Paris, Boyer-Naderman: Op. 1 no. 3 (for title, see No. 159)",
-        "(c. 1785?), London, Preston: Op. 1 no. 3 (for title, see No. 159)"
+        {
+          "date": "c. 1775",
+          "location": "London",
+          "publisher": "Welcker",
+          "opus": "Op. 1 no. 3",
+          "note": "for title, see No. 159"
+        },
+        {
+          "date": "c. 1780",
+          "location": "Amsterdam",
+          "publisher": "Hummel",
+          "opus": "Op. 1 no. 3",
+          "note": "for title, see No. 159"
+        },
+        {
+          "date": "c. 1785",
+          "location": "Paris",
+          "publisher": "Boyer-Naderman",
+          "opus": "Op. 1 no. 3",
+          "note": "for title, see No. 159"
+        },
+        {
+          "date": "c. 1785",
+          "location": "London",
+          "publisher": "Preston",
+          "opus": "Op. 1 no. 3",
+          "note": "for title, see No. 159"
+        }
       ],
       "arrangements": [
-        "Of the second movement, as part of a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785 (see No: 49)"
+        {
+          "description": "Of the second movement, as part of a sonata for harpsichord (or pianoforte) and violin",
+          "arranger": "Mlle Le Jeune",
+          "date": "c. 1785",
+          "reference": "see No: 49"
+        }
       ]
     }
   },
-  "partial_notes": "This page shows only the continuation of entry G. 161, starting with movement 3 (Minuetto) and complete source information"
+  "partial_notes": "This page shows the third movement (Minuetto) and detailed source information for a previous catalog entry, with Incipit No. 333 noted."
 }

@@ -1,17 +1,26 @@
 {
   "book_page": 281,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 261,
-      "title": "SIX QUARTETS for flute, violin, viola and 'cello",
-      "instrumentation": "flute, violin, viola and 'cello",
-      "is_arrangement": true,
+      "quartet_number": null,
+      "instrumentation": "flute, violin, viola and cello",
+      "key": null,
+      "opus": null,
+      "movements": [],
       "sources": {
-        "first_edition": "(n.d.), Paris, Boyer-Naderman"
+        "autograph": null,
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": "Paris, Boyer-Naderman (n.d.)",
+        "later_editions": null,
+        "modern_edition": null
       },
-      "notes": "Arrangements. No reference in Boccherini's autograph catalogue. For comment as to authenticity, see below. It appears that Boyer-Naderman published two books of three quartets for flute, violin, viola and 'cello, but no copy of this edition has been found. We can only refer to the comment of Picquot (p. 142): 'The early quartets of Boccherini have furnished the framework for these works without merit, in which a flute part has been substituted, by way of transposition, for the part of the first violin. This completely distorts the character and effect of the works'."
+      "notes": "SIX QUARTETS for flute, violin, viola and 'cello. Arrangements. No reference in Boccherini's autograph catalogue. For comment as to authenticity, see below. Boyer-Naderman published two books of three quartets each, but no copy of this edition has been found. Picquot comments that the early quartets of Boccherini have furnished the framework for these works without merit, in which a flute part has been substituted by way of transposition for the part of the first violin, completely distorting the character and effect of the works.",
+      "incomplete": false
     }
   ],
-  "continues_from_previous": false,
-  "partial_notes": "This entry describes a collection of six quartets that are arrangements, with criticism about their authenticity and quality. The original works they were arranged from are not specified on this page."
+  "continues_from_previous": null,
+  "partial_notes": null
 }

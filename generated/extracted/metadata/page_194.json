@@ -1,5 +1,6 @@
 {
   "book_page": 193,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 173,
@@ -7,7 +8,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "F Major",
       "opus": {
-        "number": "9",
+        "number": 9,
         "work_number": 3,
         "year": 1770,
         "type": "opera grande"
@@ -16,70 +17,49 @@
         {
           "number": 1,
           "tempo": "Largo",
-          "incipit_number": 368,
+          "instrument": "v1"
+        },
+        {
+          "number": 1,
+          "tempo": "Allegro",
           "instrument": "v1"
         },
         {
           "number": 2,
-          "tempo": "Allegro",
-          "instrument": "v1",
-          "dynamics": "f"
-        },
-        {
-          "number": 3,
           "tempo": "Largo cantabile",
-          "incipit_number": 369,
+          "incipit_number": 368,
           "instrument": "v1",
           "dynamics": "sf p"
         },
         {
-          "number": 4,
+          "number": 3,
           "tempo": "Minuetto",
-          "incipit_number": 370,
+          "incipit_number": 369,
           "instrument": "v1",
-          "additional_markings": "con grazia"
+          "additional_marking": "con grazia"
         },
         {
-          "number": 4,
-          "tempo": "Trio",
+          "number": 3,
+          "tempo": "(Trio)",
+          "incipit_number": 370,
           "instrument": "v1",
           "dynamics": "pp",
-          "additional_markings": "sul ponticello"
+          "additional_marking": "sul ponticello"
         }
       ],
-      "notes": "Picquot writes (p. 114): 'This third quartet begins in the V\u00e9nier edition with an Allegro assai, while in the thematic catalogue drawn up by Boccherini the'"
+      "sources": {},
+      "notes": "Op. 9 no. 3 of 1770 ('opera grande') in Boccherini's autograph catalogue. Picquot writes (p. 114): 'This third quartet begins in the V\u00e9nier edition with an Allegro assai, while in the thematic catalogue drawn up by Boccherini the'"
     }
   ],
   "continues_from_previous": {
-    "g_number": 172,
+    "g_number": 173,
     "sources": {
       "first_edition": [
-        {
-          "year": "c. 1785",
-          "location": "London, Preston",
-          "opus": "Op. 10 no. 2",
-          "notes": "for title, see No. 171"
-        },
-        {
-          "year": "c. 1790",
-          "location": "Paris, Boyer",
-          "opus": "Op. 10 no. 2",
-          "notes": "for title, see No. 171"
-        }
+        "(c. 1785), London, Preston: Op. 10 no. 2 (for title, see No. 171)",
+        "(c. 1790), Paris, Boyer: Op. 10 no. 2 (for title, see No. 171)"
       ],
-      "modern_edition": {
-        "year": "c. 1930",
-        "location": "Leipzig, Peters",
-        "opus": "Op. 10 no. 2",
-        "notes": "separate parts; revised by R. Hofmann. This edition was re-published c. 1943? by the International Music Co., New York"
-      },
-      "arrangements": [
-        {
-          "description": "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778",
-          "reference": "see No. 42"
-        }
-      ]
-    }
-  },
-  "partial_notes": "Entry 173 is cut off mid-sentence in the notes section"
+      "modern_edition": "(c. 1930), Leipzig, Peters: Op. 10 no. 2 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York."
+    },
+    "arrangements": "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778 (see No. 42)."
+  }
 }

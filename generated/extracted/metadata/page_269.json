@@ -1,5 +1,14 @@
 {
   "book_page": 268,
+  "movements_for_previous_entry": [
+    {
+      "number": 3,
+      "tempo": "Rondeau. Allegro giusto",
+      "incipit_number": 552,
+      "instrument": "v1",
+      "dynamics": "con semplicit\u00e0"
+    }
+  ],
   "entries": [
     {
       "g_number": 245,
@@ -7,7 +16,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "B Minor",
       "opus": {
-        "number": "58",
+        "number": 58,
         "work_number": 4,
         "year": 1799,
         "type": "opera grande"
@@ -36,29 +45,18 @@
         }
       ],
       "sources": {
+        "autograph": "No MSS. of any kind are known",
         "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 4 (for title, see No. 242)"
-      }
+      },
+      "notes": "In Boccherini's autograph catalogue"
     }
   ],
   "continues_from_previous": {
     "g_number": 244,
-    "quartet_number": null,
-    "instrumentation": "two violins, viola and cello",
-    "key": null,
-    "opus": null,
-    "movements": [
-      {
-        "number": 3,
-        "tempo": "Rondeau. Allegro giusto",
-        "incipit_number": 552,
-        "instrument": "v1",
-        "dynamics": "con semplicit\u00e0"
-      }
-    ],
     "sources": {
+      "autograph": "No MSS. of any kind are known",
       "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 3 (for title, see No. 242)",
       "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 3 (pocket score and separate parts; revised by P. Carmirelli)"
     }
-  },
-  "partial_notes": "MSS sections indicate no manuscripts of any kind are known for both quartets"
+  }
 }

@@ -1,5 +1,28 @@
 {
   "book_page": 216,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegro moderato",
+      "incipit_number": 417,
+      "instrument": "v1",
+      "dynamics": "f p"
+    },
+    {
+      "number": 2,
+      "tempo": "Larghetto",
+      "incipit_number": 418,
+      "instrument": "vlc",
+      "dynamics": "pp"
+    },
+    {
+      "number": 3,
+      "tempo": "Allegro molto",
+      "incipit_number": 419,
+      "instrument": "v1",
+      "dynamics": "f"
+    }
+  ],
   "entries": [
     {
       "g_number": 194,
@@ -7,7 +30,7 @@
       "instrumentation": "two violins, viola and cello",
       "key": "G Minor",
       "opus": {
-        "number": "24",
+        "number": 24,
         "work_number": 6,
         "year": "1776-1778",
         "type": "opera grande"
@@ -18,48 +41,20 @@
           "tempo": "Allegro vivo assai",
           "incipit_number": 420,
           "instrument": "v1",
-          "dynamics": "f"
+          "dynamics": "f p"
         }
       ],
       "sources": {},
-      "notes": "for comment, see No. 189"
+      "notes": "Appears in Boccherini's autograph catalogue (for comment, see No. 189)"
     }
   ],
   "continues_from_previous": {
-    "g_number": 194,
-    "movements": [
-      {
-        "number": 1,
-        "tempo": "Allegro moderato",
-        "incipit_number": 417,
-        "instrument": "v1",
-        "dynamics": "f"
-      },
-      {
-        "number": 2,
-        "tempo": "Larghetto",
-        "incipit_number": 418,
-        "instrument": "vlc",
-        "dynamics": "pp"
-      },
-      {
-        "number": 3,
-        "tempo": "Allegro molto",
-        "incipit_number": 419,
-        "instrument": "v1",
-        "dynamics": "f"
-      }
-    ],
+    "g_number": 193,
     "sources": {
-      "autograph": "Paris, Conservatoire, MS. 1292 (with a note 'Laus Deo'; for title and comment, see No. 189)",
-      "ms_copies_parts": [
-        "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6. 'Quartetto no. 6...'"
-      ],
+      "autograph": "Paris, Conservatoire, MS. 1292 (with note 'Laus Deo'; for title and comment, see No. 189)",
+      "ms_copies_parts": "Naples, Conservatorio. Two copies: 22.5.2, and 22.5.6. 'Quartetto no. 6...'",
       "first_edition": "(1778?), Paris, Sieber: Op. 27 no. 6 (for title, see No. 191)",
-      "later_editions": [
-        "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 6 (for title, see No. 191)"
-      ]
+      "later_editions": "(c. 1785?), Amsterdam, Hummel: Op. 11 no. 6 (for title, see No. 191)"
     }
-  },
-  "partial_notes": "Page shows the conclusion of entry [194] with complete source information, followed by the beginning of a new entry for Quartet No. 36. The new entry appears to continue on the next page."
+  }
 }

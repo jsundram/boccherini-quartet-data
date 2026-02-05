@@ -1,13 +1,14 @@
 {
   "book_page": 270,
+  "movements_for_previous_entry": [],
   "entries": [
     {
       "g_number": 247,
       "quartet_number": 89,
       "instrumentation": "two violins, viola and cello",
-      "key": "E-flat Major",
+      "key": "Eb Major",
       "opus": {
-        "number": "58",
+        "number": 58,
         "work_number": 6,
         "year": 1799,
         "type": "opera grande"
@@ -17,8 +18,7 @@
           "number": 1,
           "tempo": "Allegretto moderato",
           "incipit_number": 559,
-          "instrument": "v1",
-          "dynamics": "p"
+          "instrument": "v1"
         },
         {
           "number": 2,
@@ -31,15 +31,14 @@
           "number": 3,
           "tempo": "Allegro giusto e sostenuto",
           "incipit_number": 561,
-          "instrument": "v1",
-          "dynamics": "fp"
+          "instrument": "v1"
         }
       ],
       "sources": {
-        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 6 (for title, see No. 242)",
-        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 6 (pocket score and separate parts; revised by P. Carmirelli)"
-      },
-      "notes": "No MSS. of any kind are known."
+        "autograph": "No MSS. of any kind are known.",
+        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 6 (for title, see No. 242).",
+        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 6 (pocket score and separate parts; revised by P. Carmirelli)."
+      }
     },
     {
       "g_number": 248,
@@ -47,12 +46,14 @@
       "instrumentation": "two violins, viola and cello",
       "key": "F Major",
       "opus": {
-        "number": "64",
+        "number": 64,
         "work_number": 1,
         "year": 1804,
         "type": "opera grande"
-      }
+      },
+      "movements": [],
+      "sources": {},
+      "incomplete": true
     }
-  ],
-  "partial_notes": "Entry 248 is incomplete, only showing basic identification information"
+  ]
 }
