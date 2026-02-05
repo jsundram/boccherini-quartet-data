@@ -1,0 +1,91 @@
+{
+  "book_page": 187,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 169,
+      "quartet_number": 11,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Major",
+      "opus": {
+        "number": 8,
+        "work_number": 5,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino",
+          "incipit_number": 355,
+          "instrument": "v1",
+          "dynamics": "mezza voce"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro",
+          "incipit_number": 356,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 3,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 357,
+          "instrument": "v1",
+          "dynamics": "p",
+          "trio": true
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "first_edition": {
+          "date": "December, 1769",
+          "location": "Paris",
+          "publisher": "V\u00e9nier",
+          "opus": "Op. 6 no. 4",
+          "reference": "for title, see No. 165"
+        },
+        "later_editions": [
+          {
+            "date": "c. 1770",
+            "location": "London",
+            "publisher": "Longman Lukey",
+            "opus": "Op. 4 no. 4",
+            "reference": "for title, see No. 166"
+          },
+          {
+            "date": "c. 1775",
+            "location": "London",
+            "publisher": "Bremner",
+            "opus": "Op. 6 no. 4",
+            "reference": "for title, see No. 166"
+          },
+          {
+            "date": "c. 1780",
+            "location": "Amsterdam",
+            "publisher": "Hummel",
+            "opus": "Op. 2 no. 4",
+            "reference": "for title, see No. 166"
+          },
+          {
+            "date": "c. 1785",
+            "location": "Paris",
+            "publisher": "Boyer-Naderman",
+            "opus": "Op. 6 no. 4",
+            "reference": "for title, see No. 165"
+          }
+        ],
+        "modern_edition": {
+          "date": "1953",
+          "location": "Milan",
+          "publisher": "Ricordi",
+          "opus": "Op. 6 no. 4",
+          "note": "pocket score; revised by Enrico Polo"
+        }
+      }
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": "Entry 169 appears complete with all movements, sources, and catalog information."
+}

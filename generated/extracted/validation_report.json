@@ -1,0 +1,224 @@
+{
+  "summary": {
+    "total_entries_extracted": 105,
+    "coverage_of_expected_quartets": "100.0%",
+    "key_accuracy": "84.6%",
+    "movements_with_tempo": "100.0%",
+    "status": "PASS"
+  },
+  "coverage": {
+    "extracted_count": 104,
+    "reference_count": 91,
+    "expected_quartet_range": "G.159-G.249",
+    "missing_from_expected": [],
+    "extra_entries": [
+      250,
+      251,
+      252,
+      253,
+      254,
+      255,
+      256,
+      257,
+      258,
+      260,
+      261,
+      262,
+      264
+    ],
+    "coverage_percentage": 100.0
+  },
+  "key_validation": {
+    "matches": 77,
+    "mismatches": [
+      {
+        "g_number": 160,
+        "extracted": "Bb Major",
+        "reference": "B-Flat Major"
+      },
+      {
+        "g_number": 167,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 186,
+        "extracted": "Bb Major",
+        "reference": "B-Flat Major"
+      },
+      {
+        "g_number": 191,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 201,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 210,
+        "extracted": "Bb Major",
+        "reference": "B-Flat Major"
+      },
+      {
+        "g_number": 212,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 220,
+        "extracted": "Bb Major",
+        "reference": "B-Flat Major"
+      },
+      {
+        "g_number": 225,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 229,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 236,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 241,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 243,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      },
+      {
+        "g_number": 247,
+        "extracted": "Eb Major",
+        "reference": "E-Flat Major"
+      }
+    ],
+    "accuracy": 84.61538461538461
+  },
+  "movement_validation": {
+    "total_movements": 260,
+    "with_tempo": 260,
+    "with_incipit_number": 238,
+    "tempo_coverage": 100.0,
+    "incipit_coverage": 91.53846153846153
+  },
+  "incipit_validation": {
+    "existing_files": 203,
+    "referenced_files": 238,
+    "missing_files": [
+      {
+        "g_number": 159,
+        "movement": 1,
+        "expected_file": "G159_mvt1_incipit325.png"
+      },
+      {
+        "g_number": 159,
+        "movement": 2,
+        "expected_file": "G159_mvt2_incipit326.png"
+      },
+      {
+        "g_number": 159,
+        "movement": 3,
+        "expected_file": "G159_mvt3_incipit327.png"
+      },
+      {
+        "g_number": 160,
+        "movement": 1,
+        "expected_file": "G160_mvt1_incipit328.png"
+      },
+      {
+        "g_number": 160,
+        "movement": 2,
+        "expected_file": "G160_mvt2_incipit329.png"
+      },
+      {
+        "g_number": 160,
+        "movement": 3,
+        "expected_file": "G160_mvt3_incipit330.png"
+      },
+      {
+        "g_number": 161,
+        "movement": 2,
+        "expected_file": "G161_mvt2_incipit332.png"
+      },
+      {
+        "g_number": 161,
+        "movement": 3,
+        "expected_file": "G161_mvt3_incipit161.png"
+      },
+      {
+        "g_number": 162,
+        "movement": 2,
+        "expected_file": "G162_mvt2_incipit335.png"
+      },
+      {
+        "g_number": 162,
+        "movement": 3,
+        "expected_file": "G162_mvt3_incipit336.png"
+      },
+      {
+        "g_number": 164,
+        "movement": 2,
+        "expected_file": "G164_mvt2_incipit341.png"
+      },
+      {
+        "g_number": 164,
+        "movement": 3,
+        "expected_file": "G164_mvt3_incipit342.png"
+      },
+      {
+        "g_number": 166,
+        "movement": 3,
+        "expected_file": "G166_mvt3_incipit348.png"
+      },
+      {
+        "g_number": 167,
+        "movement": 1,
+        "expected_file": "G167_mvt1_incipit349.png"
+      },
+      {
+        "g_number": 167,
+        "movement": 2,
+        "expected_file": "G167_mvt2_incipit350.png"
+      },
+      {
+        "g_number": 167,
+        "movement": 3,
+        "expected_file": "G167_mvt3_incipit351.png"
+      },
+      {
+        "g_number": 169,
+        "movement": 3,
+        "expected_file": "G169_mvt3_incipit357.png"
+      },
+      {
+        "g_number": 171,
+        "movement": 3,
+        "expected_file": "G171_mvt3_incipit363.png"
+      },
+      {
+        "g_number": 171,
+        "movement": 4,
+        "expected_file": "G171_mvt4_incipit364.png"
+      },
+      {
+        "g_number": 173,
+        "movement": 2,
+        "expected_file": "G173_mvt2_incipit368.png"
+      }
+    ],
+    "total_missing": 111
+  },
+  "missing_entries": [],
+  "extra_entries": [],
+  "errors": []
+}

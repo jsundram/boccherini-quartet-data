@@ -1,0 +1,57 @@
+{
+  "book_page": 265,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 241,
+      "quartet_number": 83,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 53,
+        "work_number": 6,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino amoroso",
+          "incipit_number": 541,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto, Allegro",
+          "incipit_number": 542,
+          "instrument": "v1",
+          "dynamics": "f, p, pp"
+        }
+      ],
+      "sources": {
+        "autograph": "No MSS. of any kind are known.",
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 5 (for title and comment, see No. 240)",
+        "modern_edition": "1960, Hamburg, Simrock, in the series Das Streichquartett (vol. ii no. 1): Op. 40 no. 5 (separate parts; revised by W. H\u00f6ckner and H. Mlynarczyk)"
+      },
+      "notes": "quartettino... opera piccola in Boccherini's autograph catalogue"
+    },
+    {
+      "g_number": 242,
+      "quartet_number": 84,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": 58,
+        "work_number": 1,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [],
+      "sources": {},
+      "notes": "opera grande in Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {},
+  "partial_notes": "Boccherini and Pleyel proves beyond any doubt that the present Opus is a series of original works unconnected with Artaria Op. 32. Arrangement: Of the whole quartet, as a part of a guitar quintet, by Boccherini himself (see No. 450)."
+}

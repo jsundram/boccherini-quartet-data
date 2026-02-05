@@ -1,0 +1,47 @@
+{
+  "book_page": 223,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 201,
+      "quartet_number": 43,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 32,
+        "work_number": 1,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto lentarello e affettuoso",
+          "incipit_number": 435,
+          "instrument": "v1",
+          "dynamics": "dolcis."
+        }
+      ],
+      "sources": {},
+      "notes": "from Boccherini's autograph catalogue",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 200,
+    "sources": {
+      "autograph": "Lost",
+      "ms_copies_parts": [
+        "Montecatini, Venturi private collection, A 9",
+        "Venice, Conservatorio, Giustinian 15609/O.C.",
+        "Vienna, Bibl. Nat., S.m.11753"
+      ],
+      "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 6",
+      "later_editions": [
+        "c. 1785, Amsterdam, Schmitt: Op. 32 no. 6",
+        "c. 1790, Paris, Le Duc: Op. 32 no. 6"
+      ]
+    }
+  },
+  "partial_notes": "Entry 201 appears to be starting with just the first movement shown"
+}

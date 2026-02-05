@@ -1,0 +1,39 @@
+{
+  "book_page": 214,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 192,
+      "quartet_number": 34,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": 24,
+        "work_number": 4,
+        "year": "1776-1778",
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Moderato",
+          "incipit_number": 414,
+          "instrument": "v1",
+          "dynamics": "dolcts"
+        }
+      ],
+      "sources": {},
+      "notes": "Op. 24 no. 4 of 1776-1778 ('opera grande') in Boccherini's autograph catalogue (for comment, see No. 189)."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "sources": {
+      "autograph": "Paris, Conservatoire, MS. 1292 (for title and comment, see No. 189)",
+      "ms_copies_parts": "Naples, Conservatorio. Two copies: 22.5.2. and 22.5.6. 'Quartetto no. 1...' Paris, Conservatoire, a parcel of copies (see No. 189)",
+      "first_edition": "(1778?), Paris, Sieber (Op. 27), no. 1 of Sei quartetti concertanti per due violini alto e violoncello composti da Luigi Boccherini, compositore e virtuoso di camera di S.A.R. Don Luigi Infante d'Ispagna. op. 27. Prix 9. \u00e0 Paris, chez le Sr Sieber musicien rue St Honor\u00e9, vis \u00e0 vis l'H\u00f4tel d'Aligre Ancien Grand Conseil o\u00f9 l'on trouve plusieurs nouveaux ouvrages. A.P.D.R. Plate no. 436. Some later copies (c. 1791) have the address... H\u00f4tel d'Aligre chez l'Apothicaire n\u00b085. A.P.D.R.",
+      "later_editions": "(c. 1785?), Amsterdam, Hummel (Op. 11), no. 1 of Six quatuors concertants \u00e0 deux violons, alto et basse compos\u00e9s par Luigi Boccherini oeuvre XI. Chez J. J. Hummel, \u00e0 Berlin avec privil\u00e8ge du Roi, \u00e0 Amsterdam au Grand Magazin de Musique et aux adresses ordinaires. Prix F. 5. Plate no. 170."
+    },
+    "notes": "Of the third movement for flute or violin, by an unknown musician, published c. 1785 in L. Lavenu's Musical Journal or Pocket Companion containing a great variety of Opera dances Single airs... arrang'd for the flute or violin. London. Printed and Sold by L. Lavenu... (vol. 2, p. 557) [Copy: London, British Museum]."
+  }
+}

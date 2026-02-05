@@ -1,0 +1,81 @@
+{
+  "book_page": 197,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 176,
+      "quartet_number": 18,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Major",
+      "opus": {
+        "number": 9,
+        "work_number": 6,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante grazioso",
+          "incipit_number": 377,
+          "instrument": "v1",
+          "dynamics": null,
+          "additional_markings": [
+            "sotto voce"
+          ]
+        },
+        {
+          "number": 2,
+          "tempo": "Allegretto",
+          "incipit_number": 378,
+          "instrument": "v1",
+          "dynamics": null,
+          "additional_markings": [
+            "con grazia"
+          ]
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto",
+          "incipit_number": 379,
+          "instrument": "v1",
+          "dynamics": "f",
+          "additional_markings": [
+            "(Trio)",
+            "dolce"
+          ]
+        },
+        {
+          "number": 4,
+          "tempo": "Allegro assai",
+          "incipit_number": 380,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 7...' (for comment, see No. 171)",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "Op. 9 no. 6 of 1770 ('opera grande') in Boccherini's autograph catalogue.",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 176,
+    "sources": {
+      "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 5 (for title, see No. 171)",
+      "later_editions": [
+        "(c. 1780), London, Bremner: Op. 10 no. 5 (for title, see No. 171)",
+        "(c. 1785), Amsterdam, Hummel: Op. 7 no. 5 (for title, see No. 171)",
+        "(c. 1785?), London, Preston: Op. 10 no. 5 (for title, see No. 171)",
+        "(c. 1790), Paris, Boyer: Op. 10 no. 5 (for title, see No. 171)"
+      ]
+    }
+  },
+  "partial_notes": "The page shows at the top continued publication information for string quartets, referencing various editions with opus numbers and publication details."
+}

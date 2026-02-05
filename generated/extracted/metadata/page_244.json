@@ -1,0 +1,50 @@
+{
+  "book_page": 243,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 217,
+      "quartet_number": 59,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": 42,
+        "work_number": 2,
+        "year": 1789,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante",
+          "incipit_number": 483,
+          "instrument": "v1",
+          "dynamics": "dolce"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 484,
+          "instrument": "v1",
+          "dynamics": "sotto voce"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (4). 'Mese di Aprile 1789. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'."
+      },
+      "notes": "Op. 42 comprises various works (see note to No. 216)."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 217,
+    "sources": {
+      "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (5). 'Mese di Febbraio 1789. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S. M. Prussiana'.",
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.590 and M.591. Two copies made in Berlin for Frederick William II. In the title of the first copy Boccherini is described as '... Professore di musica all' attual servizio di S.M. Cattolica, compositor di camera di S.M. Prusiana'.",
+        "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+        "Paris, Conservatoire, D. 11137, in the hand of Picquot, with a note: 'tr\u00e8s beau'."
+      ]
+    },
+    "notes": "Unpublished."
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "book_page": 257,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegro vivace assai",
+      "incipit_number": 519,
+      "instrument": "v1",
+      "dynamics": "pp"
+    },
+    {
+      "number": 2,
+      "tempo": "Andantino Patetico",
+      "incipit_number": 520,
+      "instrument": "vlc",
+      "dynamics": "pp sempre"
+    },
+    {
+      "number": 3,
+      "tempo": "Minuetto",
+      "incipit_number": 521,
+      "instrument": "v1",
+      "dynamics": "f e risoluto",
+      "notes": "Trio sotto voce assai"
+    },
+    {
+      "number": 4,
+      "tempo": "Rondeau. Allegretto",
+      "incipit_number": 522,
+      "instrument": "v1",
+      "dynamics": "pp"
+    }
+  ],
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 233,
+    "sources": {
+      "autograph": "Berlin, Deutsche Staatsbibliothek, M.604. 'Mese di Maggio 1795. Quartetto per due violini, viola, e violoncello di Luigi Bocchcrini, compositor di camera di S.M. il Re di Prussia'.",
+      "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.605. Copy made in Berlin for Frederick William II.",
+      "first_edition": "1798, Paris, Pleyel: Op. 39 no. 4 (Book 2 no. 1; for title and comment, see No. 234)."
+    },
+    "notes": "The whole of the above movement is also used by Boccherini himself(?), in the quartet Op. 54 no. 3 (No. 252).",
+    "arrangements": "Of the first movement, as part of a quartet (no. 1) for clarinet, flute, horn and bassoon, by O. Van den Brock, c. 1810 (see No. 262)."
+  }
+}

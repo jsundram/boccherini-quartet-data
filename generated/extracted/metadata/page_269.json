@@ -1,0 +1,62 @@
+{
+  "book_page": 268,
+  "movements_for_previous_entry": [
+    {
+      "number": 3,
+      "tempo": "Rondeau. Allegro giusto",
+      "incipit_number": 552,
+      "instrument": "v1",
+      "dynamics": "con semplicit\u00e0"
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 245,
+      "quartet_number": 87,
+      "instrumentation": "two violins, viola and cello",
+      "key": "B Minor",
+      "opus": {
+        "number": 58,
+        "work_number": 4,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro molto",
+          "incipit_number": 553,
+          "instrument": "v1",
+          "dynamics": "ff"
+        },
+        {
+          "number": 2,
+          "tempo": "Andantino lento",
+          "incipit_number": 554,
+          "instrument": "v1",
+          "dynamics": "poco f"
+        },
+        {
+          "number": 3,
+          "tempo": "Rondeau. Allegro",
+          "incipit_number": 555,
+          "instrument": "v1",
+          "dynamics": "pp che appena si senta"
+        }
+      ],
+      "sources": {
+        "autograph": "No MSS. of any kind are known",
+        "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 4 (for title, see No. 242)"
+      },
+      "notes": "In Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 244,
+    "sources": {
+      "autograph": "No MSS. of any kind are known",
+      "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 3 (for title, see No. 242)",
+      "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 3 (pocket score and separate parts; revised by P. Carmirelli)"
+    }
+  }
+}

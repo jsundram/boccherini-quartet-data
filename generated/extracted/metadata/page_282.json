@@ -1,0 +1,26 @@
+{
+  "book_page": 281,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 261,
+      "quartet_number": null,
+      "instrumentation": "flute, violin, viola and cello",
+      "key": null,
+      "opus": null,
+      "movements": [],
+      "sources": {
+        "autograph": null,
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": "Paris, Boyer-Naderman (n.d.)",
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "SIX QUARTETS for flute, violin, viola and 'cello. Arrangements. No reference in Boccherini's autograph catalogue. For comment as to authenticity, see below. Boyer-Naderman published two books of three quartets each, but no copy of this edition has been found. Picquot comments that the early quartets of Boccherini have furnished the framework for these works without merit, in which a flute part has been substituted by way of transposition for the part of the first violin, completely distorting the character and effect of the works.",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

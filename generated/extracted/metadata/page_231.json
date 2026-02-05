@@ -1,0 +1,55 @@
+{
+  "book_page": 230,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 206,
+      "quartet_number": 48,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": 32,
+        "work_number": 6,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro",
+          "incipit_number": 453,
+          "instrument": "v1",
+          "dynamics": "mf"
+        },
+        {
+          "number": 2,
+          "tempo": "Andantino lentarello",
+          "incipit_number": 454,
+          "instrument": "v1",
+          "dynamics": "dolcit."
+        },
+        {
+          "number": 3,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 455,
+          "instrument": "v1",
+          "dynamics": "sotto voce",
+          "notes": "(Trio) pp"
+        },
+        {
+          "number": 4,
+          "tempo": "Presto assai",
+          "incipit_number": 456,
+          "instrument": "v1",
+          "dynamics": "ff"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.576, 'Quartetto VI' ... (for title, see No. 201)"
+      },
+      "notes": "See note to No. 295."
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

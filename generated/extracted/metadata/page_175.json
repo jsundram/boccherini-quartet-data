@@ -1,0 +1,40 @@
+{
+  "book_page": 174,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 159,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": null,
+      "opus": null,
+      "movements": [],
+      "sources": {
+        "autograph": null,
+        "ms_copies_score": [
+          "Graz, Di\u00f6zesanarchiv, Ms. 507",
+          "Marburg, Westdeutschbibliothek. Two copies: Mus. MSS. 2005/2, 'Quartetto no. 2...' and Mus. MSS. 2005/4",
+          "Montecatini, Venturi private collection, A.9, 'Quartetto no. 5...'",
+          "Paris, Conservatoire. Two copies: D.10757, and D.10761, '... \u00e0 Mr. Dujard (?) officier de dragons'",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLLC.100",
+          "Stams, Abbey, L.IV.74, 'Quatuor no. 3...'",
+          "Stockholm, Kungl. Musik Akad. Bibl., W4-R",
+          "Vienna, Bibl. Nat., S.m.3022, 'Concertino del Signor Boccariny'"
+        ],
+        "ms_copies_parts": [],
+        "first_edition": "April, 1767, Paris, V\u00e9nier (Op. 1), no. 1 of Sei quartetti per due violini, alto e violoncello obbligati dedicati a veri dilettanti e conoscitori di musica, composti dall Sigr Luigi Boccherini di Lucca, opera I. Nuovamente stampati a spese di G. B. V\u00e9nier \u00e0 Paris. Prix 6 liv. \u00e0 Paris chez M. Venier \u00e9diteur de plusieurs ouvrages de musique rue St. Thomas du Louvre vis \u00e0 vis le Ch\u00e2teau d'Eau et aux adresses ordinaires. En Province chez tous les marchands de musique. APDR.",
+        "later_editions": [
+          "(c. 1775), London, Welcker (Op. 1), no. 1 of Six quartettoes for two violins, a tenor and violoncello obbligato. Composed by Sigr Luigi Boccherini. opera prima. London, Printed by J. Welcker. in Gerrard Street St Ann's Soho",
+          "(c. 1780?), Amsterdam, Hummel (Op. 1), no. 1 of Six quatuors \u00e0 deux violons, taille et basse oblig\u00e9s compos\u00e9es par Luigi Boccherini. Opera prima. A Amsterdam. Chez J. J. Hummel marchand et imprimeur de musique. Prix 5 Fl. Plate no. 136",
+          "(c. 1781), Paris, Boyer-Naderman (Op. 1), no. 1 of Sei quartetti per due violini, alto e violoncello obbligati dedicati a veri dilettanti e conoscitori di musica composti dall. Sigr Luigi Boccherini di Lucca opera I. mis au jour par Mr Boyer. Prix 9 F. \u00e0 Paris, chez Naderman, rue de Richelieu \u00e0 la Clef d'or Passage du caff\u00e9 de Foy. chez Madr Le Menu, rue du Roule \u00e0 la Clef d'or. A.P.D.R. Plate no. 515",
+          "(c. 1781), London, Preston (Op. 1), no. 1 of Six quartettoes for two violins, a tenor and violoncello obbligato composed by Sigr. Luigi Boccherini. opera prima. Price 10s 6d. London. Printed and sold by Preston and Son at their Wholesale Warehouses 97 Strand"
+        ],
+        "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 1 no. 1 (separate parts; revised by Walter Upmeyer), no. 1 in L. Boccherini Ausgew\u00e4hlte Streichquartette"
+      },
+      "notes": "Some copies have the following title: Sei Sinfonie o sia Quartetti... dedicate... musica. Opera P. Di Luigi Boccherini. Novamente stampata... ordinaires. A Lyon, Mr Castau Place de la Com\u00e9die. Avec Privil\u00e8ge du Roy. De l'Imprimerie de Richomme.",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

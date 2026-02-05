@@ -1,0 +1,52 @@
+{
+  "book_page": 203,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 181,
+      "quartet_number": 21,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E\u266d Major",
+      "opus": {
+        "number": 15,
+        "work_number": 5,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Adagio con sordina",
+          "incipit_number": 389,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "incipit_number": 390,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "Trio sotto voce"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Genoa, Liceo Musicale Paganini, SS/A/1/8",
+          "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.94, 'Quartetto IV'"
+        ],
+        "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 5 (for title, see No. 177)",
+        "later_editions": [
+          "(c. 1775), Venice, Marescalchi-Canobbio: no. 4 (for title, see No. 180)",
+          "(c. 1780), Venice, Zatta: no. 4 (for title, see No. 180)",
+          "(c. 1780), London, Preston: Op. 11 no. 4 (for title, see No. 180)",
+          "(c. 1785), Amsterdam, Hummel: Op. 8 no. 3 (for title, see No. 178)",
+          "(c. 1785), London, Welcker: Op. 11 no. 4 (for title, see No. 180)",
+          "(c. 1790?), Paris, Boyer: Op. 11 no. 5 (for title, see No. 177)"
+        ]
+      },
+      "notes": "Op. 15 no. 5 of 1772 ('opera piccola') in Boccherini's autograph catalogue"
+    }
+  ]
+}

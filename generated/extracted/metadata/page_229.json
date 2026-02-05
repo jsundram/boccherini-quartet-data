@@ -1,0 +1,40 @@
+{
+  "book_page": 228,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Larghetto",
+      "incipit_number": 447,
+      "instrument": "v1"
+    },
+    {
+      "number": 3,
+      "tempo": "Allegro con brio",
+      "incipit_number": 448,
+      "instrument": "v1"
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 205,
+      "quartet_number": 47,
+      "instrumentation": "two violins, viola and cello",
+      "key": "G Minor",
+      "opus": {
+        "number": 32,
+        "work_number": 5,
+        "year": 1780,
+        "type": "opera grande"
+      },
+      "movements": [],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.574, 'Quartetto IV\u00b0...' (for title, see No. 201)",
+        "ms_copies_score": "Leipzig, Musikbibliothek der Stadt, III.12.4, dated 1835",
+        "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II. Marburg, Westdeutschbibliothek, Mus. MSS. 2005/8, signed 'F. W. Rust'. Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.59, 'Quartetto no. 39...'. Rome, Accademia Santa Cecilia, G. MSS. 337 to 360, dated 1792",
+        "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 4 (for title, see No. 201)",
+        "later_editions": "(c. 1782/1785), London, Kerpen: Op. 33 no. 4 (for title, see No. 201). 1785, Paris, Sieber: Op. 33 no. 4 (for title, see No. 201). 1798, Paris, Pleyel: Op. 39 no. 10 (Book 4 no. 1; for title, see No. 234)"
+      },
+      "notes": "Of the second movement, as part of a quartet (no. 2) for flute, clarinet, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262). See note 1 to No. 295."
+    }
+  ]
+}

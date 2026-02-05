@@ -1,0 +1,60 @@
+{
+  "book_page": 245,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 219,
+      "quartet_number": 61,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": 43,
+        "work_number": 2,
+        "year": 1790,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto con moto",
+          "incipit_number": 487,
+          "instrument": "v1",
+          "dynamics": "sotto voce"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto (Trio)",
+          "incipit_number": 488,
+          "instrument": "v1",
+          "dynamics": "sotto voce assai, pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 597 (6). 'Mese di Novembre 1790. Quartettino per due violini, viola e violoncello obbligato di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+        "ms_copies_parts": [
+          "Berlin, Deutsche Staatsbibliothek, M.595. Copy made in Berlin for Frederick William II.",
+          "Mulhouse, Bibl. Municipale, MN.4862 (19th century).",
+          "Paris, Conservatoire, D. 11160, in the hand of Picquot."
+        ]
+      },
+      "notes": "Unpublished."
+    },
+    {
+      "g_number": 220,
+      "quartet_number": 62,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Bb Major",
+      "opus": {
+        "number": 44,
+        "work_number": 1,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [],
+      "sources": {},
+      "notes": "Op. 43 comprises various works (see note to No. 218)."
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": "Entry 220 appears to continue onto the next page as only the header information is visible."
+}

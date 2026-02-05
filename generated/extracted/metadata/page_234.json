@@ -1,0 +1,43 @@
+{
+  "book_page": 233,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 208,
+      "quartet_number": 50,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": 33,
+        "work_number": 2,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto",
+          "incipit_number": 459,
+          "instrument": "v1",
+          "dynamics": "p e stacc."
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto - Flautato",
+          "incipit_number": 460,
+          "instrument": "v1",
+          "dynamics": "p",
+          "additional_info": "Trio 1, Trio 2, Repeat of the Minuetto"
+        }
+      ],
+      "sources": {
+        "autograph_score": "Berlin, Deutsche Staatsbibliothek, M.580, 'Quartettino II' (for title, see No. 207)",
+        "autograph_parts": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2) (for title and comment, see No. 207)",
+        "first_edition": "1958, Rome, del Turco, in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)",
+        "later_editions": "1960, Hamburg/London, Simrock (separate parts; revised by W. H\u00f6ckner and H. M\u0142ynarczyk)"
+      }
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": "Reference to footnote 1 regarding No. 295"
+}

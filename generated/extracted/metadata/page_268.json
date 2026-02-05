@@ -1,0 +1,74 @@
+{
+  "book_page": 267,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Minuetto. Allegro (Trio)",
+      "incipit_number": 547,
+      "instrument": "v1",
+      "dynamics": "p"
+    },
+    {
+      "number": 3,
+      "tempo": "Larghetto Malincolico",
+      "incipit_number": 548,
+      "instrument": "v1",
+      "dynamics": "pp"
+    },
+    {
+      "number": 4,
+      "tempo": "Finale. Allegro vivo assai",
+      "incipit_number": 549,
+      "instrument": "v1"
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 244,
+      "quartet_number": 86,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "B\u266d Major",
+      "opus": {
+        "number": 58,
+        "work_number": 3,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Larghetto",
+          "incipit_number": 550,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro vivo assai",
+          "incipit_number": 551,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "autograph": "In Boccherini's autograph catalogue",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": null,
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 243,
+    "sources": {
+      "ms_copies_score": "No MSS. of any kind are known",
+      "first_edition": "(c. 1803), Paris, Sieber: Op. 58 no. 2 (for title, see No. 242)",
+      "modern_edition": "1952, Kassel, B\u00e4renreiter: Op. 58 no. 2 (separate parts; revised by Walter Upmeyer), no. 8 in L. Boccherini Ausgew\u00e4hlte Streichquartette. 1961, Milan, Ricordi: Op. 58 no. 2 (pocket score and separate parts; revised by P. Carmirelli)"
+    }
+  },
+  "partial_notes": null
+}

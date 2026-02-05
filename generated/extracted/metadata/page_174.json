@@ -1,0 +1,72 @@
+{
+  "book_page": 173,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 159,
+      "quartet_number": 1,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Minor",
+      "opus": {
+        "number": 2,
+        "work_number": 1,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro comodo",
+          "incipit_number": 325,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "incipit_number": 326,
+          "instrument": "vlc",
+          "dynamics": "p",
+          "notes": "Some MSS. copies have 'Adagio'"
+        },
+        {
+          "number": 3,
+          "tempo": "Allegro",
+          "incipit_number": 327,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "autograph": {
+          "location": "Lucca, Istituto Musicale Boccherini, D.I.33",
+          "title": "Sonata a quattro no. 4",
+          "format": "separate parts",
+          "notes": "Probably a copy, but extremely interesting on account of the detailed accuracy with which the text, the slurs and the expression-marks are recorded. Is it possible that these details are in the hand of Boccherini? In any case, the MS. appears to have been copied from Boccherini's original MS."
+        },
+        "ms_copies_score": [
+          {
+            "location": "Lucca, Istituto Musicale Boccherini, B.I.114",
+            "title": "Sonata a quattro no. 4"
+          },
+          {
+            "location": "Stockholm, Kungl. Musik Akad. Bibl., W4-R"
+          }
+        ],
+        "ms_copies_parts": [
+          {
+            "location": "Burgos, Archivo Catedral, Cat. 74"
+          },
+          {
+            "location": "Florence, Conservatorio",
+            "copies": "Two copies: B.1550, and D.112",
+            "title": "Quartetto sesto... da Giuseppe Imperial Lercari di Andrea"
+          }
+        ]
+      },
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

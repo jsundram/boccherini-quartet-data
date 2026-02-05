@@ -1,0 +1,56 @@
+{
+  "book_page": 273,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 251,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "G Major",
+      "opus": {
+        "number": 54,
+        "work_number": 2,
+        "year": null,
+        "type": null
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con moto",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di minuetto",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
+        },
+        {
+          "number": 3,
+          "tempo": "Rondeau allegro",
+          "incipit_number": null,
+          "instrument": null,
+          "dynamics": null
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress (for reference number, title and comment, see No. 250)",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Arrangement of the whole of the trio in G Major Op. 54 no. 2 of 1796 (No. 114).",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 250,
+    "notes": "The MS. is in two parts, comprising six quartets; the title is repeated before quartet no. 4. In addition, the MS. bears the following note, in a different hand: 'These quartets are unpublished and did not exist in the collection of M. Picquot and of M. Labitte. Four of these quartets are trios arranged by Boccherini (cf. Picquot's Notice)'. In fact, Picquot writes (p. 168), \u00e0 propos of the six trios Op. 54 of 1796 (Nos. 113 to 118): 'This fine work has been set for four instruments by Boccherini himself; unfortunately I have hitherto been unable to find a copy of this [arrangement]'. From what source had Picquot obtained this information? From Boccherini's grandson, with whom he was in contact? This seems doubtful, for Picquot's statement is not altogether accurate. In the first place, the six quartets in question are not arrangements of the six trios Op. 54. Certain movements are taken from other trios, from a quintet and even, without any alteration of the text, from other quartets. Furthermore, what has been described as the autograph manuscript appears to us to be merely a copy: the presentation of the text is in some respects not in accordance with Boccherini's regular practice. For all these reasons we are inclined to place the quartets in the category of doubtful works, although it is our personal opinion that only the composer himself could have been responsible for arrangements of this high quality."
+  },
+  "partial_notes": null
+}

@@ -1,0 +1,53 @@
+{
+  "book_page": 250,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Allegro non tanto",
+      "incipit_number": 500,
+      "instrument": "v1"
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 225,
+      "quartet_number": 67,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 44,
+        "work_number": 6,
+        "year": 1792,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino",
+          "incipit_number": 501,
+          "instrument": "v1",
+          "dynamics": "sotto voce assai"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 502,
+          "instrument": "v1",
+          "dynamics": "pp",
+          "notes": "Trio"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (12). 'Mese di Decembre 1792. Quartettino per due violini, viola e violoncello di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'."
+      }
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "sources": {
+      "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (11). 'Mese di Ottobre 1792. Quartettino per due violini, viola e violoncello obb\u00ba di Luigi Boccherini, compositor di camera di S. M. il Re di Prussia'.",
+      "ms_copies_parts": "Mulhouse, Bibl. Municipale, MN.4862. Paris, Conservatoire, D. 11165, in the hand of Picquot."
+    },
+    "notes": "Unpublished."
+  }
+}

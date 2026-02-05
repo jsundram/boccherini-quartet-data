@@ -1,0 +1,74 @@
+{
+  "book_page": 236,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 211,
+      "quartet_number": 53,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E Minor",
+      "opus": {
+        "number": 33,
+        "work_number": 5,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro brillante",
+          "incipit_number": 465,
+          "instrument": "v1",
+          "dynamics": "messa voce"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro vivo assai",
+          "incipit_number": 466,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {
+        "autograph": {
+          "location": "Paris, Bibl. de l'Op\u00e9ra",
+          "signature": "R\u00e9serve 507 (2)",
+          "format": "separate parts",
+          "note": "for title and comment, see No. 207"
+        },
+        "ms_copies_parts": [
+          {
+            "location": "Berlin, Deutsche Staatsbibliothek",
+            "signature": "M.585 and M.586",
+            "note": "Two copies made in Berlin for Frederick William II"
+          },
+          {
+            "location": "Mulhouse, Bibl. Municipale",
+            "signature": "MN.4862",
+            "century": "19th century"
+          }
+        ],
+        "first_edition": {
+          "year": 1958,
+          "publisher": "del Turco",
+          "location": "Rome",
+          "series": "Classici Italiani della Musica",
+          "volume": 1,
+          "sponsor": "UNESCO",
+          "format": "score",
+          "editor": "Pina Carmirelli"
+        },
+        "later_editions": [
+          {
+            "year": 1960,
+            "publisher": "Simrock",
+            "location": "Hamburg/London",
+            "format": "separate parts",
+            "editors": "W. H\u00f6ckner and H. Mlynarczyk"
+          }
+        ]
+      },
+      "notes": "Unpublished in Boccherini's life-time. 'quartettino ... opera piccola' in Boccherini's autograph catalogue."
+    }
+  ]
+}

@@ -13,11 +13,14 @@ ENV/
 .uv/
 uv.lock
 
-# Generated files - don't commit these
-generated/*.json
+# Generated files
+# Exclude large page images (can be regenerated from PDF)
+generated/pages/
 generated/*.csv
 generated/*.md
-!generated/.gitkeep
+
+# Keep extracted data (expensive to regenerate via API)
+!generated/extracted/
 
 # Reading material (large PDFs)
 reading/

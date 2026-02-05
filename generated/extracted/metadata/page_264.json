@@ -1,0 +1,63 @@
+{
+  "book_page": 263,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 238,
+      "quartet_number": 80,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": 53,
+        "work_number": 3,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 535,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto. Allegro",
+          "incipit_number": 536,
+          "instrument": "v1",
+          "dynamics": "f",
+          "notes": "includes Trio section marked dolcis."
+        }
+      ],
+      "sources": {
+        "autograph": "No MSS. of any kind are known",
+        "first_edition": "1798, Paris, Pleyel: Op. 40 no. 4"
+      },
+      "notes": "Arrangement: Of the whole quartet, as a guitar quintet, by Boccherini himself (see No. 449). Both movements are repeated, by Boccherini himself (?), in the quartet Op. 54 no. 3 (No. 252)."
+    },
+    {
+      "g_number": 239,
+      "quartet_number": 81,
+      "instrumentation": "two violins, viola and cello",
+      "key": "A Major",
+      "opus": {
+        "number": 53,
+        "work_number": 4,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro vivace",
+          "incipit_number": 537,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {},
+      "incomplete": true
+    }
+  ]
+}

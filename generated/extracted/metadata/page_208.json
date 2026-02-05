@@ -1,0 +1,87 @@
+{
+  "book_page": 207,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 185,
+      "quartet_number": 27,
+      "instrumentation": "two violins, viola and cello",
+      "key": "E\u266d Major",
+      "opus": {
+        "number": 22,
+        "work_number": 3,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Adagio",
+          "incipit_number": 397,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Rondeau Allegro",
+          "incipit_number": 398,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": {
+          "location": "Berlin, Deutsche Staatsbibliothek",
+          "shelf_mark": "M.565",
+          "title": "Quartetto III",
+          "note": "score"
+        },
+        "ms_copies_parts": [
+          {
+            "location": "Berlin, Deutsche Staatsbibliothek",
+            "shelf_marks": [
+              "M.569",
+              "M.570"
+            ],
+            "note": "Two copies made in Berlin for Frederick William II"
+          },
+          {
+            "location": "Modena, Bibl. Estense",
+            "shelf_mark": "Mus. F. 91"
+          }
+        ],
+        "first_edition": {
+          "year": 1776,
+          "publisher": "Paris, La Chevardi\u00e8re",
+          "opus": "Op. 26 no. 3"
+        },
+        "later_editions": [
+          {
+            "year": "c. 1800",
+            "publisher": "Paris, Imbault",
+            "opus": "Op. 26 no. 3"
+          }
+        ]
+      },
+      "notes": "Listed as 'quartettino ... opera piccola' in Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "sources": {
+      "first_edition": {
+        "year": 1776,
+        "publisher": "Paris, La Chevardi\u00e8re",
+        "opus": "Op. 26 no. 2"
+      },
+      "later_editions": [
+        {
+          "year": "c. 1800",
+          "publisher": "Paris, Imbault",
+          "opus": "Op. 26 no. 2"
+        }
+      ]
+    }
+  },
+  "partial_notes": "Page shows continuation of publication information from previous entry, followed by complete entry G.185"
+}

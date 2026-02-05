@@ -1,0 +1,57 @@
+{
+  "book_page": 185,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 167,
+      "quartet_number": 9,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 8,
+        "work_number": 3,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Largo",
+          "incipit_number": 349,
+          "instrument": "v1",
+          "dynamics": "sotto voce"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro",
+          "incipit_number": 350,
+          "instrument": "v1",
+          "dynamics": "p f p"
+        },
+        {
+          "number": 3,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 351,
+          "instrument": "v1",
+          "dynamics": "p f p",
+          "notes": "Trio"
+        }
+      ],
+      "sources": {
+        "autograph": "Lost",
+        "ms_copies_parts": [
+          "Brussels, Conservatoire, V.6430, 'Quatuor op. 2...'",
+          "Naples, Conservatorio. Two copies: 22.2.10, 'Quartetto no. 3...' and 22.5.6, 'Quartetto no. 3... per uso di S. E. Abbate Don Antonio Giorgio'",
+          "Prague, N\u00e1rodn\u00ed Muzeum. Two copies: XXII. B.56, 'Divertimento a quatro...' and XLIX.C.12.",
+          "Stams, Abbey, L.IV.73, 'No. 5. Quartetto op. 2...'"
+        ],
+        "first_edition": "December, 1769, Paris, V\u00e9nier: Op. 6 no. 3 (for title, see No. 165)",
+        "later_editions": [
+          "(c. 1770), London, Longman Lukey: Op. 4 no. 3 (for title, see No. 166)"
+        ]
+      }
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

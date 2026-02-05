@@ -1,0 +1,56 @@
+{
+  "book_page": 200,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegretto",
+      "incipit_number": 383,
+      "instrument": "v1",
+      "dynamics": "con grazia"
+    },
+    {
+      "number": 2,
+      "tempo": "Allegro Minuetto",
+      "incipit_number": 384,
+      "instrument": "v1",
+      "dynamics": "f",
+      "note": "Trio"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 178,
+    "sources": {
+      "autograph": "Lost",
+      "ms_copies_parts": [
+        "Prague, N\u00e1rodn\u00ed Muzeum, XLI.C.98, 'Num. 5'",
+        "Vienna, Bibl. Nat., S.m.2906"
+      ],
+      "first_edition": "April, 1773, Paris, V\u00e9nier: Op. 11 no. 2 (for title, see No. 177)",
+      "later_editions": [
+        "(c. 1775), Venice, Maresealchi-Canobhio: no. 5 (for title, see No. 180)",
+        "(c. 1780), Venice, Zatta: no. 5 (for title, see No. 180)",
+        "(c. 1780), London, Preston: Op. 11 no. 5 (for title, see No. 180)",
+        "(c. 1785), Amsterdam, Hummel (Op. 8), no. 1 of Six Quartetto ou Divertissement pour deux violons, taille et basse compos\u00e9s par Luigi Boccherini, oeuvre VIII, \u00e0 Amsterdam, chez J. J. Hummel au grand magazin de musique. Prix 4 Fl. Plate no. 324",
+        "(c. 1785), London, Welcker: Op. 11 no. 5 (for title, see No. 180)",
+        "(c. 1790?), Paris, Boyer: Op. 11 no. 2 (for title, see NO. 177)"
+      ]
+    }
+  },
+  "entries": [
+    {
+      "g_number": 179,
+      "quartet_number": 21,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "E Major",
+      "opus": {
+        "number": 15,
+        "work_number": 3,
+        "year": 1772,
+        "type": "opera piccola"
+      },
+      "movements": [],
+      "sources": {},
+      "notes": "Op. 15 no. 3 of 1772 ('opera piccola') in Boccherini's autograph catalogue"
+    }
+  ]
+}

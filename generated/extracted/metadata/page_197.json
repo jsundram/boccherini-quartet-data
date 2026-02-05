@@ -1,0 +1,81 @@
+{
+  "book_page": 196,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 175,
+      "quartet_number": 17,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "D Major",
+      "opus": {
+        "number": 9,
+        "work_number": 5,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante con moto",
+          "incipit_number": 374,
+          "instrument": "v1"
+        },
+        {
+          "number": 2,
+          "tempo": "Allegro assai",
+          "incipit_number": 375,
+          "instrument": "v1"
+        },
+        {
+          "number": 3,
+          "tempo": "Rondo Allegro",
+          "incipit_number": 376,
+          "instrument": "v1"
+        }
+      ],
+      "sources": {
+        "autograph": {
+          "location": "Lucca, Istituto Musicale Boccherini",
+          "call_number": "D.I.33",
+          "title": "Sonata a quattro no. 10...",
+          "format": "separate parts"
+        },
+        "ms_copies_score": {
+          "location": "Lucca, Istituto Musicale Boccherini",
+          "call_number": "B.I.114",
+          "title": "Sonata a quattro no. 10..."
+        },
+        "ms_copies_parts": [
+          {
+            "location": "Berlin, Deutsche Staatsbibliothek",
+            "call_number": "M.611a",
+            "title": "Quartetto no. 4..."
+          },
+          {
+            "location": "Genoa, Liceo Musicale Paganini",
+            "call_number": "SS/A/2/13"
+          },
+          {
+            "location": "M\u00fcnster, Priesterseminar-Santinibibliothek",
+            "call_number": "Santini HS. 532",
+            "title": "Opera III, Concerto quarto..."
+          },
+          {
+            "location": "Naples, Conservatorio",
+            "notes": "Two copies: 22.2.10, and 22.5.2",
+            "title": "Quartetto no. 3..."
+          },
+          {
+            "location": "Stams, Abbey",
+            "call_number": "L.IV.66",
+            "title": "No. 1. Sonata..."
+          }
+        ]
+      },
+      "notes": "in Boccherini's autograph catalogue",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": ""
+}

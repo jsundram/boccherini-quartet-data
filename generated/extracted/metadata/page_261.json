@@ -1,0 +1,52 @@
+{
+  "book_page": 260,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 235,
+      "quartet_number": 77,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Minor",
+      "opus": {
+        "number": 52,
+        "work_number": 4,
+        "year": 1795,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto appassionato",
+          "incipit_number": 527,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con moto",
+          "incipit_number": 528,
+          "instrument": "v1",
+          "dynamics": "ff",
+          "section": "Trio"
+        },
+        {
+          "number": 3,
+          "tempo": "Adagio non tanto",
+          "incipit_number": 529,
+          "instrument": "v1",
+          "dynamics": "p",
+          "marking": "poco cresc."
+        },
+        {
+          "number": 4,
+          "tempo": "Finale. Allegro assai",
+          "incipit_number": 530,
+          "instrument": "v1",
+          "dynamics": "f"
+        }
+      ],
+      "sources": {},
+      "notes": "From Boccherini's autograph catalogue"
+    }
+  ]
+}

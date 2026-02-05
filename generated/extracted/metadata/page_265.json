@@ -1,0 +1,39 @@
+{
+  "book_page": 264,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 240,
+      "quartet_number": 82,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": 53,
+        "work_number": 5,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino lento",
+          "incipit_number": 539,
+          "instrument": "v1"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 540,
+          "instrument": "v1",
+          "dynamics": "p",
+          "notes": "Trio"
+        }
+      ],
+      "sources": {
+        "autograph": "No MSS. of any kind are known",
+        "first_edition": "1798, Paris, Pleyel (Op. 40), no. 1 of Six quartettino pour deux violons, alto et basse compos\u00e9s par Luigi Boccherini, \u0153uvre 40. Prix 9 liv., grav\u00e9s par Richomme, \u00e0 Paris, Chez Ignace Pleyel, Rue Neuve des Petits Champs n\u00b0 1286 vis-\u00e0-vis la Tr\u00e9sorerie. Propri\u00e9t\u00e9 de l'\u00e9diteur. Enregistr\u00e9 \u00e0 la Biblioth\u00e8que Nationale. Plate no. 132."
+      },
+      "notes": "Some copies, probably the earliest, have the address ... Petits Champs n\u00b0 728 entre les Rues de la Loi et Helv\u00e9tius. F\u00e9tis (op. cit.), not having seen this Op. 40, assumed that it was a new edition of Artaria Op. 32 (Nos. 195 to 200). An examination of the contract signed by"
+    }
+  ]
+}
