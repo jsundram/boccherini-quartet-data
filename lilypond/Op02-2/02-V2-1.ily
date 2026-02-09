@@ -1,4 +1,4 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/2 - violon2 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/2 - violon2 1er mvt
 
 \relative c'' {
 \clef treble
@@ -6,7 +6,7 @@
 \tupletSpan 8
 \set Timing.baseMoment = #(ly:make-moment 1 4) \set Staff.beatStructure = #'(4 4 4 4) 
 \set Staff.beamExceptions = #'(( end . ( ((1 . 12) . (3 3 3 3))  ((1 . 24) . (3 3 3 3 3 3 3 3)) ((1 . 8) . (4 4)) )))
-\override DynamicTextSpanner #'style = #'none
+\override DynamicTextSpanner.style = #'none
 
 f,4.\p  ees16( d) \tuplet 3/2 {ees\rf( f g)} g4.
 g4.\p f16( ees) \tuplet 3/2 {d\rf( ees f)} f4 d'16( g)

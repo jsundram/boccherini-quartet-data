@@ -1,9 +1,9 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/4 - cello 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/4 - cello 1er mvt
 
 \relative c { \clef bass
 
 
-\override DynamicTextSpanner #'style = #'none
+\override DynamicTextSpanner.style = #'none
 
 
 

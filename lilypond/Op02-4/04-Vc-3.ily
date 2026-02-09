@@ -1,4 +1,4 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/4 - cello 3ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/4 - cello 3ème mvt
 
 \relative c { \clef bass
 

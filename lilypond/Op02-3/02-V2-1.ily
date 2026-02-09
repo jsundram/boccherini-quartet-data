@@ -1,10 +1,10 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/3 - violon2 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/3 - violon2 1er mvt
 
 \relative c'' { \clef treble
 
 
 \tupletSpan 8 
-\override TupletBracket #'bracket-visibility = ##f
+\override TupletBracket.bracket-visibility = ##f
 
 
 
@@ -43,7 +43,7 @@ cis e a b cis d e fis e d cis b e, d cis b }
 R1 
 a'8\fp a8~ 16 cis16( b gis) a( cis b gis) a( cis b d)
 cis( b) b( a) a( b) b( cis) cis( b) b( cis) cis( d) d( e)
-\tuplet 3/2 { e16([ fis e)] d( e d) \override TupletNumber #'stencil = ##f cis([ d cis)] b( cis b) a[ b a] g a g fis[ g fis] e fis e } \revert TupletNumber #'stencil
+\tuplet 3/2 { e16([ fis e)] d( e d) \override TupletNumber.stencil = ##f cis([ d cis)] b( cis b) a[ b a] g a g fis[ g fis] e fis e } \revert TupletNumber.stencil
 d16 fis fis fis fis4:16 fis: fis:
 \grace a8 g8 fis r a \grace a8 g8 fis( g a)
 b\rf b4 a8 a16\p( g) g( fis) fis( g) g( a)
@@ -56,7 +56,7 @@ cis! c b b,
 a8 a4 a8 gis16.[ a32 b16. cis32] d8 e,~
 e e4 e8 e-. e-. e-. e-.
 e16 e' e,4 e8 e-. e-. e-. e-.
-\tuplet 3/2 { e16\f[ a b] cis b a \override TupletNumber #'stencil = ##f e'[ cis d] e d cis g'[ a fis] e fis d cis[ d b] a b g }
+\tuplet 3/2 { e16\f[ a b] cis b a \override TupletNumber.stencil = ##f e'[ cis d] e d cis g'[ a fis] e fis d cis[ d b] a b g }
 fis8 cis( d e) fis g( fis e)
 d cis( d e) fis g( fis e)
 \repeat unfold 4 fis \repeat unfold 4 g

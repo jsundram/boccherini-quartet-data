@@ -1,10 +1,10 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/5 - cello 3ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/5 - cello 3ème mvt
 
 \relative c { \clef bass
 
 \tupletSpan 4  
-\override TupletBracket #'bracket-visibility = ##f
-\override DynamicTextSpanner #'style = #'none
+\override TupletBracket.bracket-visibility = ##f
+\override DynamicTextSpanner.style = #'none
 
 
 \partial 8 r8

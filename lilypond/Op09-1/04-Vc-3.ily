@@ -1,4 +1,4 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.9/1 - cello
+% \version "2.24.0"		% Boccherini: Quatuor Op.9/1 - cello
 
 \relative c {
 \clef bass
@@ -20,7 +20,7 @@ bes
 c2 bes4
 aes bes bes
 ees,2 r4
-\once \override Score.BreakAlignment #'break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef tenor \repeat unfold 2 {ees''2( d8 c)
+\once \override Score.BreakAlignment.break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef tenor \repeat unfold 2 {ees''2( d8 c)
 bes4 4 d}
 
 

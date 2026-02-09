@@ -1,10 +1,10 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/5 - violon1 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/5 - violon1 1er mvt
 
 \relative c'' { \clef treble
 
 \tupletSpan 8 
-\override TupletBracket #'bracket-visibility = ##f
-\override DynamicTextSpanner #'style = #'none
+\override TupletBracket.bracket-visibility = ##f
+\override DynamicTextSpanner.style = #'none
 
 
 
@@ -13,10 +13,10 @@ e8.[ dis32( cis)] b16( a) a( gis) \tuplet 3/2 {cis( b a)} a4\f \grace a8 gis16\p
 e'8.\dolce[ dis32( cis)] b16( a) a( gis) \grace dis'8 \tuplet 3/2 {cis16\f( b a)} a4 \grace a8 gis16( fis)
 gis32( e) fis( gis a b cis dis) e([ fis gis a)] b16. gis,32 \grace a8 gis8( fis4) r8
 b4 \grace e8 dis8 cis16( b) \grace gis'8 fis8 fis4 fis8
-\tuplet 3/2 { b16_\markup {\italic "staccato"}[ dis, e] \grace fis8 e16 dis e\override TupletNumber #'stencil = ##f  e[ e fis] gis ais b ais[ cisis, dis] \grace e8 dis16 cisis dis dis[ dis e] fis gis a
+\tuplet 3/2 { b16_\markup {\italic "staccato"}[ dis, e] \grace fis8 e16 dis e\override TupletNumber.stencil = ##f  e[ e fis] gis ais b ais[ cisis, dis] \grace e8 dis16 cisis dis dis[ dis e] fis gis a
 gis[ bis, cis] \grace dis8 cis16 bis cis cis[ cis dis] e fis gis fis[ ais, b?] \grace cis8 b16 ais b b[ b cis] dis e fis		%% add natural to b in 5th tuplet
 \repeat unfold 2 {fis([ e) e-!] e( dis) dis-! dis([ cis) cis-!] cis( b) fis'-!} 
-fis([ e) e-!] e( dis) dis-! dis([ cis) cis-!] cis( b) b-! ais([ gis fis)] } fis4 r8 \revert TupletNumber #'stencil
+fis([ e) e-!] e( dis) dis-! dis([ cis) cis-!] cis( b) b-! ais([ gis fis)] } fis4 r8 \revert TupletNumber.stencil
 fis'1\f
 e \override TextSpanner.style = #'squiggle
 r8 d\dolce\startTextSpan d d\stopTextSpan r d\startTextSpan d d\stopTextSpan
@@ -46,7 +46,7 @@ g16\f[ g g16.\prall( fis64 g)] d16( g) b( g) fis[ fis fis16.\prall( e64 fis)] d1
 g16[ g g16.\prall( fis64 g)] d16( g) b( g) fis[ fis fis16.\prall( e64 fis)] d16( c') a( fis)
 g8 f( f f) e e4 e8~
 e a g g fis fis4 fis8
-\tuplet 3/2 { fis16\f[ dis b] a' fis b, \override TupletNumber #'stencil = ##f gis'![ e b] fis' dis b gis'[ e b] b' gis b, a'[ fis b,] gis' e b
+\tuplet 3/2 { fis16\f[ dis b] a' fis b, \override TupletNumber.stencil = ##f gis'![ e b] fis' dis b gis'[ e b] b' gis b, a'[ fis b,] gis' e b
 fis'[ dis b] } \repeat unfold 7 {b32 b'16.}
 b,32[ b'16.] b,,16. b32 b8 b b4 r		%%SOURCE: b,16. b'32 (V2= b32 b16.)
 b''1\p

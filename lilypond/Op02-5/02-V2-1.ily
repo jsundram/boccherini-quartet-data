@@ -1,10 +1,10 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/5 - violon2 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/5 - violon2 1er mvt
 
 \relative c'' { \clef treble
 
 \tupletSpan 8 
-\override TupletBracket #'bracket-visibility = ##f
-\override DynamicTextSpanner #'style = #'none
+\override TupletBracket.bracket-visibility = ##f
+\override DynamicTextSpanner.style = #'none
 
 
 
@@ -47,7 +47,7 @@ c8 c c c <d, c'>2
 b'1\rf
 c2 cis
 b8\f \repeat unfold 7 {b32 b'16.}
-b,32[ b'16.] \tuplet 3/2 { a16 fis b, \override TupletNumber #'stencil = ##f gis'[ e b] fis' dis b gis'[ e b] b' gis b, a'[ fis b,] gis' e b }
+b,32[ b'16.] \tuplet 3/2 { a16 fis b, \override TupletNumber.stencil = ##f gis'[ e b] fis' dis b gis'[ e b] b' gis b, a'[ fis b,] gis' e b }
 fis'8[ b,16. b,32] b8 b b4 r
 r8 fis''\startTextSpan fis fis\stopTextSpan eis gis eis r
 r e!\startTextSpan e e\stopTextSpan dis fis dis r

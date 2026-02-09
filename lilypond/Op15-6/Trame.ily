@@ -1,4 +1,4 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.15/6 - mouvements
+% \version "2.24.0"		% Boccherini: Quatuor Op.15/6 - mouvements
 
 \tag #'mvtI {
 	\time 3/4 \key c \minor

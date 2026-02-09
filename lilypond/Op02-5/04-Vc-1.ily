@@ -1,10 +1,10 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/5 - cello 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/5 - cello 1er mvt
 
 \relative c { \clef bass
 
 \tupletSpan 8  
-\override TupletBracket #'bracket-visibility = ##f
-\override DynamicTextSpanner #'style = #'none
+\override TupletBracket.bracket-visibility = ##f
+\override DynamicTextSpanner.style = #'none
 
 
 
@@ -21,8 +21,8 @@ a2\f gis
 g fis
 g d
 e4 eis fis8 fis, fis \clef treble fis''\noBeam\solo\dolce			%%% SOURCE: clef alto
-\tuplet 3/2 { e16[ dis cis] ais' gis fis \override TupletNumber #'stencil = ##f cis'[ b ais] gis fis e dis[ cis b] fis' e dis b'[ ais gis] fis e dis
-e[ dis cis] ais' gis fis cis'[ b ais] gis fis e } dis\f b' b4 ais!8 \revert TupletNumber #'stencil
+\tuplet 3/2 { e16[ dis cis] ais' gis fis \override TupletNumber.stencil = ##f cis'[ b ais] gis fis e dis[ cis b] fis' e dis b'[ ais gis] fis e dis
+e[ dis cis] ais' gis fis cis'[ b ais] gis fis e } dis\f b' b4 ais!8 \revert TupletNumber.stencil
 a!\p( gis! g fis) eis\cresc e4 dis!8
 \tuplet 3/2 {cis16[ e dis]} \grace fis8 \tuplet 3/2 {e16 dis cis} cis4\trill b16\f b' b4 ais8
 a!\p( gis! g fis) eis\cresc e4 dis!8
@@ -53,8 +53,8 @@ d2 cis
 c b
 c g
 a4 ais b8 b, b \clef treble b''\solo\dolce			%% SOURCE: clef soprano
-\tuplet 3/2 { a16([ gis fis)] dis' cis b \override TupletNumber #'stencil = ##f fis'[ e dis] cis b a gis([ fis e)] b'( a gis) e'[ dis cis] b a gis
-a[ gis fis] dis' cis b fis'[ e dis] cis b a } gis( e') e4 dis8 \revert TupletNumber #'stencil
+\tuplet 3/2 { a16([ gis fis)] dis' cis b \override TupletNumber.stencil = ##f fis'[ e dis] cis b a gis([ fis e)] b'( a gis) e'[ dis cis] b a gis
+a[ gis fis] dis' cis b fis'[ e dis] cis b a } gis( e') e4 dis8 \revert TupletNumber.stencil
 d cis c b ais a4 gis8
 \tuplet 3/2 {fis16[ a gis]} \grace b8 \tuplet 3/2 {a16 gis fis} fis4\trill e16 e' e4 dis8
 d( cis c b) ais a4 gis8

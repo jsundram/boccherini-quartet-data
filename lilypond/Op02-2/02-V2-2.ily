@@ -1,9 +1,9 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/2 - violon2 2ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/2 - violon2 2ème mvt
 
 \relative c'' {
 \clef treble
 
-\tupletSpan 8 \override TupletBracket #'bracket-visibility = ##f
+\tupletSpan 8 \override TupletBracket.bracket-visibility = ##f
 \set Timing.baseMoment = #(ly:make-moment 1 4) \set Staff.beatStructure = #'(4 4 4 4) 
 \set Staff.beamExceptions = #'(( end . ( ((1 . 12) . (3 3 3 3))  ((1 . 24) . (3 3 3 3 3 3 3 3)) ((1 . 8) . (4 4)) )))
 
@@ -15,8 +15,8 @@ ees ees4 ees ees d8
 ees8.\f g16 \grace g8 f16.[ ees32 d16. c32] d'8\solo[ bes16.( c32)] d8 d
 d8.\f[ f32( ees)] d8 r bes,4\p bes8 r
 c'\f[ aes16.( bes32)] c8 c c8.[ \once \slurDashed ees32( d)] c8 r
-f,4\p f8 r \tuplet 3/2 { d'16( bes f') f-. f-. f-. \override TupletNumber #'stencil = ##f f( ees ees) ees-. ees-. ees-. 
-d d d ees ees ees  ees( f c) \grace ees8 d16 c d d( ees bes) \grace d8 c16 bes c c( d aes) \grace c8 bes16 a bes } \revert TupletNumber #'stencil
+f,4\p f8 r \tuplet 3/2 { d'16( bes f') f-. f-. f-. \override TupletNumber.stencil = ##f f( ees ees) ees-. ees-. ees-. 
+d d d ees ees ees  ees( f c) \grace ees8 d16 c d d( ees bes) \grace d8 c16 bes c c( d aes) \grace c8 bes16 a bes } \revert TupletNumber.stencil
 bes4( c8) r <f, d'>\f r16 bes\p bes8 a\trill
 <d, bes'>\f r16 bes'\p bes8 a\trill bes[ d, d]   f		%% reprise
 bes( c d ees) d\rf( a bes c)

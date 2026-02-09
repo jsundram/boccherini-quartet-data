@@ -1,11 +1,11 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.9/5 - violon 1
+% \version "2.24.0"		% Boccherini: Quatuor Op.9/5 - violon 1
 
 \relative c'' {
 \clef treble
 
 \override DynamicTextSpanner.style = #'none
 \override TextSpanner.style = #'squiggle
-\tag #'partie \override Score.SpacingSpanner #'shortest-duration-space = #1.5
+\tag #'partie \override Score.SpacingSpanner.shortest-duration-space = #1.5
 
 
 d,8\p 4 e16.\prall( fis32) g8 4 fis8

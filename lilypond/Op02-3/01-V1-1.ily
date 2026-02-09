@@ -1,10 +1,10 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/3 - violon1 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/3 - violon1 1er mvt
 
 \relative c'' { \clef treble
 
 
 \tupletSpan 8 
-\override TupletBracket #'bracket-visibility = ##f
+\override TupletBracket.bracket-visibility = ##f
 
 
 
@@ -34,9 +34,9 @@ cis8.( d32 e)] d2 d4
 d8.\trill\f([ cis32 d)] b'16 gis e d d8.\trill([ cis32 d)] b'16 gis! f d
 d8.\trill([ cis32 d)] gis16\trill( fis gis a) b\trill( a b cis) d8 d,
 <a, e' cis'>4 r r2
-\tuplet 3/2 { a'16\f[ a' gis] \grace b8 a16( gis a) \override TupletNumber #'stencil = ##f e[ a gis] \grace b8 a16( gis a) fis[ a gis] fis e d cis([ e) a,-!] b( d) gis,-! }
+\tuplet 3/2 { a'16\f[ a' gis] \grace b8 a16( gis a) \override TupletNumber.stencil = ##f e[ a gis] \grace b8 a16( gis a) fis[ a gis] fis e d cis([ e) a,-!] b( d) gis,-! }
 a4 r r2
-\tuplet 3/2 { a16\f[ a' gis] \grace b8 a16( gis a) e[ a gis] \grace b8 a16( gis a) fis[ a gis] fis e d cis([ e) a,-!] b( d) gis,-! } \revert TupletNumber #'stencil
+\tuplet 3/2 { a16\f[ a' gis] \grace b8 a16( gis a) e[ a gis] \grace b8 a16( gis a) fis[ a gis] fis e d cis([ e) a,-!] b( d) gis,-! } \revert TupletNumber.stencil
 \addStacc { a16\p b cis d e fis gis a gis fis e d cis b a gis
 a16 b cis d e fis gis a gis fis e d cis b a gis }
 <cis, e a>4\f q q r		%% reprise
@@ -66,7 +66,7 @@ fis!8.([ g32 a)] g2 g4
 g8.\trill([ fis32 g)] e'16 cis a g g8.\trill([ fis32 g)] e'16 cis a g
 g8.\trill([ fis32 g)] cis16 b cis d e d cis b a g fis e
 <d, a' fis'>4 r r2
-\tuplet 3/2 { d16\f[ d' cis] \grace e8 d16( cis d) \override TupletNumber #'stencil = ##f a[ d cis] \grace e8 d16( cis d) b[ b' a] g fis e fis[( a d,]) e( g cis,) }
+\tuplet 3/2 { d16\f[ d' cis] \grace e8 d16( cis d) \override TupletNumber.stencil = ##f a[ d cis] \grace e8 d16( cis d) b[ b' a] g fis e fis[( a d,]) e( g cis,) }
 <d, d'>4 r r2
 \tuplet 3/2 { a'16\f[ d cis] \grace e8 d16( cis d) a[ d cis] \grace e8 d16( cis d) b[ b' a] g fis e fis([ a d,)] e( g cis,) }
 \addStacc { d16\p e fis g a b cis d cis b a g fis e d cis 

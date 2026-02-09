@@ -1,4 +1,4 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/4 - alto 2ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/4 - alto 2ème mvt
 
 \relative c' { \clef alto
 

@@ -1,4 +1,4 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/6 - cello 3ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/6 - cello 3ème mvt
 
 \relative c { \clef bass
 
@@ -29,8 +29,8 @@ c c f, f bes bes ees, ees
 <aes ees'>4 r8 aes g g g r
 \clef tenor g''1\solo\rf~
 g8 aes! aes( g) fis2(
-f!) \tuplet 3/2 { ees!16([ d c)] b( c d) \override TupletNumber #'stencil = ##f c([ d ees)] d( ees f)
-ees([ d c)]  b( c d) c([ d ees)] d( ees f) ees[ c d] ees f g aes[ g f] ees d c } \revert TupletNumber #'stencil
+f!) \tuplet 3/2 { ees!16([ d c)] b( c d) \override TupletNumber.stencil = ##f c([ d ees)] d( ees f)
+ees([ d c)]  b( c d) c([ d ees)] d( ees f) ees[ c d] ees f g aes[ g f] ees d c } \revert TupletNumber.stencil
 g4 d'\trill c r8 g
 aes8~ \tuplet 3/2 {aes16[ b( c)] d( ees f) ees([ d c)]} b8. c32( d) c8 aes
 \tuplet 3/2 {g16([ aes g)]} \grace bes8 \tuplet 3/2 {aes16([ g f)]} ees8 d\trill \clef bass c c, c r

@@ -1,8 +1,8 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.2/2 - violon1 3ème mvt
+% \version "2.24.0"		% Boccherini: Quatuor Op.2/2 - violon1 3ème mvt
 
 \relative c'' {
 \clef treble
-\override DynamicTextSpanner #'style = #'none
+\override DynamicTextSpanner.style = #'none
 
 
 

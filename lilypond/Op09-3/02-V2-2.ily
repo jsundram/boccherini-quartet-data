@@ -1,4 +1,4 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.9/3 - violon 2
+% \version "2.24.0"		% Boccherini: Quatuor Op.9/3 - violon 2
 
 \relative c'' {
 \clef treble

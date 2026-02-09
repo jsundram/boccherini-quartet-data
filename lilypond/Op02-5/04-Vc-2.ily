@@ -1,9 +1,9 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/5 - cello 2ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/5 - cello 2ème mvt
 
 \relative c { \clef bass
 
 \tupletSpan 8  
-\override TupletBracket #'bracket-visibility = ##f
+\override TupletBracket.bracket-visibility = ##f
 
 
 
@@ -32,7 +32,7 @@ b16. cis32 gis8 fis\trill
 cis4 a8
 gis16. a32 b8 b
 e, e r
-\once \override Score.BreakAlignment #'break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef treble b''' a gis		%% SOURCE: clef soprano
+\once \override Score.BreakAlignment.break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef treble b''' a gis		%% SOURCE: clef soprano
 \grace gis fis4 e8
 \grace b' a4 gis8
 cis\rf b r

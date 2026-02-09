@@ -1,4 +1,4 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/3 - cello 3ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/3 - cello 3ème mvt
 
 \relative c { \clef bass
 
@@ -53,7 +53,7 @@ d,\p r r4 r
 r fis\rf d
 g\f a a,
 d d, r
-\once \override Score.BreakAlignment #'break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef tenor d''4.\solo g8( fis e)
+\once \override Score.BreakAlignment.break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef tenor d''4.\solo g8( fis e)
 \grace e d4. g8( fis e)
 d4 d d
 d( b) r

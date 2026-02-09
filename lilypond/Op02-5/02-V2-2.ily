@@ -1,9 +1,9 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/5 - violon2 2ème mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/5 - violon2 2ème mvt
 
 \relative c'' { \clef treble
 
 \tupletSpan 8
-\override TupletBracket #'bracket-visibility = ##f
+\override TupletBracket.bracket-visibility = ##f
 
 
 

@@ -1,9 +1,9 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.2/2 - violon1 2ème mvt
+% \version "2.24.0"		% Boccherini: Quatuor Op.2/2 - violon1 2ème mvt
 
 \relative c'' {
 \clef treble
 
-\set tupletSpannerDuration = #(ly:make-moment 1 8) \override TupletBracket #'bracket-visibility = ##f
+\set tupletSpannerDuration = #(ly:make-moment 1 8) \override TupletBracket.bracket-visibility = ##f
 \set Timing.baseMoment = #(ly:make-moment 1 4) \set Staff.beatStructure = #'(4 4 4 4) 
 \set Staff.beamExceptions = #'(( end . ( ((1 . 12) . (3 3 3 3))  ((1 . 24) . (3 3 3 3 3 3 3 3)) ((1 . 8) . (4 4)) )))
 
@@ -21,7 +21,7 @@ des8.\trill\f([ c32 bes)] a8 r <bes f'>\f r16 g'\p des8 c\trill
 <bes f'>\f r16 g'\p d8 c\trill bes[ f f] r 		%% reprise
 f'1\rf~
 f2 \grace g8 f8 \grace ees8 d16 \grace c8 bes16 aes'8 aes
-\tuplet 3/2 { aes16( f aes) aes-. aes-. aes-. \override TupletNumber #'stencil = ##f aes( f aes) aes( g f) e( g bes) aes( g f) e( g bes) \grace aes8 g16 f e
+\tuplet 3/2 { aes16( f aes) aes-. aes-. aes-. \override TupletNumber.stencil = ##f aes( f aes) aes( g f) e( g bes) aes( g f) e( g bes) \grace aes8 g16 f e
 f( c f) aes c aes f( c f) aes c aes f( d f) f-. f-. f-. f( d f) f \grace f8 ees16 d
 ees g, c ees c ees g c, ees g ees g bes cis, e g e g bes cis, e g e g
 bes( g bes) bes bes bes bes g bes bes g e f b, d f d f aes b, d f d f

@@ -1,4 +1,4 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/2 - cello 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/2 - cello 1er mvt
 
 \relative c {
 \clef bass
@@ -6,7 +6,7 @@
 \tupletSpan 8
 \set Timing.baseMoment = #(ly:make-moment 1 4) \set Staff.beatStructure = #'(4 4 4 4) 
 \set Staff.beamExceptions = #'(( end . ( ((1 . 12) . (3 3 3 3))  ((1 . 24) . (3 3 3 3 3 3 3 3)) ((1 . 8) . (4 4)) )))
-\override DynamicTextSpanner #'style = #'none
+\override DynamicTextSpanner.style = #'none
 
 bes8\p 8 8 8 8\rf 8 8 8
 8\p 8 8 8 8\rf 8 8 r

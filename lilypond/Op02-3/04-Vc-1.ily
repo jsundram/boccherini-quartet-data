@@ -1,9 +1,9 @@
-% \version "2.22.0"      %Boccherini: Quatuor Op.2/3 - cello 1er mvt
+% \version "2.24.0"      %Boccherini: Quatuor Op.2/3 - cello 1er mvt
 
 \relative c { \clef bass
 
 
-\tupletSpan 8 \override TupletBracket #'bracket-visibility = ##f
+\tupletSpan 8 \override TupletBracket.bracket-visibility = ##f
 \set Timing.baseMoment = #(ly:make-moment 1 4) \set Staff.beatStructure = #'(4 4 4 4) 
 \set Staff.beamExceptions = #'(( end . ( ((1 . 12) . (3 3 3 3))  ((1 . 24) . (3 3 3 3 3 3 3 3)) ((1 . 8) . (4 4)) )))
 
@@ -40,10 +40,10 @@ cis8 \clef bass cis, cis cis d d e e
 a2\p( e)
 a, e
 a4\f a a r 		%% reprise
-\once \override Score.BreakAlignment #'break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef tenor a'8\solo\fp a8~ 16 cis( b gis) a( cis b gis) a( cis b d)
+\once \override Score.BreakAlignment.break-align-orders = #(make-vector 3 '( staff-bar clef key-signature )) \clef tenor a'8\solo\fp a8~ 16 cis( b gis) a( cis b gis) a( cis b d)
 cis8\fp cis8~ 16 e( d b) cis( e d b) cis( e d fis)
 e( d) d( cis) cis( d) d( e) e( d) d( e) e( fis) fis( g)
-\tuplet 3/2 { g( a g) fis( g fis) \override TupletNumber #'stencil = ##f e( fis e) d( e d) cis( d cis) b( cis b) a( b a) g( a g) }
+\tuplet 3/2 { g( a g) fis( g fis) \override TupletNumber.stencil = ##f e( fis e) d( e d) cis( d cis) b( cis b) a( b a) g( a g) }
 \clef bass fis\p \repeat unfold 7 d d2:16
 d: d:
 d:\rf d:

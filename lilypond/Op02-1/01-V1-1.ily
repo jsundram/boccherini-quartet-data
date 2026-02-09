@@ -1,4 +1,4 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.2/1 - violon1 1er mvt
+% \version "2.24.0"		% Boccherini: Quatuor Op.2/1 - violon1 1er mvt
 
 \relative c'' {
 \clef treble
@@ -33,7 +33,7 @@ d\rf d4 d8\noBeam ees\dolce bes4 bes16( ees)
 \grace ees8 d c16( bes) bes8 bes b16( c) c4\cresc c8
 d d4 d8\noBeam ees\! \tuplet 3/2 {bes'16( c bes) \override TupletNumber.stencil = ##f aes( bes aes) g( aes g)
 f( g f) ees( f ees) d( ees d) c( d c) bes( c bes) g( aes g) aes( bes aes) bes( c bes)
-c( d c) bes( c bes) c( d c) d( ees d)} ees8( f g aes) \revert TupletNumber #'stencil
+c( d c) bes( c bes) c( d c) d( ees d)} ees8( f g aes) \revert TupletNumber.stencil
 g16\rf( f ees f) g8 aes g16( f ees f) g8 aes
 bes\rf[ b c f,] g aes16 f ees8 d\trill
 ees4 r r2
@@ -73,7 +73,7 @@ b b4 b8 c g4\p g16( c)
 \grace c8 b( aes16 g) g8 g g16( aes) aes4 aes8
 b b4 b8 c\solo \tuplet 3/2 { g'16( aes g) \override TupletNumber.stencil = ##f f( g f) ees( f ees)
 d( ees d) c( d c) b( c b) aes( b aes) g( aes g) ees( f ees) f( g f) g( aes g)
-aes( bes aes) g( aes g) aes( bes aes) b( c b) } c8( d ees f) \revert TupletNumber #'stencil
+aes( bes aes) g( aes g) aes( bes aes) b( c b) } c8( d ees f) \revert TupletNumber.stencil
 \repeat unfold 2 {ees16\rf( d c d) ees8 f }
 g8\cresc g aes d, ees f16( d) c8 b\trill
 c4\! r r2

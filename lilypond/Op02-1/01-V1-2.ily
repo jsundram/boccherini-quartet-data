@@ -1,4 +1,4 @@
-% \version "2.22.0"		% Boccherini: Quatuor Op.2/1 - violon1 2ème mvt
+% \version "2.24.0"		% Boccherini: Quatuor Op.2/1 - violon1 2ème mvt
 
 \relative c'' {
 \clef treble
@@ -8,7 +8,7 @@
 
 
 
-\once \override MultiMeasureRest #'minimum-length = 30 R2.*8
+\once \override MultiMeasureRest.minimum-length = 30 R2.*8
 
 
 
