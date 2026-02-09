@@ -16,6 +16,7 @@ Spain (1768-1805)
   * 1769 op 8 string quartets dedicated to Don Luis de Bourbon
   * 1770 op 9 "alli signori diletanti di madrid" (to the gentlement of madrid)
   * family quartet "Father Font + 3 sons", joined to make string quintets, wrote the first 12 here.
+  * his older brother  Giovanni Gastone became a librettist in Vienna and worked with Salieri and wrote the text for Haydn's oratorio, II Ritorno di Tobia!
 * 1776 Arenas de San Pedro (100km away, isolated) - boccherni pissed of Charles IV, and Don Luis married a commoner so had to leave.
   * 1780 Opus 32 string quartets, also *la musica notturna della strade di madrid* for don luis to remind him of madrid while in exile. 
   * 1781, Haydn sends Boccherini two letters, never received?
@@ -44,3 +45,72 @@ Spain (1768-1805)
 
 
 Died: 28 May 1805, Madrid, Kingdom of Spain
+
+
+
+---
+
+from Rausch:
+
+## 5 Periods: 
+
+1. Early Works: before the composer entered into the service of the Spanish Infante Don Luis de Borbón
+   1. years 1760-1770
+   2. Opus 1 to 9  
+   3. Location Vienna, Lucca,  Paris, or during the first years in Madrid, 
+2. Madrid I: *Virtuoso di Camera e Compositore di Musica*. includes the works written from  in the service of the Infante Don Luis and published shortly afterwards in Paris, by publishers such as Venier, Louis-Balthasard de La Chevardière and Jean-Georges Sieber. 
+   1. years: 1771 to 1776
+   2. opuses: 10 to 24
+   3. location: madrid
+   4. published shortly afterwards in Paris, by publishers such as Venier, Louis-Balthasard de La Chevardière and Jean-Georges Sieber
+3. Arenas de San Pedro:  works written in the service of the Infante but no
+   longer published in Paris soon after their composition.  Some were published by the Artaria firm in Vienna or by Antonio Zatta in Venice, others in Paris, but the latter ones only much later.
+   1. Years: 1778-1784. 
+   2. Opus: 24 to 36 belong to this period. 
+   3. Location: Arenas de San Pedro
+4. The Fourth Period includes the works that were written for the Prussian King Frederick William II, They were sent to Berlin in monthly installments.  * *Professore di Musica* (Spanish King),  *Compositore di Camera* (Prussian King),  *Direttore dell’Accademia* (Duchess of Benavente)
+   1. years 1786-1797. 
+   2. Opus 37 to 56
+   3. location: back in Madrid?
+5. "Late Works" after Boccherini’s service for the Prussian King had ended.  LBonaparte Patronage 1802
+   1. years: 1798-1804
+   2. Opus 57 to 64
+
+
+
+"""
+
+The creative career of the composer spans the years from the late
+1750s to 1804 and can be divided into five periods. The first period
+includes the “Early Works”, those written in Lucca, Vienna or Paris, or
+during the first years in Madrid, before the composer entered into the
+service of the Spanish Infante Don Luis de Borbón. As far as works with
+opus numbers—that is, chamber music and orchestral works—are con-
+cerned, Opus 1 to 9 belong to this period, written in the decade 1760-1770.
+They were published in Paris in various editions from 1767 onwards with
+opus numbers assigned to them by their publishers among whom Jean-
+Baptiste Venier is certainly the most important. In this period Boccherini
+also wrote vocal music, most often sacred, as well as sonatas and con-
+certos for his favourite instrument, the violoncello, but these compositions
+remained—apart from four cello concertos published by the Bureau
+d’Abonnement Musical in Paris—unpublished and did not receive an opus
+number, neither from the composer nor from their publisher.
+
+The Second Period includes the works written from 1771 to 1776 in
+the service of the Infante Don Luis and published shortly afterwards in
+Paris, by publishers such as Venier, Louis-Balthasard de La Chevardière
+and Jean-Georges Sieber. Opus 10 to 24 belong to this period. The Third
+Period includes the works written in the service of the Infante but no
+longer published in Paris soon after their composition. These works were
+written in the years 1778-1784. Opus 24 to 36 belong to this period. Some
+were published by the Artaria firm in Vienna or by Antonio Zatta in
+Venice, others in Paris, but the latter ones only much later.
+The Fourth Period includes the works that were written for the Prus-
+sian King Frederick William II, in the years 1786-1797. They were sent to
+Berlin in monthly instalments. Opus 37 to 56 belong to this period.
+Several of these works were published in Paris by Ignace Pleyel from 1798
+onwards.
+
+And finally there is the Fifth Period, that of the “Late Works”, those
+written during the years 1798-1804, after Boccherini’s service for the
+Prussian King had ended. Opus 57 to 64 fall in this period.
