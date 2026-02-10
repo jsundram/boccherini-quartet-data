@@ -25,7 +25,7 @@ smorf = \markup {\italic "smorfioso"}
 segue = \markup {\italic "segue"}
 ten = ^\markup {\italic "ten."}
 tpnOff = \override TupletNumber.stencil = ##f 
-tpnOn = \revert TupletNumber #'stencil
+tpnOn = \revert TupletNumber.stencil
 
 %%% FONCTIONS =======================================================================
 

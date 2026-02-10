@@ -23,7 +23,7 @@ dolce = \markup {\italic "dolce"}
 rf = #(make-dynamic-script "rf")
 sf = #(make-dynamic-script "sf")
 tpnOff = \override TupletNumber.stencil = ##f 
-tpnOn = \revert TupletNumber #'stencil
+tpnOn = \revert TupletNumber.stencil
 smorz = \markup {\italic "smorz."}
 ten = ^\markup {\italic "ten."}
 espr = \markup {\italic "espressivo"}

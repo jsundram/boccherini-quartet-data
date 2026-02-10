@@ -19,7 +19,7 @@ silencesMulti = { \compressEmptyMeasures
 									\set restNumberThreshold = #0 }
 
 tpnOff = \override TupletNumber.stencil = ##f 
-tpnOn = \revert TupletNumber #'stencil
+tpnOn = \revert TupletNumber.stencil
 dolce = \markup {\italic "Dolce"}
 rf = #(make-dynamic-script "rf")
 ten = \markup {\italic \tiny "ten."}
