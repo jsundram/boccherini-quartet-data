@@ -183,18 +183,18 @@ addStaccmo = #(define-music-function (music)
     ragged-last-bottom = ##f
 		oddHeaderMarkup = \markup \fill-line { 
 				" "
-				\on-the-fly #not-first-page \fromproperty #'header:instrumentHeader
-				\on-the-fly #print-page-number-check-first \fromproperty #'page:page-number-string }
+				\unless \on-first-page \fromproperty #'header:instrumentHeader
+				\if \should-print-page-number \fromproperty #'page:page-number-string }
 		evenHeaderMarkup = \markup \fill-line {
-				\on-the-fly #print-page-number-check-first \fromproperty #'page:page-number-string
-				\on-the-fly #not-first-page \fromproperty #'header:instrumentHeader
+				\if \should-print-page-number \fromproperty #'page:page-number-string
+				\unless \on-first-page \fromproperty #'header:instrumentHeader
 				" " }
 		oddFooterMarkup = \markup { \fill-line {
-				\on-the-fly #first-page \fontsize #-5 
+				\if \on-first-page \fontsize #-5 
 					\left-column { \null \concat { \epsfile #X #8  #"cc2.eps" "http://creativecommons.org" }
 										"Licence Creative Commons-NonCommercial 4.0" } 
 				\center-column { \general-align #X #CENTER " " \cCopyright " "}
-				\on-the-fly #first-page \fontsize #-5 
+				\if \on-first-page \fontsize #-5 
 					\right-column {	\null \concat {"Gravé avec LilyPond " \cVersion \epsfile #X #3 #"lily.eps" }
 					"http://www.lilypond.org " }					
 				}}
