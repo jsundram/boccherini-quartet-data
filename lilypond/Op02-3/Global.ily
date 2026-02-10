@@ -41,7 +41,7 @@ rf = #(make-dynamic-script "rf")
      (else #f)))
 
 #(define (add-staccato m)
-         (add-script m "staccato"))
+         (add-script m 'staccato))
 
 addStacc = #(define-music-function (music)
                  (ly:music?)

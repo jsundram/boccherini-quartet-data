@@ -44,7 +44,7 @@ cr = _\markup {\italic "cresc."}
      (else #f)))
 
 #(define (add-staccato m)
-         (add-script m "staccato"))
+         (add-script m 'staccato))
 
 addStacc = #(define-music-function (parser location music)
                  (ly:music?)

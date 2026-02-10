@@ -54,7 +54,7 @@ pizz = ^\markup {"Pizz."}
 	
 %%% \addStacc (staccato) ...................
 #(define (add-staccato m)
-         (add-script m "staccato"))
+         (add-script m 'staccato))
 
 addStacc = #(define-music-function (music)
                  (ly:music?)
@@ -63,7 +63,7 @@ addStacc = #(define-music-function (music)
 
 %%% \addStaccmo (staccatissimo) ........
 #(define (add-staccatissimo m)
-         (add-script m "staccatissimo"))
+         (add-script m 'staccatissimo))
 
 addStaccmo = #(define-music-function (music)
                  (ly:music?)
@@ -74,7 +74,7 @@ addStaccmo = #(define-music-function (music)
 %%% mStacc  ajoute plusieurs points sur une note. Utilisation: c4:16-\mStacc #4        !!!! espace après
 	mStacc = #(define-music-function (dots) (integer?)
    (let ((script (make-music 'ArticulationEvent
-                             'articulation-type "staccato")))
+                             'articulation-type 'staccato)))
      (set! (ly:music-property script 'tweaks)
            (acons 'stencil
                   (lambda (grob)
