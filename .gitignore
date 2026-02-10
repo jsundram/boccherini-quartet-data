@@ -25,10 +25,8 @@ reading/
 # Spotify reference data
 spotify/
 
-# Lilypond - only include README.md and Op* folders
-lilypond/*
-!lilypond/README.md
-!lilypond/Op*/
+# Lilypond acquisition scripts shouldn't be part of this repo
+lilypond/dl-scripts
 
 # Images
 *.jpg
