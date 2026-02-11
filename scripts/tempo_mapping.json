@@ -1,0 +1,722 @@
+{
+  "Adagio": [
+    {
+      "beat": "8",
+      "bpm": 60,
+      "q_bpm": 30.0,
+      "source": "Op08-1/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op09-4/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op15-5/mvtI"
+    },
+    {
+      "beat": "8",
+      "bpm": 80,
+      "q_bpm": 40.0,
+      "source": "Op22-3/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 50,
+      "q_bpm": 50,
+      "source": "Op24-6/mvtII"
+    }
+  ],
+  "Adagio, non tanto": [
+    {
+      "beat": "8",
+      "bpm": 80,
+      "q_bpm": 40.0,
+      "source": "Op24-3/mvtII"
+    }
+  ],
+  "Allegretto": [
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op09-6/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 50,
+      "q_bpm": 50,
+      "source": "Op15-2/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op26-5/mvtI"
+    }
+  ],
+  "Allegretto con molto": [
+    {
+      "beat": "4",
+      "bpm": 70,
+      "q_bpm": 70,
+      "source": "Op22-5/mvtI"
+    }
+  ],
+  "Allegretto con moto": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op09-2/mvtIII"
+    }
+  ],
+  "Allegretto moderato": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op22-3/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 50,
+      "q_bpm": 50,
+      "source": "Op22-4/mvtI"
+    }
+  ],
+  "Allegro": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op08-1/mvtIII"
+    },
+    {
+      "beat": "4",
+      "bpm": 160,
+      "q_bpm": 160,
+      "source": "Op08-2/mvtIII"
+    },
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op08-3/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op08-4/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 160,
+      "q_bpm": 160,
+      "source": "Op08-5/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op09-1/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op09-4/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 140,
+      "q_bpm": 140,
+      "source": "Op09-5/mvtIII"
+    },
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op15-1/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op15-2/mvtII",
+      "all_markings": [
+        "Allegro",
+        "Trio"
+      ]
+    }
+  ],
+  "Allegro Brillante": [
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op08-6/mvtI"
+    }
+  ],
+  "Allegro Moderato": [
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op24-3/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op24-5/mvtI"
+    }
+  ],
+  "Allegro Vivace": [
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op26-3/mvtI"
+    }
+  ],
+  "Allegro Vivo assai": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op24-6/mvtI"
+    }
+  ],
+  "Allegro assai": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op08-1/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 100,
+      "q_bpm": 100,
+      "source": "Op09-3/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op09-5/mvtII"
+    },
+    {
+      "beat": "2",
+      "bpm": 70,
+      "q_bpm": 140,
+      "source": "Op09-6/mvtIV"
+    },
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op24-1/mvtIII"
+    }
+  ],
+  "Allegro maestoso": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op08-6/mvtIII"
+    }
+  ],
+  "Allegro moderato": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op15-6/mvtII",
+      "all_markings": [
+        "Allegro moderato",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 70,
+      "q_bpm": 70,
+      "source": "Op26-1/mvtI"
+    }
+  ],
+  "Allegro molto": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op22-1/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 140,
+      "q_bpm": 140,
+      "source": "Op24-5/mvtIII"
+    }
+  ],
+  "Allegro non tropo": [
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op08-4/mvtIII"
+    }
+  ],
+  "Allegro spiritoso": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op24-2/mvtII"
+    }
+  ],
+  "Allegro vivace": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op22-4/mvtII"
+    }
+  ],
+  "Amoroso": [
+    {
+      "beat": "8",
+      "bpm": 120,
+      "q_bpm": 60.0,
+      "source": "Op08-6/mvtII"
+    }
+  ],
+  "Andante Apassionato ma non Lento": [
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op26-6/mvtI"
+    }
+  ],
+  "Andante Grazioso": [
+    {
+      "beat": "8",
+      "bpm": 60,
+      "q_bpm": 30.0,
+      "source": "Op09-6/mvtI"
+    }
+  ],
+  "Andante con moto": [
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op09-5/mvtI"
+    }
+  ],
+  "Andantino": [
+    {
+      "beat": "4",
+      "bpm": 50,
+      "q_bpm": 50,
+      "source": "Op15-3/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 70,
+      "q_bpm": 70,
+      "source": "Op22-6/mvtI"
+    }
+  ],
+  "Andantino con un poco di Motto": [
+    {
+      "beat": "4",
+      "bpm": 50,
+      "q_bpm": 50,
+      "source": "Op08-5/mvtI"
+    }
+  ],
+  "Grave": [
+    {
+      "beat": "4",
+      "bpm": 40,
+      "q_bpm": 40,
+      "source": "Op08-4/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op09-2/mvtI",
+      "all_markings": [
+        "Grave",
+        "Allegro"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op24-1/mvtII"
+    }
+  ],
+  "Larghetto": [
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op09-1/mvtII"
+    },
+    {
+      "beat": "8",
+      "bpm": 120,
+      "q_bpm": 60.0,
+      "source": "Op09-2/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op15-6/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op24-2/mvtI"
+    },
+    {
+      "beat": "4.",
+      "bpm": 60,
+      "q_bpm": 90.0,
+      "source": "Op24-4/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op24-5/mvtII"
+    },
+    {
+      "beat": "4.",
+      "bpm": 60,
+      "q_bpm": 90.0,
+      "source": "Op26-2/mvtI"
+    },
+    {
+      "beat": "4.",
+      "bpm": 60,
+      "q_bpm": 90.0,
+      "source": "Op26-4/mvtI"
+    }
+  ],
+  "Largo": [
+    {
+      "beat": "4",
+      "bpm": 40,
+      "q_bpm": 40,
+      "source": "Op08-2/mvtII"
+    },
+    {
+      "beat": "4",
+      "bpm": 40,
+      "q_bpm": 40,
+      "source": "Op08-3/mvtI"
+    }
+  ],
+  "Largo Cantabile": [
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op09-3/mvtII"
+    }
+  ],
+  "Minuetto": [
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op09-1/mvtIII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op09-4/mvtIII"
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op09-6/mvtIII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op15-4/mvtII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op15-5/mvtII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op22-2/mvtII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op24-3/mvtIII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op24-4/mvtIII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op24-6/mvtIII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 100,
+      "q_bpm": 100,
+      "source": "Op26-2/mvtII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 100,
+      "q_bpm": 100,
+      "source": "Op26-3/mvtII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 100,
+      "q_bpm": 100,
+      "source": "Op26-6/mvtII",
+      "all_markings": [
+        "Minuetto",
+        "Trio"
+      ]
+    }
+  ],
+  "Minuetto Allegro": [
+    {
+      "beat": "4",
+      "bpm": 100,
+      "q_bpm": 100,
+      "source": "Op26-5/mvtII",
+      "all_markings": [
+        "Minuetto Allegro",
+        "Trio"
+      ]
+    }
+  ],
+  "Minuetto Amoroso": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op24-2/mvtIII",
+      "all_markings": [
+        "Minuetto Amoroso",
+        "Trio"
+      ]
+    }
+  ],
+  "Minuetto amoroso": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op22-5/mvtII",
+      "all_markings": [
+        "Minuetto amoroso",
+        "Trio"
+      ]
+    }
+  ],
+  "Minuetto con moto": [
+    {
+      "beat": "4",
+      "bpm": 100,
+      "q_bpm": 100,
+      "source": "Op26-1/mvtII",
+      "all_markings": [
+        "Minuetto con moto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 100,
+      "q_bpm": 100,
+      "source": "Op26-4/mvtII",
+      "all_markings": [
+        "Minuetto con moto",
+        "Trio"
+      ]
+    }
+  ],
+  "Moderato": [
+    {
+      "beat": "4",
+      "bpm": 50,
+      "q_bpm": 50,
+      "source": "Op08-2/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op22-2/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op24-1/mvtI"
+    },
+    {
+      "beat": "4",
+      "bpm": 60,
+      "q_bpm": 60,
+      "source": "Op24-4/mvtI"
+    }
+  ],
+  "Non tropppo Presto": [
+    {
+      "beat": "4",
+      "bpm": 80,
+      "q_bpm": 80,
+      "source": "Op22-6/mvtII"
+    }
+  ],
+  "Prestissimo": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op15-3/mvtII"
+    },
+    {
+      "beat": "4.",
+      "bpm": 50,
+      "q_bpm": 75.0,
+      "source": "Op15-4/mvtI"
+    }
+  ],
+  "Presto": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op09-1/mvtIV"
+    },
+    {
+      "beat": "4",
+      "bpm": 120,
+      "q_bpm": 120,
+      "source": "Op15-1/mvtI"
+    }
+  ],
+  "Tempo di Minuetto": [
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op08-3/mvtIII",
+      "all_markings": [
+        "Tempo di Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op08-5/mvtIII",
+      "all_markings": [
+        "Tempo di Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op09-3/mvtIII",
+      "all_markings": [
+        "Tempo di Minuetto",
+        "Trio"
+      ]
+    },
+    {
+      "beat": "4",
+      "bpm": 90,
+      "q_bpm": 90,
+      "source": "Op22-1/mvtII",
+      "all_markings": [
+        "Tempo di Minuetto",
+        "Trio"
+      ]
+    }
+  ]
+}
