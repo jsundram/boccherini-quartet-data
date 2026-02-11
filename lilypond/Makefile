@@ -6,6 +6,7 @@
 #   make clean            # remove all build output
 #
 # Output goes to ./build/ with names like Opus02_1-Score.pdf, Opus02_1-V1.pdf, etc.
+# NB make -j8 to use 8 cores and get this to go a bit faster.
 
 LILYPOND := lilypond
 BUILD := build
