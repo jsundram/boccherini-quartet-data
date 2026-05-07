@@ -1,8 +1,15 @@
 #!/bin/bash
 # Run the full Boccherini data pipeline
+# run from parent directory, e.g. ./scripts/run_piepline.sh
 # Fetches data from Google Sheets and generates all output files
 
 set -e  # Exit on error
+
+# if you see this err:r
+# "error: Can't use Python at ./.venv/bin/python3 Caused by: Broken Python installation, platform.mac_ver() returned an empty value, please reinstall Python"
+# can fix it via: 
+#   rm -rf .venv
+#   uv sync
 
 echo "=== Running Boccherini Pipeline ==="
 echo
