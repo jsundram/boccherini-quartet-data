@@ -1,0 +1,5 @@
+# Generated engraving output (PDFs, MIDI) — rebuilt with `make`
+build/
+
+# Zip backups / archives of edited sources
+*.zip
