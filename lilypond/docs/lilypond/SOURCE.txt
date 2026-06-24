@@ -1,0 +1,16 @@
+Local offline copy of the official LilyPond "Cheat sheet" (Notation Reference,
+Appendix B).
+
+Source : https://lilypond.org/doc/v2.24/Documentation/notation/cheat-sheet.html
+Version: LilyPond 2.24 documentation
+Saved  : 2026-06-24
+
+Self-contained for offline use:
+  cheat-sheet.html   the page (image/CSS paths rewritten to point here)
+  css/               the two stylesheets it references
+  img/               the 28 rendered musical-example PNGs
+
+Open with:  open cheat-sheet.html
+
+Copyright the LilyPond authors; distributed under the GNU FDL (see lilypond.org).
+This is an unmodified-content archive kept locally for convenience.
