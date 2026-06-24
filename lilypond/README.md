@@ -2,12 +2,11 @@
 
 This directory contains LilyPond source files for various works by Luigi Boccherini, downloaded from an archived version of the le-concert.pagesperso-orange.fr website, where IMSLP user [Philhar](https://imslp.org/wiki/User:Philhar) hosted them.
 
-Several of lilypond source files are also hosted  on imslp, these have also been downloaded but are not listed below: 
+Several of lilypond source files are also hosted on imslp; these have also been downloaded and normalized to the standard filename convention (`00-Score.ly`, `01-V1-1.ily`, …) so they build with the Makefile:
 
-* Opus 32 1-6 (need fixing to remove prefixes...)
-  * NB from Elaine in #4 In Philhar's version, 2nd mvt bar 3 cello part has Eb followed by F, but should be F followed by G (same as bar 45) (this agrees with the printed edition i have)
-* Opus 33 1-6  (need fixing to remove prefixes...)
-* 
+* Opus 32 1-6
+  * NB from Elaine, in #4: in Philhar's version, 2nd mvt bar 3 cello part has Eb followed by F, but should be F followed by G (same as bar 45) — this agrees with the printed edition. *(correction not yet applied to the encoding)*
+* Opus 33 1-6
 
 ## Source A
 
