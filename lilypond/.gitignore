@@ -4,6 +4,7 @@ build/
 # Zip backups / archives of edited sources
 *.zip
 
-# Content-change tooling scratch (auto-cleaned, but ignore if interrupted)
+# Preview output (local + CI); auto-cleaned, but ignore if interrupted
+.preview-out/
+.ci-preview-out/
 .preview-work-*/
-changes/*/.pr-body.md

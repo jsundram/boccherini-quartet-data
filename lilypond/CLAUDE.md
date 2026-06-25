@@ -49,11 +49,12 @@ cheat sheet: `docs/lilypond/cheat-sheet.html`.
 1. **Encode a new quartet from manuscript** → copy `template/` to `OpNN-n/` and
    follow `template/README.md`. Manuscripts are in `../manuscripts/`. Not yet
    encoded: Op39, Op42, Op43, Op44, Op48, Op64.
-2. **Edit notes in an existing quartet (content change)** → use the review
-   process in `tools/README.md`: capture the edit as a patch under
-   `changes/<slug>/`, run `tools/preview-music-change.sh` for before/after
-   images, then `tools/open-change-pr.sh` to open a PR. **Content edits go
-   through PRs; infrastructure/tooling commits go straight to `main`.**
+2. **Edit notes in an existing quartet (content change)** → branch, edit the
+   note file, open a PR. CI (`.github/workflows/music-change-preview.yml`) proves
+   it engraves and posts a before/after render. Optional local check:
+   `tools/preview-music-change.sh <quartet>`. Full flow in the repo-root
+   `CONTRIBUTING.md`. **Content edits go through PRs; infra/tooling/docs commit
+   straight to `main`.**
 3. **Build/inspect** → `make` as above.
 
 ## Gotchas
