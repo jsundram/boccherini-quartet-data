@@ -58,7 +58,7 @@ share one source of truth.
 | `01-Violon1.ly` `02-Violon2.ly` `03-Alto.ly` `04-Violoncelle.ly` | The four separate parts (wrappers — they contain no notes themselves). |
 | `01-V1-M.ily` `02-V2-M.ily` `03-A-M.ily` `04-Vc-M.ily` | **The actual notes**, one file per instrument per movement `M`. This is where you spend your time. |
 | `Midi.ly` | Renders all movements to MIDI for aural proofreading. |
-| `cc.eps` `cc2.eps` `Lily.eps` | Logos for the Creative-Commons / LilyPond footer. Do not edit. |
+| `cc.eps` `cc2.eps` `lily.eps` | Logos for the Creative-Commons / LilyPond footer. Do not edit. |
 
 Naming: `01/02/03/04` = Violon I / Violon II / Alto / Violoncelle (French, as in
 the source editions). The trailing `-1/-2/-3` is the movement number.

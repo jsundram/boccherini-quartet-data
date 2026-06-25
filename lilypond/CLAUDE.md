@@ -28,7 +28,7 @@ Each `OpNN-n/` holds (French part names, as in the sources):
 | `0X-{V1,V2,A,Vc}-M.ily` | **the actual notes**, one file per instrument per movement M |
 | `Global.ily` | per-quartet metadata + shared macros + `\paper` |
 | `Trame.ily` | the rhythmic **skeleton**: time/key/tempo, repeats, barlines as spacer rests |
-| `Midi.ly`, `cc.eps`/`cc2.eps`/`Lily.eps` | MIDI render; CC/LilyPond logos |
+| `Midi.ly`, `cc.eps`/`cc2.eps`/`lily.eps` | MIDI render; CC/LilyPond logos |
 
 Two conventions that aren't obvious:
 
