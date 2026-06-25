@@ -20,20 +20,24 @@ no patches or generated files to commit.
    **before → after** image comparison on the PR — generated from your diff, not
    from anything you upload. Wait for the green check and confirm the render
    looks right.
-6. **Squash-merge** so each correction is exactly one commit on `main`:
-   - **GitHub UI:** the merge button → **Squash and merge**. This repo fills the
-     commit message from your commit(s), *not* the PR description — so make sure
-     the message box carries the *why* (quartet, bar, source/authority); paste it
-     from the PR if your commit message was terse. Then **Confirm**, and
-     **Delete branch**.
-   - **CLI:** `gh pr merge <#> --squash --delete-branch` (it opens the message in
-     your editor — keep the rationale in it).
+6. **Squash-merge** so each correction is exactly one commit on `main`. This
+   repo fills the squash message from your *commit message(s)*, not the PR
+   description — so put the rationale where it will be kept. Two easy ways:
+   - **Reuse the PR body from the CLI** (no copy-paste): the PR title becomes the
+     commit subject and the PR description becomes the body —
+     ```
+     gh pr merge <#> --squash --delete-branch \
+       --body "$(gh pr view <#> --json body -q .body)"
+     ```
+   - **GitHub UI:** the merge button → **Squash and merge** → in the message box,
+     replace the pre-filled text with your PR description (quartet, bar,
+     source/authority) → **Confirm** → **Delete branch**.
 
 That's the whole thing: **edit → PR → CI renders & checks → squash-merge.**
 
-> Tip: write a one-line summary and the rationale in your *commit* message (not
-> just the PR box). Then the squash default carries it straight into `main`'s
-> history, and the PR template just mirrors it for reviewers.
+> Shortcut: if you already wrote the *why* in your commit message, the squash
+> default keeps it and there's nothing extra to do — the PR template just mirrors
+> it for reviewers.
 
 ## Anything else
 
