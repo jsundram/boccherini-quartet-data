@@ -62,7 +62,10 @@ for q in $quartets; do
   # Build proof: every .ly in the AFTER tree must engrave.
   build_ok=1
   for ly in "$adir"/0*.ly; do
-    lilypond --loglevel=ERROR -I "$adir" -o "$OUT/.build-$q" "$ly" >"$OUT/.build-$q.log" 2>&1 || build_ok=0
+    if ! lilypond --loglevel=WARN -I "$adir" -o "$OUT/.build-$q" "$ly" >"$OUT/.build-$q.log" 2>&1; then
+      build_ok=0
+      echo "::group::lilypond failed: $q/$(basename "$ly")"; cat "$OUT/.build-$q.log"; echo "::endgroup::"
+    fi
   done
 
   qout="$OUT/$q"; mkdir -p "$qout"
