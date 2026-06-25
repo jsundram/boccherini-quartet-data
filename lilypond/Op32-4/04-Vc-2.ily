@@ -10,8 +10,8 @@
 r8 r
 ees4.\p( f)
 ees c
-ees f
-c r4 r8
+f g
+c, r4 r8
 ees4.( f
 ees c)
 f( g8) 8 8
