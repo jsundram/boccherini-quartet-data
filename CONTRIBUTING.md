@@ -15,13 +15,25 @@ no patches or generated files to commit.
    `cd lilypond && tools/preview-music-change.sh Op32-4`
    renders before (HEAD) vs after (your edit) into `lilypond/.preview-out/`.
 4. **Open a PR** and fill in the template (quartet, bar, part, source/authority,
-   what changed).
-5. **CI does the rest:** it proves the quartet still engraves and posts a
+   what changed). That description is the permanent record of *why*.
+5. **CI checks it:** the workflow proves the quartet still engraves and posts a
    **before → after** image comparison on the PR — generated from your diff, not
-   from anything you upload. When it's green and the render looks right, merge
-   (squash, so the rationale lands in the commit history).
+   from anything you upload. Wait for the green check and confirm the render
+   looks right.
+6. **Squash-merge** so each correction is exactly one commit on `main`:
+   - **GitHub UI:** the merge button → **Squash and merge**. This repo fills the
+     commit message from your commit(s), *not* the PR description — so make sure
+     the message box carries the *why* (quartet, bar, source/authority); paste it
+     from the PR if your commit message was terse. Then **Confirm**, and
+     **Delete branch**.
+   - **CLI:** `gh pr merge <#> --squash --delete-branch` (it opens the message in
+     your editor — keep the rationale in it).
 
-That's the whole thing: **edit → PR → CI renders & checks.**
+That's the whole thing: **edit → PR → CI renders & checks → squash-merge.**
+
+> Tip: write a one-line summary and the rationale in your *commit* message (not
+> just the PR box). Then the squash default carries it straight into `main`'s
+> history, and the PR template just mirrors it for reviewers.
 
 ## Anything else
 
