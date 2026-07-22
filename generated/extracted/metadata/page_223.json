@@ -1,0 +1,60 @@
+{
+  "book_page": 222,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegretto",
+      "incipit_number": 431,
+      "instrument": "v1",
+      "dynamics": "dolcis, rinf, p"
+    },
+    {
+      "number": 2,
+      "tempo": "Minuetto Allegro",
+      "incipit_number": 432,
+      "instrument": "v1",
+      "dynamics": "p, f, tr (Trio)"
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 200,
+      "quartet_number": 42,
+      "instrumentation": "two violins, viola and cello",
+      "key": "F Minor",
+      "opus": {
+        "number": 26,
+        "work_number": 6,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andante appassionato ma non lento",
+          "incipit_number": 433,
+          "instrument": "v1",
+          "dynamics": "mezza voce, dolcis"
+        }
+      ],
+      "sources": {},
+      "notes": "Op. 26 no. 6 of 1778 ('quartettino ... opera piccola') in Boccherini's autograph catalogue."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 199,
+    "sources": {
+      "autograph": "Lost",
+      "ms_copies_parts": [
+        "Montecatini, Venturi private collection, A 9",
+        "Venice, Conservatorio, Giustinian 15669/O.C.",
+        "Vienna, Bibl. Nat., S.m.11752"
+      ],
+      "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 5 (for title, see No. 195)",
+      "later_editions": [
+        "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 5 (for title, see No. 195)",
+        "(c. 1790), Paris, Le Duc: Op. 32 no. 5 (for title, see No. 195)"
+      ]
+    }
+  }
+}

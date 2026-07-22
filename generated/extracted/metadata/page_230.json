@@ -1,0 +1,54 @@
+{
+  "book_page": 229,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegro comodo",
+      "incipit_number": 449,
+      "instrument": "v1",
+      "dynamics": "tr"
+    },
+    {
+      "number": 2,
+      "tempo": "Andantino",
+      "incipit_number": 450,
+      "instrument": "v4",
+      "dynamics": "sotto voce sempre"
+    },
+    {
+      "number": 3,
+      "tempo": "Minuetto con moto",
+      "incipit_number": 451,
+      "instrument": "v4",
+      "dynamics": "f",
+      "notes": "Trio - dolcis. e smorzoso"
+    },
+    {
+      "number": 4,
+      "tempo": "Allegro giusto",
+      "incipit_number": 452,
+      "instrument": "v1",
+      "dynamics": "pp",
+      "notes": "With a written cadenza for the first violin entitled 'Capriccio ad libitum'"
+    }
+  ],
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 205,
+    "sources": {
+      "autograph": "Berlin, Deutsche Staatsbibliothek, M.575, 'Quartetto V\u00b0...' (for title, see No. 201)",
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.577 and M.578. Two copies made in Berlin for Frederick William II",
+        "Prague, N\u00e1rodn\u00ed Muzeum, XXII. B.63, 'Quartetto no. 29...'",
+        "Rome, Accademia Santa Cecilia, G. MSS. 357 to 360, dated 1792"
+      ],
+      "first_edition": "(c. 1782), Vienna, Artaria: Op. 33 no. 5 (for title, see No. 201)",
+      "later_editions": [
+        "(c. 1782/1783), London, Kerpen: Op. 33 no. 5 (for title, see No. 201)",
+        "1785, Paris, Sieber: Op. 33 no. 5 (for title, see No. 201)",
+        "1798, Paris, Pleyel: Op. 39 no. 11 (Book 4 no. 2; for title, see No. 234)"
+      ]
+    }
+  },
+  "partial_notes": "See note to No. 295."
+}

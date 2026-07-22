@@ -1,0 +1,94 @@
+{
+  "book_page": 282,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 262,
+      "type": "arrangements",
+      "title": "THREE QUARTETS (nos. 1 to 3) for clarinet, flute, horn and bassoon",
+      "arranger": "Othon Van den Broek",
+      "quartets": [
+        {
+          "number": 1,
+          "key": "C Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro vivace assai",
+              "source": "Arrangement of the first movement of the quartet in D Major Op. 52 no. 2 of 1795",
+              "reference": "No. 233, Incipit No. 519"
+            },
+            {
+              "number": 2,
+              "tempo": "Adagio non tanto",
+              "source": "Arrangement of the third movement of the quartet in F Minor Op. 52 no. 4 of 1795",
+              "reference": "No. 235, Incipit No. 529"
+            },
+            {
+              "number": 3,
+              "tempo": "Presto assai",
+              "source": "Arrangement of the fourth movement of the quartet in A Major Op. 32 no. 6 of 1780",
+              "reference": "No. 206, Incipit No. 456"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "key": "F Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro",
+              "source": "Arrangement of the fourth movement of the quartet in A Major Op. 39 of 1787",
+              "reference": "No. 213, Incipit No. 473"
+            },
+            {
+              "number": 2,
+              "tempo": "Larghetto",
+              "source": "Arrangement of the second movement of the quartet in C Major Op. 32 no. 4 of 1780",
+              "reference": "No. 204, Incipit No. 447"
+            },
+            {
+              "number": 3,
+              "tempo": "Allegro vivo ma non presto",
+              "source": "Arrangement of the third movement of the quartet in D Major Op. 32 no. 3 of 1780",
+              "reference": "No. 203, Incipit No. 445"
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "key": "C Major",
+          "movements": [
+            {
+              "number": 1,
+              "tempo": "Allegro con moto",
+              "source": "Arrangement of the first movement of the quartet in C Major Op. 52 no. 1 of 1795",
+              "reference": "No. 232, Incipit No. 515"
+            },
+            {
+              "number": 2,
+              "tempo": "Andantino lentarello",
+              "source": "Arrangement of the second movement of the quartet in A Major Op. 32 no. 6 of 1780",
+              "reference": "No. 206, Incipit No. 454"
+            },
+            {
+              "number": 3,
+              "tempo": "Tempo di Minuetto (trio)",
+              "source": "Arrangement of the second movement of the quartet in C Minor Op. 41 no. 1 of 1788",
+              "reference": "No. 214, Incipit No. 475"
+            },
+            {
+              "number": 4,
+              "tempo": "Finale. Allegro giusto",
+              "source": "Arrangement of the fourth movement of the quartet in C Major Op. 52 no. 1 of 1795",
+              "reference": "No. 232, Incipit No. 518"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": "This page lists arrangements of Boccherini string quartet movements for wind quartet instrumentation."
+}

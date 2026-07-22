@@ -1,0 +1,29 @@
+{
+  "book_page": 271,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegro molto",
+      "incipit_number": 562,
+      "instrument": "v1",
+      "dynamics": "ff"
+    },
+    {
+      "number": 2,
+      "tempo": "Adagio non tanto",
+      "incipit_number": 563,
+      "instrument": "v1",
+      "dynamics": "pp"
+    },
+    {
+      "number": 3,
+      "tempo": "Allegro vivo ma non presto",
+      "incipit_number": 564,
+      "instrument": "v1",
+      "dynamics": "f"
+    }
+  ],
+  "entries": [],
+  "continues_from_previous": null,
+  "partial_notes": "This page shows movements and source information for a previous entry (G.248). The movements are three in total with incipits 562-564. Source information indicates an autograph MS at Washington Library of Congress from 1804, dedicated to Lucien Bonaparte. The work was incomplete - only the first quartet was finished and the first movement of the second. There is discussion about the dating and dedication to Bonaparte who ceased being Ambassador in Madrid in 1801."
+}

@@ -1,0 +1,81 @@
+{
+  "book_page": 274,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 252,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "C Major",
+      "opus": {
+        "number": 54,
+        "work_number": 3,
+        "year": null,
+        "type": null
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro maestoso",
+          "description": "Repeat (transposed to C Major) of the first movement of the quartet in D Major Op. 52 no. 2 of 1795 (No. 233, Incipit No. 519)"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto",
+          "description": "Repeat of the second movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 536)"
+        },
+        {
+          "number": 3,
+          "tempo": "Grave",
+          "description": "Arrangement of the first movement of the double 'cello quintet in C Minor Op. 51 no. 2 of 1795 (No. 377, Incipit No. 943)"
+        },
+        {
+          "number": 4,
+          "tempo": "Finale\u2014presto assai",
+          "description": "Repeat of the first movement of the quartet in C Major Op. 53 no. 3 of 1796 (No. 238, Incipit No. 535)"
+        }
+      ],
+      "sources": {
+        "autograph": "MS. (separate parts): Washington, Library of Congress (for reference number, title and comment, see No. 250)",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Unpublished.",
+      "incomplete": false
+    },
+    {
+      "g_number": 253,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "A Major",
+      "opus": {
+        "number": 54,
+        "work_number": 4,
+        "year": null,
+        "type": null
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Presto\u2014Larghetto\u2014Minuetto\u2014Allegro vivo",
+          "description": "Arrangement of the whole of the trio in A Major Op. 54 no. 6 of 1796 (No. 118)"
+        }
+      ],
+      "sources": {
+        "autograph": "MS. (separate parts): Washington, Library of Congress (for reference number, title and comment, see No. 250)",
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see No. 250. Unpublished.",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

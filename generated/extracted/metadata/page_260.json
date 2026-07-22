@@ -1,0 +1,21 @@
+{
+  "book_page": 259,
+  "movements_for_previous_entry": [],
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 234,
+    "sources": {
+      "first_edition": {
+        "year": 1798,
+        "publisher": "Pleyel",
+        "location": "Paris",
+        "opus_info": "Op. 39, no. 1 (Book 1 no. 1) of Douze quatuors pour deux violons, alto et violoncelle par Luigi Boccherini oeuvre 39",
+        "price": "7 liv. 10s",
+        "address": "Boulevard Bonne Nouvelle n\u00b0 8 et rue Neuve des Petits Champs n\u00b0 13 vis-\u00e0-vis le Tr\u00e9sor Public",
+        "plate_numbers": "125, 134, 131, 178",
+        "later_copies": "c. 1814 with address Propri\u00e9t\u00e9 de l'Editeur. Enregistr\u00e9 \u00e0 la Biblioth\u00e8que Imp\u00e9riale \u00e0 Paris. Chez Ignace Pleyel et fils ain\u00e9, Boulevard Montmartre"
+      }
+    }
+  },
+  "partial_notes": "Discussion of Pleyel's misleading publication practices with Boccherini's string quartets Op. 39, including the disloyal procedure of publishing twelve quartets from different periods (1780-1795) under a single opus number without indicating their true chronological order. Includes correspondence between Pleyel and Boccherini, and F\u00e9tis's later recognition of the composite nature of the collection. Cross-references to Boccherini's autograph catalogue showing the actual opus numbers and composition dates."
+}

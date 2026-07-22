@@ -1,0 +1,53 @@
+{
+  "book_page": 205,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 183,
+      "quartet_number": 25,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Major",
+      "opus": {
+        "number": 22,
+        "work_number": 1,
+        "year": 1775,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro molto",
+          "incipit_number": 393,
+          "instrument": "v1",
+          "dynamics": "f"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 394,
+          "instrument": "v1",
+          "dynamics": "p"
+        }
+      ],
+      "sources": {
+        "autograph": {
+          "location": "Berlin, Deutsche Staatsbibliothek, M.563",
+          "title": "Opera 3a. 1775. Quartetto Io per due violini, viola, e violoncello obbligato fatto per servizio di S.A.R.le Dn Luigi Infante di Spagna da Luigi Boccherini virtuoso di camera, e compositore di musica di S.A.R.le",
+          "description": "score"
+        },
+        "ms_copies_parts": {
+          "berlin": "Berlin, Deutsche Staatsbibliothek, M.569 and M.570. Two copies made in Berlin for Frederick William II",
+          "modena": "Modena, Bibl. Estense, Mus. F. 91, 'Quartetto ... opera 3a 1775'. In another hand: 'presso Chevardiere e segnate opera 27 [sic]'"
+        },
+        "first_edition": {
+          "year": 1776,
+          "location": "Paris",
+          "publisher": "La Chevardiere",
+          "opus": 26,
+          "title": "Sei quartetti per due violini, alto e basso composti del Signor Luigi Boccherini di Lucca, Virtuoso di camera e compositore di S.A.R. Don Luigi Infante di Spagnia. opera XXVI. Libro quinto di quartetti grav\u00e9 par Mad.e Oger \u00e0 Paris, chez M. de la Chevardiere, rue du Roule \u00e0 la Croix d'or. \u00e0 Lyon. Mr Castaud vis \u00e0 vis la Com\u00e9die. \u00e0 Bruxelles, Mr Godefroy M.d de musique et en province ch\u00e9s tous les marchands. Avec privil\u00e9ge du Roy."
+        }
+      },
+      "notes": "An interesting copy dating from the 18th century of these quartets Op. 22, which were not widely circulated."
+    }
+  ]
+}

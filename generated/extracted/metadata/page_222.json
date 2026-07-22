@@ -1,0 +1,60 @@
+{
+  "book_page": 221,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Larghetto",
+      "incipit_number": 429,
+      "instrument": "v1",
+      "dynamics": "sotto voce"
+    },
+    {
+      "number": 2,
+      "tempo": "Minuetto con moto",
+      "incipit_number": 430,
+      "instrument": "v1",
+      "dynamics": "dolcis."
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 199,
+      "quartet_number": 41,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "F Major",
+      "opus": {
+        "number": 26,
+        "work_number": 5,
+        "year": 1778,
+        "type": "opera piccola"
+      },
+      "movements": [],
+      "sources": {
+        "autograph": null,
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": null,
+        "later_editions": null,
+        "modern_edition": null
+      },
+      "notes": "quartettino...opera piccola in Boccherini's autograph catalogue"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": 198,
+    "sources": {
+      "autograph": "Lost",
+      "ms_copies_parts": [
+        "Montecatini, Venturi private collection, A 9",
+        "Venice, Conservatorio, Giustinian 13669/O.C.",
+        "Vienna, Bibl. Nat., S.m.11751"
+      ],
+      "first_edition": "October, 1781, Vienna, Artaria: Op. 32 no. 4",
+      "later_editions": [
+        "(c. 1785?), Amsterdam, Schmitt: Op. 32 no. 4",
+        "(c. 1790), Paris, Le Duc: Op. 32 no. 4"
+      ],
+      "modern_edition": "(c. 1930?), Leipzig, Peters: Op. 32 no. 4 (separate parts; revised by R. Hofmann). This edition was re-published c. 1943? by the International Music Co., New York"
+    }
+  }
+}

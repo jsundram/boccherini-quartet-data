@@ -1,0 +1,57 @@
+{
+  "book_page": 175,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 160,
+      "quartet_number": 2,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Bb Major",
+      "opus": {
+        "number": 2,
+        "work_number": 2,
+        "year": 1761,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro non tanto",
+          "incipit_number": 328,
+          "instrument": "v1",
+          "dynamics": "p"
+        },
+        {
+          "number": 2,
+          "tempo": "Largo",
+          "incipit_number": 329,
+          "instrument": "vlc",
+          "dynamics": "p",
+          "notes": "Solo"
+        },
+        {
+          "number": 3,
+          "tempo": "Fuga con spirito",
+          "incipit_number": 330,
+          "instrument": "v1",
+          "dynamics": "ff"
+        }
+      ],
+      "sources": {
+        "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 3 . . .' (separate part)",
+        "ms_copies_score": "Lucca, Istituto Musicale Boccherini, B.I. 114, 'Sonata a quattro no. 3 . . .'",
+        "ms_copies_parts": [
+          "Burgos, Archivo Catedral, Car. 74",
+          "Florence, Conservatorio, B. 1550",
+          "Marburg, Westdeutschbibliothek, Mus. MSS. 2005/3, 'Quartetto no. 3 . . .'",
+          "Montecatini, Venturi private collection, A.9, 'Quartetto no. 3 . . .'"
+        ]
+      },
+      "notes": "Note on autograph: (for comment, see No. 159)"
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "partial_info": "Arrangements section continues from previous entry: (A) Of the whole quartet, as a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778 (see No. 43). (B) Of the third movement, as part of a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785 (see No. 46)."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "book_page": 232,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegro spiritoso",
+      "incipit_number": null,
+      "instrument": "v1",
+      "dynamics": "f"
+    },
+    {
+      "number": 2,
+      "tempo": "Rondeau. Allegretto ma con moto",
+      "incipit_number": 457,
+      "instrument": "v1",
+      "dynamics": "pp",
+      "notes": "Con smorfia"
+    }
+  ],
+  "entries": [],
+  "continues_from_previous": null,
+  "partial_notes": "This page shows movements and source information for a previous string quartet entry. The page contains detailed source information including autograph MS in Berlin (Deutsche Staatsbibliothek M.579) and Paris (Bibl. de l'Op\u00e9ra R\u00e9serve 507), with historical context about Boccherini's service relationships and dating considerations. The work was unpublished in Boccherini's lifetime."
+}

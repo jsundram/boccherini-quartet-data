@@ -1,0 +1,35 @@
+{
+  "book_page": 237,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 212,
+      "quartet_number": 54,
+      "instrumentation": "two violins, viola and 'cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 33,
+        "work_number": 6,
+        "year": 1781,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Minuetto",
+          "incipit_number": 467,
+          "instrument": "v1",
+          "dynamics": "dolce, cresc., p"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.583, 'Quartettino V\u00b0...' (for title, see No. 207)",
+        "ms_copies_score": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (2) (for title and comment, see No. 207)",
+        "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.585 and M.586. Two copies made in Berlin for Frederick William II. Mulhouse, Bibl. Municipale, MN.4862 (19th century)",
+        "first_edition": "1958, Rome, del Turco, in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)",
+        "later_editions": "1960, Hamburg/London, Simrock (separate parts: revised by W. H\u00f6ckner and H. Mlynarczyk)"
+      },
+      "notes": "The minuetto is incorporated in the Allegro vivo assai, a part of which is repeated after it. Unpublished in Boccherini's life-time."
+    }
+  ]
+}

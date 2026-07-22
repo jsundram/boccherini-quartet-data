@@ -1,0 +1,61 @@
+{
+  "book_page": 266,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Allegro",
+      "incipit_number": 543,
+      "instrument": "v1",
+      "dynamics": "pp"
+    },
+    {
+      "number": 2,
+      "tempo": "Larghetto",
+      "incipit_number": 544,
+      "instrument": "v1",
+      "dynamics": "p soave assai"
+    },
+    {
+      "number": 3,
+      "tempo": "Allegro vivo assai",
+      "incipit_number": 545,
+      "instrument": "v1",
+      "dynamics": "ff sempre"
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 243,
+      "quartet_number": 85,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 58,
+        "work_number": 2,
+        "year": 1799,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegretto lento",
+          "incipit_number": 546,
+          "instrument": "v2",
+          "dynamics": "p soave assai"
+        }
+      ],
+      "sources": {
+        "autograph": null,
+        "ms_copies_score": "No MSS. of any kind are known",
+        "ms_copies_parts": null,
+        "first_edition": "(c. 1803), Paris, Sieber (Op. 58), no. 1 of Six quartetti \u00e0 deux violons, alto et violoncello compos\u00e9 par Luigi Boccherini op 58 en deux livraisons, 1\u00e8re [2\u00e8me] partie, Prix 7 liv. 10 s. \u00e0 Paris, chez Sieber p\u00e8re, artiste et \u00e9diteur de musique rue St. Honor\u00e9, H\u00f4tel d'Aligre n\u00b0 199. Plate nos. 1634/1635. The copies of a later impression have a slightly different title: Six quartetti . . . op. 58 (grav\u00e9s sur le manuscrit de l'auteur) . . . chez Sieber P\u00e8re, \u00c9diteur et Md de Musique, rue Coquill\u00e8re n\u00b0 22 pr\u00e8s celle J. J. Rousseau (ci-devant rue St Honor\u00e9, h\u00f4tel d'Aligre).",
+        "later_editions": null,
+        "modern_edition": "1961, Milan, Ricordi: Op. 58 no. 1 (pocket score and separate parts; revised by P. Carmirelli)"
+      },
+      "notes": null,
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

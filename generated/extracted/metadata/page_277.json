@@ -1,0 +1,62 @@
+{
+  "book_page": 276,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 256,
+      "title": "SIX QUARTETS for two violins, viola and 'cello (arrangements of the six quintets Op. 10 of 1771)",
+      "instrumentation": "two violins, viola and 'cello",
+      "opus": {
+        "number": 10,
+        "year": 1771,
+        "type": "arrangements"
+      },
+      "movements": [],
+      "quartets": [
+        {
+          "number": 1,
+          "key": "A Major",
+          "movements": "Andantino\u2014Largo\u2014Minuetto\u2014Allegro assai",
+          "arrangement_of": "quintet Op. 10 no. 1 (No. 265)"
+        },
+        {
+          "number": 2,
+          "key": "Eb Major",
+          "movements": "Andantino\u2014Allegro\u2014Minuetto\u2014Presto",
+          "arrangement_of": "quintet Op. 10 no. 2 (No. 266)"
+        },
+        {
+          "number": 3,
+          "key": "C Minor",
+          "movements": "Allegretto\u2014Adagio\u2014Minuetto\u2014Presto",
+          "arrangement_of": "quintet Op. 10 no. 3 (No. 267)"
+        },
+        {
+          "number": 4,
+          "key": "C Major",
+          "movements": "Adagio and Allegro con forza\u2014Adagio\u2014Presto allegro",
+          "arrangement_of": "quintet Op. 10 no. 4 (No. 268)"
+        },
+        {
+          "number": 5,
+          "key": "Eb Major",
+          "movements": "Andante\u2014Allegro assai\u2014Allegretto",
+          "arrangement_of": "quintet Op. 10 no. 5 (No. 269)"
+        },
+        {
+          "number": 6,
+          "key": "D Major",
+          "movements": "Dolce\u2014Allegro maestoso\u2014Minuetto con variazioni",
+          "arrangement_of": "quintet Op. 10 no. 6 (No. 270)"
+        }
+      ],
+      "sources": {
+        "ms_copies_score": "London, British Museum, Additional 34073. 'Quintet's 1st set op. 12 by Boccherini arranged for 2 violini, viola and violoncello'."
+      },
+      "notes": "No reference in Boccherini's autograph catalogue. At the beginning of this MS. is a note (19th century) in English: 'N.B.\u2014This manuscript is very correctly and carefully written, and may possibly be the hand writing of Dr Haydn; 1st from the close resemblance to his style as recorded, and 2ndly from the constant intercourse between these two eminent composers transmission to each other of their works (sic)'. The tradition that close relations existed between Haydn and Boccherini is discussed in the Biography. With regard to the present MS. we have consulted two scholars with special knowledge of Haydn, Messrs. Anthony van Hoboken and Karl Geiringer. The opinion of both is that the handwriting of the score of these six quartets, though very similar to that of Haydn, is not his nor that of any of his regular amanuenses. Moreover, there is no known instance of Haydn having arranged a series of works by another musician, even a friend. Whoever transcribed the score appears to have added certain words (though not the note quoted above) in English, and we are inclined to believe that the arrangements are the work of an English amateur of the beginning of the 19th century.",
+      "publication_status": "Unpublished"
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

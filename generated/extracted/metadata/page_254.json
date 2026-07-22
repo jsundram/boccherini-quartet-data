@@ -1,0 +1,48 @@
+{
+  "book_page": 253,
+  "movements_for_previous_entry": [
+    {
+      "number": 2,
+      "tempo": "Minuetto con moto (Trio)",
+      "incipit_number": 508,
+      "instrument": "v1",
+      "dynamics": "pp"
+    }
+  ],
+  "entries": [
+    {
+      "g_number": 229,
+      "quartet_number": 71,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 48,
+        "work_number": 4,
+        "year": 1794,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Andantino lento",
+          "incipit_number": 509,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Minuetto con un poco di moto (Trio)",
+          "incipit_number": 510,
+          "instrument": "v1",
+          "dynamics": "pp, pp sempre"
+        }
+      ],
+      "sources": {
+        "autograph": "Paris, Bibl. de l'Op\u00e9ra, R\u00e9serve 507 (14). 'Mese di Giugno 1794. Quartettino [per due violini, viola e violoncello di Luigi] Boccherini [compositor di camera di S.M. il Re di Prussia]'. The first violin and 'cello parts are not in the hand of Boccherini.",
+        "ms_copies_parts": "Mulhouse, Bibl. Municipale, MN.4862. Paris, Conservatoire, D. 11169, in the hand of Picquot, with a note: 'beau'.",
+        "first_edition": "1932, Kassel, B\u00e4renreiter (separate parts; revised by Walter Upmeyer), with the erroneous number Op. 48 no. 2, no. 7 in L. Boccherini Ausgew\u00e4hlte Streichquartette."
+      },
+      "notes": "Unpublished in Boccherini's life-time."
+    }
+  ]
+}

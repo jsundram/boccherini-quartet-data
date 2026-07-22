@@ -1,0 +1,44 @@
+{
+  "book_page": 183,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 166,
+      "quartet_number": 8,
+      "instrumentation": "two violins, viola and cello",
+      "key": "C Minor",
+      "opus": {
+        "number": 8,
+        "work_number": 2,
+        "year": 1769,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Moderato",
+          "incipit_number": 346,
+          "instrument": "v1",
+          "dynamics": "dolce"
+        }
+      ],
+      "sources": {
+        "first_edition": "December, 1769, Paris, V\u00e9nier (Op. 6), no. 1 of VI Quartetti per due violini, alto e violoncello dedicati a S. A. R. Du Luigi Infante di Spagna, da Luigi Boccherini, grav\u00e9es par Mme la Veuve Leclair",
+        "later_editions": [
+          "(c. 1770), London, Longman Lukey: Op. 4 no. 2",
+          "(c. 1775), London, Bremner: Op. 6 no. 2",
+          "(c. 1780), Amsterdam, Hummel: Op. 2 no. 2",
+          "(c. 1785?), Paris, Boyer-Naderman (Op. 6), no. 1 of VI Quartetti"
+        ],
+        "modern_edition": "1953, Milan, Ricordi: Op. 6 no. 1 (pocket score; revised by Enrico Polo)"
+      },
+      "notes": "Op. 8 no. 2 of 1769 ('opera grande') in Boccherini's autograph catalogue. Arrangements: (A) Of the third movement, as part of a sonata for harpsichord (or pianoforte) and violin, by Thomas Billington, c. 1780(?). (B) Of the first and third movements, as a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785."
+    }
+  ],
+  "continues_from_previous": {
+    "g_number": null,
+    "sources": {
+      "first_edition": "STRING QUARTERS (TWO VIOLINS, VIOLA AND 'CELLO) - First edition and later editions information continues from previous page"
+    }
+  }
+}

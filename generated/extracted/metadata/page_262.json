@@ -1,0 +1,45 @@
+{
+  "book_page": 261,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 236,
+      "quartet_number": 78,
+      "instrumentation": "two violins, viola and cello",
+      "key": "Eb Major",
+      "opus": {
+        "number": 53,
+        "work_number": 1,
+        "year": 1796,
+        "type": "opera piccola"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro (che appena si senta)",
+          "incipit_number": 531,
+          "instrument": "v1",
+          "dynamics": "pp"
+        },
+        {
+          "number": 2,
+          "tempo": "Tempo di Minuetto",
+          "incipit_number": 532,
+          "instrument": "v1",
+          "dynamics": "pp"
+        }
+      ],
+      "sources": {
+        "autograph": "Berlin, Deutsche Staatsbibliothek, M.608. Mese di Settembre 1795. Quartetto per due violini, viola, e violoncello di Luigi Boccherini, compositor di camera di S.M. il Re di Prussia",
+        "ms_copies_parts": "Berlin, Deutsche Staatsbibliothek, M.609. Copy made in Berlin for Frederick William II",
+        "first_edition": "1798, Paris, Pleyel: Op. 39 no. 9 (Book 1 no. 3; for title and comment, see No. 234)",
+        "later_editions": [],
+        "modern_edition": null
+      },
+      "notes": "Arrangement: Of the third movement, as part of a quartet (no. 1) for clarinet, flute, horn and bassoon, by O. Van den Broek, c. 1810 (see No. 262). MSS.: No MSS. of any kind are known.",
+      "incomplete": false
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": "Entry shows Trio marking in second movement incipit."
+}

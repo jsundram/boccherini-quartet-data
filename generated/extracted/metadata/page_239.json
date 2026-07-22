@@ -1,0 +1,58 @@
+{
+  "book_page": 238,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Adagio",
+      "incipit_number": 468,
+      "instrument": "v1",
+      "dynamics": "pp"
+    },
+    {
+      "number": 2,
+      "tempo": "Minuetto. Affettuoso",
+      "incipit_number": 469,
+      "instrument": "v1",
+      "dynamics": "dolcissimo"
+    }
+  ],
+  "entries": [],
+  "continues_from_previous": {
+    "sources": {
+      "autograph_score": {
+        "location": "Berlin, Deutsche Staatsbibliothek",
+        "shelfmark": "M.584",
+        "title": "Quartettino VI",
+        "note": "(for title, see No. 207)"
+      },
+      "autograph_parts": {
+        "location": "Paris, Bibl. de l'Op\u00e9ra",
+        "shelfmark": "R\u00e9serve 507 (2)",
+        "note": "(for title and comment, see No. 207)"
+      },
+      "ms_copies_parts": [
+        {
+          "location": "Berlin, Deutsche Staatsbibliothek",
+          "shelfmarks": "M.585 and M.586",
+          "note": "Two copies made in Berlin for Frederick William II"
+        },
+        {
+          "location": "Mulhouse, Bibl. Municipale",
+          "shelfmark": "MN.4862",
+          "date": "19th century"
+        }
+      ],
+      "first_edition": {
+        "year": 1958,
+        "publisher": "Rome, del Turco",
+        "details": "in vol. 1 in the series Classici Italiani della Musica published under the auspices of UNESCO (score; revised by Pina Carmirelli)"
+      },
+      "later_editions": {
+        "year": 1960,
+        "publisher": "Hamburg/London, Simrock",
+        "details": "separate parts: revised by W. H\u00f6ckner and H. M\u0142ynarczyk"
+      }
+    }
+  },
+  "notes": "Unpublished in Boccherini's life-time"
+}

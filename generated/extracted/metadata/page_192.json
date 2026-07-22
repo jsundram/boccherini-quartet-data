@@ -1,0 +1,75 @@
+{
+  "book_page": 191,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 172,
+      "quartet_number": 14,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Minor",
+      "opus": {
+        "number": 9,
+        "work_number": 2,
+        "year": 1770,
+        "type": "opera grande"
+      },
+      "movements": [],
+      "sources": {
+        "autograph": null,
+        "ms_copies_score": null,
+        "ms_copies_parts": null,
+        "first_edition": {
+          "date": "December, 1772",
+          "location": "Paris",
+          "publisher": "V\u00e9nier",
+          "details": "(Op. 10), no. 1 of Sei quartetti per due violini, alto e violoncello dedicati alli Signori Diletanti di Madrid da Luigi Boccherini. opera X, libro terzo di quartetti nuovamente stampati a spese di G. B. Venier. Prix 9. grav\u00e9s par Mme la Veuve Leclair."
+        },
+        "later_editions": [
+          {
+            "date": "c. 1780",
+            "location": "London",
+            "publisher": "Bremner",
+            "details": "(Op. 10), no. 1 of Sei quartetti per due violini, alto e violoncello Dedicati alli Sigri Delittanti (sic) di Madrid da Luigi Boccherini opera X libro (sic) terzo di quartetti."
+          },
+          {
+            "date": "c. 1783",
+            "location": "Amsterdam",
+            "publisher": "Hummel",
+            "details": "(Op. 7), no. 1 of Six quatuors \u00e0 deux violons, taille et basse oblig\u00e9s compostes par Luigi Boccherini. Oeuvre VII."
+          },
+          {
+            "date": "c. 1785",
+            "location": "London",
+            "publisher": "Preston",
+            "details": "(Op. 10), no. 1 of Sei quartetti per due violini, alto e violoncello Dedicati alli Sigri. Delittanti (sic) di Madrid, da Luigi Boccherini. opera X. Libro terzo di quartetti."
+          },
+          {
+            "date": "c. 1790",
+            "location": "Paris",
+            "publisher": "Boyer",
+            "details": "(Op. 10), no. 1 of Sei quartetti per due violini, alto e violoncello dedicati alli Signori diletanti di Madrid da Luigi Boccherini opera X. libro terzo di quartetti."
+          }
+        ],
+        "modern_edition": {
+          "date": "1953",
+          "location": "Milan",
+          "publisher": "Ricordi",
+          "details": "Op. 10 no. 1 (pocket score; revised by Enrico Polo)"
+        }
+      },
+      "arrangements": [
+        {
+          "type": "A",
+          "description": "Of the first movement, as part of a sonata for harpsichord (or pianoforte or harp) and violin, perhaps by Naderman, c. 1778"
+        },
+        {
+          "type": "B",
+          "description": "Of the third and fourth movements, as part of a sonata for harpsichord (or pianoforte) and violin, by 'Mlle Le Jeune', c. 1785"
+        }
+      ],
+      "notes": null
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}

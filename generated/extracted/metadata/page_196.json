@@ -1,0 +1,45 @@
+{
+  "book_page": 195,
+  "movements_for_previous_entry": [
+    {
+      "number": 1,
+      "tempo": "Adagio",
+      "incipit_number": 371,
+      "instrument": "v1",
+      "dynamics": "p"
+    },
+    {
+      "number": 2,
+      "tempo": "Allegro",
+      "incipit_number": 372,
+      "instrument": "v1",
+      "dynamics": "f"
+    },
+    {
+      "number": 3,
+      "tempo": "Minuetto",
+      "incipit_number": 373,
+      "instrument": "v1",
+      "dynamics": "Affettuoso"
+    }
+  ],
+  "entries": [],
+  "continues_from_previous": {
+    "g_number": 174,
+    "sources": {
+      "autograph": "Lucca, Istituto Musicale Boccherini, D.I.33, 'Sonata a quattro no. 11...' (separate parts)",
+      "ms_copies_score": "Lucca, Istituto Musicale Boccherini, B.I.114, 'Sonata a quattro no. 11...'",
+      "ms_copies_parts": [
+        "Berlin, Deutsche Staatsbibliothek, M.611a, 'Quartetto no. 5...'",
+        "Genoa, Liceo Musicale Paganini, SS/A/2/13",
+        "M\u00fcnster, Priesterseminarbibliothek, Santini HS. 533, 'Opera III, Concerto quinto...' (last movement entitled 'Affettuoso', without any mention of a trio)",
+        "Naples, Conservatorio. Two copies: 22.2.10, and 22.5.2, 'Quartetto no. 5...'"
+      ],
+      "first_edition": "December, 1772, Paris, V\u00e9nier: Op. 10 no. 4",
+      "later_editions": [
+        "(c. 1780), London, Bremner: Op. 10 no. 4",
+        "(c. 1785), Amsterdam, Hummel: Op. 7 no. 4"
+      ]
+    }
+  }
+}

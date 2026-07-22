@@ -1,0 +1,53 @@
+{
+  "book_page": 272,
+  "movements_for_previous_entry": [],
+  "entries": [
+    {
+      "g_number": 249,
+      "quartet_number": 91,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": 64,
+        "work_number": 2,
+        "year": 1804,
+        "type": "opera grande"
+      },
+      "movements": [
+        {
+          "number": 1,
+          "tempo": "Allegro con brio",
+          "incipit_number": 565,
+          "instrument": "v1"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress, 1804. Opera 64. Quartetto secondo (for reference number, title and comment, see No. 248)",
+        "ms_copies_parts": "Mulhouse, Bibl. Municipale, MN.4862"
+      },
+      "incomplete": true,
+      "notes": "The quarter was never completed. Unpublished."
+    },
+    {
+      "g_number": 250,
+      "quartet_number": null,
+      "instrumentation": "two violins, viola and cello",
+      "key": "D Major",
+      "opus": {
+        "number": 54,
+        "work_number": 1
+      },
+      "movements": [
+        {
+          "tempo": "Andantino\u2014Maestoso assai\u2014Allegro giusto"
+        }
+      ],
+      "sources": {
+        "autograph": "Washington, Library of Congress, M452. A2. B68. Op. 54. Opera 54"
+      },
+      "notes": "Arrangement by Boccherini himself? No reference in Boccherini's autograph catalogue. For comment as to authenticity, see below. Arrangement of the whole of the trio in D Major Op. 54 no. 1 (of 1796) (No. 113)."
+    }
+  ],
+  "continues_from_previous": null,
+  "partial_notes": null
+}
